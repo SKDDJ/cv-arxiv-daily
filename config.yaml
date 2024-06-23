@@ -26,6 +26,8 @@ keywords:
         filters: ["Parameter-Efficient Fine-Tuning", "PEFT", "Low-Rank Adaptation", "Efficient Fine-Tuning"]
     "Text-to-Image Generation":
         filters: ["Text-to-Image Generation", "Diffusion Models", "Customization", "Zero-Shot Learning", "Generative Models"]
+    "Generative Weight Space Modeling":
+        filters: ["Parameter Generation",  "Model Weights Synthesis", "Weights2Weights", "Weight Space", "Semantic Weight Edits",  "Model Parameter Synthesis", "Weight Space Modeling", "Generative Weight Space"]
     "Vision-Language Models":
         filters: ["Vision-Language Models", "Multimodal Models", "Vision-and-Language", "Multimodal Learning"]
     # "SLAM": 
