@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "PEFT":
-        filters: ["Parameter-Efficient Fine-Tuning", "PEFT", "Low-Rank Adaptation", "LoRA", "Efficient Fine-Tuning"]
+        filters: ["Parameter-Efficient Fine-Tuning", "PEFT", "Low-Rank Adaptation", "Efficient Fine-Tuning"]
     "Text-to-Image Generation":
         filters: ["Text-to-Image Generation", "Diffusion Models", "Customization", "Zero-Shot Learning", "Generative Models"]
     "Vision-Language Models":
