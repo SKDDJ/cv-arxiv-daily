@@ -4,6 +4,15 @@ layout: default
 
 ## Updated on 2024.06.23
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#peft>PEFT</a></li>
+    <li><a href=#text-to-image-generation>Text-to-Image Generation</a></li>
+    <li><a href=#vision-language-models>Vision-Language Models</a></li>
+  </ol>
+</details>
+
 ## PEFT
 
 | Publish Date | Title | Authors | PDF | Code |
