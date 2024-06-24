@@ -1,6 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 ## Updated on 2024.06.24
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -122,6 +125,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild**|Nadav Orzech et.al.|[2406.15331](http://arxiv.org/abs/2406.15331)|null|
+|**2024-06-21**|**Rethinking Remote Sensing Change Detection With A Mask View**|Xiaowen Ma et.al.|[2406.15320](http://arxiv.org/abs/2406.15320)|**[link](https://github.com/xwmaxwma/rschange)**|
+|**2024-06-21**|**You Only Acquire Sparse-channel (YOAS): A Unified Framework for Dense-channel EEG Generation**|Hongyu Chen et.al.|[2406.15269](http://arxiv.org/abs/2406.15269)|null|
+|**2024-06-21**|**Evaluating Diversity in Automatic Poetry Generation**|Yanran Chen et.al.|[2406.15267](http://arxiv.org/abs/2406.15267)|null|
+|**2024-06-21**|**Fingerprint Membership and Identity Inference Against Generative Adversarial Networks**|Saverio Cavasin et.al.|[2406.15253](http://arxiv.org/abs/2406.15253)|null|
+|**2024-06-21**|**MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**|Xuan He et.al.|[2406.15252](http://arxiv.org/abs/2406.15252)|null|
+|**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219](http://arxiv.org/abs/2406.15219)|null|
+|**2024-06-21**|**Sound and Fury, Signifying Nothing? Impact of Data Breach Disclosure Laws**|Muhammad Zia Hydari et.al.|[2406.15215](http://arxiv.org/abs/2406.15215)|null|
+|**2024-06-21**|**Injecting Bias in Text-To-Image Models via Composite-Trigger Backdoors**|Ali Naseh et.al.|[2406.15213](http://arxiv.org/abs/2406.15213)|null|
+|**2024-06-21**|**Exploring the Efficacy of Robotic Assistants with ChatGPT and Claude in Enhancing ADHD Therapy: Innovating Treatment Paradigms**|Santiago Berrezueta-Guzman et.al.|[2406.15198](http://arxiv.org/abs/2406.15198)|null|
 |**2024-06-20**|**A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models**|Xincheng Shuai et.al.|[2406.14555](http://arxiv.org/abs/2406.14555)|**[link](https://github.com/xinchengshuai/awesome-image-editing)**|
 |**2024-06-21**|**Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation**|Eyal Michaeli et.al.|[2406.14551](http://arxiv.org/abs/2406.14551)|**[link](https://github.com/eyalmichaeli/saspa-aug)**|
 |**2024-06-20**|**Consistency Models Made Easy**|Zhengyang Geng et.al.|[2406.14548](http://arxiv.org/abs/2406.14548)|**[link](https://github.com/locuslab/ect)**|
@@ -229,6 +242,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Multimodal Task Vectors Enable Many-Shot Multimodal In-Context Learning**|Brandon Huang et.al.|[2406.15334](http://arxiv.org/abs/2406.15334)|null|
+|**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852](http://arxiv.org/abs/2406.14852)|null|
+|**2024-06-20**|**Evaluating vision-capable chatbots in interpreting kinematics graphs: a comparative study of free and subscription-based models**|Giulia Polverini et.al.|[2406.14685](http://arxiv.org/abs/2406.14685)|null|
 |**2024-06-20**|**Revealing Vision-Language Integration in the Brain with Multimodal Networks**|Vighnesh Subramaniam et.al.|[2406.14481](http://arxiv.org/abs/2406.14481)|null|
 |**2024-06-20**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343](http://arxiv.org/abs/2406.14343)|null|
 |**2024-06-20**|**Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation Modelling in Large Multimodal Models**|Sherzod Hakimov et.al.|[2406.14035](http://arxiv.org/abs/2406.14035)|null|
@@ -336,6 +352,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**Elliptic analysis on collapsing gravitational instantons modelled using the Gibbons-Hawking ansatz**|Willem Adriaan Salm et.al.|[2406.15008](http://arxiv.org/abs/2406.15008)|null|
 |**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|null|
 |**2024-06-18**|**From Instance Training to Instruction Learning: Task Adapters Generation from Instructions**|Huanxuan Liao et.al.|[2406.12382](http://arxiv.org/abs/2406.12382)|**[link](https://github.com/Xnhyacinth/TAGI)**|
 |**2024-06-17**|**Kaniadakis entropy in extreme gravitational and cosmological environments: a review on the state-of-the-art and future prospects**|Giuseppe Gaetano Luciano et.al.|[2406.11373](http://arxiv.org/abs/2406.11373)|null|
