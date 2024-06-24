@@ -290,7 +290,7 @@
 |**2024-06-11**|**Cognitive Insights Across Languages: Enhancing Multimodal Interview Analysis**|David Ortiz-Perez et.al.|[2406.07542](http://arxiv.org/abs/2406.07542)|**[link](https://github.com/davidorp/taukadial)**|
 |**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506](http://arxiv.org/abs/2406.07506)|**[link](https://github.com/visual-words/visual-words)**|
 |**2024-06-11**|**Unified Modeling Enhanced Multimodal Learning for Precision Neuro-Oncology**|Huahui Yi et.al.|[2406.07078](http://arxiv.org/abs/2406.07078)|**[link](https://github.com/huahuiyi/mmdp)**|
-|**2024-06-14**|**BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**|June-Woo Kim et.al.|[2406.06786](http://arxiv.org/abs/2406.06786)|null|
+|**2024-06-14**|**BTS: Bridging Text and Sound Modalities for Metadata-Aided Respiratory Sound Classification**|June-Woo Kim et.al.|[2406.06786](http://arxiv.org/abs/2406.06786)|**[link](https://github.com/kaen2891/bts)**|
 |**2024-06-10**|**Vript: A Video Is Worth Thousands of Words**|Dongjie Yang et.al.|[2406.06040](http://arxiv.org/abs/2406.06040)|**[link](https://github.com/mutonix/vript)**|
 |**2024-06-10**|**FLEUR: An Explainable Reference-Free Evaluation Metric for Image Captioning Using a Large Multimodal Model**|Yebin Lee et.al.|[2406.06004](http://arxiv.org/abs/2406.06004)|**[link](https://github.com/yebin46/fleur)**|
 |**2024-06-10**|**CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark**|David Romero et.al.|[2406.05967](http://arxiv.org/abs/2406.05967)|null|
