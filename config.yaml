@@ -4,8 +4,8 @@ user_name: "SKDDJ"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
-show_badge: True
-max_results: 10
+show_badge: False
+max_results: 15
 
 publish_readme: True
 publish_gitpage: True
