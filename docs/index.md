@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -246,7 +246,7 @@ layout: default
 |**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852](http://arxiv.org/abs/2406.14852)|null|
 |**2024-06-20**|**Evaluating vision-capable chatbots in interpreting kinematics graphs: a comparative study of free and subscription-based models**|Giulia Polverini et.al.|[2406.14685](http://arxiv.org/abs/2406.14685)|null|
 |**2024-06-20**|**Revealing Vision-Language Integration in the Brain with Multimodal Networks**|Vighnesh Subramaniam et.al.|[2406.14481](http://arxiv.org/abs/2406.14481)|null|
-|**2024-06-20**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343](http://arxiv.org/abs/2406.14343)|null|
+|**2024-06-23**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343](http://arxiv.org/abs/2406.14343)|null|
 |**2024-06-20**|**Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation Modelling in Large Multimodal Models**|Sherzod Hakimov et.al.|[2406.14035](http://arxiv.org/abs/2406.14035)|null|
 |**2024-06-20**|**Knowledge-driven Subspace Fusion and Gradient Coordination for Multi-modal Learning**|Yupei Zhang et.al.|[2406.13979](http://arxiv.org/abs/2406.13979)|null|
 |**2024-06-20**|**PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents**|Junjie Wang et.al.|[2406.13923](http://arxiv.org/abs/2406.13923)|null|
@@ -358,7 +358,7 @@ layout: default
 |**2024-06-14**|**Towards Scalable and Versatile Weight Space Learning**|Konstantin Schürholt et.al.|[2406.09997](http://arxiv.org/abs/2406.09997)|**[link](https://github.com/hsg-aiml/sane)**|
 |**2024-06-13**|**Interpreting the Weight Space of Customized Diffusion Models**|Amil Dravid et.al.|[2406.09413](http://arxiv.org/abs/2406.09413)|**[link](https://github.com/snap-research/weights2weights)**|
 |**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431](http://arxiv.org/abs/2406.08431)|null|
-|**2024-06-10**|**Cartan monopoles**|Andrei Smilga et.al.|[2406.06042](http://arxiv.org/abs/2406.06042)|null|
+|**2024-06-24**|**Cartan monopoles**|Andrei Smilga et.al.|[2406.06042](http://arxiv.org/abs/2406.06042)|null|
 |**2024-06-08**|**Regularized Training with Generated Datasets for Name-Only Transfer of Vision-Language Models**|Minho Park et.al.|[2406.05432](http://arxiv.org/abs/2406.05432)|null|
 |**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317](http://arxiv.org/abs/2406.04317)|null|
 |**2024-06-06**|**A characterization of $(μ,ν)$ -dichotomies via admissibility**|Lucas Backes et.al.|[2406.04126](http://arxiv.org/abs/2406.04126)|null|
