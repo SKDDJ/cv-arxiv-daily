@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -119,7 +119,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|null|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -246,7 +246,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -259,7 +259,7 @@
 |**2024-06-21**|**Is A Picture Worth A Thousand Words? Delving Into Spatial Reasoning for Vision Language Models**|Jiayu Wang et.al.|[2406.14852](http://arxiv.org/abs/2406.14852)|null|
 |**2024-06-20**|**Evaluating vision-capable chatbots in interpreting kinematics graphs: a comparative study of free and subscription-based models**|Giulia Polverini et.al.|[2406.14685](http://arxiv.org/abs/2406.14685)|null|
 |**2024-06-20**|**Revealing Vision-Language Integration in the Brain with Multimodal Networks**|Vighnesh Subramaniam et.al.|[2406.14481](http://arxiv.org/abs/2406.14481)|null|
-|**2024-06-23**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343](http://arxiv.org/abs/2406.14343)|null|
+|**2024-06-25**|**iWISDM: Assessing instruction following in multimodal models at scale**|Xiaoxuan Lei et.al.|[2406.14343](http://arxiv.org/abs/2406.14343)|null|
 |**2024-06-20**|**Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation Modelling in Large Multimodal Models**|Sherzod Hakimov et.al.|[2406.14035](http://arxiv.org/abs/2406.14035)|null|
 |**2024-06-20**|**Knowledge-driven Subspace Fusion and Gradient Coordination for Multi-modal Learning**|Yupei Zhang et.al.|[2406.13979](http://arxiv.org/abs/2406.13979)|null|
 |**2024-06-20**|**PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents**|Junjie Wang et.al.|[2406.13923](http://arxiv.org/abs/2406.13923)|null|
@@ -359,7 +359,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|null|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -369,7 +369,7 @@
 |**2024-06-24**|**Improving robustness to corruptions with multiplicative weight perturbations**|Trung Trinh et.al.|[2406.16540](http://arxiv.org/abs/2406.16540)|null|
 |**2024-06-21**|**Determination of certain mod $p$ Galois representations using local constancy**|Abhik Ganguli et.al.|[2406.15600](http://arxiv.org/abs/2406.15600)|null|
 |**2024-06-21**|**Elliptic analysis on collapsing gravitational instantons modelled using the Gibbons-Hawking ansatz**|Willem Adriaan Salm et.al.|[2406.15008](http://arxiv.org/abs/2406.15008)|null|
-|**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|null|
+|**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|**[link](https://github.com/huzhaozhe00/Median-ensemble-AT)**|
 |**2024-06-18**|**From Instance Training to Instruction Learning: Task Adapters Generation from Instructions**|Huanxuan Liao et.al.|[2406.12382](http://arxiv.org/abs/2406.12382)|**[link](https://github.com/Xnhyacinth/TAGI)**|
 |**2024-06-17**|**Kaniadakis entropy in extreme gravitational and cosmological environments: a review on the state-of-the-art and future prospects**|Giuseppe Gaetano Luciano et.al.|[2406.11373](http://arxiv.org/abs/2406.11373)|null|
 |**2024-06-16**|**Analysis and approximation of elliptic problems with Uhlenbeck structure in convex polytopes**|Tadele Mengesha et.al.|[2406.10762](http://arxiv.org/abs/2406.10762)|null|
@@ -470,7 +470,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
