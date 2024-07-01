@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -120,7 +120,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|null|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -277,14 +277,14 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## Vision-Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-27**|**OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding**|Tao Zhang et.al.|[2406.19389](http://arxiv.org/abs/2406.19389)|null|
-|**2024-06-27**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
+|**2024-06-28**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150](http://arxiv.org/abs/2406.19150)|null|
 |**2024-06-27**|**DocKylin: A Large Multimodal Model for Visual Document Understanding with Efficient Visual Slimming**|Jiaxin Zhang et.al.|[2406.19101](http://arxiv.org/abs/2406.19101)|null|
 |**2024-06-27**|**Fairness and Bias in Multimodal AI: A Survey**|Tosin Adewumi et.al.|[2406.19097](http://arxiv.org/abs/2406.19097)|null|
@@ -292,7 +292,7 @@
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
 |**2024-06-26**|**S3: A Simple Strong Sample-effective Multimodal Dialog System**|Elisei Rykov et.al.|[2406.18305](http://arxiv.org/abs/2406.18305)|**[link](https://github.com/s-nlp/s3)**|
 |**2024-06-26**|**EHR-Based Mobile and Web Platform for Chronic Disease Risk Prediction Using Large Language Multimodal Models**|Chun-Chieh Liao et.al.|[2406.18087](http://arxiv.org/abs/2406.18087)|null|
-|**2024-06-26**|**Speech2UnifiedExpressions: Synchronous Synthesis of Co-Speech Affective Face and Body Expressions from Affordable Inputs**|Uttaran Bhattacharya et.al.|[2406.18068](http://arxiv.org/abs/2406.18068)|**[link](https://github.com/UttaranB127/speech2unified_expressions)**|
+|**2024-06-26**|**Speech2UnifiedExpressions: Synchronous Synthesis of Co-Speech Affective Face and Body Expressions from Affordable Inputs**|Uttaran Bhattacharya et.al.|[2406.18068](http://arxiv.org/abs/2406.18068)|null|
 |**2024-06-25**|**Human-centered In-building Embodied Delivery Benchmark**|Zhuoqun Xu et.al.|[2406.17898](http://arxiv.org/abs/2406.17898)|**[link](https://github.com/prs-organization/prs-delivery)**|
 |**2024-06-25**|**InFiConD: Interactive No-code Fine-tuning with Concept-based Knowledge Distillation**|Jinbin Huang et.al.|[2406.17838](http://arxiv.org/abs/2406.17838)|null|
 |**2024-06-25**|**Data curation via joint example selection further accelerates multimodal learning**|Talfan Evans et.al.|[2406.17711](http://arxiv.org/abs/2406.17711)|null|
@@ -405,7 +405,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|null|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -516,7 +516,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
