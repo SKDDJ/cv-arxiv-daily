@@ -136,7 +136,7 @@ layout: default
 |**2024-06-28**|**Electrostatics-based particle sampling and approximate inference**|Yongchao Huang et.al.|[2406.20044](http://arxiv.org/abs/2406.20044)|**[link](https://github.com/yongchaohuang/eparvi)**|
 |**2024-06-28**|**HAITCH: A Framework for Distortion and Motion Correction in Fetal Multi-Shell Diffusion-Weighted MRI**|Haykel Snoussi et.al.|[2406.20042](http://arxiv.org/abs/2406.20042)|null|
 |**2024-06-28**|**Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs**|Sangwon Jeong et.al.|[2406.19987](http://arxiv.org/abs/2406.19987)|null|
-|**2024-06-28**|**Text2Robot: Evolutionary Robot Design from Text Descriptions**|Ryan P. Ringel et.al.|[2406.19963](http://arxiv.org/abs/2406.19963)|null|
+|**2024-07-01**|**Text2Robot: Evolutionary Robot Design from Text Descriptions**|Ryan P. Ringel et.al.|[2406.19963](http://arxiv.org/abs/2406.19963)|null|
 |**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|null|
 |**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393](http://arxiv.org/abs/2406.19393)|**[link](https://github.com/vico-uoe/looking3d)**|
 |**2024-06-27**|**Taming Data and Transformers for Audio Generation**|Moayed Haji-Ali et.al.|[2406.19388](http://arxiv.org/abs/2406.19388)|null|
