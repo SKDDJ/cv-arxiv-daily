@@ -22,6 +22,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**FineCLIPER: Multi-modal Fine-grained CLIP for Dynamic Facial Expression Recognition with AdaptERs**|Haodong Chen et.al.|[2407.02157](http://arxiv.org/abs/2407.02157)|null|
+|**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953](http://arxiv.org/abs/2407.01953)|null|
+|**2024-07-02**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|null|
+|**2024-07-01**|**A Fingerprint for Large Language Models**|Zhiguang Yang et.al.|[2407.01235](http://arxiv.org/abs/2407.01235)|null|
+|**2024-07-02**|**Embedded Prompt Tuning: Towards Enhanced Calibration of Pretrained Models for Medical Images**|Wenqiang Zu et.al.|[2407.01003](http://arxiv.org/abs/2407.01003)|null|
 |**2024-06-25**|**Structured Unrestricted-Rank Matrices for Parameter Efficient Fine-tuning**|Arijit Sehanobish et.al.|[2406.17740](http://arxiv.org/abs/2406.17740)|null|
 |**2024-06-19**|**Parameter Training Efficiency Aware Resource Allocation for AIGC in Space-Air-Ground Integrated Networks**|Liangxin Qian et.al.|[2406.13602](http://arxiv.org/abs/2406.13602)|null|
 |**2024-06-19**|**Sparse High Rank Adapters**|Kartikeya Bhardwaj et.al.|[2406.13175](http://arxiv.org/abs/2406.13175)|null|
@@ -128,6 +133,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Magic Insert: Style-Aware Drag-and-Drop**|Nataniel Ruiz et.al.|[2407.02489](http://arxiv.org/abs/2407.02489)|null|
+|**2024-07-02**|**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models**|Fei Shen et.al.|[2407.02482](http://arxiv.org/abs/2407.02482)|null|
+|**2024-07-02**|**A Pattern Language for Machine Learning Tasks**|Benjamin Rodatz et.al.|[2407.02424](http://arxiv.org/abs/2407.02424)|null|
+|**2024-07-02**|**GCF: Graph Convolutional Networks for Facial Expression Recognition**|Hozaifa Kassab et.al.|[2407.02361](http://arxiv.org/abs/2407.02361)|null|
+|**2024-07-02**|**MORPHEUS: Modeling Role from Personalized Dialogue History by Exploring and Utilizing Latent Space**|Yihong Tang et.al.|[2407.02345](http://arxiv.org/abs/2407.02345)|null|
+|**2024-07-02**|**Choice-based time slot management in attended home delivery**|Dorsa Abdolhamidi et.al.|[2407.02339](http://arxiv.org/abs/2407.02339)|null|
+|**2024-07-02**|**Mining Constraints from Reference Process Models for Detecting Best-Practice Violations in Event Log**|Adrian Rebmann et.al.|[2407.02336](http://arxiv.org/abs/2407.02336)|null|
+|**2024-07-02**|**A tactical time slot management problem under mixed logit demand**|Dorsa Abdolhamidi et.al.|[2407.02308](http://arxiv.org/abs/2407.02308)|null|
+|**2024-07-02**|**Renard: A Modular Pipeline for Extracting Character Networks from Narrative Texts**|Arthur Amalvy et.al.|[2407.02284](http://arxiv.org/abs/2407.02284)|null|
+|**2024-07-02**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
 |**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085](http://arxiv.org/abs/2406.20085)|null|
 |**2024-06-28**|**The hybrid Josephson rhombus: A superconducting element with tailored current-phase relation**|L. Banszerus et.al.|[2406.20082](http://arxiv.org/abs/2406.20082)|null|
 |**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077](http://arxiv.org/abs/2406.20077)|null|
@@ -293,6 +308,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
+|**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233](http://arxiv.org/abs/2407.02233)|null|
+|**2024-07-02**|**Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models**|Anjishnu Mukherjee et.al.|[2407.02067](http://arxiv.org/abs/2407.02067)|**[link](https://github.com/iamshnoo/crossroads)**|
+|**2024-07-01**|**Empathic Grounding: Explorations using Multimodal Interaction and Large Language Models with Conversational Agents**|Mehdi Arjmand et.al.|[2407.01824](http://arxiv.org/abs/2407.01824)|null|
+|**2024-07-01**|**We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?**|Runqi Qiao et.al.|[2407.01284](http://arxiv.org/abs/2407.01284)|**[link](https://github.com/we-math/we-math)**|
+|**2024-07-01**|**Unaligning Everything: Or Aligning Any Text to Any Image in Multimodal Models**|Shaeke Salman et.al.|[2407.01157](http://arxiv.org/abs/2407.01157)|null|
+|**2024-06-29**|**AI-powered multimodal modeling of personalized hemodynamics in aortic stenosis**|Caglar Ozturk et.al.|[2407.00535](http://arxiv.org/abs/2407.00535)|null|
+|**2024-06-29**|**MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation**|Jinsheng Huang et.al.|[2407.00468](http://arxiv.org/abs/2407.00468)|**[link](https://github.com/chenllliang/mmevalpro)**|
+|**2024-06-29**|**How to Train Your Fact Verifier: Knowledge Transfer with Multimodal Open Models**|Jaeyoung Lee et.al.|[2407.00369](http://arxiv.org/abs/2407.00369)|null|
+|**2024-06-28**|**PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**|Yuxuan Sun et.al.|[2407.00203](http://arxiv.org/abs/2407.00203)|null|
 |**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
 |**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|null|
 |**2024-06-28**|**MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis**|Jun-Yan He et.al.|[2406.19859](http://arxiv.org/abs/2406.19859)|null|
@@ -425,6 +450,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**A quantum deformation of the ${\mathcal N}=2$ superconformal algebra**|H. Awata et.al.|[2407.00901](http://arxiv.org/abs/2407.00901)|null|
 |**2024-06-24**|**WARP: On the Benefits of Weight Averaged Rewarded Policies**|Alexandre Ramé et.al.|[2406.16768](http://arxiv.org/abs/2406.16768)|null|
 |**2024-06-24**|**Improving robustness to corruptions with multiplicative weight perturbations**|Trung Trinh et.al.|[2406.16540](http://arxiv.org/abs/2406.16540)|null|
 |**2024-06-21**|**Determination of certain mod $p$ Galois representations using local constancy**|Abhik Ganguli et.al.|[2406.15600](http://arxiv.org/abs/2406.15600)|null|
