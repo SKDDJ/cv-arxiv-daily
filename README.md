@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -125,7 +125,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|null|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -140,7 +140,7 @@
 |**2024-07-02**|**Mining Constraints from Reference Process Models for Detecting Best-Practice Violations in Event Log**|Adrian Rebmann et.al.|[2407.02336](http://arxiv.org/abs/2407.02336)|null|
 |**2024-07-02**|**A tactical time slot management problem under mixed logit demand**|Dorsa Abdolhamidi et.al.|[2407.02308](http://arxiv.org/abs/2407.02308)|null|
 |**2024-07-02**|**Renard: A Modular Pipeline for Extracting Character Networks from Narrative Texts**|Arthur Amalvy et.al.|[2407.02284](http://arxiv.org/abs/2407.02284)|null|
-|**2024-07-02**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
+|**2024-07-03**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
 |**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085](http://arxiv.org/abs/2406.20085)|null|
 |**2024-06-28**|**The hybrid Josephson rhombus: A superconducting element with tailored current-phase relation**|L. Banszerus et.al.|[2406.20082](http://arxiv.org/abs/2406.20082)|null|
 |**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077](http://arxiv.org/abs/2406.20077)|null|
@@ -302,7 +302,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -311,7 +311,7 @@
 |**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
 |**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233](http://arxiv.org/abs/2407.02233)|null|
 |**2024-07-02**|**Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models**|Anjishnu Mukherjee et.al.|[2407.02067](http://arxiv.org/abs/2407.02067)|**[link](https://github.com/iamshnoo/crossroads)**|
-|**2024-07-01**|**Empathic Grounding: Explorations using Multimodal Interaction and Large Language Models with Conversational Agents**|Mehdi Arjmand et.al.|[2407.01824](http://arxiv.org/abs/2407.01824)|null|
+|**2024-07-01**|**Empathic Grounding: Explorations using Multimodal Interaction and Large Language Models with Conversational Agents**|Mehdi Arjmand et.al.|[2407.01824](http://arxiv.org/abs/2407.01824)|**[link](https://github.com/arminarj/empathic-grounding)**|
 |**2024-07-01**|**We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?**|Runqi Qiao et.al.|[2407.01284](http://arxiv.org/abs/2407.01284)|**[link](https://github.com/we-math/we-math)**|
 |**2024-07-01**|**Unaligning Everything: Or Aligning Any Text to Any Image in Multimodal Models**|Shaeke Salman et.al.|[2407.01157](http://arxiv.org/abs/2407.01157)|null|
 |**2024-06-29**|**AI-powered multimodal modeling of personalized hemodynamics in aortic stenosis**|Caglar Ozturk et.al.|[2407.00535](http://arxiv.org/abs/2407.00535)|null|
@@ -446,7 +446,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|null|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -558,7 +558,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
