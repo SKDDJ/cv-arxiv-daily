@@ -26,7 +26,7 @@ layout: default
 |**2024-07-03**|**Exploring the Capabilities of LLMs for Code Change Related Tasks**|Lishui Fan et.al.|[2407.02824](http://arxiv.org/abs/2407.02824)|null|
 |**2024-07-02**|**FineCLIPER: Multi-modal Fine-grained CLIP for Dynamic Facial Expression Recognition with AdaptERs**|Haodong Chen et.al.|[2407.02157](http://arxiv.org/abs/2407.02157)|null|
 |**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953](http://arxiv.org/abs/2407.01953)|null|
-|**2024-07-05**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|null|
+|**2024-07-05**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|**[link](https://github.com/deepseek-ai/esft)**|
 |**2024-07-01**|**A Fingerprint for Large Language Models**|Zhiguang Yang et.al.|[2407.01235](http://arxiv.org/abs/2407.01235)|null|
 |**2024-07-02**|**Embedded Prompt Tuning: Towards Enhanced Calibration of Pretrained Models for Medical Images**|Wenqiang Zu et.al.|[2407.01003](http://arxiv.org/abs/2407.01003)|null|
 |**2024-06-25**|**Structured Unrestricted-Rank Matrices for Parameter Efficient Fine-tuning**|Arijit Sehanobish et.al.|[2406.17740](http://arxiv.org/abs/2406.17740)|null|
@@ -179,13 +179,13 @@ layout: default
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
 |**2024-06-26**|**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration**|Kang Liao et.al.|[2406.18516](http://arxiv.org/abs/2406.18516)|**[link](https://github.com/kangliao929/noise-da)**|
 |**2024-06-26**|**DiffuseHigh: Training-free Progressive High-Resolution Image Synthesis through Structure Guidance**|Younghyun Kim et.al.|[2406.18459](http://arxiv.org/abs/2406.18459)|null|
-|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449](http://arxiv.org/abs/2406.18449)|null|
+|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449](http://arxiv.org/abs/2406.18449)|**[link](https://github.com/xingwei-warwick/callmsae)**|
 |**2024-06-26**|**Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling**|Abril Corona-Figueroa et.al.|[2406.18422](http://arxiv.org/abs/2406.18422)|**[link](https://github.com/abrilcf/3d-3d_repeat-concatenate)**|
 |**2024-06-26**|**Towards diffusion models for large-scale sea-ice modelling**|Tobias Sebastian Finn et.al.|[2406.18417](http://arxiv.org/abs/2406.18417)|null|
 |**2024-06-27**|**Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process**|Tianyu Lin et.al.|[2406.18361](http://arxiv.org/abs/2406.18361)|**[link](https://github.com/lin-tianyu/stable-diffusion-seg)**|
 |**2024-06-26**|**Molecular Diffusion Models with Virtual Receptors**|Matan Halfon et.al.|[2406.18330](http://arxiv.org/abs/2406.18330)|null|
 |**2024-06-27**|**Weak Reward Model Transforms Generative Models into Robust Causal Event Extraction Systems**|Italo Luis da Silva et.al.|[2406.18245](http://arxiv.org/abs/2406.18245)|**[link](https://github.com/oyarsa/event_extraction)**|
-|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|null|
+|**2024-06-25**|**DiffusionPDE: Generative PDE-Solving Under Partial Observation**|Jiahe Huang et.al.|[2406.17763](http://arxiv.org/abs/2406.17763)|**[link](https://github.com/jhhuangchloe/DiffusionPDE)**|
 |**2024-06-25**|**MotionBooth: Motion-Aware Customized Text-to-Video Generation**|Jianzong Wu et.al.|[2406.17758](http://arxiv.org/abs/2406.17758)|null|
 |**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755](http://arxiv.org/abs/2406.17755)|null|
 |**2024-06-25**|**Extensions of Panjer's recursion for mixed compound distributions**|Spyridon M. Tzaninis et.al.|[2406.17726](http://arxiv.org/abs/2406.17726)|null|
@@ -226,7 +226,7 @@ layout: default
 |**2024-06-20**|**CodeRAG-Bench: Can Retrieval Augment Code Generation?**|Zora Zhiruo Wang et.al.|[2406.14497](http://arxiv.org/abs/2406.14497)|**[link](https://github.com/code-rag-bench/code-rag-bench)**|
 |**2024-06-20**|**SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset**|Josef Dai et.al.|[2406.14477](http://arxiv.org/abs/2406.14477)|**[link](https://github.com/pku-alignment/safe-sora)**|
 |**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
-|**2024-06-20**|**Active Diffusion Subsampling**|Oisin Nolan et.al.|[2406.14388](http://arxiv.org/abs/2406.14388)|null|
+|**2024-06-20**|**Active Diffusion Subsampling**|Oisin Nolan et.al.|[2406.14388](http://arxiv.org/abs/2406.14388)|**[link](https://github.com/active-diffusion-subsampling/ads)**|
 |**2024-06-20**|**Multicoloured Hardcore Model: Fast Mixing and Queueing**|Sam Olesker-Taylor et.al.|[2406.14376](http://arxiv.org/abs/2406.14376)|null|
 |**2024-06-20**|**FairX: A comprehensive benchmarking tool for model analysis using fairness, utility, and explainability**|Md Fahim Sikder et.al.|[2406.14281](http://arxiv.org/abs/2406.14281)|**[link](https://github.com/fahim-sikder/fairx)**|
 |**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189](http://arxiv.org/abs/2406.14189)|**[link](https://github.com/arklyg/sentree)**|
@@ -330,7 +330,7 @@ layout: default
 |**2024-06-29**|**MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation**|Jinsheng Huang et.al.|[2407.00468](http://arxiv.org/abs/2407.00468)|**[link](https://github.com/chenllliang/mmevalpro)**|
 |**2024-06-29**|**How to Train Your Fact Verifier: Knowledge Transfer with Multimodal Open Models**|Jaeyoung Lee et.al.|[2407.00369](http://arxiv.org/abs/2407.00369)|null|
 |**2024-06-28**|**PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**|Yuxuan Sun et.al.|[2407.00203](http://arxiv.org/abs/2407.00203)|null|
-|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
+|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|**[link](https://github.com/hustvl/evf-sam)**|
 |**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|null|
 |**2024-06-28**|**MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis**|Jun-Yan He et.al.|[2406.19859](http://arxiv.org/abs/2406.19859)|null|
 |**2024-06-28**|**MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment**|Jihao Liu et.al.|[2406.19736](http://arxiv.org/abs/2406.19736)|**[link](https://github.com/jihaonew/mm-instruct)**|
