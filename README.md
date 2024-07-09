@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -130,7 +130,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|null|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -138,10 +138,10 @@
 |---|---|---|---|---|
 |**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689](http://arxiv.org/abs/2407.04689)|**[link](https://github.com/yxKryptonite/RAM_code)**|
 |**2024-07-05**|**Thermal and mechanical study of a parametrised cryostat model for optical characterisation of upcoming CMB experiments**|Thomas J. L. J. Gascard et.al.|[2407.04613](http://arxiv.org/abs/2407.04613)|null|
-|**2024-07-05**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604](http://arxiv.org/abs/2407.04604)|**[link](https://github.com/kamwoh/partcraft)**|
+|**2024-07-08**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604](http://arxiv.org/abs/2407.04604)|**[link](https://github.com/kamwoh/partcraft)**|
 |**2024-07-05**|**Structural Constraint Integration in Generative Model for Discovery of Quantum Material Candidates**|Ryotaro Okabe et.al.|[2407.04557](http://arxiv.org/abs/2407.04557)|null|
 |**2024-07-05**|**Unified continuous-time q-learning for mean-field game and mean-field control problems**|Xiaoli Wei et.al.|[2407.04521](http://arxiv.org/abs/2407.04521)|null|
-|**2024-07-05**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequlibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
+|**2024-07-08**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
 |**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
 |**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485](http://arxiv.org/abs/2407.04485)|null|
@@ -327,7 +327,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -480,7 +480,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|null|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -593,7 +593,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240708>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240709>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -140,10 +140,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689](http://arxiv.org/abs/2407.04689)|**[link](https://github.com/yxKryptonite/RAM_code)**|
 |**2024-07-05**|**Thermal and mechanical study of a parametrised cryostat model for optical characterisation of upcoming CMB experiments**|Thomas J. L. J. Gascard et.al.|[2407.04613](http://arxiv.org/abs/2407.04613)|null|
-|**2024-07-05**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604](http://arxiv.org/abs/2407.04604)|**[link](https://github.com/kamwoh/partcraft)**|
+|**2024-07-08**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604](http://arxiv.org/abs/2407.04604)|**[link](https://github.com/kamwoh/partcraft)**|
 |**2024-07-05**|**Structural Constraint Integration in Generative Model for Discovery of Quantum Material Candidates**|Ryotaro Okabe et.al.|[2407.04557](http://arxiv.org/abs/2407.04557)|null|
 |**2024-07-05**|**Unified continuous-time q-learning for mean-field game and mean-field control problems**|Xiaoli Wei et.al.|[2407.04521](http://arxiv.org/abs/2407.04521)|null|
-|**2024-07-05**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequlibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
+|**2024-07-08**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
 |**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
 |**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485](http://arxiv.org/abs/2407.04485)|null|
