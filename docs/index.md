@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-07**|**See Further for Parameter Efficient Fine-tuning by Standing on the Shoulders of Decomposition**|Chongjie Si et.al.|[2407.05417](http://arxiv.org/abs/2407.05417)|**[link](https://github.com/Chongjie-Si/Subspace-Tuning)**|
+|**2024-07-06**|**LoRA-GA: Low-Rank Adaptation with Gradient Approximation**|Shaowen Wang et.al.|[2407.05000](http://arxiv.org/abs/2407.05000)|**[link](https://github.com/outsider565/lora-ga)**|
 |**2024-07-05**|**GPT vs RETRO: Exploring the Intersection of Retrieval and Parameter-Efficient Fine-Tuning**|Aleksander Ficek et.al.|[2407.04528](http://arxiv.org/abs/2407.04528)|null|
 |**2024-07-04**|**Deep Content Understanding Toward Entity and Aspect Target Sentiment Analysis on Foundation Models**|Vorakit Vorakitphan et.al.|[2407.04050](http://arxiv.org/abs/2407.04050)|null|
 |**2024-07-04**|**ASteISR: Adapting Single Image Super-resolution Pre-trained Model for Efficient Stereo Image Super-resolution**|Yuanbo Zhou et.al.|[2407.03598](http://arxiv.org/abs/2407.03598)|null|
@@ -138,6 +140,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images**|Zhangyang Qi et.al.|[2407.06191](http://arxiv.org/abs/2407.06191)|null|
+|**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
+|**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174](http://arxiv.org/abs/2407.06174)|null|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
+|**2024-07-08**|**Structured Generations: Using Hierarchical Clusters to guide Diffusion Models**|Jorge da Silva Goncalves et.al.|[2407.06124](http://arxiv.org/abs/2407.06124)|null|
+|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109](http://arxiv.org/abs/2407.06109)|**[link](https://github.com/labshuhanggu/perldiff)**|
+|**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
+|**2024-07-08**|**Assessing Cardiomegaly in Dogs Using a Simple CNN Model**|Nikhil Deekonda et.al.|[2407.06092](http://arxiv.org/abs/2407.06092)|null|
+|**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079](http://arxiv.org/abs/2407.06079)|null|
 |**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689](http://arxiv.org/abs/2407.04689)|**[link](https://github.com/yxKryptonite/RAM_code)**|
 |**2024-07-05**|**Thermal and mechanical study of a parametrised cryostat model for optical characterisation of upcoming CMB experiments**|Thomas J. L. J. Gascard et.al.|[2407.04613](http://arxiv.org/abs/2407.04613)|null|
 |**2024-07-08**|**PartCraft: Crafting Creative Objects by Parts**|Kam Woh Ng et.al.|[2407.04604](http://arxiv.org/abs/2407.04604)|**[link](https://github.com/kamwoh/partcraft)**|
@@ -333,6 +345,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
+|**2024-07-07**|**Multimodal Language Models for Domain-Specific Procedural Video Summarization**|Nafisa Hussain et.al.|[2407.05419](http://arxiv.org/abs/2407.05419)|null|
+|**2024-07-07**|**Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition**|Zirun Guo et.al.|[2407.05374](http://arxiv.org/abs/2407.05374)|null|
+|**2024-07-06**|**Enhance the Robustness of Text-Centric Multimodal Alignments**|Ting-Yu Yen et.al.|[2407.05036](http://arxiv.org/abs/2407.05036)|null|
+|**2024-07-06**|**Completed Feature Disentanglement Learning for Multimodal MRIs Analysis**|Tianling Liu et.al.|[2407.04916](http://arxiv.org/abs/2407.04916)|null|
+|**2024-07-06**|**MMSci: A Multimodal Multi-Discipline Dataset for PhD-Level Scientific Comprehension**|Zekun Li et.al.|[2407.04903](http://arxiv.org/abs/2407.04903)|null|
 |**2024-07-05**|**VCoME: Verbal Video Composition with Multimodal Editing Effects**|Weibo Gong et.al.|[2407.04697](http://arxiv.org/abs/2407.04697)|null|
 |**2024-07-05**|**Multimodal Classification via Modal-Aware Interactive Enhancement**|Qing-Yuan Jiang et.al.|[2407.04587](http://arxiv.org/abs/2407.04587)|null|
 |**2024-07-05**|**Robust Multimodal Learning via Representation Decoupling**|Shicai Wei et.al.|[2407.04458](http://arxiv.org/abs/2407.04458)|null|
