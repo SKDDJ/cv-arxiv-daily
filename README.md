@@ -33,7 +33,7 @@
 |**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953](http://arxiv.org/abs/2407.01953)|null|
 |**2024-07-05**|**Let the Expert Stick to His Last: Expert-Specialized Fine-Tuning for Sparse Architectural Large Language Models**|Zihan Wang et.al.|[2407.01906](http://arxiv.org/abs/2407.01906)|**[link](https://github.com/deepseek-ai/esft)**|
 |**2024-07-01**|**A Fingerprint for Large Language Models**|Zhiguang Yang et.al.|[2407.01235](http://arxiv.org/abs/2407.01235)|null|
-|**2024-07-02**|**Embedded Prompt Tuning: Towards Enhanced Calibration of Pretrained Models for Medical Images**|Wenqiang Zu et.al.|[2407.01003](http://arxiv.org/abs/2407.01003)|null|
+|**2024-07-02**|**Embedded Prompt Tuning: Towards Enhanced Calibration of Pretrained Models for Medical Images**|Wenqiang Zu et.al.|[2407.01003](http://arxiv.org/abs/2407.01003)|**[link](https://github.com/zuwenqiang/ept)**|
 |**2024-06-25**|**Structured Unrestricted-Rank Matrices for Parameter Efficient Fine-tuning**|Arijit Sehanobish et.al.|[2406.17740](http://arxiv.org/abs/2406.17740)|null|
 |**2024-06-19**|**Parameter Training Efficiency Aware Resource Allocation for AIGC in Space-Air-Ground Integrated Networks**|Liangxin Qian et.al.|[2406.13602](http://arxiv.org/abs/2406.13602)|null|
 |**2024-06-19**|**Sparse High Rank Adapters**|Kartikeya Bhardwaj et.al.|[2406.13175](http://arxiv.org/abs/2406.13175)|null|
@@ -132,7 +132,7 @@
 |**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808](http://arxiv.org/abs/2403.11808)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-tuning)**|
 |**2024-03-18**|**Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model**|Haoyun Xu et.al.|[2403.11621](http://arxiv.org/abs/2403.11621)|null|
 |**2024-03-19**|**JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning**|Anique Tahir et.al.|[2403.11366](http://arxiv.org/abs/2403.11366)|**[link](https://github.com/aniquetahir/JORA)**|
-|**2024-03-14**|**Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**|Tingyu Qu et.al.|[2403.09377](http://arxiv.org/abs/2403.09377)|null|
+|**2024-03-14**|**Introducing Routing Functions to Vision-Language Parameter-Efficient Fine-Tuning with Low-Rank Bottlenecks**|Tingyu Qu et.al.|[2403.09377](http://arxiv.org/abs/2403.09377)|**[link](https://github.com/tingyu215/routing_vlpeft)**|
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|null|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
@@ -164,8 +164,8 @@
 |**2024-07-11**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614](http://arxiv.org/abs/2407.07614)|**[link](https://github.com/fusiming3/mars)**|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**Latent Space Imaging**|Matheus Souza et.al.|[2407.07052](http://arxiv.org/abs/2407.07052)|null|
-|**2024-07-09**|**Generative models of astrophysical fields with scattering transforms on the sphere**|Louise Mousset et.al.|[2407.07007](http://arxiv.org/abs/2407.07007)|null|
-|**2024-07-10**|**PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods**|Yiying Wang et.al.|[2407.06985](http://arxiv.org/abs/2407.06985)|null|
+|**2024-07-09**|**Generative models of astrophysical fields with scattering transforms on the sphere**|Louise Mousset et.al.|[2407.07007](http://arxiv.org/abs/2407.07007)|**[link](https://github.com/astro-informatics/s2scat)**|
+|**2024-07-10**|**PEER: Expertizing Domain-Specific Tasks with a Multi-Agent Framework and Tuning Methods**|Yiying Wang et.al.|[2407.06985](http://arxiv.org/abs/2407.06985)|**[link](https://github.com/alipay/agentuniverse)**|
 |**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
 |**2024-07-09**|**RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models**|Bowen Zhang et.al.|[2407.06938](http://arxiv.org/abs/2407.06938)|null|
 |**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937](http://arxiv.org/abs/2407.06937)|**[link](https://github.com/enderfga/humanrefiner)**|
@@ -177,7 +177,7 @@
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 |**2024-07-08**|**The Tug-of-War Between Deepfake Generation and Detection**|Hannah Lee et.al.|[2407.06174](http://arxiv.org/abs/2407.06174)|null|
 |**2024-07-08**|**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**|Ethan Chern et.al.|[2407.06135](http://arxiv.org/abs/2407.06135)|**[link](https://github.com/gair-nlp/anole)**|
-|**2024-07-08**|**Structured Generations: Using Hierarchical Clusters to guide Diffusion Models**|Jorge da Silva Goncalves et.al.|[2407.06124](http://arxiv.org/abs/2407.06124)|null|
+|**2024-07-08**|**Structured Generations: Using Hierarchical Clusters to guide Diffusion Models**|Jorge da Silva Goncalves et.al.|[2407.06124](http://arxiv.org/abs/2407.06124)|**[link](https://github.com/JoGo175/diffuse-treevae)**|
 |**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109](http://arxiv.org/abs/2407.06109)|**[link](https://github.com/labshuhanggu/perldiff)**|
 |**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
 |**2024-07-08**|**Assessing Cardiomegaly in Dogs Using a Simple CNN Model**|Nikhil Deekonda et.al.|[2407.06092](http://arxiv.org/abs/2407.06092)|null|
@@ -190,7 +190,7 @@
 |**2024-07-08**|**Speed-accuracy trade-off for the diffusion models: Wisdom from nonequilibrium thermodynamics and optimal transport**|Kotaro Ikeda et.al.|[2407.04495](http://arxiv.org/abs/2407.04495)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
 |**2024-07-05**|**Dude: Dual Distribution-Aware Context Prompt Learning For Large Vision-Language Model**|Duy M. H. Nguyen et.al.|[2407.04489](http://arxiv.org/abs/2407.04489)|null|
-|**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485](http://arxiv.org/abs/2407.04485)|null|
+|**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485](http://arxiv.org/abs/2407.04485)|**[link](https://github.com/noanonkes/Hallucination-Detection-in-LLMs)**|
 |**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461](http://arxiv.org/abs/2407.04461)|null|
 |**2024-07-03**|**DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents**|Yilun Xu et.al.|[2407.03300](http://arxiv.org/abs/2407.03300)|null|
 |**2024-07-03**|**Improved Noise Schedule for Diffusion Training**|Tiankai Hang et.al.|[2407.03297](http://arxiv.org/abs/2407.03297)|null|
@@ -208,7 +208,7 @@
 |**2024-07-02**|**GCF: Graph Convolutional Networks for Facial Expression Recognition**|Hozaifa Kassab et.al.|[2407.02361](http://arxiv.org/abs/2407.02361)|null|
 |**2024-07-02**|**MORPHEUS: Modeling Role from Personalized Dialogue History by Exploring and Utilizing Latent Space**|Yihong Tang et.al.|[2407.02345](http://arxiv.org/abs/2407.02345)|null|
 |**2024-07-02**|**Choice-based time slot management in attended home delivery**|Dorsa Abdolhamidi et.al.|[2407.02339](http://arxiv.org/abs/2407.02339)|null|
-|**2024-07-02**|**Mining Constraints from Reference Process Models for Detecting Best-Practice Violations in Event Log**|Adrian Rebmann et.al.|[2407.02336](http://arxiv.org/abs/2407.02336)|null|
+|**2024-07-02**|**Mining Constraints from Reference Process Models for Detecting Best-Practice Violations in Event Log**|Adrian Rebmann et.al.|[2407.02336](http://arxiv.org/abs/2407.02336)|**[link](https://github.com/a-rebmann/semantic-constraint-miner)**|
 |**2024-07-02**|**A tactical time slot management problem under mixed logit demand**|Dorsa Abdolhamidi et.al.|[2407.02308](http://arxiv.org/abs/2407.02308)|null|
 |**2024-07-02**|**Renard: A Modular Pipeline for Extracting Character Networks from Narrative Texts**|Arthur Amalvy et.al.|[2407.02284](http://arxiv.org/abs/2407.02284)|null|
 |**2024-07-03**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
@@ -221,7 +221,7 @@
 |**2024-06-28**|**HAITCH: A Framework for Distortion and Motion Correction in Fetal Multi-Shell Diffusion-Weighted MRI**|Haykel Snoussi et.al.|[2406.20042](http://arxiv.org/abs/2406.20042)|null|
 |**2024-06-28**|**Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs**|Sangwon Jeong et.al.|[2406.19987](http://arxiv.org/abs/2406.19987)|null|
 |**2024-07-01**|**Text2Robot: Evolutionary Robot Design from Text Descriptions**|Ryan P. Ringel et.al.|[2406.19963](http://arxiv.org/abs/2406.19963)|null|
-|**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|null|
+|**2024-06-28**|**Kolmogorov-Smirnov GAN**|Maciej Falkiewicz et.al.|[2406.19948](http://arxiv.org/abs/2406.19948)|**[link](https://github.com/dmml-geneva/ksgan)**|
 |**2024-06-27**|**Looking 3D: Anomaly Detection with 2D-3D Alignment**|Ankan Bhunia et.al.|[2406.19393](http://arxiv.org/abs/2406.19393)|**[link](https://github.com/vico-uoe/looking3d)**|
 |**2024-06-27**|**Taming Data and Transformers for Audio Generation**|Moayed Haji-Ali et.al.|[2406.19388](http://arxiv.org/abs/2406.19388)|null|
 |**2024-06-27**|**Emergence of Hidden Capabilities: Exploring Learning Dynamics in Concept Space**|Core Francisco Park et.al.|[2406.19370](http://arxiv.org/abs/2406.19370)|null|
@@ -394,10 +394,10 @@
 |**2024-07-05**|**Robust Multimodal Learning via Representation Decoupling**|Shicai Wei et.al.|[2407.04458](http://arxiv.org/abs/2407.04458)|null|
 |**2024-07-05**|**Smart Vision-Language Reasoners**|Denisa Roberts et.al.|[2407.04212](http://arxiv.org/abs/2407.04212)|**[link](https://github.com/smarter-vlm/smarter)**|
 |**2024-07-04**|**Investigating the Role of Instruction Variety and Task Difficulty in Robotic Manipulation Tasks**|Amit Parekh et.al.|[2407.03967](http://arxiv.org/abs/2407.03967)|**[link](https://github.com/amitkparekh/cogelot)**|
-|**2024-07-04**|**ADAPT: Multimodal Learning for Detecting Physiological Changes under Missing Modalities**|Julie Mordacq et.al.|[2407.03836](http://arxiv.org/abs/2407.03836)|null|
+|**2024-07-04**|**ADAPT: Multimodal Learning for Detecting Physiological Changes under Missing Modalities**|Julie Mordacq et.al.|[2407.03836](http://arxiv.org/abs/2407.03836)|**[link](https://github.com/jumdc/ADAPT)**|
 |**2024-07-04**|**M $\mathbf5$ -- A Diverse Benchmark to Assess the Performance of Large Multimodal Models Across Multilingual and Multicultural Vision-Language Tasks**|Florian Schneider et.al.|[2407.03791](http://arxiv.org/abs/2407.03791)|null|
 |**2024-07-03**|**HEMM: Holistic Evaluation of Multimodal Foundation Models**|Paul Pu Liang et.al.|[2407.03418](http://arxiv.org/abs/2407.03418)|**[link](https://github.com/pliang279/hemm)**|
-|**2024-07-02**|**Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**|Srivathsan Badrinarayanan et.al.|[2407.03380](http://arxiv.org/abs/2407.03380)|null|
+|**2024-07-02**|**Multi-Peptide: Multimodality Leveraged Language-Graph Learning of Peptide Properties**|Srivathsan Badrinarayanan et.al.|[2407.03380](http://arxiv.org/abs/2407.03380)|**[link](https://github.com/srivathsanb14/multipeptide)**|
 |**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
 |**2024-07-02**|**Synthetic Multimodal Question Generation**|Ian Wu et.al.|[2407.02233](http://arxiv.org/abs/2407.02233)|null|
 |**2024-07-02**|**Crossroads of Continents: Automated Artifact Extraction for Cultural Adaptation with Large Multimodal Models**|Anjishnu Mukherjee et.al.|[2407.02067](http://arxiv.org/abs/2407.02067)|**[link](https://github.com/iamshnoo/crossroads)**|
@@ -409,7 +409,7 @@
 |**2024-06-29**|**How to Train Your Fact Verifier: Knowledge Transfer with Multimodal Open Models**|Jaeyoung Lee et.al.|[2407.00369](http://arxiv.org/abs/2407.00369)|null|
 |**2024-06-28**|**PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration**|Yuxuan Sun et.al.|[2407.00203](http://arxiv.org/abs/2407.00203)|null|
 |**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|**[link](https://github.com/hustvl/evf-sam)**|
-|**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|null|
+|**2024-06-28**|**InfiniBench: A Comprehensive Benchmark for Large Multimodal Models in Very Long Video Understanding**|Kirolos Ataallah et.al.|[2406.19875](http://arxiv.org/abs/2406.19875)|**[link](https://github.com/Vision-CAIR/InfiniBench)**|
 |**2024-06-28**|**MetaDesigner: Advancing Artistic Typography through AI-Driven, User-Centric, and Multilingual WordArt Synthesis**|Jun-Yan He et.al.|[2406.19859](http://arxiv.org/abs/2406.19859)|null|
 |**2024-06-28**|**MM-Instruct: Generated Visual Instructions for Large Multimodal Model Alignment**|Jihao Liu et.al.|[2406.19736](http://arxiv.org/abs/2406.19736)|**[link](https://github.com/jihaonew/mm-instruct)**|
 |**2024-06-28**|**Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction**|Akash Awasthi et.al.|[2406.19686](http://arxiv.org/abs/2406.19686)|null|
@@ -516,7 +516,7 @@
 |**2024-05-29**|**Thermodynamically Informed Multimodal Learning of High-Dimensional Free Energy Models in Molecular Coarse Graining**|Blake R. Duschatko et.al.|[2405.19386](http://arxiv.org/abs/2405.19386)|null|
 |**2024-06-09**|**LLMs Meet Multimodal Generation and Editing: A Survey**|Yingqing He et.al.|[2405.19334](http://arxiv.org/abs/2405.19334)|**[link](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)**|
 |**2024-05-29**|**Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare**|Hanwei Zhu et.al.|[2405.19298](http://arxiv.org/abs/2405.19298)|null|
-|**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|null|
+|**2024-05-31**|**Benchmarking and Improving Detail Image Caption**|Hongyuan Dong et.al.|[2405.19092](http://arxiv.org/abs/2405.19092)|**[link](https://github.com/foundation-multimodal-models/capture)**|
 |**2024-05-29**|**Topological Perspectives on Optimal Multimodal Embedding Spaces**|Abdul Aziz A. B et.al.|[2405.18867](http://arxiv.org/abs/2405.18867)|null|
 |**2024-05-29**|**Exploring Exotic Decays of the Higgs Boson to Multi-Photons at the LHC via Multimodal Learning Approaches**|A. Hammad et.al.|[2405.18834](http://arxiv.org/abs/2405.18834)|null|
 |**2024-05-28**|**The Evolution of Multimodal Model Architectures**|Shakti N. Wadekar et.al.|[2405.17927](http://arxiv.org/abs/2405.17927)|null|
