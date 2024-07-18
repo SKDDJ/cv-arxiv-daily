@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Turning Generative Models Degenerate: The Power of Data Poisoning Attacks**|Shuli Jiang et.al.|[2407.12281](http://arxiv.org/abs/2407.12281)|null|
 |**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573](http://arxiv.org/abs/2407.11573)|null|
 |**2024-07-16**|**An efficient framework based on large foundation model for cervical cytopathology whole slide image screening**|Jialong Huang et.al.|[2407.11486](http://arxiv.org/abs/2407.11486)|**[link](https://github.com/cviu-csu/tct-infonce)**|
 |**2024-07-10**|**RoLoRA: Fine-tuning Rotated Outlier-free LLMs for Effective Weight-Activation Quantization**|Xijie Huang et.al.|[2407.08044](http://arxiv.org/abs/2407.08044)|**[link](https://github.com/huangowen/rolora)**|
@@ -144,6 +145,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783](http://arxiv.org/abs/2407.12783)|null|
+|**2024-07-17**|**VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control**|Sherwin Bahmani et.al.|[2407.12781](http://arxiv.org/abs/2407.12781)|null|
+|**2024-07-17**|**Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**|Matthew Tivnan et.al.|[2407.12780](http://arxiv.org/abs/2407.12780)|null|
+|**2024-07-17**|**GroundUp: Rapid Sketch-Based 3D City Massing**|Gizem Esra Unlu et.al.|[2407.12739](http://arxiv.org/abs/2407.12739)|null|
+|**2024-07-17**|**EchoSight: Advancing Visual-Language Models with Wiki Knowledge**|Yibin Yan et.al.|[2407.12735](http://arxiv.org/abs/2407.12735)|null|
+|**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727](http://arxiv.org/abs/2407.12727)|null|
+|**2024-07-17**|**An Evaluation of Continual Learning for Advanced Node Semiconductor Defect Inspection**|Amit Prasad et.al.|[2407.12724](http://arxiv.org/abs/2407.12724)|null|
+|**2024-07-17**|**Unlocking planetesimal magnetic field histories: a refined, versatile model for thermal evolution and dynamo generation**|Hannah R. Sanderson et.al.|[2407.12721](http://arxiv.org/abs/2407.12721)|null|
+|**2024-07-17**|**SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow**|Yuanzhi Zhu et.al.|[2407.12718](http://arxiv.org/abs/2407.12718)|null|
+|**2024-07-17**|**Teleoperation in Robot-assisted MIS with Adaptive RCM via Admittance Control**|Ehsan Nasiri et.al.|[2407.12711](http://arxiv.org/abs/2407.12711)|null|
 |**2024-07-16**|**Efficient Training with Denoised Neural Weights**|Yifan Gong et.al.|[2407.11966](http://arxiv.org/abs/2407.11966)|null|
 |**2024-07-16**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|null|
 |**2024-07-16**|**Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design**|Leo Klarner et.al.|[2407.11942](http://arxiv.org/abs/2407.11942)|**[link](https://github.com/leojklarner/context-guided-diffusion)**|
@@ -411,6 +422,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**|Kaichen Zhang et.al.|[2407.12772](http://arxiv.org/abs/2407.12772)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
+|**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616](http://arxiv.org/abs/2407.12616)|null|
+|**2024-07-17**|**E5-V: Universal Embeddings with Multimodal Large Language Models**|Ting Jiang et.al.|[2407.12580](http://arxiv.org/abs/2407.12580)|**[link](https://github.com/kongds/e5-v)**|
 |**2024-07-16**|**FIRE: A Dataset for Feedback Integration and Refinement Evaluation of Multimodal Models**|Pengxiang Li et.al.|[2407.11522](http://arxiv.org/abs/2407.11522)|null|
 |**2024-07-16**|**COMET: "Cone of experience" enhanced large multimodal model for mathematical problem generation**|Sannyuya Liu et.al.|[2407.11315](http://arxiv.org/abs/2407.11315)|null|
 |**2024-07-15**|**OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**|Zijian Zhou et.al.|[2407.11213](http://arxiv.org/abs/2407.11213)|null|
@@ -585,6 +599,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Parameter Generation of Quantum Approximate Optimization Algorithm with Diffusion Model**|Fanxu Meng et.al.|[2407.12242](http://arxiv.org/abs/2407.12242)|null|
 |**2024-07-16**|**Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice**|Connor T. Jerzak et.al.|[2407.11674](http://arxiv.org/abs/2407.11674)|null|
 |**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973](http://arxiv.org/abs/2407.10973)|null|
 |**2024-07-16**|**The well-posedness of generalized nonlinear wave equations on the lattice graph**|Bobo Hua et.al.|[2407.09815](http://arxiv.org/abs/2407.09815)|null|
