@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -444,7 +444,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-19**|**Patch-based Intuitive Multimodal Prototypes Network (PIMPNet) for Alzheimer's Disease classification**|Lisa Anita De Santi et.al.|[2407.14277](http://arxiv.org/abs/2407.14277)|**[link](https://github.com/desantilisa/PIMPNet3D/blob/main/README.md)**|
-|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|null|
+|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
 |**2024-07-17**|**Text- and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild**|Nicolas Richet et.al.|[2407.12927](http://arxiv.org/abs/2407.12927)|**[link](https://github.com/nicolas-richet/feature-vs-text-compound-emotion)**|
 |**2024-07-16**|**ChatBCG: Can AI Read Your Slide Deck?**|Nikita Singh et.al.|[2407.12875](http://arxiv.org/abs/2407.12875)|null|
 |**2024-07-17**|**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**|Kaichen Zhang et.al.|[2407.12772](http://arxiv.org/abs/2407.12772)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
