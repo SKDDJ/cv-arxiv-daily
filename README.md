@@ -148,6 +148,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
+|**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
+|**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|null|
+|**2024-07-23**|**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence**|Canyu Zhao et.al.|[2407.16655](http://arxiv.org/abs/2407.16655)|null|
+|**2024-07-23**|**Unveiling and Mitigating Bias in Audio Visual Segmentation**|Peiwen Sun et.al.|[2407.16638](http://arxiv.org/abs/2407.16638)|null|
+|**2024-07-23**|**Knowledge-driven AI-generated data for accurate and interpretable breast ultrasound diagnoses**|Haojun Yu et.al.|[2407.16634](http://arxiv.org/abs/2407.16634)|null|
+|**2024-07-23**|**GenRec: A Flexible Data Generator for Recommendations**|Erica Coppolillo et.al.|[2407.16594](http://arxiv.org/abs/2407.16594)|null|
+|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|null|
+|**2024-07-23**|**DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models**|Zhenyu Xie et.al.|[2407.16511](http://arxiv.org/abs/2407.16511)|null|
+|**2024-07-23**|**qMRI Diffusor: Quantitative T1 Mapping of the Brain using a Denoising Diffusion Probabilistic Model**|Shishuai Wang et.al.|[2407.16477](http://arxiv.org/abs/2407.16477)|null|
 |**2024-07-22**|**Artist: Aesthetically Controllable Text-Driven Stylization without Training**|Ruixiang Jiang et.al.|[2407.15842](http://arxiv.org/abs/2407.15842)|null|
 |**2024-07-23**|**A Large-scale Benchmark Dataset for Commuting Origin-destination Matrix Generation**|Can Rong et.al.|[2407.15823](http://arxiv.org/abs/2407.15823)|null|
 |**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811](http://arxiv.org/abs/2407.15811)|null|
@@ -455,6 +465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Chameleon: Images Are What You Need For Multimodal Learning Robust To Missing Modalities**|Muhammad Irzam Liaqat et.al.|[2407.16243](http://arxiv.org/abs/2407.16243)|null|
 |**2024-07-22**|**LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding**|Haoning Wu et.al.|[2407.15754](http://arxiv.org/abs/2407.15754)|**[link](https://github.com/longvideobench/longvideobench)**|
 |**2024-07-22**|**Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training**|Ye Lin Tun et.al.|[2407.15426](http://arxiv.org/abs/2407.15426)|null|
 |**2024-07-21**|**VideoGameBunny: Towards vision assistants for video games**|Mohammad Reza Taesiri et.al.|[2407.15295](http://arxiv.org/abs/2407.15295)|null|
