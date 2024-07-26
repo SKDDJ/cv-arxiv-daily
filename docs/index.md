@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -159,7 +159,7 @@ layout: default
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
 |**2024-07-24**|**Quantum nonlocal modulation cancellation with distributed clocks**|Stephen D. Chapman et.al.|[2407.17330](http://arxiv.org/abs/2407.17330)|null|
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324](http://arxiv.org/abs/2407.17324)|null|
+|**2024-07-25**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324](http://arxiv.org/abs/2407.17324)|null|
 |**2024-07-24**|**Edge-Cloud Continuum Orchestration of Critical Services: A Smart-City Approach**|Rodrigo Rosmaninho et.al.|[2407.17314](http://arxiv.org/abs/2407.17314)|null|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|

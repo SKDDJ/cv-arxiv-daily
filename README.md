@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -143,7 +143,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -157,7 +157,7 @@
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
 |**2024-07-24**|**Boosting Large Language Models with Socratic Method for Conversational Mathematics Teaching**|Yuyang Ding et.al.|[2407.17349](http://arxiv.org/abs/2407.17349)|null|
 |**2024-07-24**|**Quantum nonlocal modulation cancellation with distributed clocks**|Stephen D. Chapman et.al.|[2407.17330](http://arxiv.org/abs/2407.17330)|null|
-|**2024-07-24**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324](http://arxiv.org/abs/2407.17324)|null|
+|**2024-07-25**|**Enhanced Deep Learning Methodologies and MRI Selection Techniques for Dementia Diagnosis in the Elderly Population**|Nikolaos Ntampakis et.al.|[2407.17324](http://arxiv.org/abs/2407.17324)|null|
 |**2024-07-24**|**Edge-Cloud Continuum Orchestration of Critical Services: A Smart-City Approach**|Rodrigo Rosmaninho et.al.|[2407.17314](http://arxiv.org/abs/2407.17314)|null|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
@@ -470,7 +470,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -656,7 +656,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|null|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -778,7 +778,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
