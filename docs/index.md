@@ -151,6 +151,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Generative Adversarial Networks for Imputing Sparse Learning Performance**|Liang Zhang et.al.|[2407.18875](http://arxiv.org/abs/2407.18875)|null|
+|**2024-07-26**|**Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment**|Yuze Zheng et.al.|[2407.18854](http://arxiv.org/abs/2407.18854)|null|
+|**2024-07-26**|**Scalable Group Choreography via Variational Phase Manifold Learning**|Nhat Le et.al.|[2407.18839](http://arxiv.org/abs/2407.18839)|null|
+|**2024-07-26**|**Revision of calcium and scandium abundances in Am stars based on NLTE calculations and comparison with diffusion stellar evolution models**|L. I. Mashonkina et.al.|[2407.18736](http://arxiv.org/abs/2407.18736)|null|
+|**2024-07-26**|**BCTR: Bidirectional Conditioning Transformer for Scene Graph Generation**|Peng Hao et.al.|[2407.18715](http://arxiv.org/abs/2407.18715)|null|
+|**2024-07-26**|**Q-gen: A Parameterized Quantum Circuit Generator**|Yikai Mao et.al.|[2407.18697](http://arxiv.org/abs/2407.18697)|null|
+|**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658](http://arxiv.org/abs/2407.18658)|**[link](https://github.com/choidae1/robustify-t2i)**|
+|**2024-07-26**|**Robust VAEs via Generating Process of Noise Augmented Data**|Hiroo Irobe et.al.|[2407.18632](http://arxiv.org/abs/2407.18632)|null|
+|**2024-07-26**|**Denoising Lévy Probabilistic Models**|Dario Shariatian et.al.|[2407.18609](http://arxiv.org/abs/2407.18609)|null|
+|**2024-07-26**|**How To Segment in 3D Using 2D Models: Automated 3D Segmentation of Prostate Cancer Metastatic Lesions on PET Volumes Using Multi-Angle Maximum Intensity Projections and Diffusion Models**|Amirhosein Toosi et.al.|[2407.18555](http://arxiv.org/abs/2407.18555)|null|
 |**2024-07-25**|**RegionDrag: Fast Region-Based Image Editing with Diffusion Models**|Jingyi Lu et.al.|[2407.18247](http://arxiv.org/abs/2407.18247)|null|
 |**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245](http://arxiv.org/abs/2407.18245)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240](http://arxiv.org/abs/2407.18240)|null|
@@ -486,6 +496,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment**|Yuze Zheng et.al.|[2407.18854](http://arxiv.org/abs/2407.18854)|null|
+|**2024-07-26**|**ChatSchema: A pipeline of extracting structured information with Large Multimodal Models based on schema**|Fei Wang et.al.|[2407.18716](http://arxiv.org/abs/2407.18716)|null|
 |**2024-07-25**|**Sparse vs Contiguous Adversarial Pixel Perturbations in Multimodal Models: An Empirical Analysis**|Cristian-Alexandru Botocan et.al.|[2407.18251](http://arxiv.org/abs/2407.18251)|**[link](https://github.com/christianb024/sparsevscontiguityrepo)**|
 |**2024-07-25**|**$\mathbb{X}$ -Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs**|Vlad Sobal et.al.|[2407.18134](http://arxiv.org/abs/2407.18134)|null|
 |**2024-07-25**|**Cross-Vendor Reproducibility of Radiomics-based Machine Learning Models for Computer-aided Diagnosis**|Jatin Chaudhary et.al.|[2407.18060](http://arxiv.org/abs/2407.18060)|null|
