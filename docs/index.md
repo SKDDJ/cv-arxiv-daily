@@ -152,6 +152,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Matting by Generation**|Zhixiang Wang et.al.|[2407.21017](http://arxiv.org/abs/2407.21017)|null|
+|**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016](http://arxiv.org/abs/2407.21016)|**[link](https://github.com/ylingfeng/add-sd)**|
+|**2024-07-30**|**Integrating Agent-Based and Compartmental Models for Infectious Disease Modeling: A Novel Hybrid Approach**|Inan Bostanci et.al.|[2407.20993](http://arxiv.org/abs/2407.20993)|null|
+|**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962](http://arxiv.org/abs/2407.20962)|**[link](https://github.com/litwellchi/mmtrail)**|
+|**2024-07-30**|**Mitigating calibration errors from mutual coupling with time-domain filtering of 21 cm cosmological radio observations**|N. Charles et.al.|[2407.20923](http://arxiv.org/abs/2407.20923)|null|
+|**2024-07-30**|**Impact of Geographical Separation on Spectrum Sharing Markets**|Kangle Mu et.al.|[2407.20909](http://arxiv.org/abs/2407.20909)|null|
+|**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908](http://arxiv.org/abs/2407.20908)|**[link](https://github.com/zyp123494/dynavol)**|
+|**2024-07-30**|**Vulnerabilities in AI-generated Image Detection: The Challenge of Adversarial Attacks**|Yunfeng Diao et.al.|[2407.20836](http://arxiv.org/abs/2407.20836)|null|
+|**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
+|**2024-07-30**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/abs/2407.20756)|**[link](https://github.com/starriver030515/synthvlm)**|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172](http://arxiv.org/abs/2407.20172)|**[link](https://github.com/bugs-creator/latentartifusion)**|
 |**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|null|
@@ -507,6 +517,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection**|Jinfa Huang et.al.|[2407.21004](http://arxiv.org/abs/2407.21004)|null|
+|**2024-07-30**|**HyperMM : Robust Multimodal Learning with Varying-sized Inputs**|Hava Chaptoukaev et.al.|[2407.20768](http://arxiv.org/abs/2407.20768)|null|
+|**2024-07-30**|**Effectively Leveraging CLIP for Generating Situational Summaries of Images and Videos**|Dhruv Verma et.al.|[2407.20642](http://arxiv.org/abs/2407.20642)|null|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981](http://arxiv.org/abs/2407.19981)|null|
 |**2024-07-29**|**ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2**|Wenjun Huang et.al.|[2407.19832](http://arxiv.org/abs/2407.19832)|null|
 |**2024-07-28**|**XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**|Biao Wu et.al.|[2407.19546](http://arxiv.org/abs/2407.19546)|**[link](https://github.com/white65534/xlip)**|
