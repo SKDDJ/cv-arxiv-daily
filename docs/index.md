@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739](http://arxiv.org/abs/2407.21739)|null|
 |**2024-07-28**|**Forecast-PEFT: Parameter-Efficient Fine-Tuning for Pre-trained Motion Forecasting Models**|Jifeng Wang et.al.|[2407.19564](http://arxiv.org/abs/2407.19564)|**[link](https://github.com/csjfwang/forecast-peft)**|
 |**2024-07-24**|**Parameter-Efficient Fine-Tuning for Continual Learning: A Neural Tangent Kernel Perspective**|Jingren Liu et.al.|[2407.17120](http://arxiv.org/abs/2407.17120)|null|
 |**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731](http://arxiv.org/abs/2407.15731)|null|
@@ -152,6 +153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
+|**2024-07-31**|**Tora: Trajectory-oriented Diffusion Transformer for Video Generation**|Zhenghao Zhang et.al.|[2407.21705](http://arxiv.org/abs/2407.21705)|null|
+|**2024-07-31**|**Generative Diffusion Model for Seismic Imaging Improvement of Sparsely Acquired Data and Uncertainty Quantification**|Xingchen Shi et.al.|[2407.21683](http://arxiv.org/abs/2407.21683)|null|
+|**2024-07-31**|**Quality Control for Radiology Report Generation Models via Auxiliary Auditing Components**|Hermione Warr et.al.|[2407.21638](http://arxiv.org/abs/2407.21638)|null|
+|**2024-07-31**|**LLM-for-X: Application-agnostic Integration of Large Language Models to Support Personal Writing Workflows**|Lukas Teufelberger et.al.|[2407.21593](http://arxiv.org/abs/2407.21593)|null|
+|**2024-07-31**|**Long-term investment and energy procurement risk management under uncertainty for an electrolytic green hydrogen producer**|Owen Palmer et.al.|[2407.21574](http://arxiv.org/abs/2407.21574)|null|
+|**2024-07-31**|**Conditioned Prompt-Optimization for Continual Deepfake Detection**|Francesco Laiti et.al.|[2407.21554](http://arxiv.org/abs/2407.21554)|null|
+|**2024-07-31**|**CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment**|Akira Kasuga et.al.|[2407.21553](http://arxiv.org/abs/2407.21553)|null|
+|**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
+|**2024-07-31**|**Maverick: Efficient and Accurate Coreference Resolution Defying Recent Trends**|Giuliano Martinelli et.al.|[2407.21489](http://arxiv.org/abs/2407.21489)|null|
 |**2024-07-30**|**Matting by Generation**|Zhixiang Wang et.al.|[2407.21017](http://arxiv.org/abs/2407.21017)|null|
 |**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016](http://arxiv.org/abs/2407.21016)|**[link](https://github.com/ylingfeng/add-sd)**|
 |**2024-07-30**|**Integrating Agent-Based and Compartmental Models for Infectious Disease Modeling: A Novel Hybrid Approach**|Inan Bostanci et.al.|[2407.20993](http://arxiv.org/abs/2407.20993)|null|
