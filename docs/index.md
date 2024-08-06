@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -550,7 +550,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-02**|**MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models**|Benno Weck et.al.|[2408.01337](http://arxiv.org/abs/2408.01337)|null|
-|**2024-08-02**|**Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions**|Jin Gao et.al.|[2408.01091](http://arxiv.org/abs/2408.01091)|null|
+|**2024-08-05**|**Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions**|Jin Gao et.al.|[2408.01091](http://arxiv.org/abs/2408.01091)|null|
 |**2024-08-02**|**GraphAge: Unleashing the power of Graph Neural Network to Decode Epigenetic Aging**|Saleh Sakib Ahmed et.al.|[2408.00984](http://arxiv.org/abs/2408.00984)|null|
 |**2024-08-01**|**MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2408.00765](http://arxiv.org/abs/2408.00765)|null|
 |**2024-08-01**|**GalleryGPT: Analyzing Paintings with Large Multimodal Models**|Yi Bin et.al.|[2408.00491](http://arxiv.org/abs/2408.00491)|null|

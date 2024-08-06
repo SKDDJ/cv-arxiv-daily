@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -146,7 +146,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -543,14 +543,14 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
 ## Vision-Language Models
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-02**|**MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models**|Benno Weck et.al.|[2408.01337](http://arxiv.org/abs/2408.01337)|null|
-|**2024-08-02**|**Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions**|Jin Gao et.al.|[2408.01091](http://arxiv.org/abs/2408.01091)|null|
+|**2024-08-05**|**Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions**|Jin Gao et.al.|[2408.01091](http://arxiv.org/abs/2408.01091)|null|
 |**2024-08-02**|**GraphAge: Unleashing the power of Graph Neural Network to Decode Epigenetic Aging**|Saleh Sakib Ahmed et.al.|[2408.00984](http://arxiv.org/abs/2408.00984)|null|
 |**2024-08-01**|**MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2408.00765](http://arxiv.org/abs/2408.00765)|null|
 |**2024-08-01**|**GalleryGPT: Analyzing Paintings with Large Multimodal Models**|Yi Bin et.al.|[2408.00491](http://arxiv.org/abs/2408.00491)|null|
@@ -754,7 +754,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -881,7 +881,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240806>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
