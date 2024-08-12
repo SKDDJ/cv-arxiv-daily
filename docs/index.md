@@ -171,7 +171,7 @@ layout: default
 |**2024-08-08**|**AI-Driven Chatbot for Intrusion Detection in Edge Networks: Enhancing Cybersecurity with Ethical User Consent**|Mugheez Asif et.al.|[2408.04281](http://arxiv.org/abs/2408.04281)|null|
 |**2024-08-07**|**Prospects for using drones to test formation-flying CubeSat concepts, and other astronomical applications**|John D. Monnier et.al.|[2408.03911](http://arxiv.org/abs/2408.03911)|null|
 |**2024-08-07**|**Hate Speech Detection and Classification in Amharic Text with Deep Learning**|Samuel Minale Gashe et.al.|[2408.03849](http://arxiv.org/abs/2408.03849)|null|
-|**2024-08-07**|**WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models**|Prannaya Gupta et.al.|[2408.03837](http://arxiv.org/abs/2408.03837)|null|
+|**2024-08-07**|**WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models**|Prannaya Gupta et.al.|[2408.03837](http://arxiv.org/abs/2408.03837)|**[link](https://github.com/walledai/walledeval)**|
 |**2024-08-07**|**A broken duet: multistable dynamics of dyadic interactions**|Johan Medrano et.al.|[2408.03809](http://arxiv.org/abs/2408.03809)|null|
 |**2024-08-07**|**Navigating the Human Maze: Real-Time Robot Pathfinding with Generative Imitation Learning**|Martin Moder et.al.|[2408.03807](http://arxiv.org/abs/2408.03807)|null|
 |**2024-08-07**|**Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model**|Guoqing Zhu et.al.|[2408.03748](http://arxiv.org/abs/2408.03748)|**[link](https://github.com/lengmo1996/ECDM)**|
@@ -186,12 +186,12 @@ layout: default
 |**2024-08-06**|**Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models**|Sho Ozaki et.al.|[2408.03156](http://arxiv.org/abs/2408.03156)|null|
 |**2024-08-06**|**Enhancing Twitter Bot Detection via Multimodal Invariant Representations**|Jibing Gong et.al.|[2408.03096](http://arxiv.org/abs/2408.03096)|null|
 |**2024-08-06**|**Analysis of Argument Structure Constructions in a Deep Recurrent Language Model**|Pegah Ramezani et.al.|[2408.03062](http://arxiv.org/abs/2408.03062)|null|
-|**2024-08-06**|**OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents**|Qiang Sun et.al.|[2408.03047](http://arxiv.org/abs/2408.03047)|null|
+|**2024-08-06**|**OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents**|Qiang Sun et.al.|[2408.03047](http://arxiv.org/abs/2408.03047)|**[link](https://github.com/AI4WA/OpenOmniFramework)**|
 |**2024-08-06**|**Targeted Visual Prompting for Medical Visual Question Answering**|Sergio Tascon-Morales et.al.|[2408.03043](http://arxiv.org/abs/2408.03043)|null|
 |**2024-08-06**|**Training-Free Condition Video Diffusion Models for single frame Spatial-Semantic Echocardiogram Synthesis**|Van Phi Nguyen et.al.|[2408.03035](http://arxiv.org/abs/2408.03035)|null|
 |**2024-08-05**|**Command-line Obfuscation Detection using Small Language Models**|Vojtech Outrata et.al.|[2408.02637](http://arxiv.org/abs/2408.02637)|null|
 |**2024-08-05**|**VidGen-1M: A Large-Scale Dataset for Text-to-video Generation**|Zhiyu Tan et.al.|[2408.02629](http://arxiv.org/abs/2408.02629)|null|
-|**2024-08-05**|**YOWOv3: An Efficient and Generalized Framework for Human Action Detection and Recognition**|Duc Manh Nguyen Dang et.al.|[2408.02623](http://arxiv.org/abs/2408.02623)|null|
+|**2024-08-05**|**YOWOv3: An Efficient and Generalized Framework for Human Action Detection and Recognition**|Duc Manh Nguyen Dang et.al.|[2408.02623](http://arxiv.org/abs/2408.02623)|**[link](https://github.com/aakiraotok/yowov3)**|
 |**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
 |**2024-08-05**|**MetaParticles: Computationally engineered nanomaterials with tunable and responsive properties**|Massimiliano Paesani et.al.|[2408.02564](http://arxiv.org/abs/2408.02564)|null|
 |**2024-08-05**|**Fairness and Bias Mitigation in Computer Vision: A Survey**|Sepehr Dehdashtian et.al.|[2408.02464](http://arxiv.org/abs/2408.02464)|null|
@@ -225,10 +225,10 @@ layout: default
 |**2024-07-31**|**Quality Control for Radiology Report Generation Models via Auxiliary Auditing Components**|Hermione Warr et.al.|[2407.21638](http://arxiv.org/abs/2407.21638)|null|
 |**2024-07-31**|**LLM-for-X: Application-agnostic Integration of Large Language Models to Support Personal Writing Workflows**|Lukas Teufelberger et.al.|[2407.21593](http://arxiv.org/abs/2407.21593)|null|
 |**2024-07-31**|**Long-term investment and energy procurement risk management under uncertainty for an electrolytic green hydrogen producer**|Owen Palmer et.al.|[2407.21574](http://arxiv.org/abs/2407.21574)|null|
-|**2024-07-31**|**Conditioned Prompt-Optimization for Continual Deepfake Detection**|Francesco Laiti et.al.|[2407.21554](http://arxiv.org/abs/2407.21554)|null|
+|**2024-07-31**|**Conditioned Prompt-Optimization for Continual Deepfake Detection**|Francesco Laiti et.al.|[2407.21554](http://arxiv.org/abs/2407.21554)|**[link](https://github.com/laitifranz/Prompt2Guard)**|
 |**2024-07-31**|**CXSimulator: A User Behavior Simulation using LLM Embeddings for Web-Marketing Campaign Assessment**|Akira Kasuga et.al.|[2407.21553](http://arxiv.org/abs/2407.21553)|null|
 |**2024-07-31**|**Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation**|Junxuan Yu et.al.|[2407.21490](http://arxiv.org/abs/2407.21490)|null|
-|**2024-07-31**|**Maverick: Efficient and Accurate Coreference Resolution Defying Recent Trends**|Giuliano Martinelli et.al.|[2407.21489](http://arxiv.org/abs/2407.21489)|null|
+|**2024-07-31**|**Maverick: Efficient and Accurate Coreference Resolution Defying Recent Trends**|Giuliano Martinelli et.al.|[2407.21489](http://arxiv.org/abs/2407.21489)|**[link](https://github.com/sapienzanlp/maverick-coref)**|
 |**2024-07-30**|**Matting by Generation**|Zhixiang Wang et.al.|[2407.21017](http://arxiv.org/abs/2407.21017)|null|
 |**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016](http://arxiv.org/abs/2407.21016)|**[link](https://github.com/ylingfeng/add-sd)**|
 |**2024-07-30**|**Integrating Agent-Based and Compartmental Models for Infectious Disease Modeling: A Novel Hybrid Approach**|Inan Bostanci et.al.|[2407.20993](http://arxiv.org/abs/2407.20993)|null|
@@ -241,7 +241,7 @@ layout: default
 |**2024-07-30**|**SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models**|Zheng Liu et.al.|[2407.20756](http://arxiv.org/abs/2407.20756)|**[link](https://github.com/starriver030515/synthvlm)**|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-29**|**LatentArtiFusion: An Effective and Efficient Histological Artifacts Restoration Framework**|Zhenqi He et.al.|[2407.20172](http://arxiv.org/abs/2407.20172)|**[link](https://github.com/bugs-creator/latentartifusion)**|
-|**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|null|
+|**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|**[link](https://github.com/baaivision/diva)**|
 |**2024-07-29**|**DDAP: Dual-Domain Anti-Personalization against Text-to-Image Diffusion Models**|Jing Yang et.al.|[2407.20141](http://arxiv.org/abs/2407.20141)|null|
 |**2024-07-29**|**Diffusion-DICE: In-Sample Diffusion Guidance for Offline Reinforcement Learning**|Liyuan Mao et.al.|[2407.20109](http://arxiv.org/abs/2407.20109)|null|
 |**2024-07-29**|**On the significance of parameters and the projective level in the Choice and Collection axioms**|Vladimir Kanovei et.al.|[2407.20098](http://arxiv.org/abs/2407.20098)|null|
@@ -822,7 +822,7 @@ layout: default
 |**2024-07-22**|**WebRPG: Automatic Web Rendering Parameters Generation for Visual Presentation**|Zirui Shao et.al.|[2407.15502](http://arxiv.org/abs/2407.15502)|**[link](https://github.com/alibabaresearch/advancedliteratemachinery)**|
 |**2024-07-18**|**FSP-Laplace: Function-Space Priors for the Laplace Approximation in Bayesian Deep Learning**|Tristan Cinquin et.al.|[2407.13711](http://arxiv.org/abs/2407.13711)|null|
 |**2024-07-19**|**Parameter Generation of Quantum Approximate Optimization Algorithm with Diffusion Model**|Fanxu Meng et.al.|[2407.12242](http://arxiv.org/abs/2407.12242)|null|
-|**2024-07-24**|**Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice**|Connor T. Jerzak et.al.|[2407.11674](http://arxiv.org/abs/2407.11674)|null|
+|**2024-07-24**|**Effect Heterogeneity with Earth Observation in Randomized Controlled Trials: Exploring the Role of Data, Model, and Evaluation Metric Choice**|Connor T. Jerzak et.al.|[2407.11674](http://arxiv.org/abs/2407.11674)|**[link](https://github.com/cjerzak/causalimages-software)**|
 |**2024-07-15**|**Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion**|Yongyuan Liang et.al.|[2407.10973](http://arxiv.org/abs/2407.10973)|null|
 |**2024-07-16**|**The well-posedness of generalized nonlinear wave equations on the lattice graph**|Bobo Hua et.al.|[2407.09815](http://arxiv.org/abs/2407.09815)|null|
 |**2024-07-15**|**Enhancing Robustness of Vision-Language Models through Orthogonality Learning and Cross-Regularization**|Jinlong Li et.al.|[2407.08374](http://arxiv.org/abs/2407.08374)|null|
@@ -882,7 +882,7 @@ layout: default
 |**2024-03-14**|**Imprints of Barrow-Tsallis Cosmology in Primordial Gravitational Waves**|Petr Jizba et.al.|[2403.09797](http://arxiv.org/abs/2403.09797)|null|
 |**2024-03-14**|**Eigenvariety for partially classical Hilbert modular forms**|Mladen Dimitrov et.al.|[2403.09784](http://arxiv.org/abs/2403.09784)|null|
 |**2024-03-12**|**The solenoidal Heisenberg Virasoro algebra and its simple weight modules**|Boujemaa Agrebaoui et.al.|[2403.07381](http://arxiv.org/abs/2403.07381)|null|
-|**2024-03-10**|**FrameQuant: Flexible Low-Bit Quantization for Transformers**|Harshavardhan Adepu et.al.|[2403.06082](http://arxiv.org/abs/2403.06082)|null|
+|**2024-03-10**|**FrameQuant: Flexible Low-Bit Quantization for Transformers**|Harshavardhan Adepu et.al.|[2403.06082](http://arxiv.org/abs/2403.06082)|**[link](https://github.com/vsingh-group/framequant)**|
 |**2024-03-06**|**The solenoidal Virasoro algebra and its simple weight modules**|Boujemaa Agrebaoui et.al.|[2403.03753](http://arxiv.org/abs/2403.03753)|null|
 |**2024-03-05**|**Tensor Decomposition-based Time Varying Channel Estimation for mmWave MIMO-OFDM Systems**|Ruizhe Wang et.al.|[2403.02942](http://arxiv.org/abs/2403.02942)|null|
 |**2024-03-05**|**Neural Redshift: Random Networks are not Random Functions**|Damien Teney et.al.|[2403.02241](http://arxiv.org/abs/2403.02241)|null|
