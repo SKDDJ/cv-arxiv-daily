@@ -158,6 +158,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/abs/2408.06292)|**[link](https://github.com/sakanaai/ai-scientist)**|
+|**2024-08-12**|**Open-Source Molecular Processing Pipeline for Generating Molecules**|Shreyas V et.al.|[2408.06261](http://arxiv.org/abs/2408.06261)|null|
+|**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
+|**2024-08-12**|**Cislunar Constellation Design for Space Situational Awareness with Time-Expanded Facility Location Problem**|Yuri Shimane et.al.|[2408.06238](http://arxiv.org/abs/2408.06238)|null|
+|**2024-08-12**|**Novel View Synthesis from a Single Image with Pretrained Diffusion Guidance**|Taewon Kang et.al.|[2408.06157](http://arxiv.org/abs/2408.06157)|null|
+|**2024-08-12**|**LipidBERT: A Lipid Language Model Pre-trained on METiS de novo Lipid Library**|Tianhao Yu et.al.|[2408.06150](http://arxiv.org/abs/2408.06150)|null|
+|**2024-08-12**|**Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models**|Ioannis Romanelis et.al.|[2408.06145](http://arxiv.org/abs/2408.06145)|null|
+|**2024-08-12**|**Med42-v2: A Suite of Clinical LLMs**|Clément Christophe et.al.|[2408.06142](http://arxiv.org/abs/2408.06142)|null|
+|**2024-08-12**|**Five Pitfalls When Assessing Synthetic Medical Images with Reference Metrics**|Melanie Dohmen et.al.|[2408.06075](http://arxiv.org/abs/2408.06075)|null|
+|**2024-08-12**|**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer**|Zhuoyi Yang et.al.|[2408.06072](http://arxiv.org/abs/2408.06072)|**[link](https://github.com/thudm/cogvideo)**|
 |**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
 |**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
 |**2024-08-09**|**Cell Morphology-Guided Small Molecule Generation with GFlowNets**|Stephen Zhewen Lu et.al.|[2408.05196](http://arxiv.org/abs/2408.05196)|**[link](https://github.com/thematrixmaster/omics-guided-gfn)**|
@@ -605,15 +615,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents**|Xiao Liu et.al.|[2408.06327](http://arxiv.org/abs/2408.06327)|**[link](https://github.com/thudm/visualagentbench)**|
+|**2024-08-11**|**HateSieve: A Contrastive Learning Framework for Detecting and Segmenting Hateful Content in Multimodal Memes**|Xuanyu Su et.al.|[2408.05794](http://arxiv.org/abs/2408.05794)|null|
 |**2024-08-08**|**Enhancing Journalism with AI: A Study of Contextualized Image Captioning for News Articles using LLMs and LMMs**|Aliki Anagnostopoulou et.al.|[2408.04331](http://arxiv.org/abs/2408.04331)|null|
-|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|null|
+|**2024-08-06**|**LLaVA-OneVision: Easy Visual Task Transfer**|Bo Li et.al.|[2408.03326](http://arxiv.org/abs/2408.03326)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
 |**2024-08-06**|**Multitask and Multimodal Neural Tuning for Large Models**|Hao Sun et.al.|[2408.03001](http://arxiv.org/abs/2408.03001)|null|
 |**2024-08-06**|**Body of Her: A Preliminary Study on End-to-End Humanoid Agent**|Tenglong Ao et.al.|[2408.02879](http://arxiv.org/abs/2408.02879)|null|
 |**2024-08-04**|**Distribution-Level Memory Recall for Continual Learning: Preserving Knowledge and Avoiding Confusion**|Shaoxu Cheng et.al.|[2408.02695](http://arxiv.org/abs/2408.02695)|null|
 |**2024-08-02**|**A Systematic Review of Intermediate Fusion in Multimodal Deep Learning for Biomedical Applications**|Valerio Guarrasi et.al.|[2408.02686](http://arxiv.org/abs/2408.02686)|null|
 |**2024-08-05**|**REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models**|Agneet Chatterjee et.al.|[2408.02231](http://arxiv.org/abs/2408.02231)|null|
 |**2024-08-04**|**CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization**|Xiang He et.al.|[2408.01952](http://arxiv.org/abs/2408.01952)|**[link](https://github.com/brain-cog-lab/cace-net)**|
-|**2024-08-02**|**MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models**|Benno Weck et.al.|[2408.01337](http://arxiv.org/abs/2408.01337)|null|
+|**2024-08-02**|**MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models**|Benno Weck et.al.|[2408.01337](http://arxiv.org/abs/2408.01337)|**[link](https://github.com/mulab-mir/muchomusic)**|
 |**2024-08-05**|**Dissecting Dissonance: Benchmarking Large Multimodal Models Against Self-Contradictory Instructions**|Jin Gao et.al.|[2408.01091](http://arxiv.org/abs/2408.01091)|null|
 |**2024-08-02**|**GraphAge: Unleashing the power of Graph Neural Network to Decode Epigenetic Aging**|Saleh Sakib Ahmed et.al.|[2408.00984](http://arxiv.org/abs/2408.00984)|null|
 |**2024-08-01**|**MM-Vet v2: A Challenging Benchmark to Evaluate Large Multimodal Models for Integrated Capabilities**|Weihao Yu et.al.|[2408.00765](http://arxiv.org/abs/2408.00765)|null|
@@ -824,6 +836,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-10**|**Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks**|Yoav Gelberg et.al.|[2408.05496](http://arxiv.org/abs/2408.05496)|null|
 |**2024-08-09**|**Quasilinear parabolic equations with superlinear nonlinearities in critical spaces**|Bogdan-Vasile Matioc et.al.|[2408.05067](http://arxiv.org/abs/2408.05067)|null|
 |**2024-08-08**|**A framework for generalizing toric inequalities for holographic entanglement entropy**|Ning Bao et.al.|[2408.04741](http://arxiv.org/abs/2408.04741)|null|
 |**2024-08-07**|**Counterfactuals and Uncertainty-Based Explainable Paradigm for the Automated Detection and Segmentation of Renal Cysts in Computed Tomography Images: A Multi-Center Study**|Zohaib Salahuddin et.al.|[2408.03789](http://arxiv.org/abs/2408.03789)|null|
