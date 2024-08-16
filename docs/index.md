@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -636,7 +636,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-14**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
+|**2024-08-15**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
 |**2024-08-14**|**Modality Invariant Multimodal Learning to Handle Missing Modalities: A Single-Branch Approach**|Muhammad Saad Saeed et.al.|[2408.07445](http://arxiv.org/abs/2408.07445)|null|
 |**2024-08-14**|**Robust Semi-supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration**|Xiaogen Zhon et.al.|[2408.07341](http://arxiv.org/abs/2408.07341)|**[link](https://github.com/med-air/cmc)**|
 |**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
