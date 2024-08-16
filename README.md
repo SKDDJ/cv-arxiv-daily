@@ -159,6 +159,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Understanding the Local Geometry of Generative Model Manifolds**|Ahmed Imtiaz Humayun et.al.|[2408.08307](http://arxiv.org/abs/2408.08307)|null|
+|**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
+|**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276](http://arxiv.org/abs/2408.08276)|null|
+|**2024-08-15**|**mhGPT: A Lightweight Generative Pre-Trained Transformer for Mental Health Text Analysis**|Dae-young Kim et.al.|[2408.08261](http://arxiv.org/abs/2408.08261)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Picosecond laser pulses for quantum dot-microcavity based single photon generation by cascaded electro-optic modulation of a narrow-linewidth laser**|Mio Poortvliet et.al.|[2408.08213](http://arxiv.org/abs/2408.08213)|null|
+|**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184](http://arxiv.org/abs/2408.08184)|null|
+|**2024-08-15**|**Impact of Comprehensive Data Preprocessing on Predictive Modelling of COVID-19 Mortality**|Sangita Das et.al.|[2408.08142](http://arxiv.org/abs/2408.08142)|**[link](https://github.com/dassangita844/preprocessing_covid-19_dataset_india)**|
+|**2024-08-15**|**Decoding Memes: A Comparative Study of Machine Learning Models for Template Identification**|Levente Murgás et.al.|[2408.08126](http://arxiv.org/abs/2408.08126)|null|
+|**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](http://arxiv.org/abs/2408.08093)|null|
 |**2024-08-14**|**Detecting Near-Duplicate Face Images**|Sudipta Banerjee et.al.|[2408.07689](http://arxiv.org/abs/2408.07689)|**[link](https://github.com/sudban3089/detectingnear-duplicates)**|
 |**2024-08-14**|**Composing Automatic Differentiation with Custom Derivatives of Higher-Order Functions**|Sam Estep et.al.|[2408.07683](http://arxiv.org/abs/2408.07683)|null|
 |**2024-08-14**|**Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding**|Bing Hu et.al.|[2408.07636](http://arxiv.org/abs/2408.07636)|null|
@@ -636,6 +646,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981](http://arxiv.org/abs/2408.07981)|null|
 |**2024-08-15**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
 |**2024-08-14**|**Modality Invariant Multimodal Learning to Handle Missing Modalities: A Single-Branch Approach**|Muhammad Saad Saeed et.al.|[2408.07445](http://arxiv.org/abs/2408.07445)|null|
 |**2024-08-14**|**Robust Semi-supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration**|Xiaogen Zhon et.al.|[2408.07341](http://arxiv.org/abs/2408.07341)|**[link](https://github.com/med-air/cmc)**|
