@@ -159,6 +159,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Automated High-throughput Organic Crystal Structure Prediction via Population-based Sampling**|Qiang Zhu et.al.|[2408.08843](http://arxiv.org/abs/2408.08843)|null|
+|**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822](http://arxiv.org/abs/2408.08822)|null|
+|**2024-08-16**|**A Unified Automata-Theoretic Approach to LTLf Modulo Theories (Extended Version)**|Marco Faella et.al.|[2408.08817](http://arxiv.org/abs/2408.08817)|null|
+|**2024-08-16**|**EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics**|Chenwei Wan et.al.|[2408.08782](http://arxiv.org/abs/2408.08782)|null|
+|**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751](http://arxiv.org/abs/2408.08751)|null|
+|**2024-08-16**|**The Blessing of Strategic Customers in Personalized Pricing**|Zhi Chen et.al.|[2408.08738](http://arxiv.org/abs/2408.08738)|null|
+|**2024-08-16**|**ChatZero:Zero-shot Cross-Lingual Dialogue Generation via Pseudo-Target Language**|Yongkang Liu et.al.|[2408.08724](http://arxiv.org/abs/2408.08724)|null|
+|**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650](http://arxiv.org/abs/2408.08650)|null|
+|**2024-08-16**|**Modeling the Neonatal Brain Development Using Implicit Neural Representations**|Florentin Bieder et.al.|[2408.08647](http://arxiv.org/abs/2408.08647)|null|
+|**2024-08-16**|**Sampling effects on Lasso estimation of drift functions in high-dimensional diffusion processes**|Chiara Amorino et.al.|[2408.08638](http://arxiv.org/abs/2408.08638)|null|
 |**2024-08-15**|**Understanding the Local Geometry of Generative Model Manifolds**|Ahmed Imtiaz Humayun et.al.|[2408.08307](http://arxiv.org/abs/2408.08307)|null|
 |**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
 |**2024-08-15**|**Marker or Markerless? Mode-Switchable Optical Tactile Sensing for Diverse Robot Tasks**|Ni Ou et.al.|[2408.08276](http://arxiv.org/abs/2408.08276)|null|
@@ -646,6 +656,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**|Le Xue et.al.|[2408.08872](http://arxiv.org/abs/2408.08872)|null|
+|**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
 |**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981](http://arxiv.org/abs/2408.07981)|null|
 |**2024-08-15**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
 |**2024-08-14**|**Modality Invariant Multimodal Learning to Handle Missing Modalities: A Single-Branch Approach**|Muhammad Saad Saeed et.al.|[2408.07445](http://arxiv.org/abs/2408.07445)|null|
@@ -876,6 +888,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Onsager-Machlup functional for stochastic lattice dynamical systems driven by time-varying noise**|Xinze Zhang et.al.|[2408.08465](http://arxiv.org/abs/2408.08465)|null|
 |**2024-08-10**|**Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks**|Yoav Gelberg et.al.|[2408.05496](http://arxiv.org/abs/2408.05496)|null|
 |**2024-08-09**|**Quasilinear parabolic equations with superlinear nonlinearities in critical spaces**|Bogdan-Vasile Matioc et.al.|[2408.05067](http://arxiv.org/abs/2408.05067)|null|
 |**2024-08-08**|**A framework for generalizing toric inequalities for holographic entanglement entropy**|Ning Bao et.al.|[2408.04741](http://arxiv.org/abs/2408.04741)|null|
