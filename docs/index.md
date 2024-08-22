@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -170,7 +170,7 @@ layout: default
 |**2024-08-20**|**Full Detector Simulation of a Projective Dual-Readout Segmented Crystal Electromagnetic Calorimeter with Precision Timing**|Wonyong Chung et.al.|[2408.11027](http://arxiv.org/abs/2408.11027)|null|
 |**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
 |**2024-08-20**|**GreediRIS: Scalable Influence Maximization using Distributed Streaming Maximum Cover**|Reet Barik et.al.|[2408.10982](http://arxiv.org/abs/2408.10982)|null|
-|**2024-08-20**|**Assortment Planning Under History-Dependent Effects**|Taotao He et.al.|[2408.10967](http://arxiv.org/abs/2408.10967)|null|
+|**2024-08-21**|**Assortment Optimization Under History-Dependent Effects**|Taotao He et.al.|[2408.10967](http://arxiv.org/abs/2408.10967)|null|
 |**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
 |**2024-08-20**|**SysBench: Can Large Language Models Follow System Messages?**|Yanzhao Qin et.al.|[2408.10943](http://arxiv.org/abs/2408.10943)|**[link](https://github.com/pku-baichuan-mlsystemlab/sysbench)**|
 |**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|

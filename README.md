@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -157,7 +157,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -168,7 +168,7 @@
 |**2024-08-20**|**Full Detector Simulation of a Projective Dual-Readout Segmented Crystal Electromagnetic Calorimeter with Precision Timing**|Wonyong Chung et.al.|[2408.11027](http://arxiv.org/abs/2408.11027)|null|
 |**2024-08-20**|**MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning**|Haoning Wu et.al.|[2408.11001](http://arxiv.org/abs/2408.11001)|null|
 |**2024-08-20**|**GreediRIS: Scalable Influence Maximization using Distributed Streaming Maximum Cover**|Reet Barik et.al.|[2408.10982](http://arxiv.org/abs/2408.10982)|null|
-|**2024-08-20**|**Assortment Planning Under History-Dependent Effects**|Taotao He et.al.|[2408.10967](http://arxiv.org/abs/2408.10967)|null|
+|**2024-08-21**|**Assortment Optimization Under History-Dependent Effects**|Taotao He et.al.|[2408.10967](http://arxiv.org/abs/2408.10967)|null|
 |**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
 |**2024-08-20**|**SysBench: Can Large Language Models Follow System Messages?**|Yanzhao Qin et.al.|[2408.10943](http://arxiv.org/abs/2408.10943)|**[link](https://github.com/pku-baichuan-mlsystemlab/sysbench)**|
 |**2024-08-20**|**A Closer Look at Data Augmentation Strategies for Finetuning-Based Low/Few-Shot Object Detection**|Vladislav Li et.al.|[2408.10940](http://arxiv.org/abs/2408.10940)|null|
@@ -674,7 +674,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -912,7 +912,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -1046,7 +1046,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240821>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240822>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
