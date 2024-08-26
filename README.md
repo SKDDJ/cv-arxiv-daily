@@ -164,6 +164,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**How Diffusion Models Learn to Factorize and Compose**|Qiyao Liang et.al.|[2408.13256](http://arxiv.org/abs/2408.13256)|null|
+|**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
+|**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
+|**2024-08-23**|**Social Welfare Maximization for Federated Learning with Network Effects**|Xiang Li et.al.|[2408.13223](http://arxiv.org/abs/2408.13223)|null|
+|**2024-08-23**|**Instruct-DeBERTa: A Hybrid Approach for Aspect-based Sentiment Analysis on Textual Reviews**|Dineth Jayakody et.al.|[2408.13202](http://arxiv.org/abs/2408.13202)|null|
+|**2024-08-23**|**IFH: a Diffusion Framework for Flexible Design of Graph Generative Models**|Samuel Cognolato et.al.|[2408.13194](http://arxiv.org/abs/2408.13194)|null|
+|**2024-08-23**|**Deep Learning for Lung Disease Classification Using Transfer Learning and a Customized CNN Architecture with Attention**|Xiaoyi Liu et.al.|[2408.13180](http://arxiv.org/abs/2408.13180)|null|
+|**2024-08-23**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
+|**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092](http://arxiv.org/abs/2408.13092)|null|
+|**2024-08-23**|**General Intelligent Imaging and Uncertainty Quantification by Deterministic Diffusion Model**|Weiru Fan et.al.|[2408.13061](http://arxiv.org/abs/2408.13061)|null|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 |**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
 |**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|null|
@@ -701,6 +711,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Foundational Model for Electron Micrograph Analysis: Instruction-Tuning Small-Scale Language-and-Vision Assistant for Enterprise Adoption**|Sakhinana Sagar Srinivas et.al.|[2408.13248](http://arxiv.org/abs/2408.13248)|null|
+|**2024-08-23**|**Indoor scene recognition from images under visual corruptions**|Willams de Lima Costa et.al.|[2408.13029](http://arxiv.org/abs/2408.13029)|null|
+|**2024-08-23**|**Ada2I: Enhancing Modality Balance for Multimodal Conversational Emotion Recognition**|Cam-Van Thi Nguyen et.al.|[2408.12895](http://arxiv.org/abs/2408.12895)|null|
+|**2024-08-23**|**Has Multimodal Learning Delivered Universal Intelligence in Healthcare? A Comprehensive Survey**|Qika Lin et.al.|[2408.12880](http://arxiv.org/abs/2408.12880)|null|
+|**2024-08-22**|**Assessing Modality Bias in Video Question Answering Benchmarks with Multimodal Large Language Models**|Jean Park et.al.|[2408.12763](http://arxiv.org/abs/2408.12763)|null|
 |**2024-08-22**|**Integrating Audio, Visual, and Semantic Information for Enhanced Multimodal Speaker Diarization**|Luyao Cheng et.al.|[2408.12102](http://arxiv.org/abs/2408.12102)|null|
 |**2024-08-22**|**Mental-Perceiver: Audio-Textual Multimodal Learning for Mental Health Assessment**|Jinghui Qin et.al.|[2408.12088](http://arxiv.org/abs/2408.12088)|null|
 |**2024-08-21**|**GRAB: A Challenging GRaph Analysis Benchmark for Large Multimodal Models**|Jonathan Roberts et.al.|[2408.11817](http://arxiv.org/abs/2408.11817)|null|
@@ -946,7 +961,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|
+|**2024-08-23**|**Emergence of global receptive fields capturing multipartite quantum correlations**|Oleg M. Sotnikov et.al.|[2408.13033](http://arxiv.org/abs/2408.13033)|null|
+|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|[2408.12324](http://arxiv.org/abs/2408.12324)|null|
 |**2024-08-19**|**Unimodal sequences and mixed false theta functions**|Kevin Allen et.al.|[2408.09789](http://arxiv.org/abs/2408.09789)|null|
 |**2024-08-16**|**Onsager-Machlup functional for stochastic lattice dynamical systems driven by time-varying noise**|Xinze Zhang et.al.|[2408.08465](http://arxiv.org/abs/2408.08465)|null|
 |**2024-08-10**|**Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks**|Yoav Gelberg et.al.|[2408.05496](http://arxiv.org/abs/2408.05496)|null|
