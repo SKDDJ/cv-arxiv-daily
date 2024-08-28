@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Pre-training Everywhere: Parameter-Efficient Fine-Tuning for Medical Image Analysis via Target Parameter Pre-training**|Xingliang Lei et.al.|[2408.15011](http://arxiv.org/abs/2408.15011)|null|
+|**2024-08-27**|**CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task**|Lingyun Huang et.al.|[2408.14961](http://arxiv.org/abs/2408.14961)|null|
 |**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|**[link](https://github.com/Aradhye2002/selective-peft-toolkit)**|
 |**2024-08-24**|**Advancing Enterprise Spatio-Temporal Forecasting Applications: Data Mining Meets Instruction Tuning of Language Models For Multi-modal Time Series Analysis in Low-Resource Settings**|Sagar Srinivas Sakhinana et.al.|[2408.13622](http://arxiv.org/abs/2408.13622)|null|
 |**2024-08-21**|**Positional Prompt Tuning for Efficient 3D Representation Learning**|Shaochen Zhang et.al.|[2408.11567](http://arxiv.org/abs/2408.11567)|**[link](https://github.com/zsc000722/ppt)**|
@@ -166,6 +168,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
+|**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239](http://arxiv.org/abs/2408.15239)|null|
+|**2024-08-27**|**Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials**|Santosh Chhetri et.al.|[2408.15157](http://arxiv.org/abs/2408.15157)|null|
+|**2024-08-27**|**How transformers learn structured data: insights from hierarchical filtering**|Jerome Garnier-Brun et.al.|[2408.15138](http://arxiv.org/abs/2408.15138)|null|
+|**2024-08-27**|**DIFR3CT: Latent Diffusion for Probabilistic 3D CT Reconstruction from Few Planar X-Rays**|Yiran Sun et.al.|[2408.15118](http://arxiv.org/abs/2408.15118)|**[link](https://github.com/yransun/difr3ct)**|
+|**2024-08-27**|**Data-Driven Nonlinear Deformation Design of 3D-Printable Shells**|Samuel Silverman et.al.|[2408.15097](http://arxiv.org/abs/2408.15097)|**[link](https://github.com/samsilverman/nonlinear-deformation-design)**|
+|**2024-08-27**|**Constrained Diffusion Models via Dual Training**|Shervin Khalafi et.al.|[2408.15094](http://arxiv.org/abs/2408.15094)|null|
+|**2024-08-27**|**LN-Gen: Rectal Lymph Nodes Generation via Anatomical Features**|Weidong Guo et.al.|[2408.14977](http://arxiv.org/abs/2408.14977)|null|
+|**2024-08-27**|**MegActor- $Σ$ : Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer**|Shurong Yang et.al.|[2408.14975](http://arxiv.org/abs/2408.14975)|null|
+|**2024-08-27**|**Integrated Bundling and Pricing of Unique Items**|Maxime Bouscary et.al.|[2408.14913](http://arxiv.org/abs/2408.14913)|null|
 |**2024-08-26**|**K-Sort Arena: Efficient and Reliable Benchmarking for Generative Models via K-wise Human Preferences**|Zhikai Li et.al.|[2408.14468](http://arxiv.org/abs/2408.14468)|null|
 |**2024-08-26**|**Uncovering Knowledge Gaps in Radiology Report Generation Models through Knowledge Graphs**|Xiaoman Zhang et.al.|[2408.14397](http://arxiv.org/abs/2408.14397)|**[link](https://github.com/rajpurkarlab/rexkg)**|
 |**2024-08-26**|**Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14387](http://arxiv.org/abs/2408.14387)|null|
@@ -723,6 +735,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
+|**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
+|**2024-08-27**|**NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework**|Shuangchen Zhao et.al.|[2408.14950](http://arxiv.org/abs/2408.14950)|null|
+|**2024-08-26**|**MMR: Evaluating Reading Ability of Large Multimodal Models**|Jian Chen et.al.|[2408.14594](http://arxiv.org/abs/2408.14594)|null|
 |**2024-08-27**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
 |**2024-08-26**|**LMM-VQA: Advancing Video Quality Assessment with Large Multimodal Models**|Qihang Ge et.al.|[2408.14008](http://arxiv.org/abs/2408.14008)|null|
 |**2024-08-27**|**Quantum Multimodal Contrastive Learning Framework**|Chi-Sheng Chen et.al.|[2408.13919](http://arxiv.org/abs/2408.13919)|null|
