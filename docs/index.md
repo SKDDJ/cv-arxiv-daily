@@ -22,8 +22,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization**|Léo Hemamou et.al.|[2408.15801](http://arxiv.org/abs/2408.15801)|null|
+|**2024-08-27**|**GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs**|Maxim Zhelnin et.al.|[2408.15300](http://arxiv.org/abs/2408.15300)|**[link](https://github.com/On-Point-RND/GIFT_SW)**|
 |**2024-08-27**|**Pre-training Everywhere: Parameter-Efficient Fine-Tuning for Medical Image Analysis via Target Parameter Pre-training**|Xingliang Lei et.al.|[2408.15011](http://arxiv.org/abs/2408.15011)|null|
-|**2024-08-27**|**CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task**|Lingyun Huang et.al.|[2408.14961](http://arxiv.org/abs/2408.14961)|null|
+|**2024-08-27**|**CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task**|Lingyun Huang et.al.|[2408.14961](http://arxiv.org/abs/2408.14961)|**[link](https://github.com/xlgsyzp/cvpt)**|
 |**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|**[link](https://github.com/Aradhye2002/selective-peft-toolkit)**|
 |**2024-08-24**|**Advancing Enterprise Spatio-Temporal Forecasting Applications: Data Mining Meets Instruction Tuning of Language Models For Multi-modal Time Series Analysis in Low-Resource Settings**|Sagar Srinivas Sakhinana et.al.|[2408.13622](http://arxiv.org/abs/2408.13622)|null|
 |**2024-08-21**|**Positional Prompt Tuning for Efficient 3D Representation Learning**|Shaochen Zhang et.al.|[2408.11567](http://arxiv.org/abs/2408.11567)|**[link](https://github.com/zsc000722/ppt)**|
@@ -170,6 +172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**TEDRA: Text-based Editing of Dynamic and Photoreal Actors**|Basavaraj Sunagad et.al.|[2408.15995](http://arxiv.org/abs/2408.15995)|null|
+|**2024-08-28**|**Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation**|Shengyuan Zhang et.al.|[2408.15991](http://arxiv.org/abs/2408.15991)|**[link](https://github.com/syzhang0805/disback)**|
+|**2024-08-28**|**Thoughtseeds: Evolutionary Priors, Nested Markov Blankets, and the Emergence of Embodied Cognition**|Prakash Chandra Kavi et.al.|[2408.15982](http://arxiv.org/abs/2408.15982)|null|
+|**2024-08-28**|**Stability of Primal-Dual Gradient Flow Dynamics for Multi-Block Convex Optimization Problems**|Ibrahim K. Ozaslan et.al.|[2408.15969](http://arxiv.org/abs/2408.15969)|null|
+|**2024-08-28**|**MetaGFN: Exploring Distant Modes with Adapted Metadynamics for Continuous GFlowNets**|Dominic Phillips et.al.|[2408.15905](http://arxiv.org/abs/2408.15905)|null|
+|**2024-08-28**|**Gen-Swarms: Adapting Deep Generative Models to Swarms of Drones**|Carlos Plou et.al.|[2408.15899](http://arxiv.org/abs/2408.15899)|null|
+|**2024-08-28**|**Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation**|Reid Graves et.al.|[2408.15898](http://arxiv.org/abs/2408.15898)|null|
+|**2024-08-28**|**Disentangled Diffusion Autoencoder for Harmonization of Multi-site Neuroimaging Data**|Ayodeji Ijishakin et.al.|[2408.15890](http://arxiv.org/abs/2408.15890)|null|
+|**2024-08-28**|**Recent Decade's Power Outage Data Reveals the Increasing Vulnerability of U.S. Power Infrastructure**|Bo Li et.al.|[2408.15882](http://arxiv.org/abs/2408.15882)|null|
+|**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
 |**2024-08-27**|**GenRec: Unifying Video Generation and Recognition with Diffusion Models**|Zejia Weng et.al.|[2408.15241](http://arxiv.org/abs/2408.15241)|null|
 |**2024-08-27**|**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation**|Xiaojuan Wang et.al.|[2408.15239](http://arxiv.org/abs/2408.15239)|null|
 |**2024-08-27**|**Simulation of Stochastic Discrete Dislocation Dynamics in Ductile Vs Brittle Materials**|Santosh Chhetri et.al.|[2408.15157](http://arxiv.org/abs/2408.15157)|null|
@@ -735,6 +747,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**ModalityMirror: Improving Audio Classification in Modality Heterogeneity Federated Learning with Multimodal Distillation**|Tiantian Feng et.al.|[2408.15803](http://arxiv.org/abs/2408.15803)|null|
+|**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|Stefan Denner et.al.|[2408.15802](http://arxiv.org/abs/2408.15802)|null|
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
 |**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
 |**2024-08-27**|**NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework**|Shuangchen Zhao et.al.|[2408.14950](http://arxiv.org/abs/2408.14950)|null|
