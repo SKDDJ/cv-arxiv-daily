@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**MoRe Fine-Tuning with 10x Fewer Parameters**|Wenxuan Tan et.al.|[2408.17383](http://arxiv.org/abs/2408.17383)|**[link](https://github.com/sprocketlab/sparse_matrix_fine_tuning)**|
+|**2024-08-30**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-28**|**Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization**|Léo Hemamou et.al.|[2408.15801](http://arxiv.org/abs/2408.15801)|null|
 |**2024-08-27**|**GIFT-SW: Gaussian noise Injected Fine-Tuning of Salient Weights for LLMs**|Maxim Zhelnin et.al.|[2408.15300](http://arxiv.org/abs/2408.15300)|**[link](https://github.com/On-Point-RND/GIFT_SW)**|
 |**2024-08-27**|**Pre-training Everywhere: Parameter-Efficient Fine-Tuning for Medical Image Analysis via Target Parameter Pre-training**|Xingliang Lei et.al.|[2408.15011](http://arxiv.org/abs/2408.15011)|null|
@@ -172,6 +174,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes**|Li Zhang et.al.|[2408.17421](http://arxiv.org/abs/2408.17421)|**[link](https://github.com/importzl/semantic_segmentation)**|
+|**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362](http://arxiv.org/abs/2408.17362)|**[link](https://github.com/stefanolocci/LLMClassification)**|
+|**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
+|**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
+|**2024-08-30**|**Leveraging Deep Generative Model For Computational Protein Design And Optimization**|Boqiao Lai et.al.|[2408.17241](http://arxiv.org/abs/2408.17241)|null|
+|**2024-08-30**|**Towards Symbolic XAI -- Explanation Through Human Understandable Logical Relationships Between Features**|Thomas Schnake et.al.|[2408.17198](http://arxiv.org/abs/2408.17198)|null|
+|**2024-08-30**|**Leveraging Blockchain and ANFIS for Optimal Supply Chain Management**|Amirfarhad Farhadi et.al.|[2408.17161](http://arxiv.org/abs/2408.17161)|null|
+|**2024-08-30**|**Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning**|Xiaoye Qu et.al.|[2408.17150](http://arxiv.org/abs/2408.17150)|**[link](https://github.com/gasolsun36/mvp)**|
+|**2024-08-30**|**Flow Matching for Optimal Reaction Coordinates of Biomolecular System**|Mingyuan Zhang et.al.|[2408.17139](http://arxiv.org/abs/2408.17139)|**[link](https://github.com/Mingyuan00/Flow_Matching_for_RC)**|
+|**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765](http://arxiv.org/abs/2408.16765)|null|
@@ -757,6 +769,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios**|Baichuan Zhou et.al.|[2408.17267](http://arxiv.org/abs/2408.17267)|null|
 |**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577](http://arxiv.org/abs/2408.16577)|null|
 |**2024-08-29**|**Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**|Yifei Chen et.al.|[2408.16343](http://arxiv.org/abs/2408.16343)|**[link](https://github.com/justlfc03/mstnet)**|
 |**2024-08-28**|**Meta-Learn Unimodal Signals with Weak Supervision for Multimodal Sentiment Analysis**|Sijie Mai et.al.|[2408.16029](http://arxiv.org/abs/2408.16029)|null|
@@ -1020,8 +1033,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
 |**2024-08-23**|**Emergence of global receptive fields capturing multipartite quantum correlations**|Oleg M. Sotnikov et.al.|[2408.13033](http://arxiv.org/abs/2408.13033)|null|
-|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|
+|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|[2408.12324](http://arxiv.org/abs/2408.12324)|null|
 |**2024-08-19**|**Unimodal sequences and mixed false theta functions**|Kevin Allen et.al.|[2408.09789](http://arxiv.org/abs/2408.09789)|null|
 |**2024-08-16**|**Onsager-Machlup functional for stochastic lattice dynamical systems driven by time-varying noise**|Xinze Zhang et.al.|[2408.08465](http://arxiv.org/abs/2408.08465)|null|
 |**2024-08-10**|**Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks**|Yoav Gelberg et.al.|[2408.05496](http://arxiv.org/abs/2408.05496)|null|
