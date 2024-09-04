@@ -24,6 +24,10 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "PEFT":
         filters: ["Parameter-Efficient Fine-Tuning", "PEFT", "Low-Rank Adaptation", "Efficient Fine-Tuning"]
+    "Data Distillation":
+        filters: ["Data Distillation", "Knowledge Distillation", "Dataset Distillation", "Data-Efficient Learning", "Data-Efficient Training", "Data Condensation", "Core-set Selection", "Dataset Pruning", "Data-centric AI"]
+    "Schrodinger Bridge":
+        filters: ["Schrodinger Bridge", "Schrödinger Bridge", "Stochastic Control", "Optimal Transport", "Diffusion Models", "Stochastic Differential Equations", "Forward-Backward SDEs", "Reversible Diffusion Processes"]
     "Text-to-Image Generation":
         filters: ["Text-to-Image Generation", "Diffusion Models", "Customization", "Zero-Shot Learning", "Generative Models"]
     "Generative Weight Space Modeling":
