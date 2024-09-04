@@ -2,11 +2,6 @@
 layout: default
 ---
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2024.09.04
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +10,8 @@ layout: default
     <li><a href=#text-to-image-generation>Text-to-Image Generation</a></li>
     <li><a href=#vision-language-models>Vision-Language Models</a></li>
     <li><a href=#generative-weight-space-modeling>Generative Weight Space Modeling</a></li>
+    <li><a href=#data-distillation>Data Distillation</a></li>
+    <li><a href=#schrodinger-bridge>Schrodinger Bridge</a></li>
   </ol>
 </details>
 
@@ -36,7 +33,7 @@ layout: default
 |**2024-08-19**|**TeamLoRA: Boosting Low-Rank Adaptation with Expert Collaboration and Competition**|Tianwei Lin et.al.|[2408.09856](http://arxiv.org/abs/2408.09856)|**[link](https://github.com/lin-tianwei/teamlora)**|
 |**2024-08-16**|**Learning to Route for Dynamic Adapter Composition in Continual Learning with Language Models**|Vladimir Araujo et.al.|[2408.09053](http://arxiv.org/abs/2408.09053)|null|
 |**2024-08-14**|**KIND: Knowledge Integration and Diversion in Diffusion Models**|Yucheng Xie et.al.|[2408.07337](http://arxiv.org/abs/2408.07337)|null|
-|**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
+|**2024-08-30**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
 |**2024-08-08**|**Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models**|Yupeng Chang et.al.|[2408.04556](http://arxiv.org/abs/2408.04556)|**[link](https://github.com/cyp-jlu-ai/ba-lora)**|
 |**2024-08-06**|**SARA: Singular-Value Based Adaptive Low-Rank Adaption**|Jihao Gu et.al.|[2408.03290](http://arxiv.org/abs/2408.03290)|null|
 |**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172](http://arxiv.org/abs/2408.03172)|null|
@@ -184,6 +181,11 @@ layout: default
 |**2024-08-30**|**Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning**|Xiaoye Qu et.al.|[2408.17150](http://arxiv.org/abs/2408.17150)|**[link](https://github.com/gasolsun36/mvp)**|
 |**2024-08-30**|**Flow Matching for Optimal Reaction Coordinates of Biomolecular System**|Mingyuan Zhang et.al.|[2408.17139](http://arxiv.org/abs/2408.17139)|**[link](https://github.com/Mingyuan00/Flow_Matching_for_RC)**|
 |**2024-08-30**|**Temporal and Interactive Modeling for Efficient Human-Human Motion Generation**|Yabiao Wang et.al.|[2408.17135](http://arxiv.org/abs/2408.17135)|null|
+|**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
+|**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
+|**2024-08-30**|**Approximately Invertible Neural Network for Learned Image Compression**|Yanbo Gao et.al.|[2408.17073](http://arxiv.org/abs/2408.17073)|null|
+|**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
+|**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
 |**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
 |**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
 |**2024-08-29**|**A Score-Based Density Formula, with Applications in Diffusion Generative Models**|Gen Li et.al.|[2408.16765](http://arxiv.org/abs/2408.16765)|null|
@@ -779,7 +781,7 @@ layout: default
 |**2024-08-27**|**The Benefits of Balance: From Information Projections to Variance Reduction**|Lang Liu et.al.|[2408.15065](http://arxiv.org/abs/2408.15065)|null|
 |**2024-08-27**|**NeuralOOD: Improving Out-of-Distribution Generalization Performance with Brain-machine Fusion Learning Framework**|Shuangchen Zhao et.al.|[2408.14950](http://arxiv.org/abs/2408.14950)|null|
 |**2024-08-26**|**MMR: Evaluating Reading Ability of Large Multimodal Models**|Jian Chen et.al.|[2408.14594](http://arxiv.org/abs/2408.14594)|null|
-|**2024-08-27**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
+|**2024-09-03**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
 |**2024-08-26**|**LMM-VQA: Advancing Video Quality Assessment with Large Multimodal Models**|Qihang Ge et.al.|[2408.14008](http://arxiv.org/abs/2408.14008)|null|
 |**2024-08-27**|**Quantum Multimodal Contrastive Learning Framework**|Chi-Sheng Chen et.al.|[2408.13919](http://arxiv.org/abs/2408.13919)|null|
 |**2024-08-25**|**Tangram: A Challenging Benchmark for Geometric Element Recognizing**|Jiamin Tang et.al.|[2408.13854](http://arxiv.org/abs/2408.13854)|null|
@@ -1164,12 +1166,43 @@ layout: default
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+## Data Distillation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**How Knowledge Distillation Mitigates the Synthetic Gap in Fair Face Recognition**|Pedro C. Neto et.al.|[2408.17399](http://arxiv.org/abs/2408.17399)|**[link](https://github.com/ivonacolakovic/synthgap-mitigation-using-kd-in-ffr)**|
+|**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
+|**2024-08-29**|**VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition**|Zaiwei Zhang et.al.|[2408.16930](http://arxiv.org/abs/2408.16930)|null|
+|**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737](http://arxiv.org/abs/2408.16737)|null|
+|**2024-08-29**|**MST-KD: Multiple Specialized Teachers Knowledge Distillation for Fair Face Recognition**|Eduarda Caldeira et.al.|[2408.16563](http://arxiv.org/abs/2408.16563)|**[link](https://github.com/eduardacaldeira/mst-kd)**|
+|**2024-08-29**|**UDD: Dataset Distillation via Mining Underutilized Regions**|Shiguang Wang et.al.|[2408.16268](http://arxiv.org/abs/2408.16268)|null|
+|**2024-08-29**|**Neural Spectral Decomposition for Dataset Distillation**|Shaolei Yang et.al.|[2408.16236](http://arxiv.org/abs/2408.16236)|null|
+|**2024-08-28**|**EMP: Enhance Memory in Data Pruning**|Jinying Xiao et.al.|[2408.16031](http://arxiv.org/abs/2408.16031)|null|
+|**2024-08-28**|**LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**|Fangxun Shu et.al.|[2408.15881](http://arxiv.org/abs/2408.15881)|**[link](https://github.com/shufangxun/llava-mod)**|
+|**2024-08-28**|**ModalityMirror: Improving Audio Classification in Modality Heterogeneity Federated Learning with Multimodal Distillation**|Tiantian Feng et.al.|[2408.15803](http://arxiv.org/abs/2408.15803)|null|
+|**2024-08-28**|**Online pre-training with long-form videos**|Itsuki Kato et.al.|[2408.15651](http://arxiv.org/abs/2408.15651)|null|
+|**2024-08-28**|**Boosting Lossless Speculative Decoding via Feature Sampling and Partial Alignment Distillation**|Lujun Gui et.al.|[2408.15562](http://arxiv.org/abs/2408.15562)|null|
+|**2024-08-27**|**Leveraging Self-supervised Audio Representations for Data-Efficient Acoustic Scene Classification**|Yiqiang Cai et.al.|[2408.14862](http://arxiv.org/abs/2408.14862)|null|
+|**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
+|**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
+
+## Schrodinger Bridge
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
+|**2024-08-30**|**Likelihood estimation for stochastic differential equations with mixed effects**|Fernando Baltazar-Larios et.al.|[2408.17257](http://arxiv.org/abs/2408.17257)|null|
+|**2024-08-30**|**The random periodic solutions for McKean-Vlasov stochastic differential equations**|Jianhai Bao et.al.|[2408.17242](http://arxiv.org/abs/2408.17242)|null|
+|**2024-08-30**|**A methodological framework for Resilience as a Service (RaaS) in multimodal urban transportation networks**|Sara Jaber et.al.|[2408.17233](http://arxiv.org/abs/2408.17233)|null|
+|**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
+|**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
+|**2024-08-30**|**Text-to-Image Generation Via Energy-Based CLIP**|Roy Ganz et.al.|[2408.17046](http://arxiv.org/abs/2408.17046)|null|
+|**2024-08-30**|**High-fidelity holographic beam shaping with optimal transport and phase diversity**|Hunter Swan et.al.|[2408.17025](http://arxiv.org/abs/2408.17025)|null|
+|**2024-08-30**|**Contrastive Learning with Synthetic Positives**|Dewen Zeng et.al.|[2408.16965](http://arxiv.org/abs/2408.16965)|**[link](https://github.com/dewenzeng/clsp)**|
+|**2024-09-02**|**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis**|Theodoros Kouzelis et.al.|[2408.16845](http://arxiv.org/abs/2408.16845)|null|
+|**2024-08-29**|**ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**|Fangfu Liu et.al.|[2408.16767](http://arxiv.org/abs/2408.16767)|null|
+|**2024-08-29**|**CSGO: Content-Style Composition in Text-to-Image Generation**|Peng Xing et.al.|[2408.16766](http://arxiv.org/abs/2408.16766)|null|
+|**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647](http://arxiv.org/abs/2408.16647)|null|
+|**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
+|**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
