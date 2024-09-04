@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2024.09.04
 <details>
   <summary>Table of Contents</summary>
