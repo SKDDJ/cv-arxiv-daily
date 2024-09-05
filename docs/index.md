@@ -19,6 +19,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838](http://arxiv.org/abs/2409.02838)|null|
+|**2024-09-04**|**Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs**|Ruoyu Wang et.al.|[2409.02686](http://arxiv.org/abs/2409.02686)|null|
+|**2024-09-04**|**Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA**|Shuangyi Chen et.al.|[2409.02346](http://arxiv.org/abs/2409.02346)|null|
+|**2024-09-02**|**Unleashing the Power of Task-Specific Directions in Parameter Efficient Fine-tuning**|Chongjie Si et.al.|[2409.01035](http://arxiv.org/abs/2409.01035)|**[link](https://github.com/Chongjie-Si/Subspace-Tuning)**|
+|**2024-08-28**|**3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability**|Baohao Liao et.al.|[2409.00119](http://arxiv.org/abs/2409.00119)|null|
+|**2024-08-21**|**SORSA: Singular Values and Orthonormal Regularized Singular Vectors Adaptation of Large Language Models**|Yang Cao et.al.|[2409.00055](http://arxiv.org/abs/2409.00055)|**[link](https://github.com/Gunale0926/SORSA)**|
 |**2024-08-30**|**MoRe Fine-Tuning with 10x Fewer Parameters**|Wenxuan Tan et.al.|[2408.17383](http://arxiv.org/abs/2408.17383)|**[link](https://github.com/sprocketlab/sparse_matrix_fine_tuning)**|
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-28**|**Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization**|Léo Hemamou et.al.|[2408.15801](http://arxiv.org/abs/2408.15801)|null|
@@ -171,6 +177,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
+|**2024-09-04**|**Latent Watermarking of Audio Generative Models**|Robin San Roman et.al.|[2409.02915](http://arxiv.org/abs/2409.02915)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**Look Into the LITE in Deep Learning for Time Series Classification**|Ali Ismail-Fawaz et.al.|[2409.02869](http://arxiv.org/abs/2409.02869)|null|
+|**2024-09-04**|**Building a Scalable, Effective, and Steerable Search and Ranking Platform**|Marjan Celikik et.al.|[2409.02856](http://arxiv.org/abs/2409.02856)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Anomaly Detection in Offshore Open Radio Access Network Using Long Short-Term Memory Models on a Novel Artificial Intelligence-Driven Cloud-Native Data Platform**|Abdelrahim Ahmad et.al.|[2409.02849](http://arxiv.org/abs/2409.02849)|null|
+|**2024-09-04**|**Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model**|Tornike Karchkhadze et.al.|[2409.02845](http://arxiv.org/abs/2409.02845)|null|
+|**2024-09-04**|**SNNAX -- Spiking Neural Networks in JAX**|Jamie Lohoff et.al.|[2409.02842](http://arxiv.org/abs/2409.02842)|null|
+|**2024-09-04**|**Experimental Framework for Generating Reliable Ground Truth for Laryngeal Spatial Segmentation Tasks**|Hamzeh Ghasemzadeh et.al.|[2409.02809](http://arxiv.org/abs/2409.02809)|null|
+|**2024-09-04**|**Creating a Gen-AI based Track and Trace Assistant MVP (SuperTracy) for PostNL**|Mohammad Reshadati et.al.|[2409.02711](http://arxiv.org/abs/2409.02711)|null|
+|**2024-09-04**|**Rethinking HTG Evaluation: Bridging Generation and Recognition**|Konstantina Nikolaidou et.al.|[2409.02683](http://arxiv.org/abs/2409.02683)|null|
+|**2024-09-04**|**Introduction to Machine Learning**|Laurent Younes et.al.|[2409.02668](http://arxiv.org/abs/2409.02668)|null|
+|**2024-09-04**|**Creating Domain-Specific Translation Memories for Machine Translation Fine-tuning: The TRENCARD Bilingual Cardiology Corpus**|Gokhan Dogru et.al.|[2409.02667](http://arxiv.org/abs/2409.02667)|null|
 |**2024-08-30**|**Generative AI Enables Medical Image Segmentation in Ultra Low-Data Regimes**|Li Zhang et.al.|[2408.17421](http://arxiv.org/abs/2408.17421)|**[link](https://github.com/importzl/semantic_segmentation)**|
 |**2024-08-30**|**Assessing Generative Language Models in Classification Tasks: Performance and Self-Evaluation Capabilities in the Environmental and Climate Change Domain**|Francesca Grasso et.al.|[2408.17362](http://arxiv.org/abs/2408.17362)|**[link](https://github.com/stefanolocci/LLMClassification)**|
 |**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
@@ -771,6 +792,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
+|**2024-09-04**|**MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**|Xiang Yue et.al.|[2409.02813](http://arxiv.org/abs/2409.02813)|null|
+|**2024-09-04**|**Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models**|Chih-Yuan Li et.al.|[2409.02530](http://arxiv.org/abs/2409.02530)|null|
+|**2024-09-03**|**Blocks as Probes: Dissecting Categorization Ability of Large Multimodal Models**|Bin Fu et.al.|[2409.01560](http://arxiv.org/abs/2409.01560)|null|
+|**2024-09-03**|**Think Twice Before Recognizing: Large Multimodal Models for General Fine-grained Traffic Sign Recognition**|Yaozong Gan et.al.|[2409.01534](http://arxiv.org/abs/2409.01534)|null|
+|**2024-09-02**|**Towards General Industrial Intelligence: A Survey on IIoT-Enhanced Continual Large Models**|Jiao Chen et.al.|[2409.01207](http://arxiv.org/abs/2409.01207)|null|
+|**2024-09-02**|**Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information**|Yi Chen et.al.|[2409.01179](http://arxiv.org/abs/2409.01179)|null|
+|**2024-08-31**|**Comparative Analysis of Modality Fusion Approaches for Audio-Visual Person Identification and Verification**|Aref Farhadipour et.al.|[2409.00562](http://arxiv.org/abs/2409.00562)|null|
 |**2024-08-30**|**UrBench: A Comprehensive Benchmark for Evaluating Large Multimodal Models in Multi-View Urban Scenarios**|Baichuan Zhou et.al.|[2408.17267](http://arxiv.org/abs/2408.17267)|null|
 |**2024-08-29**|**Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning**|Boyu Chen et.al.|[2408.16577](http://arxiv.org/abs/2408.16577)|null|
 |**2024-08-29**|**Toward Robust Early Detection of Alzheimer's Disease via an Integrated Multimodal Learning Approach**|Yifei Chen et.al.|[2408.16343](http://arxiv.org/abs/2408.16343)|**[link](https://github.com/justlfc03/mstnet)**|
@@ -1035,6 +1064,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
+|**2024-09-02**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
 |**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
 |**2024-08-23**|**Emergence of global receptive fields capturing multipartite quantum correlations**|Oleg M. Sotnikov et.al.|[2408.13033](http://arxiv.org/abs/2408.13033)|null|
 |**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|[2408.12324](http://arxiv.org/abs/2408.12324)|null|
@@ -1170,6 +1201,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Efficient Image_Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
+|**2024-09-04**|**CLDA: Collaborative Learning for Enhanced Unsupervised Domain Adaptation**|Minhee Cho et.al.|[2409.02699](http://arxiv.org/abs/2409.02699)|null|
+|**2024-09-04**|**Low-Resolution Object Recognition with Cross-Resolution Relational Contrastive Distillation**|Kangkai Zhang et.al.|[2409.02555](http://arxiv.org/abs/2409.02555)|null|
+|**2024-09-04**|**A design of magnetic tunnel junctions for the deployment of neuromorphic hardware for edge computing**|Davi Rodrigues et.al.|[2409.02528](http://arxiv.org/abs/2409.02528)|null|
+|**2024-09-04**|**Non-target Divergence Hypothesis: Toward Understanding Domain Gaps in Cross-Modal Knowledge Distillation**|Yilong Chen et.al.|[2409.02438](http://arxiv.org/abs/2409.02438)|null|
+|**2024-09-03**|**Low-Resolution Face Recognition via Adaptable Instance-Relation Distillation**|Ruixin Shi et.al.|[2409.02049](http://arxiv.org/abs/2409.02049)|null|
+|**2024-09-03**|**Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**|Qiang Zheng et.al.|[2409.02020](http://arxiv.org/abs/2409.02020)|null|
+|**2024-09-03**|**Contemporary Model Compression on Large Language Models Inference**|Dong Liu et.al.|[2409.01990](http://arxiv.org/abs/2409.01990)|null|
+|**2024-09-03**|**Adaptive Explicit Knowledge Transfer for Knowledge Distillation**|Hyungkeun Park et.al.|[2409.01679](http://arxiv.org/abs/2409.01679)|null|
+|**2024-09-03**|**Improving Apple Object Detection with Occlusion-Enhanced Distillation**|Liang Geng et.al.|[2409.01573](http://arxiv.org/abs/2409.01573)|null|
+|**2024-09-02**|**Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning**|Vyacheslav Kungurtsev et.al.|[2409.01410](http://arxiv.org/abs/2409.01410)|null|
+|**2024-09-02**|**MobileIQA: Exploiting Mobile-level Diverse Opinion Network For No-Reference Image Quality Assessment Using Knowledge Distillation**|Zewen Chen et.al.|[2409.01212](http://arxiv.org/abs/2409.01212)|**[link](https://github.com/chencn2020/mobileiqa)**|
+|**2024-09-04**|**Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning**|Jinglin Liang et.al.|[2409.01128](http://arxiv.org/abs/2409.01128)|**[link](https://github.com/jinglin-liang/dddr)**|
+|**2024-09-02**|**Compressing VAE-Based Out-of-Distribution Detectors for Embedded Deployment**|Aditya Bansal et.al.|[2409.00880](http://arxiv.org/abs/2409.00880)|null|
+|**2024-09-01**|**LanguaShrink: Reducing Token Overhead with Psycholinguistics**|Xuechen Liang et.al.|[2409.00855](http://arxiv.org/abs/2409.00855)|null|
 |**2024-08-30**|**How Knowledge Distillation Mitigates the Synthetic Gap in Fair Face Recognition**|Pedro C. Neto et.al.|[2408.17399](http://arxiv.org/abs/2408.17399)|**[link](https://github.com/ivonacolakovic/synthgap-mitigation-using-kd-in-ffr)**|
 |**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-29**|**VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition**|Zaiwei Zhang et.al.|[2408.16930](http://arxiv.org/abs/2408.16930)|null|
@@ -1190,6 +1236,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
+|**2024-09-04**|**Multi-Track MusicLDM: Towards Versatile Music Generation with Latent Diffusion Model**|Tornike Karchkhadze et.al.|[2409.02845](http://arxiv.org/abs/2409.02845)|null|
+|**2024-09-04**|**Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects**|Kyungmin Jo et.al.|[2409.02653](http://arxiv.org/abs/2409.02653)|null|
+|**2024-09-04**|**MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos**|Junyi Ma et.al.|[2409.02638](http://arxiv.org/abs/2409.02638)|null|
+|**2024-09-04**|**Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency**|Jianwen Jiang et.al.|[2409.02634](http://arxiv.org/abs/2409.02634)|null|
+|**2024-09-04**|**Rate-Adaptive Generative Semantic Communication Using Conditional Diffusion Models**|Pujing Yang et.al.|[2409.02597](http://arxiv.org/abs/2409.02597)|null|
+|**2024-09-04**|**Solving Video Inverse Problems Using Image Diffusion Models**|Taesung Kwon et.al.|[2409.02574](http://arxiv.org/abs/2409.02574)|null|
+|**2024-09-04**|**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models**|Wen Li et.al.|[2409.02543](http://arxiv.org/abs/2409.02543)|**[link](https://github.com/alipay/style-tokenizer)**|
+|**2024-09-04**|**Sample what you cant compress**|Vighnesh Birodkar et.al.|[2409.02529](http://arxiv.org/abs/2409.02529)|null|
+|**2024-09-04**|**Continual Diffuser (CoD): Mastering Continual Offline Reinforcement Learning with Experience Rehearsal**|Jifeng Hu et.al.|[2409.02512](http://arxiv.org/abs/2409.02512)|null|
+|**2024-09-04**|**Demographic parity in regression and classification within the unawareness framework**|Vincent Divol et.al.|[2409.02471](http://arxiv.org/abs/2409.02471)|null|
+|**2024-09-04**|**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2409.02429](http://arxiv.org/abs/2409.02429)|null|
+|**2024-09-04**|**Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering**|Peng Wang et.al.|[2409.02426](http://arxiv.org/abs/2409.02426)|null|
 |**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
 |**2024-08-30**|**Likelihood estimation for stochastic differential equations with mixed effects**|Fernando Baltazar-Larios et.al.|[2408.17257](http://arxiv.org/abs/2408.17257)|null|
 |**2024-08-30**|**The random periodic solutions for McKean-Vlasov stochastic differential equations**|Jianhai Bao et.al.|[2408.17242](http://arxiv.org/abs/2408.17242)|null|
