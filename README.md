@@ -1,4 +1,4 @@
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -169,12 +169,27 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild**|Yuntian Deng et.al.|[2409.03753](http://arxiv.org/abs/2409.03753)|null|
+|**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745](http://arxiv.org/abs/2409.03745)|null|
+|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
+|**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644](http://arxiv.org/abs/2409.03644)|null|
+|**2024-09-05**|**DiffEVC: Any-to-Any Emotion Voice Conversion with Expressive Guidance**|Hsing-Hang Chou et.al.|[2409.03636](http://arxiv.org/abs/2409.03636)|null|
+|**2024-09-05**|**Generalizing Linear Graphs and Bond Graph Models with Hetero-functional Graphs for System-of-Systems Engineering Applications**|Ehsanoddin Ghorbanichemazkati et.al.|[2409.03630](http://arxiv.org/abs/2409.03630)|null|
+|**2024-09-05**|**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**|Bernardo Biesseck et.al.|[2409.03600](http://arxiv.org/abs/2409.03600)|**[link](https://github.com/bovifocr/tcdiff)**|
+|**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550](http://arxiv.org/abs/2409.03550)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$ CDM. 2. Results from non-standard simulations**|Euclid Collaboration et.al.|[2409.03523](http://arxiv.org/abs/2409.03523)|null|
+|**2024-09-05**|**Blended Latent Diffusion under Attention Control for Real-World Video Editing**|Deyin Liu et.al.|[2409.03514](http://arxiv.org/abs/2409.03514)|null|
+|**2024-09-05**|**Physical Modelling of Piano Sound**|Haifan Xie et.al.|[2409.03481](http://arxiv.org/abs/2409.03481)|null|
+|**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455](http://arxiv.org/abs/2409.03455)|null|
+|**2024-09-05**|**Rx Strategist: Prescription Verification using LLM Agents System**|Phuc Phan Van et.al.|[2409.03440](http://arxiv.org/abs/2409.03440)|null|
+|**2024-09-05**|**KiloBot: A Programming Language for Deploying Perception-Guided Industrial Manipulators at Scale**|Wei Gao et.al.|[2409.03439](http://arxiv.org/abs/2409.03439)|null|
 |**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
 |**2024-09-04**|**Latent Watermarking of Audio Generative Models**|Robin San Roman et.al.|[2409.02915](http://arxiv.org/abs/2409.02915)|null|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
@@ -786,7 +801,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1060,7 +1075,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -1199,13 +1214,15 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## Data Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-04**|**Efficient Image_Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
+|**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550](http://arxiv.org/abs/2409.03550)|null|
+|**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455](http://arxiv.org/abs/2409.03455)|null|
+|**2024-09-05**|**Efficient Image Compression Using Advanced State Space Models**|Bouzid Arezki et.al.|[2409.02743](http://arxiv.org/abs/2409.02743)|null|
 |**2024-09-04**|**CLDA: Collaborative Learning for Enhanced Unsupervised Domain Adaptation**|Minhee Cho et.al.|[2409.02699](http://arxiv.org/abs/2409.02699)|null|
 |**2024-09-04**|**Low-Resolution Object Recognition with Cross-Resolution Relational Contrastive Distillation**|Kangkai Zhang et.al.|[2409.02555](http://arxiv.org/abs/2409.02555)|null|
 |**2024-09-04**|**A design of magnetic tunnel junctions for the deployment of neuromorphic hardware for edge computing**|Davi Rodrigues et.al.|[2409.02528](http://arxiv.org/abs/2409.02528)|null|
@@ -1213,7 +1230,7 @@
 |**2024-09-03**|**Low-Resolution Face Recognition via Adaptable Instance-Relation Distillation**|Ruixin Shi et.al.|[2409.02049](http://arxiv.org/abs/2409.02049)|null|
 |**2024-09-03**|**Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique**|Qiang Zheng et.al.|[2409.02020](http://arxiv.org/abs/2409.02020)|null|
 |**2024-09-03**|**Contemporary Model Compression on Large Language Models Inference**|Dong Liu et.al.|[2409.01990](http://arxiv.org/abs/2409.01990)|null|
-|**2024-09-03**|**Adaptive Explicit Knowledge Transfer for Knowledge Distillation**|Hyungkeun Park et.al.|[2409.01679](http://arxiv.org/abs/2409.01679)|null|
+|**2024-09-05**|**Adaptive Explicit Knowledge Transfer for Knowledge Distillation**|Hyungkeun Park et.al.|[2409.01679](http://arxiv.org/abs/2409.01679)|null|
 |**2024-09-03**|**Improving Apple Object Detection with Occlusion-Enhanced Distillation**|Liang Geng et.al.|[2409.01573](http://arxiv.org/abs/2409.01573)|null|
 |**2024-09-02**|**Dataset Distillation from First Principles: Integrating Core Information Extraction and Purposeful Learning**|Vyacheslav Kungurtsev et.al.|[2409.01410](http://arxiv.org/abs/2409.01410)|null|
 |**2024-09-02**|**MobileIQA: Exploiting Mobile-level Diverse Opinion Network For No-Reference Image Quality Assessment Using Knowledge Distillation**|Zewen Chen et.al.|[2409.01212](http://arxiv.org/abs/2409.01212)|**[link](https://github.com/chencn2020/mobileiqa)**|
@@ -1236,12 +1253,27 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**ArtiFade: Learning to Generate High-quality Subject from Blemished Images**|Shuya Yang et.al.|[2409.03745](http://arxiv.org/abs/2409.03745)|null|
+|**2024-09-05**|**Quantum optimal transport with convex regularization**|Emanuele Caputo et.al.|[2409.03698](http://arxiv.org/abs/2409.03698)|null|
+|**2024-09-05**|**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images**|Benzhi Wang et.al.|[2409.03644](http://arxiv.org/abs/2409.03644)|null|
+|**2024-09-05**|**DiffEVC: Any-to-Any Emotion Voice Conversion with Expressive Guidance**|Hsing-Hang Chou et.al.|[2409.03636](http://arxiv.org/abs/2409.03636)|null|
+|**2024-09-05**|**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**|Bernardo Biesseck et.al.|[2409.03600](http://arxiv.org/abs/2409.03600)|**[link](https://github.com/bovifocr/tcdiff)**|
+|**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550](http://arxiv.org/abs/2409.03550)|null|
+|**2024-09-05**|**On the mean field limit of consensus based methods**|Marvin Koß et.al.|[2409.03518](http://arxiv.org/abs/2409.03518)|null|
+|**2024-09-05**|**Blended Latent Diffusion under Attention Control for Real-World Video Editing**|Deyin Liu et.al.|[2409.03514](http://arxiv.org/abs/2409.03514)|null|
+|**2024-09-05**|**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration**|Pei Wang et.al.|[2409.03455](http://arxiv.org/abs/2409.03455)|null|
+|**2024-09-05**|**Recursive Quantization for $\mathcal{L}_2$ Stabilization of a Finite Capacity Stochastic Control Loop with Intermittent State Observations**|Shrija Karmakar et.al.|[2409.03398](http://arxiv.org/abs/2409.03398)|null|
+|**2024-09-05**|**Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning**|Huaxi Huang et.al.|[2409.03326](http://arxiv.org/abs/2409.03326)|null|
+|**2024-09-05**|**SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**|Weipeng Tan et.al.|[2409.03270](http://arxiv.org/abs/2409.03270)|null|
+|**2024-09-05**|**RoomDiffusion: A Specialized Diffusion Model in the Interior Design Industry**|Zhaowei Wang et.al.|[2409.03198](http://arxiv.org/abs/2409.03198)|null|
+|**2024-09-04**|**Spatial Diffusion for Cell Layout Generation**|Chen Li et.al.|[2409.03106](http://arxiv.org/abs/2409.03106)|**[link](https://github.com/superlc1995/diffusion-cell)**|
 |**2024-09-04**|**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts**|Xinyu Liu et.al.|[2409.02919](http://arxiv.org/abs/2409.02919)|**[link](https://github.com/Liuxinyv/HiPrompt)**|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
 |**2024-09-04**|**Human-VDM: Learning Single-Image 3D Human Gaussian Splatting from Video Diffusion Models**|Zhibin Liu et.al.|[2409.02851](http://arxiv.org/abs/2409.02851)|null|
@@ -1273,5 +1305,5 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240906>back to top</a>)</p>
 
