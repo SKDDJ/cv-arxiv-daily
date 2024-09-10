@@ -19,6 +19,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**Improving Multimodal Emotion Recognition by Leveraging Acoustic Adaptation and Visual Alignment**|Zhixian zhao et.al.|[2409.05015](http://arxiv.org/abs/2409.05015)|null|
+|**2024-09-06**|**Customizing Large Language Model Generation Style using Parameter-Efficient Finetuning**|Xinyue Liu et.al.|[2409.04574](http://arxiv.org/abs/2409.04574)|null|
 |**2024-09-04**|**iConFormer: Dynamic Parameter-Efficient Tuning with Input-Conditioned Adaptation**|Hayeon Jo et.al.|[2409.02838](http://arxiv.org/abs/2409.02838)|null|
 |**2024-09-04**|**Deconfounded Causality-aware Parameter-Efficient Fine-Tuning for Problem-Solving Improvement of LLMs**|Ruoyu Wang et.al.|[2409.02686](http://arxiv.org/abs/2409.02686)|null|
 |**2024-09-04**|**Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA**|Shuangyi Chen et.al.|[2409.02346](http://arxiv.org/abs/2409.02346)|null|
@@ -177,6 +179,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Fast Generation of Custom Floating-Point Spatial Filters on FPGAs**|Nelson Campos et.al.|[2409.05837](http://arxiv.org/abs/2409.05837)|null|
+|**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798](http://arxiv.org/abs/2409.05798)|null|
+|**2024-09-09**|**Predicting Critical Heat Flux with Uncertainty Quantification and Domain Generalization Using Conditional Variational Autoencoders and Deep Neural Networks**|Farah Alsafadi et.al.|[2409.05790](http://arxiv.org/abs/2409.05790)|null|
+|**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784](http://arxiv.org/abs/2409.05784)|null|
+|**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
+|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701](http://arxiv.org/abs/2409.05701)|null|
+|**2024-09-09**|**Citizen-Led Personalization of User Interfaces: Investigating How People Customize Interfaces for Themselves and Others**|Sérgio Alves et.al.|[2409.05696](http://arxiv.org/abs/2409.05696)|null|
+|**2024-09-09**|**Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for Unlearning in Diffusion Models**|Aakash Sen Sharma et.al.|[2409.05668](http://arxiv.org/abs/2409.05668)|null|
+|**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622](http://arxiv.org/abs/2409.05622)|null|
+|**2024-09-09**|**CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization**|Nan Chen et.al.|[2409.05606](http://arxiv.org/abs/2409.05606)|null|
+|**2024-09-09**|**Latent 3D Brain MRI Counterfactual**|Wei Peng et.al.|[2409.05585](http://arxiv.org/abs/2409.05585)|null|
+|**2024-09-09**|**Spatially-Aware Speaker for Vision-and-Language Navigation Instruction Generation**|Muraleekrishna Gopinathan et.al.|[2409.05583](http://arxiv.org/abs/2409.05583)|**[link](https://github.com/gmuraleekrishna/sas)**|
+|**2024-09-09**|**Design and Implementation of TAO DAQ System**|Shuihan Zhang et.al.|[2409.05522](http://arxiv.org/abs/2409.05522)|null|
+|**2024-09-09**|**A Taxonomy of Miscompressions: Preparing Image Forensics for Neural Compression**|Nora Hofer et.al.|[2409.05490](http://arxiv.org/abs/2409.05490)|null|
+|**2024-09-09**|**DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation**|Wei Wu et.al.|[2409.05463](http://arxiv.org/abs/2409.05463)|null|
 |**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
 |**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
 |**2024-09-06**|**Open-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation**|Zhuoyan Luo et.al.|[2409.04410](http://arxiv.org/abs/2409.04410)|null|
@@ -822,6 +839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
+|**2024-09-05**|**Learning in Order! A Sequential Strategy to Learn Invariant Features for Multimodal Sentiment Analysis**|Xianbing Zhao et.al.|[2409.04473](http://arxiv.org/abs/2409.04473)|null|
 |**2024-09-06**|**Generating Faithful and Salient Text from Multimodal Data**|Tahsina Hashem et.al.|[2409.03961](http://arxiv.org/abs/2409.03961)|null|
 |**2024-09-06**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
 |**2024-09-04**|**MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**|Xiang Yue et.al.|[2409.02813](http://arxiv.org/abs/2409.02813)|null|
@@ -1095,6 +1114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
 |**2024-09-02**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
 |**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
@@ -1232,6 +1252,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Joint Input and Output Coordination for Class-Incremental Learning**|Shuai Wang et.al.|[2409.05620](http://arxiv.org/abs/2409.05620)|null|
+|**2024-09-09**|**LEROjD: Lidar Extended Radar-Only Object Detection**|Patrick Palmer et.al.|[2409.05564](http://arxiv.org/abs/2409.05564)|**[link](https://github.com/rst-tu-dortmund/lerojd)**|
+|**2024-09-09**|**Look One and More: Distilling Hybrid Order Relational Knowledge for Cross-Resolution Image Recognition**|Shiming Ge et.al.|[2409.05384](http://arxiv.org/abs/2409.05384)|null|
+|**2024-09-09**|**FedBrain-Distill: Communication-Efficient Federated Brain Tumor Classification Using Ensemble Knowledge Distillation on Non-IID Data**|Rasoul Jafari Gohari et.al.|[2409.05359](http://arxiv.org/abs/2409.05359)|null|
+|**2024-09-07**|**LoCa: Logit Calibration for Knowledge Distillation**|Runming Yang et.al.|[2409.04778](http://arxiv.org/abs/2409.04778)|null|
+|**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-05**|**Experimentation in Content Moderation using RWKV**|Umut Yildirim et.al.|[2409.03939](http://arxiv.org/abs/2409.03939)|null|
 |**2024-09-05**|**Data-Efficient Generation for Dataset Distillation**|Zhe Li et.al.|[2409.03929](http://arxiv.org/abs/2409.03929)|null|
 |**2024-09-05**|**DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture**|Qianlong Xiang et.al.|[2409.03550](http://arxiv.org/abs/2409.03550)|null|
@@ -1271,6 +1297,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Enhancing Preference-based Linear Bandits via Human Response Time**|Shen Li et.al.|[2409.05798](http://arxiv.org/abs/2409.05798)|null|
+|**2024-09-09**|**Vector Quantized Diffusion Model Based Speech Bandwidth Extension**|Yuan Fang et.al.|[2409.05784](http://arxiv.org/abs/2409.05784)|null|
+|**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
+|**2024-09-09**|**Distributionally Robust Stochastic Data-Driven Predictive Control with Optimized Feedback Gain**|Ruiqi Li et.al.|[2409.05727](http://arxiv.org/abs/2409.05727)|null|
+|**2024-09-09**|**Quantitative approximation of stochastic kinetic equations: from discrete to continuum**|Zimo Hao et.al.|[2409.05706](http://arxiv.org/abs/2409.05706)|null|
+|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701](http://arxiv.org/abs/2409.05701)|null|
+|**2024-09-09**|**Unlearning or Concealment? A Critical Analysis and Evaluation Metrics for Unlearning in Diffusion Models**|Aakash Sen Sharma et.al.|[2409.05668](http://arxiv.org/abs/2409.05668)|null|
+|**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622](http://arxiv.org/abs/2409.05622)|null|
+|**2024-09-09**|**CipherDM: Secure Three-Party Inference for Diffusion Model Sampling**|Xin Zhao et.al.|[2409.05414](http://arxiv.org/abs/2409.05414)|null|
+|**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399](http://arxiv.org/abs/2409.05399)|null|
+|**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|null|
+|**2024-09-08**|**The Stochastic Gause predator-prey model: noise-induced extinctions and invariance**|Leon Alexander Valencia et.al.|[2409.05237](http://arxiv.org/abs/2409.05237)|null|
+|**2024-09-08**|**Nuclear transparencies with a two step process of the $A(e,e'π^+)$ reactions**|Tae Keun Choi et.al.|[2409.05129](http://arxiv.org/abs/2409.05129)|null|
+|**2024-09-08**|**Diffusion-based Speech Enhancement with Schrödinger Bridge and Symmetric Noise Schedule**|Siyi Wang et.al.|[2409.05116](http://arxiv.org/abs/2409.05116)|null|
+|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033](http://arxiv.org/abs/2409.05033)|null|
 |**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
 |**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
 |**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339](http://arxiv.org/abs/2409.04339)|null|
