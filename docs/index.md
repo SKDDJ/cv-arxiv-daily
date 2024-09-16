@@ -19,6 +19,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Risks When Sharing LoRA Fine-Tuned Diffusion Model Weights**|Dixi Yao et.al.|[2409.08482](http://arxiv.org/abs/2409.08482)|null|
 |**2024-09-12**|**Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?**|Kerem Cekmeceli et.al.|[2409.07960](http://arxiv.org/abs/2409.07960)|**[link](https://github.com/kerem-cekmeceli/foundation-models-for-medical-imagery)**|
 |**2024-09-11**|**Efficient Localized Adaptation of Neural Weather Forecasting: A Case Study in the MENA Region**|Muhammad Akhtar Munir et.al.|[2409.07585](http://arxiv.org/abs/2409.07585)|**[link](https://github.com/akhtarvision/weather-regional)**|
 |**2024-09-10**|**Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts**|Assefa Seyoum Wahd et.al.|[2409.06821](http://arxiv.org/abs/2409.06821)|null|
@@ -184,6 +185,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
+|**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
+|**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
+|**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917](http://arxiv.org/abs/2409.08917)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
+|**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906](http://arxiv.org/abs/2409.08906)|null|
+|**2024-09-13**|**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**|Carles Domingo-Enrich et.al.|[2409.08861](http://arxiv.org/abs/2409.08861)|null|
+|**2024-09-13**|**The Line-Based Dial-a-Ride Problem**|Kendra Reiter et.al.|[2409.08860](http://arxiv.org/abs/2409.08860)|null|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
+|**2024-09-13**|**DX2CT: Diffusion Model for 3D CT Reconstruction from Bi or Mono-planar 2D X-ray(s)**|Yun Su Jeong et.al.|[2409.08850](http://arxiv.org/abs/2409.08850)|null|
+|**2024-09-13**|**Development of a Compton Imager Setup**|Anuraag Arya et.al.|[2409.08822](http://arxiv.org/abs/2409.08822)|null|
+|**2024-09-13**|**LLaQo: Towards a Query-Based Coach in Expressive Music Performance Assessment**|Huan Zhang et.al.|[2409.08795](http://arxiv.org/abs/2409.08795)|null|
+|**2024-09-13**|**What You Say = What You Want? Teaching Humans to Articulate Requirements for LLMs**|Qianou Ma et.al.|[2409.08775](http://arxiv.org/abs/2409.08775)|null|
+|**2024-09-13**|**A Hybrid Meta-Learning and Multi-Armed Bandit Approach for Context-Specific Multi-Objective Recommendation Optimization**|Tiago Cunha et.al.|[2409.08752](http://arxiv.org/abs/2409.08752)|null|
+|**2024-09-13**|**Adaptive Sampling for Continuous Group Equivariant Neural Networks**|Berfin Inal et.al.|[2409.08741](http://arxiv.org/abs/2409.08741)|null|
+|**2024-09-13**|**DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**|Jiawei Du et.al.|[2409.08731](http://arxiv.org/abs/2409.08731)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
@@ -889,6 +905,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
+|**2024-09-13**|**A Multimodal Approach for Fluid Overload Prediction: Integrating Lung Ultrasound and Clinical Data**|Tianqi Yang et.al.|[2409.08790](http://arxiv.org/abs/2409.08790)|null|
+|**2024-09-13**|**Dynamics of Collective Group Affect: Group-level Annotations and the Multimodal Modeling of Convergence and Divergence**|Navin Raj Prabhu et.al.|[2409.08578](http://arxiv.org/abs/2409.08578)|null|
 |**2024-09-13**|**A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**|Renjie Wu et.al.|[2409.07825](http://arxiv.org/abs/2409.07825)|null|
 |**2024-09-12**|**Top-down Activity Representation Learning for Video Question Answering**|Yanan Wang et.al.|[2409.07748](http://arxiv.org/abs/2409.07748)|null|
 |**2024-09-11**|**What to align in multimodal contrastive learning?**|Benoit Dufumier et.al.|[2409.07402](http://arxiv.org/abs/2409.07402)|null|
@@ -1171,13 +1190,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Non-unitary Wightman CFTs and non-unitary vertex algebras**|Sebastiano Carpi et.al.|[2409.08454](http://arxiv.org/abs/2409.08454)|null|
+|**2024-09-12**|**Global well-posedness and scattering in weighted space for nonlinear Schrödinger equations below the Strauss exponent without gauge-invariance**|Masaki Kawamoto et.al.|[2409.08432](http://arxiv.org/abs/2409.08432)|null|
 |**2024-09-09**|**Fast gradient-free optimization of excitations in variational quantum eigensolvers**|Jonas Jäger et.al.|[2409.05939](http://arxiv.org/abs/2409.05939)|null|
 |**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
 |**2024-09-02**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
 |**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
 |**2024-08-23**|**Emergence of global receptive fields capturing multipartite quantum correlations**|Oleg M. Sotnikov et.al.|[2408.13033](http://arxiv.org/abs/2408.13033)|null|
-|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|
+|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|[2408.12324](http://arxiv.org/abs/2408.12324)|null|
 |**2024-08-19**|**Unimodal sequences and mixed false theta functions**|Kevin Allen et.al.|[2408.09789](http://arxiv.org/abs/2408.09789)|null|
 |**2024-08-16**|**Onsager-Machlup functional for stochastic lattice dynamical systems driven by time-varying noise**|Xinze Zhang et.al.|[2408.08465](http://arxiv.org/abs/2408.08465)|null|
 |**2024-08-10**|**Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks**|Yoav Gelberg et.al.|[2408.05496](http://arxiv.org/abs/2408.05496)|null|
@@ -1310,6 +1331,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Exploring System-Heterogeneous Federated Learning with Dynamic Model Selection**|Dixi Yao et.al.|[2409.08858](http://arxiv.org/abs/2409.08858)|null|
+|**2024-09-13**|**AWF: Adaptive Weight Fusion for Enhanced Class Incremental Semantic Segmentation**|Zechao Sun et.al.|[2409.08516](http://arxiv.org/abs/2409.08516)|null|
+|**2024-09-12**|**DiReDi: Distillation and Reverse Distillation for AIoT Applications**|Chen Sun et.al.|[2409.08308](http://arxiv.org/abs/2409.08308)|null|
 |**2024-09-12**|**Ruri: Japanese General Text Embeddings**|Hayato Tsukagoshi et.al.|[2409.07737](http://arxiv.org/abs/2409.07737)|null|
 |**2024-09-12**|**Learn from Balance: Rectifying Knowledge Transfer for Long-Tailed Scenarios**|Xinlei Huang et.al.|[2409.07694](http://arxiv.org/abs/2409.07694)|null|
 |**2024-09-11**|**DS-ViT: Dual-Stream Vision Transformer for Cross-Task Distillation in Alzheimer's Early Diagnosis**|Ke Chen et.al.|[2409.07584](http://arxiv.org/abs/2409.07584)|null|
@@ -1366,6 +1390,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation**|Qingwen Bu et.al.|[2409.09016](http://arxiv.org/abs/2409.09016)|**[link](https://github.com/OpenDriveLab/CLOVER)**|
+|**2024-09-13**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
+|**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917](http://arxiv.org/abs/2409.08917)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
+|**2024-09-13**|**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling**|Nebiyou Yismaw et.al.|[2409.08906](http://arxiv.org/abs/2409.08906)|null|
+|**2024-09-13**|**Adjoint Matching: Fine-tuning Flow and Diffusion Generative Models with Memoryless Stochastic Optimal Control**|Carles Domingo-Enrich et.al.|[2409.08861](http://arxiv.org/abs/2409.08861)|null|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
+|**2024-09-13**|**DX2CT: Diffusion Model for 3D CT Reconstruction from Bi or Mono-planar 2D X-ray(s)**|Yun Su Jeong et.al.|[2409.08850](http://arxiv.org/abs/2409.08850)|null|
+|**2024-09-13**|**Measure-Theoretic Time-Delay Embedding**|Jonah Botvinick-Greenhouse et.al.|[2409.08768](http://arxiv.org/abs/2409.08768)|**[link](https://github.com/jrbotvinick/Measure-Theoretic-Time-Delay-Embedding)**|
+|**2024-09-13**|**DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**|Jiawei Du et.al.|[2409.08731](http://arxiv.org/abs/2409.08731)|null|
+|**2024-09-13**|**Asymptotics for Random Quadratic Transportation Costs**|Martin Huesmann et.al.|[2409.08612](http://arxiv.org/abs/2409.08612)|null|
+|**2024-09-13**|**Finite-time thermodynamic bounds and tradeoff relations for information processing**|Takuya Kamijima et.al.|[2409.08606](http://arxiv.org/abs/2409.08606)|null|
+|**2024-09-13**|**STA-V2A: Video-to-Audio Generation with Semantic and Temporal Alignment**|Yong Ren et.al.|[2409.08601](http://arxiv.org/abs/2409.08601)|null|
+|**2024-09-13**|**LHQ-SVC: Lightweight and High Quality Singing Voice Conversion Modeling**|Yubo Huang et.al.|[2409.08583](http://arxiv.org/abs/2409.08583)|null|
+|**2024-09-13**|**DiffFAS: Face Anti-Spoofing via Generative Diffusion Models**|Xinxu Ge et.al.|[2409.08572](http://arxiv.org/abs/2409.08572)|**[link](https://github.com/murphytju/difffas)**|
+|**2024-09-13**|**Think Twice Before You Act: Improving Inverse Problem Solving With MCMC**|Yaxuan Zhu et.al.|[2409.08551](http://arxiv.org/abs/2409.08551)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
 |**2024-09-12**|**DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer**|Runjia Li et.al.|[2409.08271](http://arxiv.org/abs/2409.08271)|null|
 |**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269](http://arxiv.org/abs/2409.08269)|null|
