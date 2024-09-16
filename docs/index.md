@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -889,7 +889,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-12**|**A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**|Renjie Wu et.al.|[2409.07825](http://arxiv.org/abs/2409.07825)|null|
+|**2024-09-13**|**A Comprehensive Survey on Deep Multimodal Learning with Missing Modality**|Renjie Wu et.al.|[2409.07825](http://arxiv.org/abs/2409.07825)|null|
 |**2024-09-12**|**Top-down Activity Representation Learning for Video Question Answering**|Yanan Wang et.al.|[2409.07748](http://arxiv.org/abs/2409.07748)|null|
 |**2024-09-11**|**What to align in multimodal contrastive learning?**|Benoit Dufumier et.al.|[2409.07402](http://arxiv.org/abs/2409.07402)|null|
 |**2024-09-11**|**MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis**|Hanyu Jiang et.al.|[2409.07129](http://arxiv.org/abs/2409.07129)|null|
