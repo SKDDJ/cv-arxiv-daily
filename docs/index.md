@@ -94,7 +94,7 @@ layout: default
 |**2024-06-12**|**The Impact of Initialization on LoRA Finetuning Dynamics**|Soufiane Hayou et.al.|[2406.08447](http://arxiv.org/abs/2406.08447)|null|
 |**2024-06-20**|**Low-Rank Quantization-Aware Training for LLMs**|Yelysei Bondarenko et.al.|[2406.06385](http://arxiv.org/abs/2406.06385)|**[link](https://github.com/qualcomm-ai-research/lr-qat)**|
 |**2024-06-10**|**A Parameter-efficient Language Extension Framework for Multilingual ASR**|Wei Liu et.al.|[2406.06329](http://arxiv.org/abs/2406.06329)|null|
-|**2024-06-09**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair**|Guochang Li et.al.|[2406.05639](http://arxiv.org/abs/2406.05639)|null|
+|**2024-06-09**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair**|Guochang Li et.al.|[2406.05639](http://arxiv.org/abs/2406.05639)|**[link](https://github.com/zjulgc/llmpeft4apr)**|
 |**2024-06-07**|**Efficient Differentially Private Fine-Tuning of Diffusion Models**|Jing Liu et.al.|[2406.05257](http://arxiv.org/abs/2406.05257)|null|
 |**2024-06-07**|**CorDA: Context-Oriented Decomposition Adaptation of Large Language Models**|Yibo Yang et.al.|[2406.05223](http://arxiv.org/abs/2406.05223)|null|
 |**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
@@ -226,7 +226,7 @@ layout: default
 |**2024-09-10**|**What happens to diffusion model likelihood when your model is conditional?**|Mattias Cross et.al.|[2409.06364](http://arxiv.org/abs/2409.06364)|null|
 |**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
 |**2024-09-10**|**Improving Conditional Level Generation using Automated Validation in Match-3 Games**|Monica Villanueva Aylagas et.al.|[2409.06349](http://arxiv.org/abs/2409.06349)|null|
-|**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|null|
+|**2024-09-10**|**Foragax: An Agent Based Modelling framework based on JAX**|Siddharth Chaturvedi et.al.|[2409.06345](http://arxiv.org/abs/2409.06345)|**[link](https://github.com/i-m-iron-man/Foragax)**|
 |**2024-09-10**|**G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer**|Jinzhi Zhang et.al.|[2409.06322](http://arxiv.org/abs/2409.06322)|null|
 |**2024-09-10**|**Learning Augmentation Policies from A Model Zoo for Time Series Forecasting**|Haochen Yuan et.al.|[2409.06282](http://arxiv.org/abs/2409.06282)|null|
 |**2024-09-09**|**Fast Generation of Custom Floating-Point Spatial Filters on FPGAs**|Nelson Campos et.al.|[2409.05837](http://arxiv.org/abs/2409.05837)|null|
@@ -495,7 +495,7 @@ layout: default
 |**2024-08-05**|**Multi-weather Cross-view Geo-localization Using Denoising Diffusion Models**|Tongtong Feng et.al.|[2408.02408](http://arxiv.org/abs/2408.02408)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
 |**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415](http://arxiv.org/abs/2408.01415)|null|
-|**2024-08-02**|**Autoencoders in Function Space**|Justin Bunker et.al.|[2408.01362](http://arxiv.org/abs/2408.01362)|null|
+|**2024-08-02**|**Autoencoders in Function Space**|Justin Bunker et.al.|[2408.01362](http://arxiv.org/abs/2408.01362)|**[link](https://github.com/htlambley/functional_autoencoders)**|
 |**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|**[link](https://github.com/KevinHeiwa/MCGTM)**|
 |**2024-08-02**|**TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling**|Dong Huo et.al.|[2408.01291](http://arxiv.org/abs/2408.01291)|null|
 |**2024-08-02**|**A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness**|Lutao Jiang et.al.|[2408.01269](http://arxiv.org/abs/2408.01269)|null|
@@ -1177,7 +1177,7 @@ layout: default
 |**2024-09-02**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
 |**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
 |**2024-08-23**|**Emergence of global receptive fields capturing multipartite quantum correlations**|Oleg M. Sotnikov et.al.|[2408.13033](http://arxiv.org/abs/2408.13033)|null|
-|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|[2408.12324](http://arxiv.org/abs/2408.12324)|null|
+|**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|
 |**2024-08-19**|**Unimodal sequences and mixed false theta functions**|Kevin Allen et.al.|[2408.09789](http://arxiv.org/abs/2408.09789)|null|
 |**2024-08-16**|**Onsager-Machlup functional for stochastic lattice dynamical systems driven by time-varying noise**|Xinze Zhang et.al.|[2408.08465](http://arxiv.org/abs/2408.08465)|null|
 |**2024-08-10**|**Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks**|Yoav Gelberg et.al.|[2408.05496](http://arxiv.org/abs/2408.05496)|null|
@@ -1392,20 +1392,20 @@ layout: default
 |**2024-09-11**|**CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals**|Weixiang Gao et.al.|[2409.07271](http://arxiv.org/abs/2409.07271)|**[link](https://github.com/gaovix/ccfexp)**|
 |**2024-09-11**|**Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models**|Sanoojan Baliah et.al.|[2409.07269](http://arxiv.org/abs/2409.07269)|**[link](https://github.com/sanoojan/reface)**|
 |**2024-09-11**|**EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**|Jian Zhang et.al.|[2409.07255](http://arxiv.org/abs/2409.07255)|null|
-|**2024-09-12**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|null|
+|**2024-09-12**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|**[link](https://github.com/xie-lab-ml/awesome-alignment-of-diffusion-models)**|
 |**2024-09-11**|**Diff-VPS: Video Polyp Segmentation via a Multi-task Diffusion Network with Adversarial Temporal Reasoning**|Yingling Lu et.al.|[2409.07238](http://arxiv.org/abs/2409.07238)|**[link](https://github.com/lydia-yllu/diff-vps)**|
 |**2024-09-11**|**Phy124: Fast Physics-Driven 4D Content Generation from a Single Image**|Jiajing Lin et.al.|[2409.07179](http://arxiv.org/abs/2409.07179)|null|
 |**2024-09-11**|**Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models**|Jiahang Cao et.al.|[2409.07163](http://arxiv.org/abs/2409.07163)|null|
 |**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
 |**2024-09-10**|**One-Shot Imitation under Mismatched Execution**|Kushal Kedia et.al.|[2409.06615](http://arxiv.org/abs/2409.06615)|null|
-|**2024-09-10**|**Modelling Global Trade with Optimal Transport**|Thomas Gaskin et.al.|[2409.06554](http://arxiv.org/abs/2409.06554)|null|
+|**2024-09-10**|**Modelling Global Trade with Optimal Transport**|Thomas Gaskin et.al.|[2409.06554](http://arxiv.org/abs/2409.06554)|**[link](https://github.com/thgaskin/neuralabm)**|
 |**2024-09-10**|**Robust financial calibration: a Bayesian approach for neural SDEs**|Christa Cuchiero et.al.|[2409.06551](http://arxiv.org/abs/2409.06551)|null|
 |**2024-09-10**|**Enhancing Emotional Text-to-Speech Controllability with Natural Language Guidance through Contrastive Learning and Diffusion Models**|Xin Jing et.al.|[2409.06451](http://arxiv.org/abs/2409.06451)|null|
 |**2024-09-10**|**Robust semi-parametric signal detection in particle physics with classifiers decorrelated via optimal transport**|Purvasha Chakravarti et.al.|[2409.06399](http://arxiv.org/abs/2409.06399)|null|
 |**2024-09-10**|**Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition**|Junzheng Zhang et.al.|[2409.06371](http://arxiv.org/abs/2409.06371)|null|
 |**2024-09-10**|**What happens to diffusion model likelihood when your model is conditional?**|Mattias Cross et.al.|[2409.06364](http://arxiv.org/abs/2409.06364)|null|
 |**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
-|**2024-09-10**|**Geometry of the Space of Partitioned Networks: A Unified Theoretical and Computational Framework**|Stephen Y Zhang et.al.|[2409.06302](http://arxiv.org/abs/2409.06302)|null|
+|**2024-09-10**|**Geometry of the Space of Partitioned Networks: A Unified Theoretical and Computational Framework**|Stephen Y Zhang et.al.|[2409.06302](http://arxiv.org/abs/2409.06302)|**[link](https://github.com/zsteve/partitioned_networks)**|
 |**2024-09-10**|**Multi-Source Music Generation with Latent Diffusion**|Zhongweiyang Xu et.al.|[2409.06190](http://arxiv.org/abs/2409.06190)|**[link](https://github.com/xzwy/msldm)**|
 |**2024-09-10**|**MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control**|Yining Yao et.al.|[2409.06189](http://arxiv.org/abs/2409.06189)|null|
 |**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183](http://arxiv.org/abs/2409.06183)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
@@ -1421,11 +1421,11 @@ layout: default
 |**2024-09-09**|**Forward KL Regularized Preference Optimization for Aligning Diffusion Policies**|Zhao Shan et.al.|[2409.05622](http://arxiv.org/abs/2409.05622)|null|
 |**2024-09-09**|**CipherDM: Secure Three-Party Inference for Diffusion Model Sampling**|Xin Zhao et.al.|[2409.05414](http://arxiv.org/abs/2409.05414)|null|
 |**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399](http://arxiv.org/abs/2409.05399)|null|
-|**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|null|
+|**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|**[link](https://github.com/pku-ml/terd)**|
 |**2024-09-08**|**The Stochastic Gause predator-prey model: noise-induced extinctions and invariance**|Leon Alexander Valencia et.al.|[2409.05237](http://arxiv.org/abs/2409.05237)|null|
 |**2024-09-08**|**Nuclear transparencies with a two step process of the $A(e,e'π^+)$ reactions**|Tae Keun Choi et.al.|[2409.05129](http://arxiv.org/abs/2409.05129)|null|
 |**2024-09-08**|**Diffusion-based Speech Enhancement with Schrödinger Bridge and Symmetric Noise Schedule**|Siyi Wang et.al.|[2409.05116](http://arxiv.org/abs/2409.05116)|null|
-|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033](http://arxiv.org/abs/2409.05033)|null|
+|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033](http://arxiv.org/abs/2409.05033)|**[link](https://github.com/chiangel/awesome-diffusion-for-recsys)**|
 |**2024-09-06**|**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**|Yecheng Wu et.al.|[2409.04429](http://arxiv.org/abs/2409.04429)|null|
 |**2024-09-06**|**Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques**|Davide Clode da Silva et.al.|[2409.04424](http://arxiv.org/abs/2409.04424)|null|
 |**2024-09-06**|**How Fair is Your Diffusion Recommender Model?**|Daniele Malitesta et.al.|[2409.04339](http://arxiv.org/abs/2409.04339)|null|
