@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1195,7 +1195,7 @@ layout: default
 |**2024-09-09**|**Fast gradient-free optimization of excitations in variational quantum eigensolvers**|Jonas Jäger et.al.|[2409.05939](http://arxiv.org/abs/2409.05939)|null|
 |**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
-|**2024-09-02**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
+|**2024-09-16**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
 |**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
 |**2024-08-23**|**Emergence of global receptive fields capturing multipartite quantum correlations**|Oleg M. Sotnikov et.al.|[2408.13033](http://arxiv.org/abs/2408.13033)|null|
 |**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|[2408.12324](http://arxiv.org/abs/2408.12324)|null|
@@ -1340,7 +1340,7 @@ layout: default
 |**2024-09-11**|**EchoDFKD: Data-Free Knowledge Distillation for Cardiac Ultrasound Segmentation using Synthetic Data**|Grégoire Petit et.al.|[2409.07566](http://arxiv.org/abs/2409.07566)|null|
 |**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux et.al.|[2409.07210](http://arxiv.org/abs/2409.07210)|null|
 |**2024-09-11**|**A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption**|Marcus Rüb et.al.|[2409.07114](http://arxiv.org/abs/2409.07114)|null|
-|**2024-09-11**|**Privacy-Preserving Federated Learning with Consistency via Knowledge Distillation Using Conditional Generator**|Kangyang Luo et.al.|[2409.06955](http://arxiv.org/abs/2409.06955)|null|
+|**2024-09-16**|**Privacy-Preserving Federated Learning with Consistency via Knowledge Distillation Using Conditional Generator**|Kangyang Luo et.al.|[2409.06955](http://arxiv.org/abs/2409.06955)|null|
 |**2024-09-10**|**Applied Federated Model Personalisation in the Industrial Domain: A Comparative Study**|Ilias Siniosoglou et.al.|[2409.06904](http://arxiv.org/abs/2409.06904)|null|
 |**2024-09-10**|**EasyST: A Simple Framework for Spatio-Temporal Prediction**|Jiabin Tang et.al.|[2409.06748](http://arxiv.org/abs/2409.06748)|null|
 |**2024-09-10**|**Knowledge Distillation via Query Selection for Detection Transformer**|Yi Liu et.al.|[2409.06443](http://arxiv.org/abs/2409.06443)|null|

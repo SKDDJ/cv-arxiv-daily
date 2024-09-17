@@ -1,4 +1,4 @@
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -177,7 +177,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -899,7 +899,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1186,7 +1186,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -1197,7 +1197,7 @@
 |**2024-09-09**|**Fast gradient-free optimization of excitations in variational quantum eigensolvers**|Jonas Jäger et.al.|[2409.05939](http://arxiv.org/abs/2409.05939)|null|
 |**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
-|**2024-09-02**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
+|**2024-09-16**|**Regret Analysis for Randomized Gaussian Process Upper Confidence Bound**|Shion Takeno et.al.|[2409.00979](http://arxiv.org/abs/2409.00979)|null|
 |**2024-08-30**|**Abstracted Gaussian Prototypes for One-Shot Concept Learning**|Chelsea Zou et.al.|[2408.17251](http://arxiv.org/abs/2408.17251)|**[link](https://github.com/bosonphoton/abstractedgaussianprototypes)**|
 |**2024-08-23**|**Emergence of global receptive fields capturing multipartite quantum correlations**|Oleg M. Sotnikov et.al.|[2408.13033](http://arxiv.org/abs/2408.13033)|null|
 |**2024-08-22**|**Action of $\mathfrak{osp}(1|2n)$ on polynomials tensor $\mathbb{C}^{0|2n}$**|Dwight Anderson Williams II et.al.|[2408.12324](http://arxiv.org/abs/2408.12324)|null|
@@ -1329,7 +1329,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -1344,7 +1344,7 @@
 |**2024-09-11**|**EchoDFKD: Data-Free Knowledge Distillation for Cardiac Ultrasound Segmentation using Synthetic Data**|Grégoire Petit et.al.|[2409.07566](http://arxiv.org/abs/2409.07566)|null|
 |**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux et.al.|[2409.07210](http://arxiv.org/abs/2409.07210)|null|
 |**2024-09-11**|**A Continual and Incremental Learning Approach for TinyML On-device Training Using Dataset Distillation and Model Size Adaption**|Marcus Rüb et.al.|[2409.07114](http://arxiv.org/abs/2409.07114)|null|
-|**2024-09-11**|**Privacy-Preserving Federated Learning with Consistency via Knowledge Distillation Using Conditional Generator**|Kangyang Luo et.al.|[2409.06955](http://arxiv.org/abs/2409.06955)|null|
+|**2024-09-16**|**Privacy-Preserving Federated Learning with Consistency via Knowledge Distillation Using Conditional Generator**|Kangyang Luo et.al.|[2409.06955](http://arxiv.org/abs/2409.06955)|null|
 |**2024-09-10**|**Applied Federated Model Personalisation in the Industrial Domain: A Comparative Study**|Ilias Siniosoglou et.al.|[2409.06904](http://arxiv.org/abs/2409.06904)|null|
 |**2024-09-10**|**EasyST: A Simple Framework for Spatio-Temporal Prediction**|Jiabin Tang et.al.|[2409.06748](http://arxiv.org/abs/2409.06748)|null|
 |**2024-09-10**|**Knowledge Distillation via Query Selection for Detection Transformer**|Yi Liu et.al.|[2409.06443](http://arxiv.org/abs/2409.06443)|null|
@@ -1390,7 +1390,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -1531,5 +1531,5 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
