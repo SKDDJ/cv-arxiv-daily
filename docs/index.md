@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -924,7 +924,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496](http://arxiv.org/abs/2409.10496)|**[link](https://github.com/iamtheo2000/musiclime)**|
-|**2024-09-16**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
+|**2024-09-17**|**IRIS: Interactive Responsive Intelligent Segmentation for 3D Affordance Analysis**|Meng Chu et.al.|[2409.10078](http://arxiv.org/abs/2409.10078)|null|
 |**2024-09-16**|**AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing**|Huawei Ji et.al.|[2409.10016](http://arxiv.org/abs/2409.10016)|**[link](https://github.com/JHW5981/AceParse)**|
 |**2024-09-14**|**Keypoints-Integrated Instruction-Following Data Generation for Enhanced Human Pose Understanding in Multimodal Models**|Dewen Zhang et.al.|[2409.09306](http://arxiv.org/abs/2409.09306)|null|
 |**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
@@ -935,7 +935,7 @@ layout: default
 |**2024-09-11**|**What to align in multimodal contrastive learning?**|Benoit Dufumier et.al.|[2409.07402](http://arxiv.org/abs/2409.07402)|null|
 |**2024-09-11**|**MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis**|Hanyu Jiang et.al.|[2409.07129](http://arxiv.org/abs/2409.07129)|null|
 |**2024-09-11**|**FSMDet: Vision-guided feature diffusion for fully sparse 3D detector**|Tianran Liu et.al.|[2409.06945](http://arxiv.org/abs/2409.06945)|null|
-|**2024-09-10**|**Scaling Law Hypothesis for Multimodal Model**|Qingyun Sun et.al.|[2409.06754](http://arxiv.org/abs/2409.06754)|null|
+|**2024-09-16**|**Scaling Law Hypothesis for Multimodal Model**|Qingyun Sun et.al.|[2409.06754](http://arxiv.org/abs/2409.06754)|null|
 |**2024-09-10**|**Multiclass Arrhythmia Classification using Smartwatch Photoplethysmography Signals Collected in Real-life Settings**|Dong Han et.al.|[2409.06147](http://arxiv.org/abs/2409.06147)|null|
 |**2024-09-11**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|**[link](https://github.com/fuxianghuang1/multimodal-composite-editing-and-retrieval)**|
 |**2024-09-05**|**Learning in Order! A Sequential Strategy to Learn Invariant Features for Multimodal Sentiment Analysis**|Xianbing Zhao et.al.|[2409.04473](http://arxiv.org/abs/2409.04473)|null|
