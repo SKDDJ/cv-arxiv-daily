@@ -1,4 +1,4 @@
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -192,7 +192,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -210,7 +210,7 @@
 |**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804](http://arxiv.org/abs/2409.18804)|null|
 |**2024-09-27**|**Student-Oriented Teacher Knowledge Refinement for Knowledge Distillation**|Chaomin Shen et.al.|[2409.18785](http://arxiv.org/abs/2409.18785)|null|
 |**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761](http://arxiv.org/abs/2409.18761)|null|
-|**2024-09-27**|**Cottention: Linear Transformers With Cosine Attention**|Gabriel Mongaras et.al.|[2409.18747](http://arxiv.org/abs/2409.18747)|null|
+|**2024-09-27**|**Cottention: Linear Transformers With Cosine Attention**|Gabriel Mongaras et.al.|[2409.18747](http://arxiv.org/abs/2409.18747)|**[link](https://github.com/gmongaras/Cottention_Transformer)**|
 |**2024-09-27**|**Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity**|Sergey Berezin et.al.|[2409.18708](http://arxiv.org/abs/2409.18708)|null|
 |**2024-09-27**|**MG-Net: Learn to Customize QAOA with Circuit Depth Awareness**|Yang Qian et.al.|[2409.18692](http://arxiv.org/abs/2409.18692)|**[link](https://github.com/QQQYang/MG-Net)**|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
@@ -1004,7 +1004,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1319,7 +1319,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -1474,7 +1474,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -1573,7 +1573,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -1804,5 +1804,5 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 

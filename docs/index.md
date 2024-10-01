@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -212,7 +212,7 @@ layout: default
 |**2024-09-27**|**Convergence of Diffusion Models Under the Manifold Hypothesis in High-Dimensions**|Iskander Azangulov et.al.|[2409.18804](http://arxiv.org/abs/2409.18804)|null|
 |**2024-09-27**|**Student-Oriented Teacher Knowledge Refinement for Knowledge Distillation**|Chaomin Shen et.al.|[2409.18785](http://arxiv.org/abs/2409.18785)|null|
 |**2024-09-27**|**Geometric deep learning for galaxy-halo connection: a case study for galaxy intrinsic alignments**|Yesukhei Jagvaral et.al.|[2409.18761](http://arxiv.org/abs/2409.18761)|null|
-|**2024-09-27**|**Cottention: Linear Transformers With Cosine Attention**|Gabriel Mongaras et.al.|[2409.18747](http://arxiv.org/abs/2409.18747)|null|
+|**2024-09-27**|**Cottention: Linear Transformers With Cosine Attention**|Gabriel Mongaras et.al.|[2409.18747](http://arxiv.org/abs/2409.18747)|**[link](https://github.com/gmongaras/Cottention_Transformer)**|
 |**2024-09-27**|**Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity**|Sergey Berezin et.al.|[2409.18708](http://arxiv.org/abs/2409.18708)|null|
 |**2024-09-27**|**MG-Net: Learn to Customize QAOA with Circuit Depth Awareness**|Yang Qian et.al.|[2409.18692](http://arxiv.org/abs/2409.18692)|**[link](https://github.com/QQQYang/MG-Net)**|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
