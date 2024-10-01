@@ -19,6 +19,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Resource Allocation for Stable LLM Training in Mobile Edge Computing**|Chang Liu et.al.|[2409.20247](http://arxiv.org/abs/2409.20247)|null|
+|**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181](http://arxiv.org/abs/2409.20181)|null|
+|**2024-09-28**|**FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models**|Yucheng Xie et.al.|[2409.19289](http://arxiv.org/abs/2409.19289)|null|
 |**2024-09-26**|**Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation**|Shuai Zhao et.al.|[2409.17946](http://arxiv.org/abs/2409.17946)|null|
 |**2024-09-26**|**PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification**|Tianfang Xie et.al.|[2409.17834](http://arxiv.org/abs/2409.17834)|null|
 |**2024-09-26**|**Efficient In-Domain Question Answering for Resource-Constrained Environments**|Isaac Chung et.al.|[2409.17648](http://arxiv.org/abs/2409.17648)|null|
@@ -200,6 +203,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**SpaceMesh: A Continuous Representation for Learning Manifold Surface Meshes**|Tianchang Shen et.al.|[2409.20562](http://arxiv.org/abs/2409.20562)|null|
+|**2024-09-30**|**Annealing Flow Generative Model Towards Sampling High-Dimensional and Multi-Modal Distributions**|Dongze Wu et.al.|[2409.20547](http://arxiv.org/abs/2409.20547)|null|
+|**2024-09-30**|**A Compact Quantum Random Number Generator Based on Balanced Detection of Shot Noise**|Jaideep Singh et.al.|[2409.20515](http://arxiv.org/abs/2409.20515)|null|
+|**2024-09-30**|**NUTRIVISION: A System for Automatic Diet Management in Smart Healthcare**|Madhumita Veeramreddy et.al.|[2409.20508](http://arxiv.org/abs/2409.20508)|null|
+|**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
+|**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
+|**2024-09-30**|**All-optical autoencoder machine learning framework using diffractive processors**|Peijie Feng et.al.|[2409.20346](http://arxiv.org/abs/2409.20346)|null|
+|**2024-09-30**|**Devil is in Details: Locality-Aware 3D Abdominal CT Volume Generation for Self-Supervised Organ Segmentation**|Yuran Wang et.al.|[2409.20332](http://arxiv.org/abs/2409.20332)|null|
+|**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|null|
+|**2024-09-30**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et.al.|[2409.20175](http://arxiv.org/abs/2409.20175)|null|
+|**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
+|**2024-09-30**|**Conditional Diffusion Models are Minimax-Optimal and Manifold-Adaptive for Conditional Distribution Estimation**|Rong Tang et.al.|[2409.20124](http://arxiv.org/abs/2409.20124)|null|
+|**2024-09-30**|**Training a Computer Vision Model for Commercial Bakeries with Primarily Synthetic Images**|Thomas H. Schmitt et.al.|[2409.20122](http://arxiv.org/abs/2409.20122)|null|
+|**2024-09-30**|**Reaction-diffusion model for a population structured in phenotype and space I -- Criterion for persistence**|Nathanaël Boutillon et.al.|[2409.20118](http://arxiv.org/abs/2409.20118)|null|
+|**2024-09-30**|**Near-Field Coupling Coil System: A Novel Radiofrequency Coil Solution for MRI**|Zhiguang Mo et.al.|[2409.20095](http://arxiv.org/abs/2409.20095)|null|
 |**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959](http://arxiv.org/abs/2409.18959)|null|
 |**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932](http://arxiv.org/abs/2409.18932)|null|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
@@ -1010,6 +1028,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Using Large Multimodal Models to Extract Knowledge Components for Knowledge Tracing from Multimedia Question Information**|Hyeongdon Moon et.al.|[2409.20167](http://arxiv.org/abs/2409.20167)|null|
+|**2024-09-30**|**Visual Context Window Extension: A New Perspective for Long Video Understanding**|Hongchen Wei et.al.|[2409.20018](http://arxiv.org/abs/2409.20018)|null|
+|**2024-09-30**|**Towards Robust Multimodal Sentiment Analysis with Incomplete Data**|Haoyu Zhang et.al.|[2409.20012](http://arxiv.org/abs/2409.20012)|null|
+|**2024-09-28**|**FairPIVARA: Reducing and Assessing Biases in CLIP-Based Multimodal Models**|Diego A. B. Moreira et.al.|[2409.19474](http://arxiv.org/abs/2409.19474)|null|
+|**2024-09-28**|**From Unimodal to Multimodal: Scaling up Projectors to Align Modalities**|Mayug Maniparambil et.al.|[2409.19425](http://arxiv.org/abs/2409.19425)|null|
+|**2024-09-28**|**CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling**|Jihai Zhang et.al.|[2409.19291](http://arxiv.org/abs/2409.19291)|null|
+|**2024-09-28**|**TrojVLM: Backdoor Attack Against Vision Language Models**|Weimin Lyu et.al.|[2409.19232](http://arxiv.org/abs/2409.19232)|null|
+|**2024-09-27**|**Multimodal Markup Document Models for Graphic Design Completion**|Kotaro Kikuchi et.al.|[2409.19051](http://arxiv.org/abs/2409.19051)|null|
 |**2024-09-27**|**Emu3: Next-Token Prediction is All You Need**|Xinlong Wang et.al.|[2409.18869](http://arxiv.org/abs/2409.18869)|null|
 |**2024-09-27**|**Data Analysis in the Era of Generative AI**|Jeevana Priya Inala et.al.|[2409.18475](http://arxiv.org/abs/2409.18475)|null|
 |**2024-09-26**|**MultiClimate: Multimodal Stance Detection on Climate Change Videos**|Jiawen Wang et.al.|[2409.18346](http://arxiv.org/abs/2409.18346)|**[link](https://github.com/werywjw/multiclimate)**|
@@ -1323,6 +1349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Old Optimizer, New Norm: An Anthology**|Jeremy Bernstein et.al.|[2409.20325](http://arxiv.org/abs/2409.20325)|null|
 |**2024-09-27**|**Effects of Peierls phases in open linear chains**|Anselmo M. Marques et.al.|[2409.18780](http://arxiv.org/abs/2409.18780)|null|
 |**2024-09-27**|**Density of states in neural networks: an in-depth exploration of learning in parameter space**|Margherita Mele et.al.|[2409.18683](http://arxiv.org/abs/2409.18683)|null|
 |**2024-09-26**|**The time periodic problem for the Navier-Stokes equations in exterior domains in weighted spaces**|Reinhard Farwig et.al.|[2409.17590](http://arxiv.org/abs/2409.17590)|null|
@@ -1476,6 +1503,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Enhancing Romanian Offensive Language Detection through Knowledge Distillation, Multi-Task Learning, and Data Augmentation**|Vlad-Cristian Matei et.al.|[2409.20498](http://arxiv.org/abs/2409.20498)|null|
+|**2024-09-30**|**Linear Projections of Teacher Embeddings for Few-Class Distillation**|Noel Loo et.al.|[2409.20449](http://arxiv.org/abs/2409.20449)|null|
+|**2024-09-30**|**Classroom-Inspired Multi-Mentor Distillation with Adaptive Learning Strategies**|Shalini Sarode et.al.|[2409.20237](http://arxiv.org/abs/2409.20237)|null|
+|**2024-09-30**|**HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated Learning**|Momin Ahmad Khan et.al.|[2409.19912](http://arxiv.org/abs/2409.19912)|null|
+|**2024-09-29**|**Tailored Federated Learning: Leveraging Direction Regulation & Knowledge Distillation**|Huidong Tang et.al.|[2409.19741](http://arxiv.org/abs/2409.19741)|null|
+|**2024-09-29**|**InfantCryNet: A Data-driven Framework for Intelligent Analysis of Infant Cries**|Mengze Hong et.al.|[2409.19689](http://arxiv.org/abs/2409.19689)|null|
+|**2024-09-28**|**Mind the Gap: Promoting Missing Modality Brain Tumor Segmentation with Alignment**|Tianyi Liu et.al.|[2409.19366](http://arxiv.org/abs/2409.19366)|null|
+|**2024-09-27**|**Semi-Supervised Bone Marrow Lesion Detection from Knee MRI Segmentation Using Mask Inpainting Models**|Shihua Qin et.al.|[2409.19185](http://arxiv.org/abs/2409.19185)|null|
+|**2024-09-27**|**Multi-modal Cross-domain Self-supervised Pre-training for fMRI and EEG Fusion**|Xinxu Wei et.al.|[2409.19130](http://arxiv.org/abs/2409.19130)|null|
+|**2024-09-27**|**Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models**|Yize Li et.al.|[2409.19128](http://arxiv.org/abs/2409.19128)|**[link](https://github.com/yeez-lee/data-selection-and-reweighting-for-diffusion-models)**|
 |**2024-09-27**|**MiniVLN: Efficient Vision-and-Language Navigation by Progressive Knowledge Distillation**|Junyou Zhu et.al.|[2409.18800](http://arxiv.org/abs/2409.18800)|null|
 |**2024-09-27**|**Student-Oriented Teacher Knowledge Refinement for Knowledge Distillation**|Chaomin Shen et.al.|[2409.18785](http://arxiv.org/abs/2409.18785)|null|
 |**2024-09-27**|**Harmonizing knowledge Transfer in Neural Network with Unified Distillation**|Yaomin Huang et.al.|[2409.18565](http://arxiv.org/abs/2409.18565)|null|
@@ -1573,6 +1610,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models**|Divyanshu Daiya et.al.|[2409.20502](http://arxiv.org/abs/2409.20502)|null|
+|**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
+|**2024-09-30**|**A mean field Jacobi process for modeling sustainable tourism**|Hidekazu Yoshioka et.al.|[2409.20347](http://arxiv.org/abs/2409.20347)|null|
+|**2024-09-30**|**Ensemble Kalman Diffusion Guidance: A Derivative-free Method for Inverse Problems**|Hongkai Zheng et.al.|[2409.20175](http://arxiv.org/abs/2409.20175)|null|
+|**2024-09-30**|**Erase, then Redraw: A Novel Data Augmentation Approach for Free Space Detection Using Diffusion Model**|Fulong Ma et.al.|[2409.20164](http://arxiv.org/abs/2409.20164)|null|
+|**2024-09-30**|**Conditional Diffusion Models are Minimax-Optimal and Manifold-Adaptive for Conditional Distribution Estimation**|Rong Tang et.al.|[2409.20124](http://arxiv.org/abs/2409.20124)|null|
+|**2024-09-30**|**Reaction-diffusion model for a population structured in phenotype and space I -- Criterion for persistence**|Nathanaël Boutillon et.al.|[2409.20118](http://arxiv.org/abs/2409.20118)|null|
+|**2024-09-30**|**RoCoTex: A Robust Method for Consistent Texture Synthesis with Diffusion Models**|Jangyeong Kim et.al.|[2409.19989](http://arxiv.org/abs/2409.19989)|null|
+|**2024-09-30**|**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function**|Chenyi Zhuang et.al.|[2409.19967](http://arxiv.org/abs/2409.19967)|null|
+|**2024-09-30**|**Image Copy Detection for Diffusion Models**|Wenhao Wang et.al.|[2409.19952](http://arxiv.org/abs/2409.19952)|null|
+|**2024-09-30**|**Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner**|Chenyou Fan et.al.|[2409.19949](http://arxiv.org/abs/2409.19949)|null|
+|**2024-09-30**|**Replace Anyone in Videos**|Xiang Wang et.al.|[2409.19911](http://arxiv.org/abs/2409.19911)|null|
+|**2024-09-30**|**The only admissible way of merging e-values**|Ruodu Wang et.al.|[2409.19888](http://arxiv.org/abs/2409.19888)|null|
+|**2024-09-30**|**Partial Stochastic Dominance via Optimal Transport**|Takashi Kamihigashi et.al.|[2409.19876](http://arxiv.org/abs/2409.19876)|null|
+|**2024-09-30**|**GameLabel-10K: Collecting Image Preference Data Through Mobile Game Crowdsourcing**|Jonathan Zhou et.al.|[2409.19830](http://arxiv.org/abs/2409.19830)|null|
 |**2024-09-27**|**$O(d/T)$ Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions**|Gen Li et.al.|[2409.18959](http://arxiv.org/abs/2409.18959)|null|
 |**2024-09-27**|**ReviveDiff: A Universal Diffusion Model for Restoring Images in Adverse Weather Conditions**|Wenfeng Huang et.al.|[2409.18932](http://arxiv.org/abs/2409.18932)|null|
 |**2024-09-27**|**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**|Yunlong Lin et.al.|[2409.18899](http://arxiv.org/abs/2409.18899)|null|
