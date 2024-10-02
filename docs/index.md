@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,13 +22,13 @@ layout: default
 |**2024-09-30**|**Resource Allocation for Stable LLM Training in Mobile Edge Computing**|Chang Liu et.al.|[2409.20247](http://arxiv.org/abs/2409.20247)|null|
 |**2024-09-30**|**Reference Trustable Decoding: A Training-Free Augmentation Paradigm for Large Language Models**|Luohe Shi et.al.|[2409.20181](http://arxiv.org/abs/2409.20181)|null|
 |**2024-09-28**|**FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models**|Yucheng Xie et.al.|[2409.19289](http://arxiv.org/abs/2409.19289)|null|
-|**2024-09-26**|**Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation**|Shuai Zhao et.al.|[2409.17946](http://arxiv.org/abs/2409.17946)|null|
+|**2024-10-01**|**Backdoor Attacks for LLMs with Weak-To-Strong Knowledge Distillation**|Shuai Zhao et.al.|[2409.17946](http://arxiv.org/abs/2409.17946)|null|
 |**2024-09-26**|**PEDRO: Parameter-Efficient Fine-tuning with Prompt DEpenDent Representation MOdification**|Tianfang Xie et.al.|[2409.17834](http://arxiv.org/abs/2409.17834)|null|
-|**2024-09-26**|**Efficient In-Domain Question Answering for Resource-Constrained Environments**|Isaac Chung et.al.|[2409.17648](http://arxiv.org/abs/2409.17648)|null|
+|**2024-09-30**|**Efficient In-Domain Question Answering for Resource-Constrained Environments**|Isaac Chung et.al.|[2409.17648](http://arxiv.org/abs/2409.17648)|null|
 |**2024-09-25**|**PACE: marrying generalization in PArameter-efficient fine-tuning with Consistency rEgularization**|Yao Ni et.al.|[2409.17137](http://arxiv.org/abs/2409.17137)|null|
 |**2024-09-25**|**Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation**|Richard D. Paul et.al.|[2409.17085](http://arxiv.org/abs/2409.17085)|null|
 |**2024-09-22**|**Flat-LoRA: Low-Rank Adaption over a Flat Loss Landscape**|Tao Li et.al.|[2409.14396](http://arxiv.org/abs/2409.14396)|null|
-|**2024-09-21**|**Obliviate: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm**|Jaehan Kim et.al.|[2409.14119](http://arxiv.org/abs/2409.14119)|**[link](https://github.com/obliviatearr/obliviate)**|
+|**2024-10-01**|**Obliviate: Neutralizing Task-agnostic Backdoors within the Parameter-efficient Fine-tuning Paradigm**|Jaehan Kim et.al.|[2409.14119](http://arxiv.org/abs/2409.14119)|**[link](https://github.com/obliviatearr/obliviate)**|
 |**2024-09-20**|**HUT: A More Computation Efficient Fine-Tuning Method With Hadamard Updated Transformation**|Geyuan Zhang et.al.|[2409.13501](http://arxiv.org/abs/2409.13501)|null|
 |**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
 |**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323](http://arxiv.org/abs/2409.11323)|null|
@@ -1517,7 +1517,7 @@ layout: default
 |**2024-09-27**|**Student-Oriented Teacher Knowledge Refinement for Knowledge Distillation**|Chaomin Shen et.al.|[2409.18785](http://arxiv.org/abs/2409.18785)|null|
 |**2024-09-27**|**Harmonizing knowledge Transfer in Neural Network with Unified Distillation**|Yaomin Huang et.al.|[2409.18565](http://arxiv.org/abs/2409.18565)|null|
 |**2024-09-27**|**Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration**|Mahdi Morafah et.al.|[2409.18461](http://arxiv.org/abs/2409.18461)|**[link](https://github.com/mmorafah/takfl)**|
-|**2024-09-26**|**Weak-To-Strong Backdoor Attacks for LLMs with Contrastive Knowledge Distillation**|Shuai Zhao et.al.|[2409.17946](http://arxiv.org/abs/2409.17946)|null|
+|**2024-10-01**|**Backdoor Attacks for LLMs with Weak-To-Strong Knowledge Distillation**|Shuai Zhao et.al.|[2409.17946](http://arxiv.org/abs/2409.17946)|null|
 |**2024-09-26**|**Kendall's $τ$ Coefficient for Logits Distillation**|Yuchen Guan et.al.|[2409.17823](http://arxiv.org/abs/2409.17823)|null|
 |**2024-09-26**|**Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment**|Jiawei Du et.al.|[2409.17612](http://arxiv.org/abs/2409.17612)|null|
 |**2024-09-26**|**Dataset Distillation-based Hybrid Federated Learning on Non-IID Data**|Xiufang Shi et.al.|[2409.17517](http://arxiv.org/abs/2409.17517)|null|
