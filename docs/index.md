@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1068,7 +1068,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-03**|**Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**|Jianrui Zhang et.al.|[2410.02763](http://arxiv.org/abs/2410.02763)|null|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
-|**2024-10-03**|**Video Instruction Tuning With Synthetic Data**|Yuanhan Zhang et.al.|[2410.02713](http://arxiv.org/abs/2410.02713)|null|
+|**2024-10-04**|**Video Instruction Tuning With Synthetic Data**|Yuanhan Zhang et.al.|[2410.02713](http://arxiv.org/abs/2410.02713)|null|
 |**2024-10-03**|**LLaVA-Critic: Learning to Evaluate Multimodal Models**|Tianyi Xiong et.al.|[2410.02712](http://arxiv.org/abs/2410.02712)|null|
 |**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637](http://arxiv.org/abs/2410.02637)|null|
 |**2024-10-02**|**Anchors Aweigh! Sail for Optimal Unified Multi-Modal Representations**|Minoh Jeong et.al.|[2410.02086](http://arxiv.org/abs/2410.02086)|null|
@@ -1406,7 +1406,7 @@ layout: default
 |**2024-09-27**|**Density of states in neural networks: an in-depth exploration of learning in parameter space**|Margherita Mele et.al.|[2409.18683](http://arxiv.org/abs/2409.18683)|null|
 |**2024-09-26**|**The time periodic problem for the Navier-Stokes equations in exterior domains in weighted spaces**|Reinhard Farwig et.al.|[2409.17590](http://arxiv.org/abs/2409.17590)|null|
 |**2024-09-25**|**Scalable Ensemble Diversification for OOD Generalization and Detection**|Alexander Rubinstein et.al.|[2409.16797](http://arxiv.org/abs/2409.16797)|null|
-|**2024-10-02**|**Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Transfer Learning (PETL) in Visual Recognition**|Zheda Mai et.al.|[2409.16434](http://arxiv.org/abs/2409.16434)|null|
+|**2024-10-04**|**Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Transfer Learning (PETL) in Visual Recognition**|Zheda Mai et.al.|[2409.16434](http://arxiv.org/abs/2409.16434)|null|
 |**2024-09-24**|**VascX Models: Model Ensembles for Retinal Vascular Analysis from Color Fundus Images**|Jose Vargas Quiros et.al.|[2409.16016](http://arxiv.org/abs/2409.16016)|**[link](https://github.com/eyened/retinalysis-fundusprep)**|
 |**2024-09-23**|**Efficient Large-Scale Quantum Optimization via Counterdiabatic Ansatz**|Jie Liu et.al.|[2409.15055](http://arxiv.org/abs/2409.15055)|null|
 |**2024-09-24**|**Weighted Approximation By Max-Product Generalized Exponential Sampling Series**|Satyaranjan Pradhan et.al.|[2409.14884](http://arxiv.org/abs/2409.14884)|null|
@@ -1557,7 +1557,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-03**|**Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks**|Siddharth Joshi et.al.|[2410.02116](http://arxiv.org/abs/2410.02116)|null|
 |**2024-10-02**|**PHI-S: Distribution Balancing for Label-Free Multi-Teacher Distillation**|Mike Ranzinger et.al.|[2410.01680](http://arxiv.org/abs/2410.01680)|null|
-|**2024-10-02**|**HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models**|Seanie Lee et.al.|[2410.01524](http://arxiv.org/abs/2410.01524)|**[link](https://github.com/imnotkind/HarmAug)**|
+|**2024-10-04**|**HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models**|Seanie Lee et.al.|[2410.01524](http://arxiv.org/abs/2410.01524)|**[link](https://github.com/imnotkind/HarmAug)**|
 |**2024-10-02**|**Foldable SuperNets: Scalable Merging of Transformers with Different Initializations and Tasks**|Edan Kinderman et.al.|[2410.01483](http://arxiv.org/abs/2410.01483)|**[link](https://github.com/idankinderman/fs_merge)**|
 |**2024-10-02**|**PairDistill: Pairwise Relevance Distillation for Dense Retrieval**|Chao-Wei Huang et.al.|[2410.01383](http://arxiv.org/abs/2410.01383)|**[link](https://github.com/miulab/pairdistill)**|
 |**2024-10-02**|**"No Matter What You Do!": Mitigating Backdoor Attacks in Graph Neural Networks**|Jiale Zhang et.al.|[2410.01272](http://arxiv.org/abs/2410.01272)|**[link](https://github.com/graph-axis/gcleaner)**|
@@ -1685,7 +1685,7 @@ layout: default
 |**2024-10-03**|**Efficient calibration of the shifted square-root diffusion model to credit default swap spreads using asymptotic approximations**|Ankush Agarwal et.al.|[2410.02645](http://arxiv.org/abs/2410.02645)|null|
 |**2024-10-03**|**Inverse Entropic Optimal Transport Solves Semi-supervised Learning via Data Likelihood Maximization**|Mikhail Persiianov et.al.|[2410.02628](http://arxiv.org/abs/2410.02628)|null|
 |**2024-10-03**|**Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting**|Sergei Kholkin et.al.|[2410.02601](http://arxiv.org/abs/2410.02601)|null|
-|**2024-10-03**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543](http://arxiv.org/abs/2410.02543)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
+|**2024-10-04**|**Diffusion Models are Evolutionary Algorithms**|Yanbo Zhang et.al.|[2410.02543](http://arxiv.org/abs/2410.02543)|**[link](https://github.com/Zhangyanbo/diffusion-evolution)**|
 |**2024-10-03**|**Lightweight Diffusion Models for Resource-Constrained Semantic Communication**|Giovanni Pignata et.al.|[2410.02491](http://arxiv.org/abs/2410.02491)|null|
 |**2024-10-03**|**Towards a Theoretical Understanding of Memorization in Diffusion Models**|Yunhao Chen et.al.|[2410.02467](http://arxiv.org/abs/2410.02467)|null|
 |**2024-10-03**|**Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models**|Seyedmorteza Sadat et.al.|[2410.02416](http://arxiv.org/abs/2410.02416)|null|
