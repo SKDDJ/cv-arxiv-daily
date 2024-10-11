@@ -15,8 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning**|Dingkang Liang et.al.|[2410.08114](http://arxiv.org/abs/2410.08114)|**[link](https://github.com/jerryfeng2003/pointgst)**|
+|**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
+|**2024-10-10**|**Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures**|Yiming Chen et.al.|[2410.07698](http://arxiv.org/abs/2410.07698)|null|
+|**2024-10-09**|**SparseGrad: A Selective Method for Efficient Fine-tuning of MLP Layers**|Viktoriia Chekalina et.al.|[2410.07383](http://arxiv.org/abs/2410.07383)|null|
 |**2024-10-09**|**Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs**|Ruijia Niu et.al.|[2410.06431](http://arxiv.org/abs/2410.06431)|null|
-|**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338](http://arxiv.org/abs/2410.06338)|null|
+|**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338](http://arxiv.org/abs/2410.06338)|**[link](https://github.com/surrey-nlp/LLMs4MTQE-UGC)**|
 |**2024-10-05**|**LoRTA: Low Rank Tensor Adaptation of Large Language Models**|Ignacio Hounie et.al.|[2410.04060](http://arxiv.org/abs/2410.04060)|null|
 |**2024-10-03**|**Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection**|Tianxiang Chen et.al.|[2410.02330](http://arxiv.org/abs/2410.02330)|null|
 |**2024-10-02**|**TPP-LLM: Modeling Temporal Point Processes by Efficiently Fine-Tuning Large Language Models**|Zefang Liu et.al.|[2410.02062](http://arxiv.org/abs/2410.02062)|**[link](https://github.com/zefang-liu/TPP-LLM)**|
@@ -212,6 +216,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
+|**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
+|**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
+|**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
+|**2024-10-10**|**ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**|Zitian Zhang et.al.|[2410.08168](http://arxiv.org/abs/2410.08168)|null|
+|**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
+|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|null|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**Robust AI-Generated Text Detection by Restricted Embeddings**|Kristian Kuznetsov et.al.|[2410.08113](http://arxiv.org/abs/2410.08113)|null|
+|**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097](http://arxiv.org/abs/2410.08097)|null|
+|**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
+|**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|null|
+|**2024-10-10**|**A Target-Aware Analysis of Data Augmentation for Hate Speech Detection**|Camilla Casula et.al.|[2410.08053](http://arxiv.org/abs/2410.08053)|null|
+|**2024-10-10**|**LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**|Marcel Grimmer et.al.|[2410.07988](http://arxiv.org/abs/2410.07988)|**[link](https://github.com/dasec/ladimo)**|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
 |**2024-10-09**|**Sylber: Syllabic Embedding Representation of Speech from Raw Audio**|Cheol Jun Cho et.al.|[2410.07168](http://arxiv.org/abs/2410.07168)|null|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
@@ -1114,6 +1133,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
+|**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209](http://arxiv.org/abs/2410.08209)|null|
+|**2024-10-10**|**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**|Wenbo Hu et.al.|[2410.08182](http://arxiv.org/abs/2410.08182)|null|
+|**2024-10-10**|**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**|Abhishek Mandal et.al.|[2410.07884](http://arxiv.org/abs/2410.07884)|null|
+|**2024-10-09**|**The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks**|Isaac R. Galatzer-Levy et.al.|[2410.07391](http://arxiv.org/abs/2410.07391)|null|
 |**2024-10-10**|**Deep Correlated Prompting for Visual Recognition with Missing Modalities**|Lianyu Hu et.al.|[2410.06558](http://arxiv.org/abs/2410.06558)|**[link](https://github.com/hulianyuyy/deep_correlated_prompting)**|
 |**2024-10-09**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|null|
 |**2024-10-09**|**Does Spatial Cognition Emerge in Frontier Models?**|Santhosh Kumar Ramakrishnan et.al.|[2410.06468](http://arxiv.org/abs/2410.06468)|null|
@@ -1123,7 +1147,7 @@
 |**2024-10-08**|**ModalPrompt:Dual-Modality Guided Prompt for Continual Learning of Large Multimodal Models**|Fanhu Zeng et.al.|[2410.05849](http://arxiv.org/abs/2410.05849)|null|
 |**2024-10-08**|**Multimodal Large Language Models and Tunings: Vision, Language, Sensors, Audio, and Beyond**|Soyeon Caren Han et.al.|[2410.05608](http://arxiv.org/abs/2410.05608)|null|
 |**2024-10-08**|**TeaserGen: Generating Teasers for Long Documentaries**|Weihan Xu et.al.|[2410.05586](http://arxiv.org/abs/2410.05586)|null|
-|**2024-10-07**|**R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?**|Chunyi Li et.al.|[2410.05474](http://arxiv.org/abs/2410.05474)|null|
+|**2024-10-07**|**R-Bench: Are your Large Multimodal Model Robust to Real-world Corruptions?**|Chunyi Li et.al.|[2410.05474](http://arxiv.org/abs/2410.05474)|**[link](https://github.com/q-future/r-bench)**|
 |**2024-10-07**|**RespLLM: Unifying Audio and Text with Multimodal LLMs for Generalized Respiratory Health Prediction**|Yuwei Zhang et.al.|[2410.05361](http://arxiv.org/abs/2410.05361)|null|
 |**2024-10-07**|**Patch is Enough: Naturalistic Adversarial Patch against Vision-Language Pre-training Models**|Dehong Kong et.al.|[2410.04884](http://arxiv.org/abs/2410.04884)|null|
 |**2024-10-06**|**VISTA: A Visual and Textual Attention Dataset for Interpreting Multimodal Models**|Harshit et.al.|[2410.04609](http://arxiv.org/abs/2410.04609)|null|
@@ -1469,7 +1493,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-09**|**Efficient Weight-Space Laplace-Gaussian Filtering and Smoothing for Sequential Deep Learning**|Joanna Sliwa et.al.|[2410.06800](http://arxiv.org/abs/2410.06800)|null|
-|**2024-10-09**|**Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**|Yonatan Sverdlov et.al.|[2410.06665](http://arxiv.org/abs/2410.06665)|null|
+|**2024-10-09**|**Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**|Yonatan Sverdlov et.al.|[2410.06665](http://arxiv.org/abs/2410.06665)|**[link](https://github.com/yonatansverdlov/irreducible-representations-of-deep-weight-spaces)**|
 |**2024-10-08**|**Weighted Embeddings for Low-Dimensional Graph Representation**|Thomas Bläsius et.al.|[2410.06042](http://arxiv.org/abs/2410.06042)|null|
 |**2024-10-05**|**Computing ground states of Bose-Einstein condensation by normalized deep neural network**|Weizhu Bao et.al.|[2410.05319](http://arxiv.org/abs/2410.05319)|null|
 |**2024-10-07**|**Hyper-Representations: Learning from Populations of Neural Networks**|Konstantin Schürholt et.al.|[2410.05107](http://arxiv.org/abs/2410.05107)|**[link](https://github.com/hsg-aiml/sane)**|
@@ -1638,6 +1662,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**A Lightweight Target-Driven Network of Stereo Matching for Inland Waterways**|Jing Su et.al.|[2410.07915](http://arxiv.org/abs/2410.07915)|null|
+|**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857](http://arxiv.org/abs/2410.07857)|**[link](https://github.com/event-ahu/openpar)**|
+|**2024-10-10**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679](http://arxiv.org/abs/2410.07679)|**[link](https://github.com/cantbebetter2/rdd)**|
+|**2024-10-10**|**Teddy: Efficient Large-Scale Dataset Distillation via Taylor-Approximated Matching**|Ruonan Yu et.al.|[2410.07579](http://arxiv.org/abs/2410.07579)|null|
+|**2024-10-09**|**Unlocking Real-Time Fluorescence Lifetime Imaging: Multi-Pixel Parallelism for FPGA-Accelerated Processing**|Ismail Erbas et.al.|[2410.07364](http://arxiv.org/abs/2410.07364)|null|
 |**2024-10-09**|**S2HPruner: Soft-to-Hard Distillation Bridges the Discretization Gap in Pruning**|Weihao Lin et.al.|[2410.07046](http://arxiv.org/abs/2410.07046)|null|
 |**2024-10-09**|**Structure-Centric Robust Monocular Depth Estimation via Knowledge Distillation**|Runze Chen et.al.|[2410.06982](http://arxiv.org/abs/2410.06982)|null|
 |**2024-10-09**|**Efficient and Robust Knowledge Distillation from A Stronger Teacher Based on Correlation Matching**|Wenqi Niu et.al.|[2410.06561](http://arxiv.org/abs/2410.06561)|null|
@@ -1777,6 +1806,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
+|**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
+|**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
+|**2024-10-10**|**ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**|Zitian Zhang et.al.|[2410.08168](http://arxiv.org/abs/2410.08168)|null|
+|**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
+|**2024-10-10**|**Progressive Autoregressive Video Diffusion Models**|Desai Xie et.al.|[2410.08151](http://arxiv.org/abs/2410.08151)|null|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**On Barycenter Computation: Semi-Unbalanced Optimal Transport-based Method on Gaussians**|Ngoc-Hai Nguyen et.al.|[2410.08117](http://arxiv.org/abs/2410.08117)|null|
+|**2024-10-10**|**CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**|Xiaoyan Jiang et.al.|[2410.08100](http://arxiv.org/abs/2410.08100)|**[link](https://github.com/sky-visionx/cracksegdiff)**|
+|**2024-10-10**|**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models**|Vinith M. Suriyakumar et.al.|[2410.08074](http://arxiv.org/abs/2410.08074)|null|
+|**2024-10-10**|**Optimal Transportation by Orthogonal Coupling Dynamics**|Mohsen Sadr et.al.|[2410.08060](http://arxiv.org/abs/2410.08060)|null|
+|**2024-10-10**|**LADIMO: Face Morph Generation through Biometric Template Inversion with Latent Diffusion**|Marcel Grimmer et.al.|[2410.07988](http://arxiv.org/abs/2410.07988)|**[link](https://github.com/dasec/ladimo)**|
+|**2024-10-10**|**Convex comparison of Gaussian mixtures**|Benjamin Jourdain et.al.|[2410.07958](http://arxiv.org/abs/2410.07958)|null|
+|**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
+|**2024-10-10**|**Congestion and Penalization in Optimal Transport**|Marcelo Gallardo et.al.|[2410.07363](http://arxiv.org/abs/2410.07363)|null|
 |**2024-10-09**|**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**|Xinchen Zhang et.al.|[2410.07171](http://arxiv.org/abs/2410.07171)|**[link](https://github.com/yangling0818/itercomp)**|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
 |**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
