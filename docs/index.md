@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1139,7 +1139,7 @@ layout: default
 |**2024-10-10**|**Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**|Abhishek Mandal et.al.|[2410.07884](http://arxiv.org/abs/2410.07884)|null|
 |**2024-10-09**|**The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks**|Isaac R. Galatzer-Levy et.al.|[2410.07391](http://arxiv.org/abs/2410.07391)|null|
 |**2024-10-10**|**Deep Correlated Prompting for Visual Recognition with Missing Modalities**|Lianyu Hu et.al.|[2410.06558](http://arxiv.org/abs/2410.06558)|**[link](https://github.com/hulianyuyy/deep_correlated_prompting)**|
-|**2024-10-09**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|null|
+|**2024-10-11**|**Chip-Tuning: Classify Before Language Models Say**|Fangwei Zhu et.al.|[2410.06541](http://arxiv.org/abs/2410.06541)|**[link](https://github.com/qq-mm/chiptuning)**|
 |**2024-10-09**|**Does Spatial Cognition Emerge in Frontier Models?**|Santhosh Kumar Ramakrishnan et.al.|[2410.06468](http://arxiv.org/abs/2410.06468)|null|
 |**2024-10-08**|**Multimodal Representation Learning using Adaptive Graph Construction**|Weichen Huang et.al.|[2410.06395](http://arxiv.org/abs/2410.06395)|null|
 |**2024-10-08**|**Temporal Image Caption Retrieval Competition -- Description and Results**|Jakub Pokrywka et.al.|[2410.06314](http://arxiv.org/abs/2410.06314)|null|
