@@ -19,6 +19,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
 |**2024-10-10**|**Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning**|Dingkang Liang et.al.|[2410.08114](http://arxiv.org/abs/2410.08114)|**[link](https://github.com/jerryfeng2003/pointgst)**|
 |**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
 |**2024-10-10**|**Enhancing Zeroth-order Fine-tuning for Language Models with Low-rank Structures**|Yiming Chen et.al.|[2410.07698](http://arxiv.org/abs/2410.07698)|null|
@@ -218,6 +219,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046](http://arxiv.org/abs/2410.09046)|null|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**Semantic Score Distillation Sampling for Compositional Text-to-3D Generation**|Ling Yang et.al.|[2410.09009](http://arxiv.org/abs/2410.09009)|**[link](https://github.com/yangling0818/semanticsds-3d)**|
+|**2024-10-11**|**WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**|Hanchen Wang et.al.|[2410.09002](http://arxiv.org/abs/2410.09002)|null|
+|**2024-10-11**|**Maximizing the Potential of Synthetic Data: Insights from Random Matrix Theory**|Aymane El Firdoussi et.al.|[2410.08942](http://arxiv.org/abs/2410.08942)|null|
+|**2024-10-11**|**DiffPO: A causal diffusion model for learning distributions of potential outcomes**|Yuchen Ma et.al.|[2410.08924](http://arxiv.org/abs/2410.08924)|null|
+|**2024-10-11**|**An End-to-End Deep Learning Method for Solving Nonlocal Allen-Cahn and Cahn-Hilliard Phase-Field Models**|Yuwei Geng et.al.|[2410.08914](http://arxiv.org/abs/2410.08914)|null|
+|**2024-10-11**|**Conditional Generative Models for Contrast-Enhanced Synthesis of T1w and T1 Maps in Brain MRI**|Moritz Piening et.al.|[2410.08894](http://arxiv.org/abs/2410.08894)|null|
+|**2024-10-11**|**MATCH: Model-Aware TVM-based Compilation for Heterogeneous Edge Devices**|Mohamed Amine Hamdi et.al.|[2410.08855](http://arxiv.org/abs/2410.08855)|null|
+|**2024-10-11**|**LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection**|Mingjia Li et.al.|[2410.08810](http://arxiv.org/abs/2410.08810)|null|
+|**2024-10-11**|**Bad Neighbors: On Understanding VPN Provider Networks**|Teemu Rytilahti et.al.|[2410.08737](http://arxiv.org/abs/2410.08737)|null|
+|**2024-10-11**|**5G as Enabler for Industrie 4.0 Use Cases: Challenges and Concepts**|M. Gundall et.al.|[2410.08726](http://arxiv.org/abs/2410.08726)|null|
+|**2024-10-11**|**Investigating Human-Computer Interaction and Visual Comprehension in Text Generation Process of Natural Language Generation Models**|Yunchao Wang et.al.|[2410.08723](http://arxiv.org/abs/2410.08723)|null|
+|**2024-10-11**|**Impact of Surface Reflections in Maritime Obstacle Detection**|Samed Yalçın et.al.|[2410.08713](http://arxiv.org/abs/2410.08713)|**[link](https://github.com/samedyalcin/mrad)**|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
@@ -1133,6 +1149,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Can GPTs Evaluate Graphic Design Based on Design Principles?**|Daichi Haraguchi et.al.|[2410.08885](http://arxiv.org/abs/2410.08885)|null|
+|**2024-10-11**|**VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding**|Houlun Chen et.al.|[2410.08593](http://arxiv.org/abs/2410.08593)|null|
+|**2024-10-10**|**ElasticTok: Adaptive Tokenization for Image and Video**|Wilson Yan et.al.|[2410.08368](http://arxiv.org/abs/2410.08368)|null|
+|**2024-10-10**|**Flex-MoE: Modeling Arbitrary Modality Combination via the Flexible Mixture-of-Experts**|Sukwon Yun et.al.|[2410.08245](http://arxiv.org/abs/2410.08245)|**[link](https://github.com/unites-lab/flex-moe)**|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
 |**2024-10-10**|**Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**|Shengcao Cao et.al.|[2410.08209](http://arxiv.org/abs/2410.08209)|null|
 |**2024-10-10**|**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**|Wenbo Hu et.al.|[2410.08182](http://arxiv.org/abs/2410.08182)|null|
@@ -1490,6 +1510,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**|Weijia Zhang et.al.|[2410.08947](http://arxiv.org/abs/2410.08947)|null|
 |**2024-10-09**|**Efficient Weight-Space Laplace-Gaussian Filtering and Smoothing for Sequential Deep Learning**|Joanna Sliwa et.al.|[2410.06800](http://arxiv.org/abs/2410.06800)|null|
 |**2024-10-09**|**Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**|Yonatan Sverdlov et.al.|[2410.06665](http://arxiv.org/abs/2410.06665)|**[link](https://github.com/yonatansverdlov/irreducible-representations-of-deep-weight-spaces)**|
 |**2024-10-08**|**Weighted Embeddings for Low-Dimensional Graph Representation**|Thomas Bläsius et.al.|[2410.06042](http://arxiv.org/abs/2410.06042)|null|
@@ -1658,6 +1679,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
+|**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
+|**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692](http://arxiv.org/abs/2410.08692)|null|
+|**2024-10-11**|**DistDD: Distributed Data Distillation Aggregation through Gradient Matching**|Peiran Wang et.al.|[2410.08665](http://arxiv.org/abs/2410.08665)|null|
+|**2024-10-11**|**GAI-Enabled Explainable Personalized Federated Semi-Supervised Learning**|Yubo Peng et.al.|[2410.08634](http://arxiv.org/abs/2410.08634)|null|
+|**2024-10-11**|**Simultaneous Reward Distillation and Preference Learning: Get You a Language Model Who Can Do Both**|Abhijnan Nath et.al.|[2410.08458](http://arxiv.org/abs/2410.08458)|null|
+|**2024-10-10**|**What is Left After Distillation? How Knowledge Transfer Impacts Fairness and Bias**|Aida Mohammadshahi et.al.|[2410.08407](http://arxiv.org/abs/2410.08407)|null|
 |**2024-10-10**|**A Lightweight Target-Driven Network of Stereo Matching for Inland Waterways**|Jing Su et.al.|[2410.07915](http://arxiv.org/abs/2410.07915)|null|
 |**2024-10-10**|**SNN-PAR: Energy Efficient Pedestrian Attribute Recognition via Spiking Neural Networks**|Haiyang Wang et.al.|[2410.07857](http://arxiv.org/abs/2410.07857)|**[link](https://github.com/event-ahu/openpar)**|
 |**2024-10-10**|**Relational Diffusion Distillation for Efficient Image Generation**|Weilun Feng et.al.|[2410.07679](http://arxiv.org/abs/2410.07679)|**[link](https://github.com/cantbebetter2/rdd)**|
@@ -1800,6 +1828,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
+|**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046](http://arxiv.org/abs/2410.09046)|null|
+|**2024-10-11**|**Semantic Score Distillation Sampling for Compositional Text-to-3D Generation**|Ling Yang et.al.|[2410.09009](http://arxiv.org/abs/2410.09009)|**[link](https://github.com/yangling0818/semanticsds-3d)**|
+|**2024-10-11**|**WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**|Hanchen Wang et.al.|[2410.09002](http://arxiv.org/abs/2410.09002)|null|
+|**2024-10-11**|**Gradient-adjusted underdamped Langevin dynamics for sampling**|Xinzhe Zuo et.al.|[2410.08987](http://arxiv.org/abs/2410.08987)|null|
+|**2024-10-11**|**DiffPO: A causal diffusion model for learning distributions of potential outcomes**|Yuchen Ma et.al.|[2410.08924](http://arxiv.org/abs/2410.08924)|null|
+|**2024-10-11**|**Lifelong Event Detection via Optimal Transport**|Viet Dao et.al.|[2410.08905](http://arxiv.org/abs/2410.08905)|null|
+|**2024-10-11**|**Domain decomposition for entropic unbalanced optimal transport**|Ismael Medina et.al.|[2410.08859](http://arxiv.org/abs/2410.08859)|null|
+|**2024-10-11**|**Zero-Shot Offline Imitation Learning via Optimal Transport**|Thomas Rupf et.al.|[2410.08751](http://arxiv.org/abs/2410.08751)|null|
+|**2024-10-11**|**Multi-dimensional non-Markovian backward stochastic differential equations of interactively quadratic generators**|Shengjun Fan et.al.|[2410.08748](http://arxiv.org/abs/2410.08748)|null|
+|**2024-10-11**|**Distillation of Discrete Diffusion through Dimensional Correlations**|Satoshi Hayakawa et.al.|[2410.08709](http://arxiv.org/abs/2410.08709)|null|
+|**2024-10-11**|**Gait Sequence Upsampling using Diffusion Models for single LiDAR sensors**|Jeongho Ahn et.al.|[2410.08680](http://arxiv.org/abs/2410.08680)|null|
+|**2024-10-11**|**E-Motion: Future Motion Simulation via Event Sequence Diffusion**|Song Wu et.al.|[2410.08649](http://arxiv.org/abs/2410.08649)|null|
+|**2024-10-11**|**Synth-SONAR: Sonar Image Synthesis with Enhanced Diversity and Realism via Dual Diffusion Models and GPT Prompting**|Purushothaman Natarajan et.al.|[2410.08612](http://arxiv.org/abs/2410.08612)|null|
+|**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551](http://arxiv.org/abs/2410.08551)|null|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
 |**2024-10-10**|**DifFRelight: Diffusion-Based Facial Performance Relighting**|Mingming He et.al.|[2410.08188](http://arxiv.org/abs/2410.08188)|null|
