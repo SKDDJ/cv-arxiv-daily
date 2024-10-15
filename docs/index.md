@@ -19,6 +19,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates**|Md Kowsher et.al.|[2410.10075](http://arxiv.org/abs/2410.10075)|**[link](https://github.com/Kowsher/RoCoFT)**|
+|**2024-10-13**|**BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation**|Peijia Qin et.al.|[2410.09758](http://arxiv.org/abs/2410.09758)|null|
+|**2024-10-12**|**Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks**|Sungkyung Kim et.al.|[2410.09489](http://arxiv.org/abs/2410.09489)|**[link](https://github.com/attentionx/instructblip_peft)**|
+|**2024-10-12**|**MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning**|Yaming Yang et.al.|[2410.09437](http://arxiv.org/abs/2410.09437)|null|
+|**2024-10-09**|**Parameter-Efficient Fine-Tuning via Selective Discrete Cosine Transform**|Yixian Shen et.al.|[2410.09103](http://arxiv.org/abs/2410.09103)|null|
+|**2024-10-04**|**BIPEFT: Budget-Guided Iterative Search for Parameter Efficient Fine-Tuning of Large Pretrained Language Models**|Aofei Chang et.al.|[2410.09079](http://arxiv.org/abs/2410.09079)|null|
 |**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
 |**2024-10-10**|**Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning**|Dingkang Liang et.al.|[2410.08114](http://arxiv.org/abs/2410.08114)|**[link](https://github.com/jerryfeng2003/pointgst)**|
 |**2024-10-10**|**SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**|Jiayi Han et.al.|[2410.07739](http://arxiv.org/abs/2410.07739)|null|
@@ -219,6 +225,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
+|**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816](http://arxiv.org/abs/2410.10816)|**[link](https://github.com/silentview/lvd-2m)**|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
+|**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812](http://arxiv.org/abs/2410.10812)|**[link](https://github.com/mit-han-lab/hart)**|
+|**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804](http://arxiv.org/abs/2410.10804)|**[link](https://github.com/tl-qz/trajdiffuse)**|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
+|**2024-10-14**|**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**|Litu Rout et.al.|[2410.10792](http://arxiv.org/abs/2410.10792)|null|
+|**2024-10-14**|**ControlMM: Controllable Masked Motion Generation**|Ekkasit Pinyoanuntapong et.al.|[2410.10780](http://arxiv.org/abs/2410.10780)|null|
+|**2024-10-14**|**Adaptive Diffusion Terrain Generator for Autonomous Uneven Terrain Navigation**|Youwei Yu et.al.|[2410.10766](http://arxiv.org/abs/2410.10766)|null|
+|**2024-10-14**|**DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships**|Zhang Wan et.al.|[2410.10751](http://arxiv.org/abs/2410.10751)|null|
+|**2024-10-14**|**CosForce: A Force-Based General Model for Simulating Pedestrian Anticipation and Reaction Mechanisms**|Jinghui Wang et.al.|[2410.10746](http://arxiv.org/abs/2410.10746)|null|
+|**2024-10-14**|**FlexGen: Flexible Multi-View Generation from Text and Image Inputs**|Xinli Xu et.al.|[2410.10745](http://arxiv.org/abs/2410.10745)|null|
+|**2024-10-14**|**Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models**|Junyu Chen et.al.|[2410.10733](http://arxiv.org/abs/2410.10733)|**[link](https://github.com/mit-han-lab/efficientvit)**|
+|**2024-10-14**|**Large Language Models Are Active Critics in NLG Evaluation**|Shuying Xu et.al.|[2410.10724](http://arxiv.org/abs/2410.10724)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
 |**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046](http://arxiv.org/abs/2410.09046)|null|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
@@ -1149,6 +1170,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Saliency Guided Optimization of Diffusion Latents**|Xiwen Wang et.al.|[2410.10257](http://arxiv.org/abs/2410.10257)|null|
+|**2024-10-14**|**MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models**|Peng Xia et.al.|[2410.10139](http://arxiv.org/abs/2410.10139)|null|
+|**2024-10-13**|**LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models**|Junyan Ye et.al.|[2410.09732](http://arxiv.org/abs/2410.09732)|null|
+|**2024-10-12**|**Reconstructive Visual Instruction Tuning**|Haochen Wang et.al.|[2410.09575](http://arxiv.org/abs/2410.09575)|null|
 |**2024-10-11**|**Can GPTs Evaluate Graphic Design Based on Design Principles?**|Daichi Haraguchi et.al.|[2410.08885](http://arxiv.org/abs/2410.08885)|null|
 |**2024-10-11**|**VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding**|Houlun Chen et.al.|[2410.08593](http://arxiv.org/abs/2410.08593)|null|
 |**2024-10-10**|**ElasticTok: Adaptive Tokenization for Image and Video**|Wilson Yan et.al.|[2410.08368](http://arxiv.org/abs/2410.08368)|null|
@@ -1510,6 +1535,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Deep Linear Probe Generators for Weight Space Learning**|Jonathan Kahana et.al.|[2410.10811](http://arxiv.org/abs/2410.10811)|null|
+|**2024-10-14**|**Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation**|Chenglei Shen et.al.|[2410.10639](http://arxiv.org/abs/2410.10639)|null|
+|**2024-10-14**|**MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer**|Minghao Zhu et.al.|[2410.10589](http://arxiv.org/abs/2410.10589)|null|
+|**2024-10-14**|**Regions of Level $\ell$ of Catalan/Semiorder-Type [5pt] Arrangements**|Yanru Chen et.al.|[2410.10198](http://arxiv.org/abs/2410.10198)|null|
+|**2024-10-13**|**A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning**|Chen-Yu Liu et.al.|[2410.09846](http://arxiv.org/abs/2410.09846)|null|
 |**2024-10-11**|**Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**|Weijia Zhang et.al.|[2410.08947](http://arxiv.org/abs/2410.08947)|null|
 |**2024-10-09**|**Efficient Weight-Space Laplace-Gaussian Filtering and Smoothing for Sequential Deep Learning**|Joanna Sliwa et.al.|[2410.06800](http://arxiv.org/abs/2410.06800)|null|
 |**2024-10-09**|**Revisiting Multi-Permutation Equivariance through the Lens of Irreducible Representations**|Yonatan Sverdlov et.al.|[2410.06665](http://arxiv.org/abs/2410.06665)|**[link](https://github.com/yonatansverdlov/irreducible-representations-of-deep-weight-spaces)**|
@@ -1679,6 +1709,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**BrainMVP: Multi-modal Vision Pre-training for Brain Image Analysis using Multi-parametric MRI**|Shaohao Rui et.al.|[2410.10604](http://arxiv.org/abs/2410.10604)|null|
+|**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
+|**2024-10-14**|**Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation**|Siru Ouyang et.al.|[2410.10141](http://arxiv.org/abs/2410.10141)|null|
+|**2024-10-14**|**REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**|Zhiyun Song et.al.|[2410.10097](http://arxiv.org/abs/2410.10097)|null|
+|**2024-10-13**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
+|**2024-10-13**|**Generalized Group Data Attribution**|Dan Ley et.al.|[2410.09940](http://arxiv.org/abs/2410.09940)|null|
+|**2024-10-12**|**Distilling Invariant Representations with Dual Augmentation**|Nikolaos Giakoumoglou et.al.|[2410.09474](http://arxiv.org/abs/2410.09474)|null|
+|**2024-10-12**|**Declarative Knowledge Distillation from Large Language Models for Visual Question Answering Datasets**|Thomas Eiter et.al.|[2410.09428](http://arxiv.org/abs/2410.09428)|**[link](https://github.com/pudumagico/kr2024)**|
 |**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
 |**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
 |**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692](http://arxiv.org/abs/2410.08692)|null|
@@ -1828,6 +1866,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
+|**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812](http://arxiv.org/abs/2410.10812)|**[link](https://github.com/mit-han-lab/hart)**|
+|**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804](http://arxiv.org/abs/2410.10804)|**[link](https://github.com/tl-qz/trajdiffuse)**|
+|**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
+|**2024-10-14**|**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**|Litu Rout et.al.|[2410.10792](http://arxiv.org/abs/2410.10792)|null|
+|**2024-10-14**|**ControlMM: Controllable Masked Motion Generation**|Ekkasit Pinyoanuntapong et.al.|[2410.10780](http://arxiv.org/abs/2410.10780)|null|
+|**2024-10-14**|**Adaptive Diffusion Terrain Generator for Autonomous Uneven Terrain Navigation**|Youwei Yu et.al.|[2410.10766](http://arxiv.org/abs/2410.10766)|null|
+|**2024-10-14**|**DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships**|Zhang Wan et.al.|[2410.10751](http://arxiv.org/abs/2410.10751)|null|
+|**2024-10-14**|**FlexGen: Flexible Multi-View Generation from Text and Image Inputs**|Xinli Xu et.al.|[2410.10745](http://arxiv.org/abs/2410.10745)|null|
+|**2024-10-14**|**Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models**|Junyu Chen et.al.|[2410.10733](http://arxiv.org/abs/2410.10733)|**[link](https://github.com/mit-han-lab/efficientvit)**|
+|**2024-10-14**|**TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**|Jiazhi Guan et.al.|[2410.10696](http://arxiv.org/abs/2410.10696)|null|
+|**2024-10-14**|**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**|Peiwen Sun et.al.|[2410.10676](http://arxiv.org/abs/2410.10676)|null|
+|**2024-10-14**|**Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation**|Chenglei Shen et.al.|[2410.10639](http://arxiv.org/abs/2410.10639)|null|
+|**2024-10-14**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
 |**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046](http://arxiv.org/abs/2410.09046)|null|
 |**2024-10-11**|**Semantic Score Distillation Sampling for Compositional Text-to-3D Generation**|Ling Yang et.al.|[2410.09009](http://arxiv.org/abs/2410.09009)|**[link](https://github.com/yangling0818/semanticsds-3d)**|
