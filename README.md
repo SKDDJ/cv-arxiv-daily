@@ -1,4 +1,4 @@
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,10 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-14**|**RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates**|Md Kowsher et.al.|[2410.10075](http://arxiv.org/abs/2410.10075)|**[link](https://github.com/Kowsher/RoCoFT)**|
+|**2024-10-15**|**RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates**|Md Kowsher et.al.|[2410.10075](http://arxiv.org/abs/2410.10075)|**[link](https://github.com/Kowsher/RoCoFT)**|
 |**2024-10-13**|**BiDoRA: Bi-level Optimization-Based Weight-Decomposed Low-Rank Adaptation**|Peijia Qin et.al.|[2410.09758](http://arxiv.org/abs/2410.09758)|null|
 |**2024-10-12**|**Towards Efficient Visual-Language Alignment of the Q-Former for Visual Reasoning Tasks**|Sungkyung Kim et.al.|[2410.09489](http://arxiv.org/abs/2410.09489)|**[link](https://github.com/attentionx/instructblip_peft)**|
-|**2024-10-12**|**MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning**|Yaming Yang et.al.|[2410.09437](http://arxiv.org/abs/2410.09437)|null|
+|**2024-10-15**|**MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning**|Yaming Yang et.al.|[2410.09437](http://arxiv.org/abs/2410.09437)|null|
 |**2024-10-09**|**Parameter-Efficient Fine-Tuning via Selective Discrete Cosine Transform**|Yixian Shen et.al.|[2410.09103](http://arxiv.org/abs/2410.09103)|null|
 |**2024-10-04**|**BIPEFT: Budget-Guided Iterative Search for Parameter Efficient Fine-Tuning of Large Pretrained Language Models**|Aofei Chang et.al.|[2410.09079](http://arxiv.org/abs/2410.09079)|null|
 |**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
@@ -28,7 +28,7 @@
 |**2024-10-09**|**SparseGrad: A Selective Method for Efficient Fine-tuning of MLP Layers**|Viktoriia Chekalina et.al.|[2410.07383](http://arxiv.org/abs/2410.07383)|null|
 |**2024-10-09**|**Functional-level Uncertainty Quantification for Calibrated Fine-tuning on LLMs**|Ruijia Niu et.al.|[2410.06431](http://arxiv.org/abs/2410.06431)|null|
 |**2024-10-08**|**Are Large Language Models State-of-the-art Quality Estimators for Machine Translation of User-generated Content?**|Shenbin Qian et.al.|[2410.06338](http://arxiv.org/abs/2410.06338)|**[link](https://github.com/surrey-nlp/LLMs4MTQE-UGC)**|
-|**2024-10-05**|**LoRTA: Low Rank Tensor Adaptation of Large Language Models**|Ignacio Hounie et.al.|[2410.04060](http://arxiv.org/abs/2410.04060)|null|
+|**2024-10-15**|**LoRTA: Low Rank Tensor Adaptation of Large Language Models**|Ignacio Hounie et.al.|[2410.04060](http://arxiv.org/abs/2410.04060)|null|
 |**2024-10-03**|**Llama SLayer 8B: Shallow Layers Hold the Key to Knowledge Injection**|Tianxiang Chen et.al.|[2410.02330](http://arxiv.org/abs/2410.02330)|**[link](https://github.com/txchen-ustc/llama-slayer)**|
 |**2024-10-02**|**TPP-LLM: Modeling Temporal Point Processes by Efficiently Fine-Tuning Large Language Models**|Zefang Liu et.al.|[2410.02062](http://arxiv.org/abs/2410.02062)|**[link](https://github.com/zefang-liu/TPP-LLM)**|
 |**2024-10-02**|**NEAT: Nonlinear Parameter-efficient Adaptation of Pre-trained Models**|Yibo Zhong et.al.|[2410.01870](http://arxiv.org/abs/2410.01870)|null|
@@ -217,14 +217,14 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
-|**2024-10-14**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
+|**2024-10-15**|**TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models**|Mu Cai et.al.|[2410.10818](http://arxiv.org/abs/2410.10818)|null|
 |**2024-10-14**|**LVD-2M: A Long-take Video Dataset with Temporally Dense Captions**|Tianwei Xiong et.al.|[2410.10816](http://arxiv.org/abs/2410.10816)|**[link](https://github.com/silentview/lvd-2m)**|
 |**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
 |**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812](http://arxiv.org/abs/2410.10812)|**[link](https://github.com/mit-han-lab/hart)**|
@@ -1164,7 +1164,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1531,7 +1531,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -1540,7 +1540,7 @@
 |**2024-10-14**|**Deep Linear Probe Generators for Weight Space Learning**|Jonathan Kahana et.al.|[2410.10811](http://arxiv.org/abs/2410.10811)|null|
 |**2024-10-14**|**Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation**|Chenglei Shen et.al.|[2410.10639](http://arxiv.org/abs/2410.10639)|null|
 |**2024-10-14**|**MoTE: Reconciling Generalization with Specialization for Visual-Language to Video Knowledge Transfer**|Minghao Zhu et.al.|[2410.10589](http://arxiv.org/abs/2410.10589)|null|
-|**2024-10-14**|**Regions of Level $\ell$ of Catalan/Semiorder-Type [5pt] Arrangements**|Yanru Chen et.al.|[2410.10198](http://arxiv.org/abs/2410.10198)|null|
+|**2024-10-15**|**Regions of Level $\ell$ of Catalan/Semiorder-Type Arrangements**|Yanru Chen et.al.|[2410.10198](http://arxiv.org/abs/2410.10198)|null|
 |**2024-10-13**|**A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning**|Chen-Yu Liu et.al.|[2410.09846](http://arxiv.org/abs/2410.09846)|null|
 |**2024-10-11**|**Meta-Transfer Learning Empowered Temporal Graph Networks for Cross-City Real Estate Appraisal**|Weijia Zhang et.al.|[2410.08947](http://arxiv.org/abs/2410.08947)|null|
 |**2024-10-09**|**Efficient Weight-Space Laplace-Gaussian Filtering and Smoothing for Sequential Deep Learning**|Joanna Sliwa et.al.|[2410.06800](http://arxiv.org/abs/2410.06800)|null|
@@ -1551,7 +1551,7 @@
 |**2024-10-06**|**Integrable Modules of Map full Toroidal Lie Algebras**|Pradeep Bisht et.al.|[2410.04495](http://arxiv.org/abs/2410.04495)|null|
 |**2024-10-06**|**Global well-posedness for the defocusing 3D quadratic NLS in the sharp critical space**|Jia Shen et.al.|[2410.04337](http://arxiv.org/abs/2410.04337)|null|
 |**2024-10-05**|**Equivariant Neural Functional Networks for Transformers**|Viet-Hoang Tran et.al.|[2410.04209](http://arxiv.org/abs/2410.04209)|null|
-|**2024-10-05**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
+|**2024-10-15**|**Learning on LoRAs: GL-Equivariant Processing of Low-Rank Weight Spaces for Large Finetuned Models**|Theo Putterman et.al.|[2410.04207](http://arxiv.org/abs/2410.04207)|null|
 |**2024-10-04**|**Measuring and Controlling Solution Degeneracy across Task-Trained Recurrent Neural Networks**|Ann Huang et.al.|[2410.03972](http://arxiv.org/abs/2410.03972)|null|
 |**2024-10-04**|**Autoregressive Moving-average Attention Mechanism for Time Series Forecasting**|Jiecheng Lu et.al.|[2410.03159](http://arxiv.org/abs/2410.03159)|**[link](https://github.com/ljc-fvnr/arma-attention)**|
 |**2024-10-02**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|null|
@@ -1707,7 +1707,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -1717,11 +1717,11 @@
 |**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
 |**2024-10-14**|**Temperature-Centric Investigation of Speculative Decoding with Knowledge Distillation**|Siru Ouyang et.al.|[2410.10141](http://arxiv.org/abs/2410.10141)|null|
 |**2024-10-14**|**REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**|Zhiyun Song et.al.|[2410.10097](http://arxiv.org/abs/2410.10097)|null|
-|**2024-10-13**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
+|**2024-10-15**|**Self-Data Distillation for Recovering Quality in Pruned Large Language Models**|Vithursan Thangarasa et.al.|[2410.09982](http://arxiv.org/abs/2410.09982)|null|
 |**2024-10-13**|**Generalized Group Data Attribution**|Dan Ley et.al.|[2410.09940](http://arxiv.org/abs/2410.09940)|null|
 |**2024-10-12**|**Distilling Invariant Representations with Dual Augmentation**|Nikolaos Giakoumoglou et.al.|[2410.09474](http://arxiv.org/abs/2410.09474)|null|
 |**2024-10-12**|**Declarative Knowledge Distillation from Large Language Models for Visual Question Answering Datasets**|Thomas Eiter et.al.|[2410.09428](http://arxiv.org/abs/2410.09428)|**[link](https://github.com/pudumagico/kr2024)**|
-|**2024-10-11**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
+|**2024-10-15**|**Transforming In-Vehicle Network Intrusion Detection: VAE-based Knowledge Distillation Meets Explainable AI**|Muhammet Anil Yagiz et.al.|[2410.09043](http://arxiv.org/abs/2410.09043)|null|
 |**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
 |**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692](http://arxiv.org/abs/2410.08692)|null|
 |**2024-10-11**|**DistDD: Distributed Data Distillation Aggregation through Gradient Matching**|Peiran Wang et.al.|[2410.08665](http://arxiv.org/abs/2410.08665)|null|
@@ -1866,7 +1866,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -1886,7 +1886,7 @@
 |**2024-10-14**|**TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**|Jiazhi Guan et.al.|[2410.10696](http://arxiv.org/abs/2410.10696)|null|
 |**2024-10-14**|**Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation**|Peiwen Sun et.al.|[2410.10676](http://arxiv.org/abs/2410.10676)|null|
 |**2024-10-14**|**Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation**|Chenglei Shen et.al.|[2410.10639](http://arxiv.org/abs/2410.10639)|null|
-|**2024-10-14**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
+|**2024-10-15**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
 |**2024-10-11**|**Linear Convergence of Diffusion Models Under the Manifold Hypothesis**|Peter Potaptchik et.al.|[2410.09046](http://arxiv.org/abs/2410.09046)|null|
 |**2024-10-11**|**Semantic Score Distillation Sampling for Compositional Text-to-3D Generation**|Ling Yang et.al.|[2410.09009](http://arxiv.org/abs/2410.09009)|**[link](https://github.com/yangling0818/semanticsds-3d)**|
@@ -2232,5 +2232,5 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
