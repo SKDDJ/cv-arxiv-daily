@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,7 +19,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-16**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|null|
+|**2024-10-17**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|**[link](https://github.com/zongqianli/promptcompression-survey)**|
 |**2024-10-15**|**Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models**|Kai Yao et.al.|[2410.11772](http://arxiv.org/abs/2410.11772)|**[link](https://github.com/kaiseem/ist)**|
 |**2024-10-15**|**LoKO: Low-Rank Kalman Optimizer for Online Fine-Tuning of Large Models**|Hossein Abdi et.al.|[2410.11551](http://arxiv.org/abs/2410.11551)|null|
 |**2024-10-15**|**RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates**|Md Kowsher et.al.|[2410.10075](http://arxiv.org/abs/2410.10075)|**[link](https://github.com/Kowsher/RoCoFT)**|
@@ -1754,7 +1754,7 @@ layout: default
 |**2024-10-16**|**TAS: Distilling Arbitrary Teacher and Student via a Hybrid Assistant**|Guopeng Li et.al.|[2410.12342](http://arxiv.org/abs/2410.12342)|null|
 |**2024-10-16**|**Optimizing YOLOv5s Object Detection through Knowledge Distillation algorithm**|Guanming Huang et.al.|[2410.12259](http://arxiv.org/abs/2410.12259)|null|
 |**2024-10-16**|**TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration**|Yiwei Guo et.al.|[2410.12183](http://arxiv.org/abs/2410.12183)|null|
-|**2024-10-16**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
+|**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
 |**2024-10-15**|**MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router**|Yanyue Xie et.al.|[2410.12013](http://arxiv.org/abs/2410.12013)|null|
 |**2024-10-15**|**Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation**|Andong Lu et.al.|[2410.11586](http://arxiv.org/abs/2410.11586)|**[link](https://github.com/multi-modality-tracking/ckd)**|
 |**2024-10-15**|**Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL**|Qihuang Zhong et.al.|[2410.11371](http://arxiv.org/abs/2410.11371)|null|
@@ -1929,7 +1929,7 @@ layout: default
 |**2024-10-16**|**A Class of Degenerate Mean Field Games, Associated FBSDEs and Master Equations**|Alain Bensoussan et.al.|[2410.12404](http://arxiv.org/abs/2410.12404)|null|
 |**2024-10-16**|**DaDiff: Domain-aware Diffusion Model for Nighttime UAV Tracking**|Haobo Zuo et.al.|[2410.12270](http://arxiv.org/abs/2410.12270)|null|
 |**2024-10-16**|**FlashAudio: Rectified Flows for Fast and High-Fidelity Text-to-Audio Generation**|Huadai Liu et.al.|[2410.12266](http://arxiv.org/abs/2410.12266)|null|
-|**2024-10-16**|**Expected Sliced Transport Plans**|Xinran Liu et.al.|[2410.12176](http://arxiv.org/abs/2410.12176)|null|
+|**2024-10-17**|**Expected Sliced Transport Plans**|Xinran Liu et.al.|[2410.12176](http://arxiv.org/abs/2410.12176)|null|
 |**2024-10-16**|**Preference Optimization with Multi-Sample Comparisons**|Chaoqi Wang et.al.|[2410.12138](http://arxiv.org/abs/2410.12138)|null|
 |**2024-10-15**|**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**|Junhwa Hur et.al.|[2410.11838](http://arxiv.org/abs/2410.11838)|null|
 |**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|

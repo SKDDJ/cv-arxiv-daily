@@ -1,4 +1,4 @@
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-16**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|null|
+|**2024-10-17**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|**[link](https://github.com/zongqianli/promptcompression-survey)**|
 |**2024-10-15**|**Layer-wise Importance Matters: Less Memory for Better Performance in Parameter-efficient Fine-tuning of Large Language Models**|Kai Yao et.al.|[2410.11772](http://arxiv.org/abs/2410.11772)|**[link](https://github.com/kaiseem/ist)**|
 |**2024-10-15**|**LoKO: Low-Rank Kalman Optimizer for Online Fine-Tuning of Large Models**|Hossein Abdi et.al.|[2410.11551](http://arxiv.org/abs/2410.11551)|null|
 |**2024-10-15**|**RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates**|Md Kowsher et.al.|[2410.10075](http://arxiv.org/abs/2410.10075)|**[link](https://github.com/Kowsher/RoCoFT)**|
@@ -220,7 +220,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -1197,7 +1197,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1571,7 +1571,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -1749,7 +1749,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -1758,7 +1758,7 @@
 |**2024-10-16**|**TAS: Distilling Arbitrary Teacher and Student via a Hybrid Assistant**|Guopeng Li et.al.|[2410.12342](http://arxiv.org/abs/2410.12342)|null|
 |**2024-10-16**|**Optimizing YOLOv5s Object Detection through Knowledge Distillation algorithm**|Guanming Huang et.al.|[2410.12259](http://arxiv.org/abs/2410.12259)|null|
 |**2024-10-16**|**TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration**|Yiwei Guo et.al.|[2410.12183](http://arxiv.org/abs/2410.12183)|null|
-|**2024-10-16**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
+|**2024-10-17**|**SAM-Guided Masked Token Prediction for 3D Scene Understanding**|Zhimin Chen et.al.|[2410.12158](http://arxiv.org/abs/2410.12158)|null|
 |**2024-10-15**|**MoE-Pruner: Pruning Mixture-of-Experts Large Language Model using the Hints from Its Router**|Yanyue Xie et.al.|[2410.12013](http://arxiv.org/abs/2410.12013)|null|
 |**2024-10-15**|**Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation**|Andong Lu et.al.|[2410.11586](http://arxiv.org/abs/2410.11586)|**[link](https://github.com/multi-modality-tracking/ckd)**|
 |**2024-10-15**|**Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL**|Qihuang Zhong et.al.|[2410.11371](http://arxiv.org/abs/2410.11371)|null|
@@ -1916,7 +1916,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -1935,7 +1935,7 @@
 |**2024-10-16**|**A Class of Degenerate Mean Field Games, Associated FBSDEs and Master Equations**|Alain Bensoussan et.al.|[2410.12404](http://arxiv.org/abs/2410.12404)|null|
 |**2024-10-16**|**DaDiff: Domain-aware Diffusion Model for Nighttime UAV Tracking**|Haobo Zuo et.al.|[2410.12270](http://arxiv.org/abs/2410.12270)|null|
 |**2024-10-16**|**FlashAudio: Rectified Flows for Fast and High-Fidelity Text-to-Audio Generation**|Huadai Liu et.al.|[2410.12266](http://arxiv.org/abs/2410.12266)|null|
-|**2024-10-16**|**Expected Sliced Transport Plans**|Xinran Liu et.al.|[2410.12176](http://arxiv.org/abs/2410.12176)|null|
+|**2024-10-17**|**Expected Sliced Transport Plans**|Xinran Liu et.al.|[2410.12176](http://arxiv.org/abs/2410.12176)|null|
 |**2024-10-16**|**Preference Optimization with Multi-Sample Comparisons**|Chaoqi Wang et.al.|[2410.12138](http://arxiv.org/abs/2410.12138)|null|
 |**2024-10-15**|**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion**|Junhwa Hur et.al.|[2410.11838](http://arxiv.org/abs/2410.11838)|null|
 |**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|
@@ -2312,5 +2312,5 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
