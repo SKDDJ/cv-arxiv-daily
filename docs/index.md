@@ -19,6 +19,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation**|Shuai Zhao et.al.|[2410.14425](http://arxiv.org/abs/2410.14425)|**[link](https://github.com/shuaizhao95/Unlearning)**|
 |**2024-10-17**|**LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning**|Yiming Shi et.al.|[2410.13618](http://arxiv.org/abs/2410.13618)|**[link](https://github.com/skddj/loldu)**|
 |**2024-10-16**|**Communication-Efficient and Tensorized Federated Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2410.13097](http://arxiv.org/abs/2410.13097)|null|
 |**2024-10-17**|**Prompt Compression for Large Language Models: A Survey**|Zongqian Li et.al.|[2410.12388](http://arxiv.org/abs/2410.12388)|**[link](https://github.com/ZongqianLi/Prompt-Compression-Survey)**|
@@ -230,6 +231,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672](http://arxiv.org/abs/2410.14672)|**[link](https://github.com/haoosz/BiGR)**|
+|**2024-10-18**|**How Does Data Diversity Shape the Weight Landscape of Neural Networks?**|Yang Ba et.al.|[2410.14602](http://arxiv.org/abs/2410.14602)|null|
+|**2024-10-18**|**Bayesian Multi-wavelength Imaging of the LMC SN1987A with SRG/eROSITA**|Vincent Eberle et.al.|[2410.14599](http://arxiv.org/abs/2410.14599)|null|
+|**2024-10-18**|**Neuro-Symbolic Traders: Assessing the Wisdom of AI Crowds in Markets**|Namid R. Stillman et.al.|[2410.14587](http://arxiv.org/abs/2410.14587)|null|
+|**2024-10-18**|**Reimagining partial thickness keratoplasty: An eye mountable robot for autonomous big bubble needle insertion**|Y. Wang et.al.|[2410.14577](http://arxiv.org/abs/2410.14577)|null|
+|**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540](http://arxiv.org/abs/2410.14540)|null|
+|**2024-10-18**|**Blockchain-Based Trust and Transparency in Airline Reservation Systems using Microservices Architecture**|Biman Barua et.al.|[2410.14518](http://arxiv.org/abs/2410.14518)|null|
+|**2024-10-18**|**LEAD: Latent Realignment for Human Motion Diffusion**|Nefeli Andreou et.al.|[2410.14508](http://arxiv.org/abs/2410.14508)|null|
+|**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
+|**2024-10-18**|**Data-driven topology design with persistent homology for enhancing population diversity**|Taisei Kii et.al.|[2410.14496](http://arxiv.org/abs/2410.14496)|null|
+|**2024-10-18**|**ANT: Adaptive Noise Schedule for Time Series Diffusion Models**|Seunghan Lee et.al.|[2410.14488](http://arxiv.org/abs/2410.14488)|**[link](https://github.com/seunghan96/ant)**|
+|**2024-10-18**|**CaTs and DAGs: Integrating Directed Acyclic Graphs with Transformers and Fully-Connected Neural Networks for Causally Constrained Predictions**|Matthew J. Vowels et.al.|[2410.14485](http://arxiv.org/abs/2410.14485)|null|
+|**2024-10-18**|**DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation**|Junjie Wu et.al.|[2410.14481](http://arxiv.org/abs/2410.14481)|null|
+|**2024-10-18**|**Flow-based Sampling for Entanglement Entropy and the Machine Learning of Defects**|Andrea Bulgarelli et.al.|[2410.14466](http://arxiv.org/abs/2410.14466)|null|
+|**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-17**|**Influence Functions for Scalable Data Attribution in Diffusion Models**|Bruno Mlodozeniec et.al.|[2410.13850](http://arxiv.org/abs/2410.13850)|null|
@@ -1220,6 +1236,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension**|Yin Xie et.al.|[2410.14332](http://arxiv.org/abs/2410.14332)|**[link](https://github.com/deepglint/croc)**|
+|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|null|
+|**2024-10-18**|**Coherence-Driven Multimodal Safety Dialogue with Active Learning for Embodied Agents**|Sabit Hassan et.al.|[2410.14141](http://arxiv.org/abs/2410.14141)|null|
 |**2024-10-17**|**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**|Chengyue Wu et.al.|[2410.13848](http://arxiv.org/abs/2410.13848)|**[link](https://github.com/deepseek-ai/janus)**|
 |**2024-10-18**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
 |**2024-10-17**|**Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR**|Abhishek Gupta et.al.|[2410.13445](http://arxiv.org/abs/2410.13445)|null|
@@ -1773,6 +1792,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation**|Shuai Zhao et.al.|[2410.14425](http://arxiv.org/abs/2410.14425)|**[link](https://github.com/shuaizhao95/Unlearning)**|
+|**2024-10-18**|**Preview-based Category Contrastive Learning for Knowledge Distillation**|Muhe Ding et.al.|[2410.14143](http://arxiv.org/abs/2410.14143)|null|
+|**2024-10-17**|**Leveraging Fine-Tuned Language Models for Efficient and Accurate Smart Contract Auditing**|Zhiyuan Wei et.al.|[2410.13918](http://arxiv.org/abs/2410.13918)|**[link](https://github.com/LLMSmartAudit/FTSmartAudit)**|
 |**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761](http://arxiv.org/abs/2410.13761)|**[link](https://github.com/ins1stenc3/gder)**|
 |**2024-10-17**|**An Active Learning Framework for Inclusive Generation by Large Language Models**|Sabit Hassan et.al.|[2410.13641](http://arxiv.org/abs/2410.13641)|null|
 |**2024-10-18**|**Towards Satellite Non-IID Imagery: A Spectral Clustering-Assisted Federated Learning Approach**|Luyao Zou et.al.|[2410.13602](http://arxiv.org/abs/2410.13602)|null|
@@ -1943,6 +1965,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**A Lipschitz spaces view of infinitely wide shallow neural networks**|Francesca Bartolucci et.al.|[2410.14591](http://arxiv.org/abs/2410.14591)|null|
+|**2024-10-18**|**Neuro-Symbolic Traders: Assessing the Wisdom of AI Crowds in Markets**|Namid R. Stillman et.al.|[2410.14587](http://arxiv.org/abs/2410.14587)|null|
+|**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540](http://arxiv.org/abs/2410.14540)|null|
+|**2024-10-18**|**LEAD: Latent Realignment for Human Motion Diffusion**|Nefeli Andreou et.al.|[2410.14508](http://arxiv.org/abs/2410.14508)|null|
+|**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
+|**2024-10-18**|**ANT: Adaptive Noise Schedule for Time Series Diffusion Models**|Seunghan Lee et.al.|[2410.14488](http://arxiv.org/abs/2410.14488)|**[link](https://github.com/seunghan96/ant)**|
+|**2024-10-18**|**DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation**|Junjie Wu et.al.|[2410.14481](http://arxiv.org/abs/2410.14481)|null|
+|**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
+|**2024-10-18**|**Dynamic Negative Guidance of Diffusion Models**|Felix Koulischer et.al.|[2410.14398](http://arxiv.org/abs/2410.14398)|null|
+|**2024-10-18**|**Unscrambling disease progression at scale: fast inference of event permutations with optimal transport**|Peter A. Wijeratne et.al.|[2410.14388](http://arxiv.org/abs/2410.14388)|null|
+|**2024-10-18**|**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**|Bo Cheng et.al.|[2410.14324](http://arxiv.org/abs/2410.14324)|**[link](https://github.com/360cvgroup/hico_t2i)**|
+|**2024-10-18**|**A class of kernel-based scalable algorithms for data science**|Philippe G. LeFloch et.al.|[2410.14323](http://arxiv.org/abs/2410.14323)|null|
+|**2024-10-18**|**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer**|Yuhao Wan et.al.|[2410.14279](http://arxiv.org/abs/2410.14279)|null|
+|**2024-10-18**|**HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects**|Oliverio Theophilus Nathanael et.al.|[2410.14265](http://arxiv.org/abs/2410.14265)|null|
+|**2024-10-18**|**ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing**|Jimin Dai et.al.|[2410.14247](http://arxiv.org/abs/2410.14247)|null|
 |**2024-10-17**|**Diffusing States and Matching Scores: A New Framework for Imitation Learning**|Runzhe Wu et.al.|[2410.13855](http://arxiv.org/abs/2410.13855)|**[link](https://github.com/ziqian2000/smiling)**|
 |**2024-10-17**|**Influence Functions for Scalable Data Attribution in Diffusion Models**|Bruno Mlodozeniec et.al.|[2410.13850](http://arxiv.org/abs/2410.13850)|null|
 |**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
