@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.21
+## Updated on 2024.10.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -242,7 +242,7 @@ layout: default
 |**2024-10-18**|**Reinforcement Learning in Non-Markov Market-Making**|Luca Lalor et.al.|[2410.14504](http://arxiv.org/abs/2410.14504)|null|
 |**2024-10-18**|**Data-driven topology design with persistent homology for enhancing population diversity**|Taisei Kii et.al.|[2410.14496](http://arxiv.org/abs/2410.14496)|null|
 |**2024-10-18**|**ANT: Adaptive Noise Schedule for Time Series Diffusion Models**|Seunghan Lee et.al.|[2410.14488](http://arxiv.org/abs/2410.14488)|**[link](https://github.com/seunghan96/ant)**|
-|**2024-10-18**|**CaTs and DAGs: Integrating Directed Acyclic Graphs with Transformers and Fully-Connected Neural Networks for Causally Constrained Predictions**|Matthew J. Vowels et.al.|[2410.14485](http://arxiv.org/abs/2410.14485)|null|
+|**2024-10-21**|**CaTs and DAGs: Integrating Directed Acyclic Graphs with Transformers and Fully-Connected Neural Networks for Causally Constrained Predictions**|Matthew J. Vowels et.al.|[2410.14485](http://arxiv.org/abs/2410.14485)|null|
 |**2024-10-18**|**DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation**|Junjie Wu et.al.|[2410.14481](http://arxiv.org/abs/2410.14481)|null|
 |**2024-10-18**|**Flow-based Sampling for Entanglement Entropy and the Machine Learning of Defects**|Andrea Bulgarelli et.al.|[2410.14466](http://arxiv.org/abs/2410.14466)|null|
 |**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
