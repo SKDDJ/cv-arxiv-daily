@@ -1,4 +1,4 @@
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-22**|**Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations**|Cheng Lei et.al.|[2410.16953](http://arxiv.org/abs/2410.16953)|null|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
+|**2024-10-22**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Natural GaLore: Accelerating GaLore for memory-efficient LLM Training and Fine-tuning**|Arijit Das et.al.|[2410.16029](http://arxiv.org/abs/2410.16029)|**[link](https://github.com/selfsupervised-ai/natural-galore)**|
 |**2024-10-18**|**Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation**|Shuai Zhao et.al.|[2410.14425](http://arxiv.org/abs/2410.14425)|**[link](https://github.com/shuaizhao95/Unlearning)**|
 |**2024-10-17**|**LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning**|Yiming Shi et.al.|[2410.13618](http://arxiv.org/abs/2410.13618)|**[link](https://github.com/skddj/loldu)**|
@@ -226,7 +226,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -235,7 +235,7 @@
 |**2024-10-22**|**Large Language Models Empowered Personalized Web Agents**|Hongru Cai et.al.|[2410.17236](http://arxiv.org/abs/2410.17236)|null|
 |**2024-10-22**|**Creativity in AI: Progresses and Challenges**|Mete Ismayilzada et.al.|[2410.17218](http://arxiv.org/abs/2410.17218)|null|
 |**2024-10-22**|**Audio-to-Score Conversion Model Based on Whisper methodology**|Hongyao Zhang et.al.|[2410.17209](http://arxiv.org/abs/2410.17209)|null|
-|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|null|
+|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|**[link](https://github.com/flagshippioneering/pi-rldif)**|
 |**2024-10-22**|**Performance of the CMS high-level trigger during LHC Run 2**|CMS Collaboration et.al.|[2410.17038](http://arxiv.org/abs/2410.17038)|null|
 |**2024-10-22**|**Hybrid Generative AI for De Novo Design of Co-Crystals with Enhanced Tabletability**|Nina Gubina et.al.|[2410.17005](http://arxiv.org/abs/2410.17005)|**[link](https://github.com/ai-chem/gemcode)**|
 |**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942](http://arxiv.org/abs/2410.16942)|null|
@@ -1263,7 +1263,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1274,12 +1274,12 @@
 |**2024-10-21**|**DocEdit-v2: Document Structure Editing Via Multimodal LLM Grounding**|Manan Suri et.al.|[2410.16472](http://arxiv.org/abs/2410.16472)|null|
 |**2024-10-21**|**Promoting cross-modal representations to improve multimodal foundation models for physiological signals**|Ching Fang et.al.|[2410.16424](http://arxiv.org/abs/2410.16424)|null|
 |**2024-10-22**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
-|**2024-10-21**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
+|**2024-10-22**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models**|Yufei Zhan et.al.|[2410.16163](http://arxiv.org/abs/2410.16163)|**[link](https://github.com/jefferyzhan/griffon)**|
 |**2024-10-21**|**LMHaze: Intensity-aware Image Dehazing with a Large-scale Multi-intensity Real Haze Dataset**|Ruikun Zhang et.al.|[2410.16095](http://arxiv.org/abs/2410.16095)|**[link](https://github.com/wangzrk/LMHaze)**|
 |**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[2410.15885](http://arxiv.org/abs/2410.15885)|null|
 |**2024-10-21**|**Multimodal Learning for Embryo Viability Prediction in Clinical IVF**|Junsik Kim et.al.|[2410.15581](http://arxiv.org/abs/2410.15581)|null|
-|**2024-10-20**|**IPO: Interpretable Prompt Optimization for Vision-Language Models**|Yingjun Du et.al.|[2410.15397](http://arxiv.org/abs/2410.15397)|null|
+|**2024-10-20**|**IPO: Interpretable Prompt Optimization for Vision-Language Models**|Yingjun Du et.al.|[2410.15397](http://arxiv.org/abs/2410.15397)|**[link](https://github.com/lmsdss/IPO)**|
 |**2024-10-20**|**Modality-Fair Preference Optimization for Trustworthy MLLM Alignment**|Songtao Jiang et.al.|[2410.15334](http://arxiv.org/abs/2410.15334)|null|
 |**2024-10-19**|**ChitroJera: A Regionally Relevant Visual Question Answering Dataset for Bangla**|Deeparghya Dutta Barua et.al.|[2410.14991](http://arxiv.org/abs/2410.14991)|null|
 |**2024-10-19**|**SemiHVision: Enhancing Medical Multimodal Models with a Semi-Human Annotated Dataset and Fine-Tuned Instruction Generation**|Junda Wang et.al.|[2410.14948](http://arxiv.org/abs/2410.14948)|null|
@@ -1657,16 +1657,16 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-21**|**Two dimensional delta Bose gas in a weighted space**|Sudheesh Surendranath et.al.|[2410.16550](http://arxiv.org/abs/2410.16550)|null|
-|**2024-10-21**|**In Search of the Successful Interpolation: On the Role of Sharpness in CLIP Generalization**|Alireza Abdollahpoorrostam et.al.|[2410.16476](http://arxiv.org/abs/2410.16476)|null|
-|**2024-10-18**|**Universal approximation results for neural networks with non-polynomial activation function over non-compact domains**|Ariel Neufeld et.al.|[2410.14759](http://arxiv.org/abs/2410.14759)|null|
-|**2024-10-17**|**Harnessing Your DRAM and SSD for Sustainable and Accessible LLM Inference with Mixed-Precision and Multi-level Caching**|Jie Peng et.al.|[2410.14740](http://arxiv.org/abs/2410.14740)|null|
+|**2024-10-21**|**In Search of the Successful Interpolation: On the Role of Sharpness in CLIP Generalization**|Alireza Abdollahpoorrostam et.al.|[2410.16476](http://arxiv.org/abs/2410.16476)|**[link](https://github.com/alirezaabdollahpour/clip_mode_connectivity)**|
+|**2024-10-23**|**Universal approximation results for neural networks with non-polynomial activation function over non-compact domains**|Ariel Neufeld et.al.|[2410.14759](http://arxiv.org/abs/2410.14759)|null|
+|**2024-10-23**|**Harnessing Your DRAM and SSD for Sustainable and Accessible LLM Inference with Mixed-Precision and Multi-level Caching**|Jie Peng et.al.|[2410.14740](http://arxiv.org/abs/2410.14740)|null|
 |**2024-10-16**|**Differential Shape Optimization with Image Representation for Photonic Design**|Zhaocheng Liu et.al.|[2410.13074](http://arxiv.org/abs/2410.13074)|null|
 |**2024-10-15**|**Scaling Laws for Multilingual Language Models**|Yifei He et.al.|[2410.12883](http://arxiv.org/abs/2410.12883)|null|
 |**2024-10-16**|**AutoSimTTF: A Fully Automatic Pipeline for Electric Field Simulation and Treatment Planning of Tumor Treating Fields**|Minmin Wang et.al.|[2410.12196](http://arxiv.org/abs/2410.12196)|null|
@@ -1841,7 +1841,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -1853,8 +1853,8 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 |**2024-10-21**|**Pre-training Distillation for Large Language Models: A Design Space Exploration**|Hao Peng et.al.|[2410.16215](http://arxiv.org/abs/2410.16215)|null|
-|**2024-10-18**|**Interpreting Microbiome Relative Abundance Data Using Symbolic Regression**|Swagatam Haldar et.al.|[2410.16109](http://arxiv.org/abs/2410.16109)|null|
-|**2024-10-21**|**Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?**|Lingao Xiao et.al.|[2410.15919](http://arxiv.org/abs/2410.15919)|null|
+|**2024-10-18**|**Interpreting Microbiome Relative Abundance Data Using Symbolic Regression**|Swagatam Haldar et.al.|[2410.16109](http://arxiv.org/abs/2410.16109)|**[link](https://github.com/swag2198/microbiome-symbolic-regression)**|
+|**2024-10-21**|**Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?**|Lingao Xiao et.al.|[2410.15919](http://arxiv.org/abs/2410.15919)|**[link](https://github.com/he-y/soft-label-pruning-for-dataset-distillation)**|
 |**2024-10-21**|**Model Mimic Attack: Knowledge Distillation for Provably Transferable Adversarial Examples**|Kirill Lukyanov et.al.|[2410.15889](http://arxiv.org/abs/2410.15889)|null|
 |**2024-10-20**|**Hybrid Memory Replay: Blending Real and Distilled Data for Class Incremental Learning**|Jiangtao Kong et.al.|[2410.15372](http://arxiv.org/abs/2410.15372)|null|
 |**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266](http://arxiv.org/abs/2410.15266)|**[link](https://github.com/paranioar/gssf)**|
@@ -2030,14 +2030,14 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|null|
-|**2024-10-22**|**CLAP: Concave Linear APproximation for Quadratic Graph Matching**|Yongqing Liang et.al.|[2410.17101](http://arxiv.org/abs/2410.17101)|null|
+|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|**[link](https://github.com/flagshippioneering/pi-rldif)**|
+|**2024-10-22**|**CLAP: Concave Linear APproximation for Quadratic Graph Matching**|Yongqing Liang et.al.|[2410.17101](http://arxiv.org/abs/2410.17101)|**[link](https://github.com/xmlyqing00/clap)**|
 |**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942](http://arxiv.org/abs/2410.16942)|null|
 |**2024-10-22**|**Hierarchical Clustering for Conditional Diffusion in Image Generation**|Jorge da Silva Goncalves et.al.|[2410.16910](http://arxiv.org/abs/2410.16910)|**[link](https://github.com/jogo175/treediffusion)**|
 |**2024-10-22**|**VistaDream: Sampling multiview consistent images for single-view scene reconstruction**|Haiping Wang et.al.|[2410.16892](http://arxiv.org/abs/2410.16892)|null|
@@ -2486,5 +2486,5 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
