@@ -24,8 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "PEFT":
         filters: ["Parameter-Efficient Fine-Tuning", "PEFT", "Low-Rank Adaptation", "Efficient Fine-Tuning"]
-    "Data Distillation":
-        filters: ["Data Distillation", "Knowledge Distillation", "Dataset Distillation", "Data-Efficient Learning", "Data-Efficient Training", "Data Condensation", "Core-set Selection", "Dataset Pruning", "Data-centric AI"]
+    "Dataset Distillation":
+        filters: ["Dataset Distillation", "Knowledge Distillation", "Dataset Distillation", "Data-Efficient Learning", "Data-Efficient Training", "Dataset Condensation", "Core-set Selection", "Dataset Pruning", "Data-centric AI"]
     "Schrodinger Bridge":
         filters: ["Schrodinger Bridge", "Schrödinger Bridge", "Stochastic Control", "Optimal Transport", "Diffusion Models", "Stochastic Differential Equations", "Forward-Backward SDEs", "Reversible Diffusion Processes"]
     "Text-to-Image Generation":
@@ -34,3 +34,6 @@ keywords:
         filters: ["Parameter Generation",  "Model Weights Synthesis", "Weights2Weights", "Weight Space", "Semantic Weight Edits",  "Model Parameter Synthesis", "Weight Space Modeling", "Generative Weight Space"]
     "Vision-Language Models":
         filters: ["Vision-Language Models", "Multimodal Models", "Vision-and-Language", "Multimodal Learning"]
+    "Synthetic Data Generation":
+        filters: ["Synthetic Data", "Data Generation", "Data Synthesis"]
+
