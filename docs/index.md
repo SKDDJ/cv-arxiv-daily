@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1300,7 +1300,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976](http://arxiv.org/abs/2410.18976)|null|
+|**2024-10-24**|**CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**|Sara Ghaboura et.al.|[2410.18976](http://arxiv.org/abs/2410.18976)|**[link](https://github.com/mbzuai-oryx/CAMEL-Bench)**|
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
 |**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963](http://arxiv.org/abs/2410.18963)|null|
 |**2024-10-24**|**A Survey of Multimodal Sarcasm Detection**|Shafkat Farabi et.al.|[2410.18882](http://arxiv.org/abs/2410.18882)|null|
@@ -2083,12 +2083,12 @@ layout: default
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
 |**2024-10-24**|**Fast constrained sampling in pre-trained diffusion models**|Alexandros Graikos et.al.|[2410.18804](http://arxiv.org/abs/2410.18804)|null|
 |**2024-10-24**|**Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**|Shilin Lu et.al.|[2410.18775](http://arxiv.org/abs/2410.18775)|**[link](https://github.com/shilin-lu/vine)**|
-|**2024-10-24**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|
+|**2024-10-25**|**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing**|Haonan Lin et.al.|[2410.18756](http://arxiv.org/abs/2410.18756)|null|
 |**2024-10-24**|**Rectified Diffusion Guidance for Conditional Generation**|Mengfei Xia et.al.|[2410.18737](http://arxiv.org/abs/2410.18737)|null|
 |**2024-10-24**|**Retrieval-Augmented Diffusion Models for Time Series Forecasting**|Jingwei Liu et.al.|[2410.18712](http://arxiv.org/abs/2410.18712)|**[link](https://github.com/stanliu96/RATD)**|
 |**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678](http://arxiv.org/abs/2410.18678)|null|
 |**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
-|**2024-10-24**|**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model**|Jinxu Lin et.al.|[2410.18639](http://arxiv.org/abs/2410.18639)|null|
+|**2024-10-25**|**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Model**|Jinxu Lin et.al.|[2410.18639](http://arxiv.org/abs/2410.18639)|null|
 |**2024-10-23**|**DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**|Hengwei Bian et.al.|[2410.18084](http://arxiv.org/abs/2410.18084)|null|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
 |**2024-10-23**|**Optical Generative Models**|Shiqi Chen et.al.|[2410.17970](http://arxiv.org/abs/2410.17970)|null|
