@@ -1,4 +1,4 @@
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -8,6 +8,8 @@
     <li><a href=#generative-weight-space-modeling>Generative Weight Space Modeling</a></li>
     <li><a href=#data-distillation>Data Distillation</a></li>
     <li><a href=#schrodinger-bridge>Schrodinger Bridge</a></li>
+    <li><a href=#dataset-distillation>Dataset Distillation</a></li>
+    <li><a href=#synthetic-data-generation>Synthetic Data Generation</a></li>
   </ol>
 </details>
 
@@ -227,7 +229,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -245,7 +247,7 @@
 |**2024-10-25**|**Ensemble Data Assimilation for Particle-based Methods**|Marius Duvillard et.al.|[2410.19525](http://arxiv.org/abs/2410.19525)|null|
 |**2024-10-25**|**Marked Temporal Bayesian Flow Point Processes**|Hui Chen et.al.|[2410.19512](http://arxiv.org/abs/2410.19512)|null|
 |**2024-10-25**|**EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data**|Xuetian Chen et.al.|[2410.19461](http://arxiv.org/abs/2410.19461)|null|
-|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-28**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
 |**2024-10-25**|**Learned Reference-based Diffusion Sampling for multi-modal distributions**|Maxence Noble et.al.|[2410.19449](http://arxiv.org/abs/2410.19449)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
 |**2024-10-24**|**Framer: Interactive Frame Interpolation**|Wen Wang et.al.|[2410.18978](http://arxiv.org/abs/2410.18978)|null|
@@ -1309,7 +1311,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1322,7 +1324,7 @@
 |**2024-10-24**|**Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**|David Ortiz-Perez et.al.|[2410.18972](http://arxiv.org/abs/2410.18972)|null|
 |**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963](http://arxiv.org/abs/2410.18963)|null|
 |**2024-10-24**|**A Survey of Multimodal Sarcasm Detection**|Shafkat Farabi et.al.|[2410.18882](http://arxiv.org/abs/2410.18882)|null|
-|**2024-10-23**|**R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**|Linger Deng et.al.|[2410.17885](http://arxiv.org/abs/2410.17885)|**[link](https://github.com/dle666/r-cot)**|
+|**2024-10-27**|**R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**|Linger Deng et.al.|[2410.17885](http://arxiv.org/abs/2410.17885)|**[link](https://github.com/dle666/r-cot)**|
 |**2024-10-22**|**JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation**|Shota Onohara et.al.|[2410.17250](http://arxiv.org/abs/2410.17250)|null|
 |**2024-10-22**|**An Eye for an AI: Evaluating GPT-4o's Visual Perception Skills and Geometric Reasoning Skills Using Computer Graphics Questions**|Tony Haoran Feng et.al.|[2410.16991](http://arxiv.org/abs/2410.16991)|null|
 |**2024-10-21**|**DocEdit-v2: Document Structure Editing Via Multimodal LLM Grounding**|Manan Suri et.al.|[2410.16472](http://arxiv.org/abs/2410.16472)|null|
@@ -1711,7 +1713,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -1897,7 +1899,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -2096,7 +2098,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -2108,7 +2110,7 @@
 |**2024-10-25**|**On the robustness of semi-discrete optimal transport**|Davy Paindaveine et.al.|[2410.19596](http://arxiv.org/abs/2410.19596)|null|
 |**2024-10-25**|**Utilizing Image Transforms and Diffusion Models for Generative Modeling of Short and Long Time Series**|Ilan Naiman et.al.|[2410.19538](http://arxiv.org/abs/2410.19538)|null|
 |**2024-10-25**|**Ensemble Data Assimilation for Particle-based Methods**|Marius Duvillard et.al.|[2410.19525](http://arxiv.org/abs/2410.19525)|null|
-|**2024-10-25**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
+|**2024-10-28**|**NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction**|Zixuan Gong et.al.|[2410.19452](http://arxiv.org/abs/2410.19452)|**[link](https://github.com/gongzix/neuroclips)**|
 |**2024-10-25**|**Learned Reference-based Diffusion Sampling for multi-modal distributions**|Maxence Noble et.al.|[2410.19449](http://arxiv.org/abs/2410.19449)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
 |**2024-10-25**|**FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality**|Zhengyao Lv et.al.|[2410.19355](http://arxiv.org/abs/2410.19355)|null|
@@ -2597,5 +2599,49 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
+## Dataset Distillation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-10-28**|**FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg**|ShiMao Xu et.al.|[2410.19548](http://arxiv.org/abs/2410.19548)|null|
+|**2024-10-25**|**SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models**|Jahyun Koo et.al.|[2410.19503](http://arxiv.org/abs/2410.19503)|null|
+|**2024-10-24**|**AlignCap: Aligning Speech Emotion Captioning to Human Preferences**|Ziqi Liang et.al.|[2410.19134](http://arxiv.org/abs/2410.19134)|null|
+|**2024-10-24**|**High-dimensional Analysis of Knowledge Distillation: Weak-to-Strong Generalization and Scaling Laws**|M. Emrullah Ildiz et.al.|[2410.18837](http://arxiv.org/abs/2410.18837)|null|
+|**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
+|**2024-10-24**|**SIKeD: Self-guided Iterative Knowledge Distillation for mathematical reasoning**|Shivam Adarsh et.al.|[2410.18574](http://arxiv.org/abs/2410.18574)|**[link](https://github.com/kumar-shridhar/siked)**|
+|**2024-10-23**|**ELAICHI: Enhancing Low-resource TTS by Addressing Infrequent and Low-frequency Character Bigrams**|Srija Anand et.al.|[2410.17901](http://arxiv.org/abs/2410.17901)|null|
+|**2024-10-23**|**Towards Active Participant-Centric Vertical Federated Learning: Some Representations May Be All You Need**|Jon Irureta et.al.|[2410.17648](http://arxiv.org/abs/2410.17648)|null|
+|**2024-10-23**|**Towards Effective Data-Free Knowledge Distillation via Diverse Diffusion Augmentation**|Muquan Li et.al.|[2410.17606](http://arxiv.org/abs/2410.17606)|**[link](https://github.com/slgsp/dda)**|
+|**2024-10-23**|**Physics-driven AI for Channel Estimation in Cellular Network**|Xiaoqian Qi et.al.|[2410.17525](http://arxiv.org/abs/2410.17525)|null|
+|**2024-10-22**|**MiniPLM: Knowledge Distillation for Pre-Training Language Models**|Yuxian Gu et.al.|[2410.17215](http://arxiv.org/abs/2410.17215)|**[link](https://github.com/thu-coai/miniplm)**|
+|**2024-10-22**|**Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios**|Kai Wang et.al.|[2410.17193](http://arxiv.org/abs/2410.17193)|**[link](https://github.com/nus-hpc-ai-lab/edf)**|
+|**2024-10-22**|**CK4Gen: A Knowledge Distillation Framework for Generating High-Utility Synthetic Survival Datasets in Healthcare**|Nicholas I-Hsien Kuo et.al.|[2410.16872](http://arxiv.org/abs/2410.16872)|null|
+|**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
+|**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
+
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+
+## Synthetic Data Generation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-10-25**|**Considerations for Distribution Shift Robustness of Diagnostic Models in Healthcare**|Arno Blaas et.al.|[2410.19575](http://arxiv.org/abs/2410.19575)|null|
+|**2024-10-25**|**EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data**|Xuetian Chen et.al.|[2410.19461](http://arxiv.org/abs/2410.19461)|null|
+|**2024-10-25**|**Fictitious Synthetic Data Can Improve LLM Factuality via Prerequisite Learning**|Yujian Liu et.al.|[2410.19290](http://arxiv.org/abs/2410.19290)|**[link](https://github.com/ucsb-nlp-chang/prereq_tune)**|
+|**2024-10-25**|**In-Simulation Testing of Deep Learning Vision Models in Autonomous Robotic Manipulators**|Dmytro Humeniuk et.al.|[2410.19277](http://arxiv.org/abs/2410.19277)|null|
+|**2024-10-24**|**Equitable Federated Learning with Activation Clustering**|Antesh Upadhyay et.al.|[2410.19207](http://arxiv.org/abs/2410.19207)|null|
+|**2024-10-24**|**Heterogeneous Random Forest**|Ye-eun Kim et.al.|[2410.19022](http://arxiv.org/abs/2410.19022)|null|
+|**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
+|**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907](http://arxiv.org/abs/2410.18907)|null|
+|**2024-10-24**|**Distill Visual Chart Reasoning Ability from LLMs to MLLMs**|Wei He et.al.|[2410.18798](http://arxiv.org/abs/2410.18798)|**[link](https://github.com/hewei2001/reachqa)**|
+|**2024-10-24**|**Learning Geodesics of Geometric Shape Deformations From Images**|Nian Wu et.al.|[2410.18797](http://arxiv.org/abs/2410.18797)|null|
+|**2024-10-24**|**Unleashing Reasoning Capability of LLMs via Scalable Question Synthesis from Scratch**|Yuyang Ding et.al.|[2410.18693](http://arxiv.org/abs/2410.18693)|**[link](https://github.com/yyding1/scalequest)**|
+|**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
+|**2024-10-24**|**Little Giants: Synthesizing High-Quality Embedding Data at Scale**|Haonan Chen et.al.|[2410.18634](http://arxiv.org/abs/2410.18634)|null|
+|**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
+|**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
+
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
