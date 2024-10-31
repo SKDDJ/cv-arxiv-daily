@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation**|Wei Dong et.al.|[2410.22952](http://arxiv.org/abs/2410.22952)|null|
+|**2024-10-30**|**MALoRA: Mixture of Asymmetric Low-Rank Adaptation for Enhanced Multi-Task Learning**|Xujia Wang et.al.|[2410.22782](http://arxiv.org/abs/2410.22782)|null|
 |**2024-10-29**|**Meta-Learning Adaptable Foundation Models**|Jacob L. Block et.al.|[2410.22264](http://arxiv.org/abs/2410.22264)|null|
 |**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149](http://arxiv.org/abs/2410.22149)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
 |**2024-10-30**|**IntLoRA: Integral Low-rank Adaptation of Quantized Diffusion Models**|Hang Guo et.al.|[2410.21759](http://arxiv.org/abs/2410.21759)|null|
@@ -243,6 +245,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287](http://arxiv.org/abs/2410.23287)|null|
+|**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285](http://arxiv.org/abs/2410.23285)|null|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
+|**2024-10-30**|**Multi-student Diffusion Distillation for Better One-step Generators**|Yanke Song et.al.|[2410.23274](http://arxiv.org/abs/2410.23274)|null|
+|**2024-10-30**|**ReaWristic: Remote Touch Sensation to Fingers from a Wristband via Visually Augmented Electro-Tactile Feedback**|Yudai Tanaka et.al.|[2410.23193](http://arxiv.org/abs/2410.23193)|null|
+|**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
+|**2024-10-30**|**Educating for Hardware Specialization in the Chiplet Era: A Path for the HPC Community**|Kazutomo Yoshii et.al.|[2410.23127](http://arxiv.org/abs/2410.23127)|null|
+|**2024-10-30**|**CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense**|Mingkun Zhang et.al.|[2410.23091](http://arxiv.org/abs/2410.23091)|null|
+|**2024-10-30**|**General Bayesian quantile regression for counts via generative modeling**|Yuta Yamauchi et.al.|[2410.23081](http://arxiv.org/abs/2410.23081)|null|
+|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|null|
+|**2024-10-30**|**Dispersion kinks from electronic correlations in an unconventional iron-based superconductor**|Ming-Hua Chang et.al.|[2410.23044](http://arxiv.org/abs/2410.23044)|null|
+|**2024-10-30**|**Improving Musical Accompaniment Co-creation via Diffusion Transformers**|Javier Nistal et.al.|[2410.23005](http://arxiv.org/abs/2410.23005)|null|
+|**2024-10-30**|**DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes**|Jialiang Zhang et.al.|[2410.23004](http://arxiv.org/abs/2410.23004)|null|
+|**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979](http://arxiv.org/abs/2410.22979)|null|
 |**2024-10-29**|**CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning**|Weihang Guo et.al.|[2410.22225](http://arxiv.org/abs/2410.22225)|null|
 |**2024-10-29**|**A Gaussian Process Generative Model for QCD Equation of State**|Jiaxuan Gong et.al.|[2410.22160](http://arxiv.org/abs/2410.22160)|null|
 |**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149](http://arxiv.org/abs/2410.22149)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
@@ -1353,6 +1370,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
 |**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211](http://arxiv.org/abs/2410.22211)|**[link](https://github.com/kimihiroh/promqa)**|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-28**|**AiSciVision: A Framework for Specializing Large Multimodal Models in Scientific Image Classification**|Brendan Hogan et.al.|[2410.21480](http://arxiv.org/abs/2410.21480)|**[link](https://github.com/gomes-lab/AiSciVision)**|
@@ -2145,6 +2163,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287](http://arxiv.org/abs/2410.23287)|null|
+|**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285](http://arxiv.org/abs/2410.23285)|null|
+|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
+|**2024-10-30**|**Multi-student Diffusion Distillation for Better One-step Generators**|Yanke Song et.al.|[2410.23274](http://arxiv.org/abs/2410.23274)|null|
+|**2024-10-30**|**A uniform point vortex approximation for the solution of the two-dimensional Navier Stokes equation with transport noise**|Filippo Giovagnini et.al.|[2410.23163](http://arxiv.org/abs/2410.23163)|null|
+|**2024-10-30**|**Identifiability of the Optimal Transport Cost on Finite Spaces**|Alberto González-Sanz et.al.|[2410.23146](http://arxiv.org/abs/2410.23146)|null|
+|**2024-10-30**|**CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense**|Mingkun Zhang et.al.|[2410.23091](http://arxiv.org/abs/2410.23091)|null|
+|**2024-10-30**|**Controlling Language and Diffusion Models by Transporting Activations**|Pau Rodriguez et.al.|[2410.23054](http://arxiv.org/abs/2410.23054)|null|
+|**2024-10-30**|**Improving Musical Accompaniment Co-creation via Diffusion Transformers**|Javier Nistal et.al.|[2410.23005](http://arxiv.org/abs/2410.23005)|null|
+|**2024-10-30**|**DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes**|Jialiang Zhang et.al.|[2410.23004](http://arxiv.org/abs/2410.23004)|null|
+|**2024-10-30**|**LumiSculpt: A Consistency Lighting Control Network for Video Generation**|Yuxin Zhang et.al.|[2410.22979](http://arxiv.org/abs/2410.22979)|null|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/abs/2410.22971)|null|
+|**2024-10-30**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938](http://arxiv.org/abs/2410.22938)|**[link](https://github.com/lokol5579/DiffLight-release)**|
+|**2024-10-30**|**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models**|Shengkai Zhang et.al.|[2410.22901](http://arxiv.org/abs/2410.22901)|**[link](https://github.com/HelloVision/HelloMeme)**|
 |**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149](http://arxiv.org/abs/2410.22149)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
 |**2024-10-29**|**Averaging principle for multiscale controlled jump diffusions and associated nonlocal HJB equations**|Qi Zhang et.al.|[2410.22141](http://arxiv.org/abs/2410.22141)|null|
 |**2024-10-29**|**Variational inference for pile-up removal at hadron colliders with diffusion models**|Malte Algren et.al.|[2410.22074](http://arxiv.org/abs/2410.22074)|null|
@@ -2701,6 +2734,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Strategic communication of narratives**|Gerrit Bauch et.al.|[2410.23259](http://arxiv.org/abs/2410.23259)|null|
+|**2024-10-30**|**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**|Alireza Abbaspour et.al.|[2410.23207](http://arxiv.org/abs/2410.23207)|null|
+|**2024-10-30**|**Directional anomaly detection**|Oliver Urs Lenz et.al.|[2410.23158](http://arxiv.org/abs/2410.23158)|null|
+|**2024-10-30**|**Federated Learning under Periodic Client Participation and Heterogeneous Data: A New Communication-Efficient Algorithm and Analysis**|Michael Crawshaw et.al.|[2410.23131](http://arxiv.org/abs/2410.23131)|null|
+|**2024-10-30**|**Automated Image-Based Identification and Consistent Classification of Fire Patterns with Quantitative Shape Analysis and Spatial Location Identification**|Pengkun Liu et.al.|[2410.23105](http://arxiv.org/abs/2410.23105)|null|
+|**2024-10-30**|**CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense**|Mingkun Zhang et.al.|[2410.23091](http://arxiv.org/abs/2410.23091)|null|
+|**2024-10-30**|**Private Synthetic Text Generation with Diffusion Models**|Sebastian Ochs et.al.|[2410.22971](http://arxiv.org/abs/2410.22971)|null|
+|**2024-10-30**|**Augmenting Polish Automatic Speech Recognition System With Synthetic Data**|Łukasz Bondaruk et.al.|[2410.22903](http://arxiv.org/abs/2410.22903)|null|
+|**2024-10-30**|**Universality of the $π^2/6$ Pathway in Avoiding Model Collapse**|Apratim Dey et.al.|[2410.22812](http://arxiv.org/abs/2410.22812)|null|
+|**2024-10-30**|**Analysis of Classifier Training on Synthetic Data for Cross-Domain Datasets**|Andoni Cortés et.al.|[2410.22748](http://arxiv.org/abs/2410.22748)|null|
+|**2024-10-29**|**Unpicking Data at the Seams: VAEs, Disentanglement and Independent Components**|Carl Allen et.al.|[2410.22559](http://arxiv.org/abs/2410.22559)|null|
+|**2024-10-29**|**Evaluating utility in synthetic banking microdata applications**|Hugo E. Caceres et.al.|[2410.22519](http://arxiv.org/abs/2410.22519)|null|
 |**2024-10-30**|**Nanoscale Connectomics Annotation Standards Framework**|Nicole K. Guittari et.al.|[2410.22320](http://arxiv.org/abs/2410.22320)|null|
 |**2024-10-29**|**Understanding Synthetic Context Extension via Retrieval Heads**|Xinyu Zhao et.al.|[2410.22316](http://arxiv.org/abs/2410.22316)|null|
 |**2024-10-29**|**Model-free Estimation of Latent Structure via Multiscale Nonparametric Maximum Likelihood**|Bryon Aragam et.al.|[2410.22248](http://arxiv.org/abs/2410.22248)|null|
