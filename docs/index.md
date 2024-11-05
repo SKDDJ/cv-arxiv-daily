@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.04
+## Updated on 2024.11.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1398,7 +1398,7 @@ layout: default
 |**2024-10-27**|**Generator Matching: Generative modeling with arbitrary Markov processes**|Peter Holderrieth et.al.|[2410.20587](http://arxiv.org/abs/2410.20587)|null|
 |**2024-10-27**|**PaPaGei: Open Foundation Models for Optical Physiological Signals**|Arvind Pillai et.al.|[2410.20542](http://arxiv.org/abs/2410.20542)|**[link](https://github.com/nokia-bell-labs/papagei-foundation-model)**|
 |**2024-10-25**|**Turn-by-Turn Indoor Navigation for the Visually Impaired**|Santosh Srinivasaiah et.al.|[2410.19954](http://arxiv.org/abs/2410.19954)|null|
-|**2024-10-25**|**A Multimodal Approach For Endoscopic VCE Image Classification Using BiomedCLIP-PubMedBERT**|Nagarajan Ganapathy et.al.|[2410.19944](http://arxiv.org/abs/2410.19944)|null|
+|**2024-10-25**|**A Multimodal Approach For Endoscopic VCE Image Classification Using BiomedCLIP-PubMedBERT**|Nagarajan Ganapathy et.al.|[2410.19944](http://arxiv.org/abs/2410.19944)|**[link](https://github.com/Satyajithchary/MedInfoLab_Capsule_Vision_2024_Challenge)**|
 |**2024-10-25**|**OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization**|Hongliang He et.al.|[2410.19609](http://arxiv.org/abs/2410.19609)|**[link](https://github.com/minorjerry/openwebvoyager)**|
 |**2024-10-24**|**Visual Text Matters: Improving Text-KVQA with Visual Text Entity Knowledge-aware Large Multimodal Assistant**|Abhirama Subramanyam Penamakuri et.al.|[2410.19144](http://arxiv.org/abs/2410.19144)|**[link](https://github.com/vl2g/KaLMA)**|
 |**2024-10-24**|**VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks**|Lawrence Jang et.al.|[2410.19100](http://arxiv.org/abs/2410.19100)|null|
@@ -2772,7 +2772,7 @@ layout: default
 |**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
 |**2024-10-31**|**DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning**|Zhenyu Jiang et.al.|[2410.24185](http://arxiv.org/abs/2410.24185)|null|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
-|**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
+|**2024-11-02**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060](http://arxiv.org/abs/2410.24060)|**[link](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)**|
 |**2024-10-31**|**Unveiling Synthetic Faces: How Synthetic Datasets Can Expose Real Identities**|Hatef Otroshi Shahreza et.al.|[2410.24015](http://arxiv.org/abs/2410.24015)|null|
 |**2024-10-31**|**Towards Fast Algorithms for the Preference Consistency Problem Based on Hierarchical Models**|Anne-Marie George et.al.|[2410.23934](http://arxiv.org/abs/2410.23934)|null|
