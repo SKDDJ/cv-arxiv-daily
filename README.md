@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba**|Masakazu Yoshimura et.al.|[2411.03855](http://arxiv.org/abs/2411.03855)|null|
+|**2024-11-04**|**PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption**|Yifan Tan et.al.|[2411.03357](http://arxiv.org/abs/2411.03357)|null|
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
 |**2024-11-04**|**Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test Generation: An Empirical Study**|André Storhaug et.al.|[2411.02462](http://arxiv.org/abs/2411.02462)|null|
 |**2024-11-04**|**Expanding Sparse Tuning for Low Memory Usage**|Shufan Shen et.al.|[2411.01800](http://arxiv.org/abs/2411.01800)|**[link](https://github.com/ssfgunner/snell)**|
@@ -253,6 +255,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125](http://arxiv.org/abs/2411.04125)|null|
+|**2024-11-06**|**Stepping Forward on the Last Mile**|Chen Feng et.al.|[2411.04036](http://arxiv.org/abs/2411.04036)|null|
+|**2024-11-06**|**Prototyping O-RAN Enabled UAV Experimentation for the AERPAW Testbed**|Joshua Moore et.al.|[2411.04027](http://arxiv.org/abs/2411.04027)|null|
+|**2024-11-06**|**Object-Centric Dexterous Manipulation from Human Motion Data**|Yuanpei Chen et.al.|[2411.04005](http://arxiv.org/abs/2411.04005)|null|
+|**2024-11-06**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**|Yuan Bi et.al.|[2411.04004](http://arxiv.org/abs/2411.04004)|null|
+|**2024-11-06**|**ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy**|Chenrui Tie et.al.|[2411.03990](http://arxiv.org/abs/2411.03990)|null|
+|**2024-11-06**|**ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models**|Ashutosh Srivastava et.al.|[2411.03982](http://arxiv.org/abs/2411.03982)|null|
+|**2024-11-06**|**Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning**|Jiawei Yao et.al.|[2411.03978](http://arxiv.org/abs/2411.03978)|null|
+|**2024-11-06**|**Bayesian algorithmic perfumery: A Hierarchical Relevance Vector Machine for the Estimation of Personalized Fragrance Preferences based on Three Sensory Layers and Jungian Personality Archetypes**|Rolando Gonzales Martinez et.al.|[2411.03965](http://arxiv.org/abs/2411.03965)|null|
+|**2024-11-06**|**Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks**|Felipe Marra et.al.|[2411.03948](http://arxiv.org/abs/2411.03948)|null|
+|**2024-11-06**|**Can Custom Models Learn In-Context? An Exploration of Hybrid Architecture Performance on In-Context Learning Tasks**|Ryan Campbell et.al.|[2411.03945](http://arxiv.org/abs/2411.03945)|null|
+|**2024-11-06**|**GUIDE-VAE: Advancing Data Generation with User Information and Pattern Dictionaries**|Kutay Bölat et.al.|[2411.03936](http://arxiv.org/abs/2411.03936)|null|
+|**2024-11-06**|**Large Generative Model-assisted Talking-face Semantic Communication System**|Feibo Jiang et.al.|[2411.03876](http://arxiv.org/abs/2411.03876)|null|
+|**2024-11-06**|**ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization**|Huayang Huang et.al.|[2411.03862](http://arxiv.org/abs/2411.03862)|**[link](https://github.com/hannah1102/robin)**|
+|**2024-11-06**|**Sub-DM:Subspace Diffusion Model with Orthogonal Decomposition for MRI Reconstruction**|Yu Guan et.al.|[2411.03758](http://arxiv.org/abs/2411.03758)|null|
 |**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314](http://arxiv.org/abs/2411.03314)|null|
 |**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
 |**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
@@ -1425,12 +1442,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**AutoGameUI: Constructing High-Fidelity Game UIs via Multimodal Learning and Interactive Web-Based Tool**|Zhongliang Tang et.al.|[2411.03709](http://arxiv.org/abs/2411.03709)|null|
 |**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314](http://arxiv.org/abs/2411.03314)|null|
 |**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034](http://arxiv.org/abs/2411.03034)|null|
 |**2024-11-05**|**Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning**|Mingcheng Li et.al.|[2411.02793](http://arxiv.org/abs/2411.02793)|null|
 |**2024-11-04**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**See it, Think it, Sorted: Large Multimodal Models are Few-shot Time Series Anomaly Analyzers**|Jiaxin Zhuang et.al.|[2411.02465](http://arxiv.org/abs/2411.02465)|null|
-|**2024-11-04**|**TableGPT2: A Large Multimodal Model with Tabular Data Integration**|Aofeng Su et.al.|[2411.02059](http://arxiv.org/abs/2411.02059)|null|
+|**2024-11-06**|**TableGPT2: A Large Multimodal Model with Tabular Data Integration**|Aofeng Su et.al.|[2411.02059](http://arxiv.org/abs/2411.02059)|**[link](https://github.com/tablegpt/tablegpt-agent)**|
 |**2024-11-04**|**Foundations and Recent Trends in Multimodal Mobile Agents: A Survey**|Biao Wu et.al.|[2411.02006](http://arxiv.org/abs/2411.02006)|null|
 |**2024-11-04**|**KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**|Jie Yang et.al.|[2411.01846](http://arxiv.org/abs/2411.01846)|null|
 |**2024-11-03**|**EEE-Bench: A Comprehensive Multimodal Electrical And Electronics Engineering Benchmark**|Ming Li et.al.|[2411.01492](http://arxiv.org/abs/2411.01492)|null|
@@ -2245,6 +2263,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125](http://arxiv.org/abs/2411.04125)|null|
+|**2024-11-06**|**A Multi-level Monte Carlo simulation for invariant distribution of Markovian switching Lévy-driven SDEs with super-linearly growth coefficients**|Hoang-Viet Nguyen et.al.|[2411.04081](http://arxiv.org/abs/2411.04081)|null|
+|**2024-11-06**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**|Yuan Bi et.al.|[2411.04004](http://arxiv.org/abs/2411.04004)|null|
+|**2024-11-06**|**ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy**|Chenrui Tie et.al.|[2411.03990](http://arxiv.org/abs/2411.03990)|null|
+|**2024-11-06**|**ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models**|Ashutosh Srivastava et.al.|[2411.03982](http://arxiv.org/abs/2411.03982)|null|
+|**2024-11-06**|**ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization**|Huayang Huang et.al.|[2411.03862](http://arxiv.org/abs/2411.03862)|**[link](https://github.com/hannah1102/robin)**|
+|**2024-11-06**|**Sub-DM:Subspace Diffusion Model with Orthogonal Decomposition for MRI Reconstruction**|Yu Guan et.al.|[2411.03758](http://arxiv.org/abs/2411.03758)|null|
+|**2024-11-06**|**Zero-shot Dynamic MRI Reconstruction with Global-to-local Diffusion Model**|Yu Guan et.al.|[2411.03723](http://arxiv.org/abs/2411.03723)|null|
+|**2024-11-06**|**Asymptotic analysis of estimators of ergodic stochastic differential equations**|Arnab Ganguly et.al.|[2411.03623](http://arxiv.org/abs/2411.03623)|null|
+|**2024-11-06**|**Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation**|Chihaya Matsuhira et.al.|[2411.03595](http://arxiv.org/abs/2411.03595)|null|
+|**2024-11-05**|**Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data**|Seunggeun Chi et.al.|[2411.03561](http://arxiv.org/abs/2411.03561)|null|
+|**2024-11-05**|**Ergodicity and Mixing of Sublinear Expectation System and Applications**|Wen Huang et.al.|[2411.03512](http://arxiv.org/abs/2411.03512)|null|
+|**2024-11-05**|**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**|Andrew Heschl et.al.|[2411.03505](http://arxiv.org/abs/2411.03505)|**[link](https://github.com/visionresearchlab/synthset)**|
+|**2024-11-05**|**Chance-Constrained Convex MPC for Robust Quadruped Locomotion Under Parametric and Additive Uncertainties**|Ananya Trivedi et.al.|[2411.03481](http://arxiv.org/abs/2411.03481)|null|
+|**2024-11-05**|**Exo-Daisy World: Revisiting Gaia Theory through an Informational Architecture Perspective**|Damian R Sowinski et.al.|[2411.03421](http://arxiv.org/abs/2411.03421)|null|
 |**2024-11-05**|**Information geometry of diffeomorphism groups**|Boris Khesin et.al.|[2411.03265](http://arxiv.org/abs/2411.03265)|null|
 |**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
 |**2024-11-05**|**On Improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models**|Tariq Berrada Ifriqi et.al.|[2411.03177](http://arxiv.org/abs/2411.03177)|null|
@@ -2832,6 +2865,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Towards Personalized Federated Learning via Comprehensive Knowledge Distillation**|Pengju Wang et.al.|[2411.03569](http://arxiv.org/abs/2411.03569)|null|
 |**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
 |**2024-11-05**|**Centerness-based Instance-aware Knowledge Distillation with Task-wise Mutual Lifting for Object Detection on Drone Imagery**|Bowei Du et.al.|[2411.02861](http://arxiv.org/abs/2411.02861)|null|
 |**2024-11-05**|**Brewing Vodka: Distilling Pure Knowledge for Lightweight Threat Detection in Audit Logs**|Weiheng Wu et.al.|[2411.02775](http://arxiv.org/abs/2411.02775)|null|
@@ -2875,6 +2909,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**GUIDE-VAE: Advancing Data Generation with User Information and Pattern Dictionaries**|Kutay Bölat et.al.|[2411.03936](http://arxiv.org/abs/2411.03936)|null|
+|**2024-11-06**|**VQA $^2$ :Visual Question Answering for Video Quality Assessment**|Ziheng Jia et.al.|[2411.03795](http://arxiv.org/abs/2411.03795)|null|
+|**2024-11-06**|**Content-Style Learning from Unaligned Domains: Identifiability under Unknown Latent Dimensions**|Sagar Shrestha et.al.|[2411.03755](http://arxiv.org/abs/2411.03755)|null|
+|**2024-11-06**|**Where Do We Stand with Implicit Neural Representations? A Technical and Performance Survey**|Amer Essakine et.al.|[2411.03688](http://arxiv.org/abs/2411.03688)|null|
+|**2024-11-06**|**Open-Source High-Speed Flight Surrogate Modeling Framework**|Tyler E. Korenyi-Both et.al.|[2411.03598](http://arxiv.org/abs/2411.03598)|null|
+|**2024-11-05**|**Forecasting Outside the Box: Application-Driven Optimal Pointwise Forecasts for Stochastic Optimization**|Tito Homem-de-Mello et.al.|[2411.03520](http://arxiv.org/abs/2411.03520)|null|
+|**2024-11-04**|**Enhancing Table Representations with LLM-powered Synthetic Data Generation**|Dayu Yang et.al.|[2411.03356](http://arxiv.org/abs/2411.03356)|null|
 |**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
 |**2024-11-05**|**A data-driven study on Implicit LES using a spectral difference method**|Nicola Clinco et.al.|[2411.03211](http://arxiv.org/abs/2411.03211)|null|
 |**2024-11-05**|**Local Lesion Generation is Effective for Capsule Endoscopy Image Data Augmentation in a Limited Data Setting**|Adrian B. Chłopowiec et.al.|[2411.03098](http://arxiv.org/abs/2411.03098)|null|
