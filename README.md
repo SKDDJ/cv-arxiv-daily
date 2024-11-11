@@ -1,17 +1,13 @@
 ## Updated on 2024.11.11
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#peft>PEFT</a></li>
-    <li><a href=#text-to-image-generation>Text-to-Image Generation</a></li>
-    <li><a href=#vision-language-models>Vision-Language Models</a></li>
-    <li><a href=#generative-weight-space-modeling>Generative Weight Space Modeling</a></li>
-    <li><a href=#data-distillation>Data Distillation</a></li>
-    <li><a href=#schrodinger-bridge>Schrodinger Bridge</a></li>
-    <li><a href=#dataset-distillation>Dataset Distillation</a></li>
-    <li><a href=#synthetic-data-generation>Synthetic Data Generation</a></li>
-  </ol>
-</details>
+- [Updated on 2024.11.11](#updated-on-20241111)
+- [PEFT](#peft)
+- [Text-to-Image Generation](#text-to-image-generation)
+- [Vision-Language Models](#vision-language-models)
+- [Generative Weight Space Modeling](#generative-weight-space-modeling)
+- [Data Distillation](#data-distillation)
+- [Schrodinger Bridge](#schrodinger-bridge)
+- [Dataset Distillation](#dataset-distillation)
+- [Synthetic Data Generation](#synthetic-data-generation)
 
 ## PEFT
 
