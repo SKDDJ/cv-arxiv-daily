@@ -257,6 +257,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738](http://arxiv.org/abs/2411.05738)|null|
+|**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/abs/2411.05706)|null|
+|**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676](http://arxiv.org/abs/2411.05676)|null|
+|**2024-11-08**|**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion**|Nan Song et.al.|[2411.05544](http://arxiv.org/abs/2411.05544)|null|
+|**2024-11-08**|**Improving image synthesis with diffusion-negative sampling**|Alakh Desai et.al.|[2411.05473](http://arxiv.org/abs/2411.05473)|null|
+|**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/abs/2411.05472)|**[link](https://github.com/hughnew/gapdiff)**|
+|**2024-11-08**|**IntellBot: Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery**|Dincy R. Arikkat et.al.|[2411.05442](http://arxiv.org/abs/2411.05442)|null|
+|**2024-11-08**|**RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction**|Xingyu Ai et.al.|[2411.05354](http://arxiv.org/abs/2411.05354)|null|
+|**2024-11-08**|**Electro-diffusive modeling and the role of spine geometry on action potential propagation in neurons**|Rahul Gulati et.al.|[2411.05329](http://arxiv.org/abs/2411.05329)|null|
+|**2024-11-08**|**Social balance in directed networks**|Bingjie Hao et.al.|[2411.05327](http://arxiv.org/abs/2411.05327)|null|
+|**2024-11-08**|**SeqRFM: Fast RFM Analysis in Sequence Data**|Yanxin Zheng et.al.|[2411.05317](http://arxiv.org/abs/2411.05317)|null|
+|**2024-11-08**|**Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization**|Ziwei Su et.al.|[2411.05315](http://arxiv.org/abs/2411.05315)|null|
+|**2024-11-08**|**A Real-time Face Mask Detection and Social Distancing System for COVID-19 using Attention-InceptionV3 Model**|Abdullah Al Asif et.al.|[2411.05312](http://arxiv.org/abs/2411.05312)|null|
+|**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302](http://arxiv.org/abs/2411.05302)|null|
+|**2024-11-08**|**GPT Semantic Cache: Reducing LLM Costs and Latency via Semantic Embedding Caching**|Sajal Regmi et.al.|[2411.05276](http://arxiv.org/abs/2411.05276)|null|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
 |**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005](http://arxiv.org/abs/2411.05005)|null|
@@ -1457,6 +1472,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Towards Low-Resource Harmful Meme Detection with LMM Agents**|Jianzhao Huang et.al.|[2411.05383](http://arxiv.org/abs/2411.05383)|**[link](https://github.com/jianzhao-huang/lorehm)**|
+|**2024-11-08**|**Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation**|Dong Shu et.al.|[2411.05316](http://arxiv.org/abs/2411.05316)|**[link](https://github.com/tizzzzy/llm-gdm-alignment)**|
 |**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
 |**2024-11-07**|**VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos**|Shehan Munasinghe et.al.|[2411.04923](http://arxiv.org/abs/2411.04923)|null|
 |**2024-11-07**|**Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**|Chengxin Hu et.al.|[2411.04708](http://arxiv.org/abs/2411.04708)|null|
@@ -2276,6 +2293,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738](http://arxiv.org/abs/2411.05738)|null|
+|**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/abs/2411.05706)|null|
+|**2024-11-08**|**Relative Optimal Transport**|Peter Bubenik et.al.|[2411.05678](http://arxiv.org/abs/2411.05678)|null|
+|**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676](http://arxiv.org/abs/2411.05676)|null|
+|**2024-11-08**|**Rigidly breaking potential flows and a countable Alexandrov theorem for polytopes**|Jian-Guo Liu et.al.|[2411.05606](http://arxiv.org/abs/2411.05606)|null|
+|**2024-11-08**|**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion**|Nan Song et.al.|[2411.05544](http://arxiv.org/abs/2411.05544)|null|
+|**2024-11-08**|**Improving image synthesis with diffusion-negative sampling**|Alakh Desai et.al.|[2411.05473](http://arxiv.org/abs/2411.05473)|null|
+|**2024-11-08**|**Bridging the Gap between Learning and Inference for Diffusion-Based Molecule Generation**|Peidong Liu et.al.|[2411.05472](http://arxiv.org/abs/2411.05472)|**[link](https://github.com/hughnew/gapdiff)**|
+|**2024-11-08**|**Generalization, Expressivity, and Universality of Graph Neural Networks on Attributed Graphs**|Levi Rauchwerger et.al.|[2411.05464](http://arxiv.org/abs/2411.05464)|null|
+|**2024-11-08**|**Sticky diffusions on star graphs : characterization and It{ô} formula**|Jules Berry et.al.|[2411.05441](http://arxiv.org/abs/2411.05441)|null|
+|**2024-11-08**|**Stochastic games of parental vaccination decision making and bounded rationality**|Andras Balogh et.al.|[2411.05369](http://arxiv.org/abs/2411.05369)|null|
+|**2024-11-08**|**RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction**|Xingyu Ai et.al.|[2411.05354](http://arxiv.org/abs/2411.05354)|null|
+|**2024-11-08**|**Electro-diffusive modeling and the role of spine geometry on action potential propagation in neurons**|Rahul Gulati et.al.|[2411.05329](http://arxiv.org/abs/2411.05329)|null|
+|**2024-11-08**|**Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet**|Boxiao Yu et.al.|[2411.05302](http://arxiv.org/abs/2411.05302)|null|
+|**2024-11-08**|**SpecHub: Provable Acceleration to Multi-Draft Speculative Decoding**|Ryan Sun et.al.|[2411.05289](http://arxiv.org/abs/2411.05289)|**[link](https://github.com/mastergodzilla/speculative_decoding_ot)**|
 |**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
 |**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005](http://arxiv.org/abs/2411.05005)|null|
@@ -2891,6 +2923,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Asterisk*: Keep it Simple**|Andrew Semenov et.al.|[2411.05691](http://arxiv.org/abs/2411.05691)|null|
+|**2024-11-08**|**Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**|Ayobami Adewale et.al.|[2411.05618](http://arxiv.org/abs/2411.05618)|null|
+|**2024-11-08**|**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion**|Nan Song et.al.|[2411.05544](http://arxiv.org/abs/2411.05544)|null|
+|**2024-11-07**|**Performance-Guided LLM Knowledge Distillation for Efficient Text Classification at Scale**|Flavio Di Palo et.al.|[2411.05045](http://arxiv.org/abs/2411.05045)|null|
 |**2024-11-07**|**Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers**|Zhichao Geng et.al.|[2411.04403](http://arxiv.org/abs/2411.04403)|null|
 |**2024-11-07**|**GazeGen: Gaze-Driven User Interaction for Visual Content Generation**|He-Yen Hsieh et.al.|[2411.04335](http://arxiv.org/abs/2411.04335)|null|
 |**2024-11-06**|**Towards Personalized Federated Learning via Comprehensive Knowledge Distillation**|Pengju Wang et.al.|[2411.03569](http://arxiv.org/abs/2411.03569)|null|
@@ -2935,6 +2971,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Differential Privacy Under Class Imbalance: Methods and Empirical Insights**|Lucas Rosenblatt et.al.|[2411.05733](http://arxiv.org/abs/2411.05733)|null|
+|**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
+|**2024-11-08**|**SynDroneVision: A Synthetic Dataset for Image-Based Drone Detection**|Tamara R. Lenhard et.al.|[2411.05633](http://arxiv.org/abs/2411.05633)|null|
+|**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552](http://arxiv.org/abs/2411.05552)|**[link](https://github.com/avauco/deeparuco)**|
+|**2024-11-08**|**A Quality-Centric Framework for Generic Deepfake Detection**|Wentang Song et.al.|[2411.05335](http://arxiv.org/abs/2411.05335)|null|
+|**2024-11-08**|**Discovering Latent Structural Causal Models from Spatio-Temporal Data**|Kun Wang et.al.|[2411.05331](http://arxiv.org/abs/2411.05331)|null|
+|**2024-11-08**|**Cancer-Net SCa-Synth: An Open Access Synthetically Generated 2D Skin Lesion Dataset for Skin Cancer Classification**|Chi-en Amy Tai et.al.|[2411.05269](http://arxiv.org/abs/2411.05269)|**[link](https://github.com/catai9/cancer-net-sca-synth)**|
+|**2024-11-07**|**Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model**|Sheng Cheng et.al.|[2411.05079](http://arxiv.org/abs/2411.05079)|**[link](https://github.com/shengcheng/captions4t2i)**|
 |**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005](http://arxiv.org/abs/2411.05005)|null|
 |**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956](http://arxiv.org/abs/2411.04956)|null|
 |**2024-11-07**|**OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models**|Siming Huang et.al.|[2411.04905](http://arxiv.org/abs/2411.04905)|null|
