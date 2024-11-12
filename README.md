@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-10**|**Prompt-Efficient Fine-Tuning for GPT-like Deep Models to Reduce Hallucination and to Improve Reproducibility in Scientific Text Generation Using Stochastic Optimisation Techniques**|Daniil Sulimov et.al.|[2411.06445](http://arxiv.org/abs/2411.06445)|null|
 |**2024-11-06**|**MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba**|Masakazu Yoshimura et.al.|[2411.03855](http://arxiv.org/abs/2411.03855)|null|
 |**2024-11-04**|**PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption**|Yifan Tan et.al.|[2411.03357](http://arxiv.org/abs/2411.03357)|null|
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
@@ -255,6 +256,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233](http://arxiv.org/abs/2411.07233)|null|
+|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
+|**2024-11-11**|**Learning from Limited and Imperfect Data**|Harsh Rangwani et.al.|[2411.07229](http://arxiv.org/abs/2411.07229)|null|
+|**2024-11-11**|**TempCharBERT: Keystroke Dynamics for Continuous Access Control Based on Pre-trained Language Models**|Matheus Simão et.al.|[2411.07224](http://arxiv.org/abs/2411.07224)|null|
+|**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
+|**2024-11-11**|**Crossover from inhomogeneous to homogeneous response of a resonantly driven hBN quantum emitter**|Domitille Gérard et.al.|[2411.07202](http://arxiv.org/abs/2411.07202)|null|
+|**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199](http://arxiv.org/abs/2411.07199)|null|
+|**2024-11-11**|**More Expressive Attention with Negative Weights**|Ang Lv et.al.|[2411.07176](http://arxiv.org/abs/2411.07176)|**[link](https://github.com/trestad/cogattn)**|
+|**2024-11-11**|**Edify 3D: Scalable High-Quality 3D Asset Generation**|NVIDIA et.al.|[2411.07135](http://arxiv.org/abs/2411.07135)|null|
+|**2024-11-11**|**Benchmarking LLMs' Judgments with No Gold Standard**|Shengwei Xu et.al.|[2411.07127](http://arxiv.org/abs/2411.07127)|**[link](https://github.com/yx-lu/benchmarking-llms--judgments-with-no-gold-standard)**|
+|**2024-11-11**|**Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models**|NVIDIA et.al.|[2411.07126](http://arxiv.org/abs/2411.07126)|null|
+|**2024-11-11**|**Decoding Visual Experience and Mapping Semantics through Whole-Brain Analysis Using fMRI Foundation Models**|Yanchen Wang et.al.|[2411.07121](http://arxiv.org/abs/2411.07121)|**[link](https://github.com/ppwangyc/wave)**|
+|**2024-11-11**|**Scaling Mesh Generation via Compressive Tokenization**|Haohan Weng et.al.|[2411.07025](http://arxiv.org/abs/2411.07025)|**[link](https://github.com/whaohan/bpt)**|
+|**2024-11-11**|**An Electrocardiogram Monitoring Device Based on STM32**|Wenqi Guan et.al.|[2411.06962](http://arxiv.org/abs/2411.06962)|null|
+|**2024-11-11**|**Generative Feature Training of Thin 2-Layer Networks**|Johannes Hertrich et.al.|[2411.06848](http://arxiv.org/abs/2411.06848)|**[link](https://github.com/johertrich/generative_feature_training)**|
 |**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738](http://arxiv.org/abs/2411.05738)|null|
 |**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/abs/2411.05706)|null|
 |**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676](http://arxiv.org/abs/2411.05676)|null|
@@ -1472,6 +1488,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199](http://arxiv.org/abs/2411.07199)|null|
+|**2024-11-09**|**M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework**|Yew Ken Chia et.al.|[2411.06176](http://arxiv.org/abs/2411.06176)|null|
+|**2024-11-09**|**An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models**|Fatemeh Shiri et.al.|[2411.06048](http://arxiv.org/abs/2411.06048)|**[link](https://github.com/fatemehshiri/spatial-mm)**|
 |**2024-11-08**|**Towards Low-Resource Harmful Meme Detection with LMM Agents**|Jianzhao Huang et.al.|[2411.05383](http://arxiv.org/abs/2411.05383)|**[link](https://github.com/jianzhao-huang/lorehm)**|
 |**2024-11-08**|**Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation**|Dong Shu et.al.|[2411.05316](http://arxiv.org/abs/2411.05316)|**[link](https://github.com/tizzzzy/llm-gdm-alignment)**|
 |**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
@@ -1481,7 +1500,7 @@
 |**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314](http://arxiv.org/abs/2411.03314)|null|
 |**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034](http://arxiv.org/abs/2411.03034)|null|
 |**2024-11-05**|**Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning**|Mingcheng Li et.al.|[2411.02793](http://arxiv.org/abs/2411.02793)|null|
-|**2024-11-06**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
+|**2024-11-11**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**See it, Think it, Sorted: Large Multimodal Models are Few-shot Time Series Anomaly Analyzers**|Jiaxin Zhuang et.al.|[2411.02465](http://arxiv.org/abs/2411.02465)|null|
 |**2024-11-07**|**TableGPT2: A Large Multimodal Model with Tabular Data Integration**|Aofeng Su et.al.|[2411.02059](http://arxiv.org/abs/2411.02059)|**[link](https://github.com/tablegpt/tablegpt-agent)**|
 |**2024-11-04**|**Foundations and Recent Trends in Multimodal Mobile Agents: A Survey**|Biao Wu et.al.|[2411.02006](http://arxiv.org/abs/2411.02006)|null|
@@ -1910,6 +1929,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Minimal nilpotent finite $W$-algebra and cuspidal module category of $\mathfrak{sp}_{2n}$**|Genqiang Liu et.al.|[2411.06768](http://arxiv.org/abs/2411.06768)|null|
 |**2024-11-07**|**Well-Posedness and Regularity of the Heat Equation with Robin Boundary Conditions in the Two-Dimensional Wedge**|Marco Bravin et.al.|[2411.04651](http://arxiv.org/abs/2411.04651)|null|
 |**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
 |**2024-10-28**|**Modular Duality in Deep Learning**|Jeremy Bernstein et.al.|[2410.21265](http://arxiv.org/abs/2410.21265)|null|
@@ -2299,6 +2319,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233](http://arxiv.org/abs/2411.07233)|null|
+|**2024-11-11**|**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models**|Yoad Tewel et.al.|[2411.07232](http://arxiv.org/abs/2411.07232)|null|
+|**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
+|**2024-11-11**|**Crossover from inhomogeneous to homogeneous response of a resonantly driven hBN quantum emitter**|Domitille Gérard et.al.|[2411.07202](http://arxiv.org/abs/2411.07202)|null|
+|**2024-11-11**|**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision**|Cong Wei et.al.|[2411.07199](http://arxiv.org/abs/2411.07199)|null|
+|**2024-11-11**|**More Expressive Attention with Negative Weights**|Ang Lv et.al.|[2411.07176](http://arxiv.org/abs/2411.07176)|**[link](https://github.com/trestad/cogattn)**|
+|**2024-11-11**|**Rough differential equations in the flow approach**|Ajay Chandra et.al.|[2411.07157](http://arxiv.org/abs/2411.07157)|null|
+|**2024-11-11**|**Conditional simulation via entropic optimal transport: Toward non-parametric estimation of conditional Brenier maps**|Ricardo Baptista et.al.|[2411.07154](http://arxiv.org/abs/2411.07154)|null|
+|**2024-11-11**|**Variational Graph Contrastive Learning**|Shifeng Xie et.al.|[2411.07150](http://arxiv.org/abs/2411.07150)|**[link](https://github.com/shifengxie/sgec)**|
+|**2024-11-11**|**Edify 3D: Scalable High-Quality 3D Asset Generation**|NVIDIA et.al.|[2411.07135](http://arxiv.org/abs/2411.07135)|null|
+|**2024-11-11**|**Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models**|NVIDIA et.al.|[2411.07126](http://arxiv.org/abs/2411.07126)|null|
+|**2024-11-11**|**Distribution dependent SDEs with by multiplicative fractional noise**|Xiliang Fan et.al.|[2411.06974](http://arxiv.org/abs/2411.06974)|null|
+|**2024-11-11**|**Nonparametric estimation of trend for stochastic differential equations driven by multiplicative stochastic volatility**|B. L. S. Prakasa Rao et.al.|[2411.06865](http://arxiv.org/abs/2411.06865)|null|
+|**2024-11-11**|**The Exponential Lie Series and a Chen-Strichartz Formula for Levy Processes**|Kurusch Ebrahimi-Fard et.al.|[2411.06827](http://arxiv.org/abs/2411.06827)|null|
+|**2024-11-11**|**White-Box Diffusion Transformer for single-cell RNA-seq generation**|Zhuorui Cui et.al.|[2411.06785](http://arxiv.org/abs/2411.06785)|**[link](https://github.com/lingximamo/white-box-diffusion-transformer)**|
 |**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738](http://arxiv.org/abs/2411.05738)|null|
 |**2024-11-08**|**Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models**|Jia-Hong Huang et.al.|[2411.05706](http://arxiv.org/abs/2411.05706)|null|
 |**2024-11-08**|**Relative Optimal Transport**|Peter Bubenik et.al.|[2411.05678](http://arxiv.org/abs/2411.05678)|null|
@@ -2931,6 +2966,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
+|**2024-11-11**|**LLM-Neo: Parameter Efficient Knowledge Distillation for Large Language Models**|Runming Yang et.al.|[2411.06839](http://arxiv.org/abs/2411.06839)|null|
+|**2024-11-11**|**ScaleKD: Strong Vision Transformers Could Be Excellent Teachers**|Jiawei Fan et.al.|[2411.06786](http://arxiv.org/abs/2411.06786)|**[link](https://github.com/deep-optimization/scalekd)**|
+|**2024-11-11**|**An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning**|Dong Li et.al.|[2411.06659](http://arxiv.org/abs/2411.06659)|**[link](https://github.com/arvin0313/mecoin-gfscil)**|
+|**2024-11-10**|**CULL-MT: Compression Using Language and Layer pruning for Machine Translation**|Pedram Rostami et.al.|[2411.06506](http://arxiv.org/abs/2411.06506)|null|
+|**2024-11-10**|**Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation**|Yu-Liang Zhan et.al.|[2411.06448](http://arxiv.org/abs/2411.06448)|null|
+|**2024-11-09**|**Dynamic Textual Prompt For Rehearsal-free Lifelong Person Re-identification**|Hongyu Chen et.al.|[2411.06023](http://arxiv.org/abs/2411.06023)|null|
+|**2024-11-09**|**Multi-hop RIS-aided Learning Model Sharing for Urban Air Mobility**|Kai Xiong et.al.|[2411.06015](http://arxiv.org/abs/2411.06015)|null|
+|**2024-11-08**|**Mitigating Hallucination with ZeroG: An Advanced Knowledge Management Engine**|Anantha Sharma et.al.|[2411.05936](http://arxiv.org/abs/2411.05936)|null|
 |**2024-11-08**|**Asterisk*: Keep it Simple**|Andrew Semenov et.al.|[2411.05691](http://arxiv.org/abs/2411.05691)|null|
 |**2024-11-08**|**Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**|Ayobami Adewale et.al.|[2411.05618](http://arxiv.org/abs/2411.05618)|null|
 |**2024-11-08**|**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion**|Nan Song et.al.|[2411.05544](http://arxiv.org/abs/2411.05544)|null|
@@ -2981,6 +3025,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**DLCR: A Generative Data Expansion Framework via Diffusion for Clothes-Changing Person Re-ID**|Nyle Siddiqui et.al.|[2411.07205](http://arxiv.org/abs/2411.07205)|**[link](https://github.com/croitorualin/dlcr)**|
+|**2024-11-11**|**Data-Driven Predictive Control of Nonholonomic Robots Based on a Bilinear Koopman Realization: Data Does Not Replace Geometry**|Mario Rosenfelder et.al.|[2411.07192](http://arxiv.org/abs/2411.07192)|null|
+|**2024-11-11**|**Hierarchical Conditional Tabular GAN for Multi-Tabular Synthetic Data Generation**|Wilhelm Ågren et.al.|[2411.07009](http://arxiv.org/abs/2411.07009)|null|
+|**2024-11-11**|**Maximizing domain generalization in fetal brain tissue segmentation: the role of synthetic data generation, intensity clustering and real image fine-tuning**|Vladyslav Zalevskyi et.al.|[2411.06842](http://arxiv.org/abs/2411.06842)|null|
+|**2024-11-11**|**Synthesize, Partition, then Adapt: Eliciting Diverse Samples from Foundation Models**|Yeming Wen et.al.|[2411.06722](http://arxiv.org/abs/2411.06722)|null|
+|**2024-11-11**|**DiffSR: Learning Radar Reflectivity Synthesis via Diffusion Model from Satellite Observations**|Xuming He et.al.|[2411.06714](http://arxiv.org/abs/2411.06714)|null|
+|**2024-11-11**|**What Should Baby Models Read? Exploring Sample-Efficient Data Composition on Model Performance**|Hong Meng Yam et.al.|[2411.06672](http://arxiv.org/abs/2411.06672)|null|
+|**2024-11-10**|**In-Context Learning for Preserving Patient Privacy: A Framework for Synthesizing Realistic Patient Portal Messages**|Joseph Gatto et.al.|[2411.06549](http://arxiv.org/abs/2411.06549)|**[link](https://github.com/persist-lab/syntheticportalgen)**|
+|**2024-11-10**|**CRTRE: Causal Rule Generation with Target Trial Emulation Framework**|Junda Wang et.al.|[2411.06338](http://arxiv.org/abs/2411.06338)|null|
+|**2024-11-09**|**Clustering Algorithms and RAG Enhancing Semi-Supervised Text Classification with Large LLMs**|Shan Zhong et.al.|[2411.06175](http://arxiv.org/abs/2411.06175)|null|
+|**2024-11-09**|**Behavior-Aware Efficient Detection of Malicious EVs in V2G Systems**|Ruixiang Wu et.al.|[2411.06113](http://arxiv.org/abs/2411.06113)|null|
+|**2024-11-09**|**A novel study on the MUSIC-type imaging of small electromagnetic inhomogeneities in the limited-aperture inverse scattering problem**|Won-Kwang Park et.al.|[2411.06030](http://arxiv.org/abs/2411.06030)|null|
+|**2024-11-08**|**DNAMite: Interpretable Calibrated Survival Analysis with Discretized Additive Models**|Mike Van Ness et.al.|[2411.05923](http://arxiv.org/abs/2411.05923)|null|
 |**2024-11-08**|**Differential Privacy Under Class Imbalance: Methods and Empirical Insights**|Lucas Rosenblatt et.al.|[2411.05733](http://arxiv.org/abs/2411.05733)|null|
 |**2024-11-08**|**Evaluating Large Language Model Capability in Vietnamese Fact-Checking Data Generation**|Long Truong To et.al.|[2411.05641](http://arxiv.org/abs/2411.05641)|null|
 |**2024-11-08**|**SynDroneVision: A Synthetic Dataset for Image-Based Drone Detection**|Tamara R. Lenhard et.al.|[2411.05633](http://arxiv.org/abs/2411.05633)|null|
