@@ -2,16 +2,20 @@
 layout: default
 ---
 
-## Updated on 2024.11.11
-- [Updated on 2024.11.11](#updated-on-20241111)
-- [PEFT](#peft)
-- [Text-to-Image Generation](#text-to-image-generation)
-- [Vision-Language Models](#vision-language-models)
-- [Generative Weight Space Modeling](#generative-weight-space-modeling)
-- [Data Distillation](#data-distillation)
-- [Schrodinger Bridge](#schrodinger-bridge)
-- [Dataset Distillation](#dataset-distillation)
-- [Synthetic Data Generation](#synthetic-data-generation)
+## Updated on 2024.11.12
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#peft>PEFT</a></li>
+    <li><a href=#text-to-image-generation>Text-to-Image Generation</a></li>
+    <li><a href=#vision-language-models>Vision-Language Models</a></li>
+    <li><a href=#generative-weight-space-modeling>Generative Weight Space Modeling</a></li>
+    <li><a href=#data-distillation>Data Distillation</a></li>
+    <li><a href=#schrodinger-bridge>Schrodinger Bridge</a></li>
+    <li><a href=#dataset-distillation>Dataset Distillation</a></li>
+    <li><a href=#synthetic-data-generation>Synthetic Data Generation</a></li>
+  </ol>
+</details>
 
 ## PEFT
 
@@ -2977,7 +2981,7 @@ layout: default
 |**2024-11-07**|**Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model**|Sheng Cheng et.al.|[2411.05079](http://arxiv.org/abs/2411.05079)|**[link](https://github.com/shengcheng/captions4t2i)**|
 |**2024-11-07**|**Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models**|Shuhong Zheng et.al.|[2411.05005](http://arxiv.org/abs/2411.05005)|null|
 |**2024-11-07**|**Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification**|Mischa Dombrowski et.al.|[2411.04956](http://arxiv.org/abs/2411.04956)|null|
-|**2024-11-07**|**OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models**|Siming Huang et.al.|[2411.04905](http://arxiv.org/abs/2411.04905)|null|
+|**2024-11-09**|**OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models**|Siming Huang et.al.|[2411.04905](http://arxiv.org/abs/2411.04905)|null|
 |**2024-11-07**|**Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation**|Benito Buchheim et.al.|[2411.04724](http://arxiv.org/abs/2411.04724)|null|
 |**2024-11-08**|**BhasaAnuvaad: A Speech Translation Dataset for 13 Indian Languages**|Sparsh Jain et.al.|[2411.04699](http://arxiv.org/abs/2411.04699)|null|
 |**2024-11-07**|**Improved Multi-Task Brain Tumour Segmentation with Synthetic Data Augmentation**|André Ferreira et.al.|[2411.04632](http://arxiv.org/abs/2411.04632)|**[link](https://github.com/shadowtwin41/brats_2023_2024_solutions)**|
