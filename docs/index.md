@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2993,9 +2993,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
-|**2024-11-12**|**Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820](http://arxiv.org/abs/2411.07820)|null|
+|**2024-11-13**|**Query Optimization for Parametric Knowledge Refinement in Retrieval-Augmented Large Language Models**|Youan Cong et.al.|[2411.07820](http://arxiv.org/abs/2411.07820)|null|
 |**2024-11-12**|**Robust Offline Reinforcement Learning for Non-Markovian Decision Processes**|Ruiquan Huang et.al.|[2411.07514](http://arxiv.org/abs/2411.07514)|null|
-|**2024-11-12**|**Feature Interaction Fusion Self-Distillation Network For CTR Prediction**|Lei Sang et.al.|[2411.07508](http://arxiv.org/abs/2411.07508)|null|
+|**2024-11-13**|**Feature Interaction Fusion Self-Distillation Network For CTR Prediction**|Lei Sang et.al.|[2411.07508](http://arxiv.org/abs/2411.07508)|null|
 |**2024-11-12**|**Quantifying Knowledge Distillation Using Partial Information Decomposition**|Pasan Dissanayake et.al.|[2411.07483](http://arxiv.org/abs/2411.07483)|null|
 |**2024-11-08**|**Multi-Document Financial Question Answering using LLMs**|Shalin Shah et.al.|[2411.07264](http://arxiv.org/abs/2411.07264)|null|
 |**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
