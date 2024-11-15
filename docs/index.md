@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.14
+## Updated on 2024.11.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -264,7 +264,7 @@ layout: default
 |**2024-11-13**|**Offline Adaptation of Quadruped Locomotion using Diffusion Models**|Reece O'Mahoney et.al.|[2411.08832](http://arxiv.org/abs/2411.08832)|null|
 |**2024-11-13**|**SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate**|Yifei Jin et.al.|[2411.08767](http://arxiv.org/abs/2411.08767)|null|
 |**2024-11-13**|**Analyst Reports and Stock Performance: Evidence from the Chinese Market**|Rui Liu et.al.|[2411.08726](http://arxiv.org/abs/2411.08726)|null|
-|**2024-11-13**|**Reducing ADC Front-end Costs During Training of On-sensor Printed Multilayer Perceptrons**|Florentia Afentaki et.al.|[2411.08674](http://arxiv.org/abs/2411.08674)|null|
+|**2024-11-14**|**Reducing ADC Front-end Costs During Training of On-sensor Printed Multilayer Perceptrons**|Florentia Afentaki et.al.|[2411.08674](http://arxiv.org/abs/2411.08674)|null|
 |**2024-11-13**|**Joint Model Caching and Resource Allocation in Generative AI-Enabled Wireless Edge Networks**|Zhang Liu et.al.|[2411.08672](http://arxiv.org/abs/2411.08672)|null|
 |**2024-11-13**|**Toward Human Understanding with Controllable Synthesis**|Hanz Cuevas-Velasquez et.al.|[2411.08663](http://arxiv.org/abs/2411.08663)|null|
 |**2024-11-13**|**The Galactica database: an open, generic and versatile tool for the dissemination of simulation data in astrophysics**|Damien Chapon et.al.|[2411.08647](http://arxiv.org/abs/2411.08647)|null|
