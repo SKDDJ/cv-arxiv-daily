@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -28,7 +28,7 @@ layout: default
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
 |**2024-11-04**|**Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test Generation: An Empirical Study**|André Storhaug et.al.|[2411.02462](http://arxiv.org/abs/2411.02462)|null|
 |**2024-11-04**|**Expanding Sparse Tuning for Low Memory Usage**|Shufan Shen et.al.|[2411.01800](http://arxiv.org/abs/2411.01800)|**[link](https://github.com/ssfgunner/snell)**|
-|**2024-11-02**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
+|**2024-11-15**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
 |**2024-10-31**|**CleaR: Towards Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Label Learning**|Yeachan Kim et.al.|[2411.00873](http://arxiv.org/abs/2411.00873)|null|
 |**2024-10-30**|**FPE-LLM: Highly Intelligent Time-Series Forecasting and Language Interaction LLM in Energy Systems**|Zihang Qiu et.al.|[2411.00852](http://arxiv.org/abs/2411.00852)|null|
 |**2024-11-01**|**Dual Low-Rank Adaptation for Continual Learning with Pre-Trained Models**|Huancheng Chen et.al.|[2411.00623](http://arxiv.org/abs/2411.00623)|null|
@@ -3163,7 +3163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-15**|**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**|Michal Kolesár et.al.|[2411.10415](http://arxiv.org/abs/2411.10415)|null|
+|**2024-11-15**|**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**|Michal Kolesár et.al.|[2411.10415](http://arxiv.org/abs/2411.10415)|**[link](https://github.com/mikkelpm/nonlinear_dynamic_causal)**|
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
 |**2024-11-15**|**Generation of synthetic gait data: application to multiple sclerosis patients' gait patterns**|Klervi Le Gall et.al.|[2411.10377](http://arxiv.org/abs/2411.10377)|null|
 |**2024-11-15**|**Multidimensional Byte Pair Encoding: Shortened Sequences for Improved Visual Data Generation**|Tim Elsner et.al.|[2411.10281](http://arxiv.org/abs/2411.10281)|null|
@@ -3172,7 +3172,7 @@ layout: default
 |**2024-11-15**|**Adaptive Physics-Guided Neural Network**|David Shulman et.al.|[2411.10064](http://arxiv.org/abs/2411.10064)|null|
 |**2024-11-14**|**Cross-Matched Interval Prevalence of High Dimensional Point Clouds**|Jonathan M. Mousley et.al.|[2411.09797](http://arxiv.org/abs/2411.09797)|null|
 |**2024-11-14**|**Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models**|Wei Wang et.al.|[2411.09691](http://arxiv.org/abs/2411.09691)|null|
-|**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
+|**2024-11-16**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
 |**2024-11-14**|**Mono2Stereo: Monocular Knowledge Transfer for Enhanced Stereo Matching**|Yuran Wang et.al.|[2411.09151](http://arxiv.org/abs/2411.09151)|null|
 |**2024-11-13**|**Drone Detection using Deep Neural Networks Trained on Pure Synthetic Data**|Mariusz Wisniewski et.al.|[2411.09077](http://arxiv.org/abs/2411.09077)|**[link](https://github.com/mazqtpopx/cranfield-synthetic-drone-detection)**|
 |**2024-11-13**|**Evaluating cosmological simulations of galaxy formation with spectral variance in the optical window**|Z. Sharbaf et.al.|[2411.08945](http://arxiv.org/abs/2411.08945)|null|

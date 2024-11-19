@@ -1,4 +1,4 @@
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -24,7 +24,7 @@
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
 |**2024-11-04**|**Parameter-Efficient Fine-Tuning of Large Language Models for Unit Test Generation: An Empirical Study**|André Storhaug et.al.|[2411.02462](http://arxiv.org/abs/2411.02462)|null|
 |**2024-11-04**|**Expanding Sparse Tuning for Low Memory Usage**|Shufan Shen et.al.|[2411.01800](http://arxiv.org/abs/2411.01800)|**[link](https://github.com/ssfgunner/snell)**|
-|**2024-11-02**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
+|**2024-11-15**|**Visual Fourier Prompt Tuning**|Runjia Zeng et.al.|[2411.01327](http://arxiv.org/abs/2411.01327)|**[link](https://github.com/runtsang/vfpt)**|
 |**2024-10-31**|**CleaR: Towards Robust and Generalized Parameter-Efficient Fine-Tuning for Noisy Label Learning**|Yeachan Kim et.al.|[2411.00873](http://arxiv.org/abs/2411.00873)|null|
 |**2024-10-30**|**FPE-LLM: Highly Intelligent Time-Series Forecasting and Language Interaction LLM in Energy Systems**|Zihang Qiu et.al.|[2411.00852](http://arxiv.org/abs/2411.00852)|null|
 |**2024-11-01**|**Dual Low-Rank Adaptation for Continual Learning with Pre-Trained Models**|Huancheng Chen et.al.|[2411.00623](http://arxiv.org/abs/2411.00623)|null|
@@ -251,7 +251,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -1543,7 +1543,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1998,7 +1998,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -2190,7 +2190,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -2389,7 +2389,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -3092,7 +3092,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -3167,13 +3167,13 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-15**|**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**|Michal Kolesár et.al.|[2411.10415](http://arxiv.org/abs/2411.10415)|null|
+|**2024-11-15**|**Dynamic Causal Effects in a Nonlinear World: the Good, the Bad, and the Ugly**|Michal Kolesár et.al.|[2411.10415](http://arxiv.org/abs/2411.10415)|**[link](https://github.com/mikkelpm/nonlinear_dynamic_causal)**|
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
 |**2024-11-15**|**Generation of synthetic gait data: application to multiple sclerosis patients' gait patterns**|Klervi Le Gall et.al.|[2411.10377](http://arxiv.org/abs/2411.10377)|null|
 |**2024-11-15**|**Multidimensional Byte Pair Encoding: Shortened Sequences for Improved Visual Data Generation**|Tim Elsner et.al.|[2411.10281](http://arxiv.org/abs/2411.10281)|null|
@@ -3182,7 +3182,7 @@
 |**2024-11-15**|**Adaptive Physics-Guided Neural Network**|David Shulman et.al.|[2411.10064](http://arxiv.org/abs/2411.10064)|null|
 |**2024-11-14**|**Cross-Matched Interval Prevalence of High Dimensional Point Clouds**|Jonathan M. Mousley et.al.|[2411.09797](http://arxiv.org/abs/2411.09797)|null|
 |**2024-11-14**|**Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models**|Wei Wang et.al.|[2411.09691](http://arxiv.org/abs/2411.09691)|null|
-|**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
+|**2024-11-16**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
 |**2024-11-14**|**Mono2Stereo: Monocular Knowledge Transfer for Enhanced Stereo Matching**|Yuran Wang et.al.|[2411.09151](http://arxiv.org/abs/2411.09151)|null|
 |**2024-11-13**|**Drone Detection using Deep Neural Networks Trained on Pure Synthetic Data**|Mariusz Wisniewski et.al.|[2411.09077](http://arxiv.org/abs/2411.09077)|**[link](https://github.com/mazqtpopx/cranfield-synthetic-drone-detection)**|
 |**2024-11-13**|**Evaluating cosmological simulations of galaxy formation with spectral variance in the optical window**|Z. Sharbaf et.al.|[2411.08945](http://arxiv.org/abs/2411.08945)|null|
@@ -3333,5 +3333,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
