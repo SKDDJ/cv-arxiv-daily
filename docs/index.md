@@ -261,6 +261,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
+|**2024-11-20**|**Identity Preserving 3D Head Stylization with Multiview Score Distillation**|Bahri Batuhan Bilecen et.al.|[2411.13536](http://arxiv.org/abs/2411.13536)|null|
+|**2024-11-20**|**VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2411.13503](http://arxiv.org/abs/2411.13503)|**[link](https://github.com/vchitect/vbench)**|
+|**2024-11-20**|**LIMBA: An Open-Source Framework for the Preservation and Valorization of Low-Resource Languages using Generative Models**|Salvatore Mario Carta et.al.|[2411.13453](http://arxiv.org/abs/2411.13453)|null|
+|**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
+|**2024-11-20**|**Energy-based generative models for monoclonal antibodies**|Paul Pereira et.al.|[2411.13390](http://arxiv.org/abs/2411.13390)|null|
+|**2024-11-20**|**Small and Close-In Planets are Uncommon around A-type Stars**|Steven Giacalone et.al.|[2411.13363](http://arxiv.org/abs/2411.13363)|null|
+|**2024-11-20**|**Vertical Validation: Evaluating Implicit Generative Models for Graphs on Thin Support Regions**|Mai Elkady et.al.|[2411.13358](http://arxiv.org/abs/2411.13358)|null|
+|**2024-11-20**|**A CSI Feedback Framework based on Transmitting the Important Values and Generating the Others**|Zhilin Du et.al.|[2411.13298](http://arxiv.org/abs/2411.13298)|null|
+|**2024-11-20**|**Unlocking the Power of Gradient Guidance for Structure-Based Molecule Optimization**|Keyue Qiu et.al.|[2411.13280](http://arxiv.org/abs/2411.13280)|null|
+|**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243](http://arxiv.org/abs/2411.13243)|**[link](https://github.com/wangzy22/xmask3d)**|
+|**2024-11-20**|**BIPro: Zero-shot Chinese Poem Generation via Block Inverse Prompting Constrained Generation Framework**|Xu Zou et.al.|[2411.13237](http://arxiv.org/abs/2411.13237)|null|
+|**2024-11-20**|**Building music with Lego bricks and Raspberry Pi**|Ana M. Barbancho et.al.|[2411.13224](http://arxiv.org/abs/2411.13224)|null|
+|**2024-11-20**|**A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)**|Antonino Visalli et.al.|[2411.13203](http://arxiv.org/abs/2411.13203)|null|
+|**2024-11-20**|**OpenMS WebApps: Building User-Friendly Solutions for MS Analysis**|Tom David Müller et.al.|[2411.13189](http://arxiv.org/abs/2411.13189)|null|
 |**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712](http://arxiv.org/abs/2411.12712)|null|
 |**2024-11-19**|**OrigamiPlot: An R Package and Shiny Web App Enhanced Visualizations for Multivariate Data**|Yiwen Lu et.al.|[2411.12674](http://arxiv.org/abs/2411.12674)|null|
 |**2024-11-19**|**Auto-Evaluation with Few Labels through Post-hoc Regression**|Benjamin Eyre et.al.|[2411.12665](http://arxiv.org/abs/2411.12665)|null|
@@ -1581,6 +1596,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**VideoAutoArena: An Automated Arena for Evaluating Large Multimodal Models in Video Analysis through User Simulation**|Ziyang Luo et.al.|[2411.13281](http://arxiv.org/abs/2411.13281)|null|
+|**2024-11-19**|**VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge**|Vishwesh Nath et.al.|[2411.12915](http://arxiv.org/abs/2411.12915)|null|
+|**2024-11-19**|**Mitigating Perception Bias: A Training-Free Approach to Enhance LMM for Image Quality Assessment**|Siyi Pan et.al.|[2411.12791](http://arxiv.org/abs/2411.12791)|null|
 |**2024-11-18**|**MMBind: Unleashing the Potential of Distributed and Heterogeneous Data for Multimodal Learning in IoT**|Xiaomin Ouyang et.al.|[2411.12126](http://arxiv.org/abs/2411.12126)|null|
 |**2024-11-17**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|null|
 |**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758](http://arxiv.org/abs/2411.11758)|null|
@@ -2043,6 +2061,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Nonlinear orbital stability of stationary shock profiles for the Lax-Wendroff scheme**|Jean-François Coulombel et.al.|[2411.13094](http://arxiv.org/abs/2411.13094)|null|
 |**2024-11-14**|**Enhancing generalization in high energy physics using white-box adversarial attacks**|Franck Rothen et.al.|[2411.09296](http://arxiv.org/abs/2411.09296)|null|
 |**2024-11-11**|**Minimal nilpotent finite $W$-algebra and cuspidal module category of $\mathfrak{sp}_{2n}$**|Genqiang Liu et.al.|[2411.06768](http://arxiv.org/abs/2411.06768)|null|
 |**2024-11-07**|**Well-Posedness and Regularity of the Heat Equation with Robin Boundary Conditions in the Two-Dimensional Wedge**|Marco Bravin et.al.|[2411.04651](http://arxiv.org/abs/2411.04651)|null|
@@ -2430,6 +2449,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
+|**2024-11-20**|**Identity Preserving 3D Head Stylization with Multiview Score Distillation**|Bahri Batuhan Bilecen et.al.|[2411.13536](http://arxiv.org/abs/2411.13536)|null|
+|**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
+|**2024-11-20**|**ripALM: A Relative-Type Inexact Proximal Augmented Lagrangian Method with Applications to Quadratically Regularized Optimal Transport**|Jiayi Zhu et.al.|[2411.13267](http://arxiv.org/abs/2411.13267)|null|
+|**2024-11-20**|**A new maximal regularity for parabolic equations and an application**|Jinlong Wei et.al.|[2411.13266](http://arxiv.org/abs/2411.13266)|null|
+|**2024-11-20**|**XMask3D: Cross-modal Mask Reasoning for Open Vocabulary 3D Semantic Segmentation**|Ziyi Wang et.al.|[2411.13243](http://arxiv.org/abs/2411.13243)|**[link](https://github.com/wangzy22/xmask3d)**|
+|**2024-11-20**|**Backward Stochastic Control System with Entropy Regularization**|Ziyue Chen et.al.|[2411.13219](http://arxiv.org/abs/2411.13219)|null|
+|**2024-11-20**|**A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)**|Antonino Visalli et.al.|[2411.13203](http://arxiv.org/abs/2411.13203)|null|
+|**2024-11-20**|**RAW-Diffusion: RGB-Guided Diffusion Models for High-Fidelity RAW Image Generation**|Christoph Reinders et.al.|[2411.13150](http://arxiv.org/abs/2411.13150)|null|
+|**2024-11-20**|**CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models**|Naen Xu et.al.|[2411.13144](http://arxiv.org/abs/2411.13144)|null|
+|**2024-11-20**|**Virtual Staining of Label-Free Tissue in Imaging Mass Spectrometry**|Yijie Zhang et.al.|[2411.13120](http://arxiv.org/abs/2411.13120)|null|
+|**2024-11-20**|**Distribution-free Measures of Association based on Optimal Transport**|Nabarun Deb et.al.|[2411.13080](http://arxiv.org/abs/2411.13080)|null|
+|**2024-11-19**|**Breaking the wire: the impact of critical length on melting pathways in silver nanowires**|Kannan M Ridings et.al.|[2411.12891](http://arxiv.org/abs/2411.12891)|null|
+|**2024-11-19**|**From Text to Pose to Image: Improving Diffusion Model Control and Quality**|Clément Bonnett et.al.|[2411.12872](http://arxiv.org/abs/2411.12872)|**[link](https://github.com/clement-bonnet/text-to-pose)**|
+|**2024-11-19**|**CDI: Copyrighted Data Identification in Diffusion Models**|Jan Dubiński et.al.|[2411.12858](http://arxiv.org/abs/2411.12858)|null|
 |**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663](http://arxiv.org/abs/2411.12663)|**[link](https://github.com/davidpicard/homm)**|
 |**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641](http://arxiv.org/abs/2411.12641)|null|
 |**2024-11-19**|**Data Pruning in Generative Diffusion Models**|Rania Briq et.al.|[2411.12523](http://arxiv.org/abs/2411.12523)|null|
@@ -3161,6 +3195,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
+|**2024-11-20**|**Explainable LLM-driven Multi-dimensional Distillation for E-Commerce Relevance Learning**|Gang Zhao et.al.|[2411.13045](http://arxiv.org/abs/2411.13045)|null|
+|**2024-11-19**|**Reward Modeling with Ordinal Feedback: Wisdom of the Crowd**|Shang Liu et.al.|[2411.12843](http://arxiv.org/abs/2411.12843)|null|
+|**2024-11-19**|**Data-to-Model Distillation: Data-Efficient Learning Framework**|Ahmad Sajedi et.al.|[2411.12841](http://arxiv.org/abs/2411.12841)|null|
+|**2024-11-19**|**What Makes a Good Dataset for Knowledge Distillation?**|Logan Frank et.al.|[2411.12817](http://arxiv.org/abs/2411.12817)|null|
 |**2024-11-19**|**KDC-MAE: Knowledge Distilled Contrastive Mask Auto-Encoder**|Maheswar Bora et.al.|[2411.12270](http://arxiv.org/abs/2411.12270)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
 |**2024-11-18**|**Distill the Best, Ignore the Rest: Improving Dataset Distillation with Loss-Value-Based Pruning**|Brian B. Moser et.al.|[2411.12115](http://arxiv.org/abs/2411.12115)|**[link](https://github.com/Brian-Moser/prune_and_distill)**|
@@ -3244,6 +3283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
+|**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
+|**2024-11-20**|**Enhanced Gas Source Localization Using Distributed IoT Sensors and Bayesian Inference**|Leonardo Balocchi et.al.|[2411.13268](http://arxiv.org/abs/2411.13268)|null|
+|**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251](http://arxiv.org/abs/2411.13251)|null|
+|**2024-11-20**|**SONNET: Enhancing Time Delay Estimation by Leveraging Simulated Audio**|Erik Tegler et.al.|[2411.13179](http://arxiv.org/abs/2411.13179)|null|
+|**2024-11-20**|**Writing Style Matters: An Examination of Bias and Fairness in Information Retrieval Systems**|Hongliu Cao et.al.|[2411.13173](http://arxiv.org/abs/2411.13173)|null|
+|**2024-11-20**|**Data driven learning to enhance a kinetic model of distressed crowd dynamics**|Daewa Kim et.al.|[2411.12974](http://arxiv.org/abs/2411.12974)|null|
+|**2024-11-20**|**Machine learned reconstruction of tsunami dynamics from sparse observations**|Edward McDugald et.al.|[2411.12948](http://arxiv.org/abs/2411.12948)|null|
+|**2024-11-20**|**Improving Low-Fidelity Models of Li-ion Batteries via Hybrid Sparse Identification of Nonlinear Dynamics**|Samuel Filgueira da Silva et.al.|[2411.12935](http://arxiv.org/abs/2411.12935)|null|
+|**2024-11-19**|**Data-to-Model Distillation: Data-Efficient Learning Framework**|Ahmad Sajedi et.al.|[2411.12841](http://arxiv.org/abs/2411.12841)|null|
 |**2024-11-19**|**Regular-pattern-sensitive CRFs for Distant Label Interactions**|Sean Papay et.al.|[2411.12484](http://arxiv.org/abs/2411.12484)|null|
 |**2024-11-19**|**Empirical Privacy Evaluations of Generative and Predictive Machine Learning Models -- A review and challenges for practice**|Flavio Hafner et.al.|[2411.12451](http://arxiv.org/abs/2411.12451)|null|
 |**2024-11-19**|**Could Humans Outshine AI in Visual Data Analysis?**|Ratanond Koonchanok et.al.|[2411.12299](http://arxiv.org/abs/2411.12299)|null|
