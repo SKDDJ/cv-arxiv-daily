@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2439,11 +2439,11 @@ layout: default
 |**2024-11-19**|**Scalable and Effective Negative Sample Generation for Hyperedge Prediction**|Shilin Qu et.al.|[2411.12354](http://arxiv.org/abs/2411.12354)|null|
 |**2024-11-19**|**Diffusion Product Quantization**|Jie Shao et.al.|[2411.12306](http://arxiv.org/abs/2411.12306)|null|
 |**2024-11-19**|**SSEditor: Controllable Mask-to-Scene Generation with Diffusion Model**|Haowen Zheng et.al.|[2411.12290](http://arxiv.org/abs/2411.12290)|null|
-|**2024-11-19**|**HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation**|Ziyang Zong et.al.|[2411.12279](http://arxiv.org/abs/2411.12279)|null|
+|**2024-11-20**|**HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation**|Ziyang Zong et.al.|[2411.12279](http://arxiv.org/abs/2411.12279)|null|
 |**2024-11-19**|**On sensitivities regarding shape and topology optimization as derivatives on Wasserstein spaces**|Fumiya Okazaki et.al.|[2411.12234](http://arxiv.org/abs/2411.12234)|null|
 |**2024-11-19**|**Wavespeed selection of travelling wave solutions of a two-component reaction-diffusion model of cell invasion**|Yuhui Chen et.al.|[2411.12232](http://arxiv.org/abs/2411.12232)|null|
 |**2024-11-19**|**Constant Rate Schedule: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models**|Shuntaro Okada et.al.|[2411.12188](http://arxiv.org/abs/2411.12188)|null|
-|**2024-11-19**|**Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing**|Haiping Ma et.al.|[2411.12182](http://arxiv.org/abs/2411.12182)|null|
+|**2024-11-19**|**Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing**|Haiping Ma et.al.|[2411.12182](http://arxiv.org/abs/2411.12182)|**[link](https://github.com/bimk/intelligent-education)**|
 |**2024-11-19**|**Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques**|Mahmut S. Gokmen et.al.|[2411.12181](http://arxiv.org/abs/2411.12181)|null|
 |**2024-11-18**|**Milstein-type schemes for McKean-Vlasov SDEs driven by Brownian motion and Poisson random measure (with super-linear coefficients)**|Sani Biswas et.al.|[2411.11759](http://arxiv.org/abs/2411.11759)|null|
 |**2024-11-18**|**Aligning Few-Step Diffusion Models with Dense Reward Difference Learning**|Ziyi Zhang et.al.|[2411.11727](http://arxiv.org/abs/2411.11727)|**[link](https://github.com/ziyizhang27/sdpo)**|
@@ -3163,7 +3163,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**KDC-MAE: Knowledge Distilled Contrastive Mask Auto-Encoder**|Maheswar Bora et.al.|[2411.12270](http://arxiv.org/abs/2411.12270)|null|
 |**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
-|**2024-11-18**|**Distill the Best, Ignore the Rest: Improving Dataset Distillation with Loss-Value-Based Pruning**|Brian B. Moser et.al.|[2411.12115](http://arxiv.org/abs/2411.12115)|null|
+|**2024-11-18**|**Distill the Best, Ignore the Rest: Improving Dataset Distillation with Loss-Value-Based Pruning**|Brian B. Moser et.al.|[2411.12115](http://arxiv.org/abs/2411.12115)|**[link](https://github.com/Brian-Moser/prune_and_distill)**|
 |**2024-11-18**|**Dataset Distillers Are Good Label Denoisers In the Wild**|Lechao Cheng et.al.|[2411.11924](http://arxiv.org/abs/2411.11924)|null|
 |**2024-11-18**|**Federated Incremental Named Entity Recognition**|Duzhen Zhang et.al.|[2411.11623](http://arxiv.org/abs/2411.11623)|null|
 |**2024-11-18**|**Color-Oriented Redundancy Reduction in Dataset Distillation**|Bowen Yuan et.al.|[2411.11329](http://arxiv.org/abs/2411.11329)|**[link](https://github.com/kevinyuan0314/autopalette)**|
@@ -3254,8 +3254,8 @@ layout: default
 |**2024-11-18**|**Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models**|Jehad Abed et.al.|[2411.11783](http://arxiv.org/abs/2411.11783)|null|
 |**2024-11-18**|**Few-shot Model Extraction Attacks against Sequential Recommender Systems**|Hui Zhang et.al.|[2411.11677](http://arxiv.org/abs/2411.11677)|null|
 |**2024-11-18**|**Real-Time Fitness Exercise Classification and Counting from Video Frames**|Riccardo Riccio et.al.|[2411.11548](http://arxiv.org/abs/2411.11548)|**[link](https://github.com/riccardoriccio/fitness-ai-trainer-with-automatic-exercise-recognition-and-counting)**|
-|**2024-11-18**|**A Pre-Trained Graph-Based Model for Adaptive Sequencing of Educational Documents**|Jean Vassoyan et.al.|[2411.11520](http://arxiv.org/abs/2411.11520)|null|
-|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|**[link](https://github.com/ruveydayilmaz0/cascaded_diffusion)**|
+|**2024-11-18**|**A Pre-Trained Graph-Based Model for Adaptive Sequencing of Educational Documents**|Jean Vassoyan et.al.|[2411.11520](http://arxiv.org/abs/2411.11520)|**[link](https://github.com/jvasso/pretrain-rl-adaptive-learning)**|
+|**2024-11-19**|**Cascaded Diffusion Models for 2D and 3D Microscopy Image Synthesis to Enhance Cell Segmentation**|Rüveyda Yilmaz et.al.|[2411.11515](http://arxiv.org/abs/2411.11515)|null|
 |**2024-11-18**|**Lorentz: Learned SKU Recommendation Using Profile Data**|Nicholas Glaze et.al.|[2411.11325](http://arxiv.org/abs/2411.11325)|null|
 |**2024-11-18**|**Subgroup analysis in multi level hierarchical cluster randomized trials**|Shubhadeep Chakraborty et.al.|[2411.11301](http://arxiv.org/abs/2411.11301)|null|
 |**2024-11-17**|**MolParser: End-to-end Visual Recognition of Molecule Structures in the Wild**|Xi Fang et.al.|[2411.11098](http://arxiv.org/abs/2411.11098)|null|
