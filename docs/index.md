@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -269,7 +269,7 @@ layout: default
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
 |**2024-11-21**|**CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields**|Xin-Yang Liu et.al.|[2411.14378](http://arxiv.org/abs/2411.14378)|null|
 |**2024-11-21**|**Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models**|Houze Liu et.al.|[2411.14353](http://arxiv.org/abs/2411.14353)|null|
-|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|null|
+|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
 |**2024-11-21**|**Lower Dimensional Spherical Representation of Medium Voltage Load Profiles for Visualization, Outlier Detection, and Generative Modelling**|Edgar Mauricio Salazar Duque et.al.|[2411.14346](http://arxiv.org/abs/2411.14346)|null|
 |**2024-11-21**|**StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart**|Jian Shi et.al.|[2411.14295](http://arxiv.org/abs/2411.14295)|null|
 |**2024-11-21**|**Efficient Aspect-Based Summarization of Climate Change Reports with Small Language Models**|Iacopo Ghinassi et.al.|[2411.14272](http://arxiv.org/abs/2411.14272)|**[link](https://github.com/ighina/llmclimate2024)**|
@@ -1619,7 +1619,7 @@ layout: default
 |**2024-11-19**|**Mitigating Perception Bias: A Training-Free Approach to Enhance LMM for Image Quality Assessment**|Siyi Pan et.al.|[2411.12791](http://arxiv.org/abs/2411.12791)|null|
 |**2024-11-18**|**MMBind: Unleashing the Potential of Distributed and Heterogeneous Data for Multimodal Learning in IoT**|Xiaomin Ouyang et.al.|[2411.12126](http://arxiv.org/abs/2411.12126)|null|
 |**2024-11-17**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|null|
-|**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758](http://arxiv.org/abs/2411.11758)|null|
+|**2024-11-18**|**The Power of Many: Multi-Agent Multimodal Models for Cultural Image Captioning**|Longju Bai et.al.|[2411.11758](http://arxiv.org/abs/2411.11758)|**[link](https://github.com/michigannlp/mosaic)**|
 |**2024-11-18**|**Artificial Scientific Discovery**|Antonio Norelli et.al.|[2411.11672](http://arxiv.org/abs/2411.11672)|null|
 |**2024-11-18**|**InstruGen: Automatic Instruction Generation for Vision-and-Language Navigation Via Large Multimodal Models**|Yu Yan et.al.|[2411.11394](http://arxiv.org/abs/2411.11394)|null|
 |**2024-11-19**|**SoK: Unifying Cybersecurity and Cybersafety of Multimodal Foundation Models with an Information Theory Approach**|Ruoxi Sun et.al.|[2411.11195](http://arxiv.org/abs/2411.11195)|null|
@@ -2481,7 +2481,7 @@ layout: default
 |**2024-11-21**|**Transforming Static Images Using Generative Models for Video Salient Object Detection**|Suhwan Cho et.al.|[2411.13975](http://arxiv.org/abs/2411.13975)|**[link](https://github.com/suhwan-cho/realflow)**|
 |**2024-11-21**|**Continuum of coupled Wasserstein gradient flows**|Clément Cancès et.al.|[2411.13969](http://arxiv.org/abs/2411.13969)|null|
 |**2024-11-21**|**Decoupled Sparse Priors Guided Diffusion Compression Model for Point Clouds**|Xiaoge Zhang et.al.|[2411.13860](http://arxiv.org/abs/2411.13860)|null|
-|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|null|
+|**2024-11-21**|**Detecting Human Artifacts from Text-to-Image Models**|Kaihong Wang et.al.|[2411.13842](http://arxiv.org/abs/2411.13842)|**[link](https://github.com/wangkaihong/hadm)**|
 |**2024-11-20**|**REDUCIO! Generating 1024 $\times$ 1024 Video within 16 Seconds using Extremely Compressed Motion Latents**|Rui Tian et.al.|[2411.13552](http://arxiv.org/abs/2411.13552)|**[link](https://github.com/microsoft/reducio-vae)**|
 |**2024-11-20**|**Identity Preserving 3D Head Stylization with Multiview Score Distillation**|Bahri Batuhan Bilecen et.al.|[2411.13536](http://arxiv.org/abs/2411.13536)|null|
 |**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
