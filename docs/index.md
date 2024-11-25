@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.24
+## Updated on 2024.11.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3329,7 +3329,7 @@ layout: default
 |**2024-11-21**|**Dealing with Synthetic Data Contamination in Online Continual Learning**|Maorong Wang et.al.|[2411.13852](http://arxiv.org/abs/2411.13852)|**[link](https://github.com/maorong-wang/esrm)**|
 |**2024-11-21**|**GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter**|Aniruddha Bala et.al.|[2411.13794](http://arxiv.org/abs/2411.13794)|null|
 |**2024-11-21**|**Adaptable Embeddings Network (AEN)**|Stan Loosmore et.al.|[2411.13786](http://arxiv.org/abs/2411.13786)|null|
-|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
+|**2024-11-22**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
 |**2024-11-20**|**Heuristically Adaptive Diffusion-Model Evolutionary Strategy**|Benedikt Hartl et.al.|[2411.13420](http://arxiv.org/abs/2411.13420)|null|
 |**2024-11-20**|**Enhanced Gas Source Localization Using Distributed IoT Sensors and Bayesian Inference**|Leonardo Balocchi et.al.|[2411.13268](http://arxiv.org/abs/2411.13268)|null|
 |**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251](http://arxiv.org/abs/2411.13251)|null|
