@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Graph Adapter of EEG Foundation Models for Parameter Efficient Fine Tuning**|Toyotaro Suzumura et.al.|[2411.16155](http://arxiv.org/abs/2411.16155)|null|
+|**2024-11-24**|**Efficient and Private: Memorisation under differentially private parameter-efficient fine-tuning in language models**|Olivia Ma et.al.|[2411.15831](http://arxiv.org/abs/2411.15831)|null|
+|**2024-11-21**|**Parameter Efficient Mamba Tuning via Projector-targeted Diagonal-centric Linear Transformation**|Seokil Ham et.al.|[2411.15224](http://arxiv.org/abs/2411.15224)|null|
 |**2024-11-22**|**LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**|Jieming Bian et.al.|[2411.14961](http://arxiv.org/abs/2411.14961)|null|
 |**2024-11-21**|**Multi LoRA Meets Vision: Merging multiple adapters to create a multi task model**|Ege Kesim et.al.|[2411.14064](http://arxiv.org/abs/2411.14064)|null|
 |**2024-11-17**|**F $^3$ OCUS -- Federated Finetuning of Vision-Language Foundation Models with Optimal Client Layer Updating Strategy via Multi-objective Meta-Heuristics**|Pramit Saha et.al.|[2411.11912](http://arxiv.org/abs/2411.11912)|null|
@@ -261,6 +264,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
+|**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Exploring Discrete Flow Matching for 3D De Novo Molecule Generation**|Ian Dunn et.al.|[2411.16644](http://arxiv.org/abs/2411.16644)|**[link](https://github.com/dunni3/flowmol)**|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629](http://arxiv.org/abs/2411.16629)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598](http://arxiv.org/abs/2411.16598)|null|
+|**2024-11-25**|**Rethinking Diffusion for Text-Driven Human Motion Generation**|Zichong Meng et.al.|[2411.16575](http://arxiv.org/abs/2411.16575)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550](http://arxiv.org/abs/2411.16550)|null|
+|**2024-11-25**|**ADOBI: Adaptive Diffusion Bridge For Blind Inverse Problems with Application to MRI Reconstruction**|Yuyang Hu et.al.|[2411.16535](http://arxiv.org/abs/2411.16535)|null|
+|**2024-11-25**|**PriorPath: Coarse-To-Fine Approach for Controlled De-Novo Pathology Semantic Masks Generation**|Nati Daniel et.al.|[2411.16515](http://arxiv.org/abs/2411.16515)|null|
+|**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
+|**2024-11-25**|**Multi-Resolution Generative Modeling of Human Motion from Limited Data**|David Eduardo Moreno-Villamarín et.al.|[2411.16498](http://arxiv.org/abs/2411.16498)|null|
+|**2024-11-25**|**Learning by Analogy: Enhancing Few-Shot Prompting for Math Word Problem Solving with Computational Graph-Based Retrieval**|Xiaocong Yang et.al.|[2411.16454](http://arxiv.org/abs/2411.16454)|null|
+|**2024-11-25**|**Model-based reinforcement corrosion prediction: Continuous calibration with Bayesian optimization and corrosion wire sensor data**|A. Potnis et.al.|[2411.16447](http://arxiv.org/abs/2411.16447)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139](http://arxiv.org/abs/2411.15139)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138](http://arxiv.org/abs/2411.15138)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115](http://arxiv.org/abs/2411.15115)|null|
@@ -1628,9 +1646,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages**|Ashmal Vayani et.al.|[2411.16508](http://arxiv.org/abs/2411.16508)|null|
+|**2024-11-25**|**Boosting 3D Object Generation through PBR Materials**|Yitong Wang et.al.|[2411.16080](http://arxiv.org/abs/2411.16080)|null|
+|**2024-11-24**|**M3-CVC: Controllable Video Compression with Multimodal Generative Models**|Rui Wan et.al.|[2411.15798](http://arxiv.org/abs/2411.15798)|null|
+|**2024-11-23**|**Knowledge Transfer Across Modalities with Natural Language Supervision**|Carlo Alberto Barbano et.al.|[2411.15611](http://arxiv.org/abs/2411.15611)|null|
+|**2024-11-23**|**From Complexity to Parsimony: Integrating Latent Class Analysis to Uncover Multimodal Learning Patterns in Collaborative Learning**|Lixiang Yan et.al.|[2411.15590](http://arxiv.org/abs/2411.15590)|null|
+|**2024-11-23**|**Botfip-LLM: An Enhanced Multimodal Scientific Computing Framework Leveraging Knowledge Distillation from Large Language Models**|Tianhao Chen et.al.|[2411.15525](http://arxiv.org/abs/2411.15525)|null|
+|**2024-11-23**|**MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**|Xinqi Liu et.al.|[2411.15459](http://arxiv.org/abs/2411.15459)|null|
+|**2024-11-23**|**freePruner: A Training-free Approach for Large Multimodal Model Acceleration**|Bingxin Xu et.al.|[2411.15446](http://arxiv.org/abs/2411.15446)|null|
 |**2024-11-22**|**PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision**|Arnav M. Das et.al.|[2411.15127](http://arxiv.org/abs/2411.15127)|null|
 |**2024-11-22**|**Large Multi-modal Models Can Interpret Features in Large Multi-modal Models**|Kaichen Zhang et.al.|[2411.14982](http://arxiv.org/abs/2411.14982)|**[link](https://github.com/EvolvingLMMs-Lab/multimodal-sae)**|
-|**2024-11-22**|**Information Extraction from Heterogenous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957](http://arxiv.org/abs/2411.14957)|null|
+|**2024-11-25**|**Information Extraction from Heterogeneous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957](http://arxiv.org/abs/2411.14957)|null|
 |**2024-11-22**|**Benchmarking Multimodal Models for Ukrainian Language Understanding Across Academic and Cultural Domains**|Yurii Paniv et.al.|[2411.14647](http://arxiv.org/abs/2411.14647)|null|
 |**2024-11-21**|**Generative AI for Music and Audio**|Hao-Wen Dong et.al.|[2411.14627](http://arxiv.org/abs/2411.14627)|null|
 |**2024-11-21**|**FuseGPT: Learnable Layers Fusion of Generative Pre-trained Transformers**|Zehua Pei et.al.|[2411.14507](http://arxiv.org/abs/2411.14507)|null|
@@ -2103,6 +2129,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Spectral properties of Lévy Fokker--Planck equations**|Hardy Chan et.al.|[2411.16424](http://arxiv.org/abs/2411.16424)|null|
 |**2024-11-20**|**Nonlinear orbital stability of stationary shock profiles for the Lax-Wendroff scheme**|Jean-François Coulombel et.al.|[2411.13094](http://arxiv.org/abs/2411.13094)|null|
 |**2024-11-14**|**Enhancing generalization in high energy physics using white-box adversarial attacks**|Franck Rothen et.al.|[2411.09296](http://arxiv.org/abs/2411.09296)|null|
 |**2024-11-11**|**Minimal nilpotent finite $W$-algebra and cuspidal module category of $\mathfrak{sp}_{2n}$**|Genqiang Liu et.al.|[2411.06768](http://arxiv.org/abs/2411.06768)|null|
@@ -2495,6 +2522,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
+|**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
+|**2024-11-25**|**On a problem of optimal mixing**|Kirill Sokolov et.al.|[2411.16651](http://arxiv.org/abs/2411.16651)|null|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629](http://arxiv.org/abs/2411.16629)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598](http://arxiv.org/abs/2411.16598)|null|
+|**2024-11-25**|**Rethinking Diffusion for Text-Driven Human Motion Generation**|Zichong Meng et.al.|[2411.16575](http://arxiv.org/abs/2411.16575)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550](http://arxiv.org/abs/2411.16550)|null|
+|**2024-11-25**|**ADOBI: Adaptive Diffusion Bridge For Blind Inverse Problems with Application to MRI Reconstruction**|Yuyang Hu et.al.|[2411.16535](http://arxiv.org/abs/2411.16535)|null|
+|**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
+|**2024-11-25**|**On approximations of stochastic optimal control problems with an application to climate equations**|Franco Flandoli et.al.|[2411.16491](http://arxiv.org/abs/2411.16491)|null|
+|**2024-11-25**|**Model-based reinforcement corrosion prediction: Continuous calibration with Bayesian optimization and corrosion wire sensor data**|A. Potnis et.al.|[2411.16447](http://arxiv.org/abs/2411.16447)|null|
+|**2024-11-25**|**Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack**|Xide Xu et.al.|[2411.16437](http://arxiv.org/abs/2411.16437)|null|
+|**2024-11-25**|**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing**|Kaifeng Gao et.al.|[2411.16375](http://arxiv.org/abs/2411.16375)|**[link](https://github.com/dawn-lx/causalcache-vdm)**|
+|**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318](http://arxiv.org/abs/2411.16318)|**[link](https://github.com/lehduong/onediffusion)**|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139](http://arxiv.org/abs/2411.15139)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138](http://arxiv.org/abs/2411.15138)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115](http://arxiv.org/abs/2411.15115)|null|
@@ -3273,9 +3315,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?**|Zhen Huang et.al.|[2411.16489](http://arxiv.org/abs/2411.16489)|**[link](https://github.com/gair-nlp/o1-journey)**|
+|**2024-11-25**|**When Babies Teach Babies: Can student knowledge sharing outperform Teacher-Guided Distillation on small datasets?**|Srikrishna Iyer et.al.|[2411.16487](http://arxiv.org/abs/2411.16487)|**[link](https://github.com/ai-da-stc/generative-ai-research-babylm)**|
+|**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|null|
+|**2024-11-25**|**Beyond Task Vectors: Selective Task Arithmetic Based on Importance Metrics**|Tian Bowen et.al.|[2411.16139](http://arxiv.org/abs/2411.16139)|null|
+|**2024-11-25**|**Ensemble Learning via Knowledge Transfer for CTR Prediction**|Honghao Li et.al.|[2411.16122](http://arxiv.org/abs/2411.16122)|**[link](https://github.com/salmon1802/ektf)**|
+|**2024-11-24**|**Data Lineage Inference: Uncovering Privacy Vulnerabilities of Dataset Pruning**|Qi Li et.al.|[2411.15796](http://arxiv.org/abs/2411.15796)|null|
+|**2024-11-23**|**Botfip-LLM: An Enhanced Multimodal Scientific Computing Framework Leveraging Knowledge Distillation from Large Language Models**|Tianhao Chen et.al.|[2411.15525](http://arxiv.org/abs/2411.15525)|null|
+|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|null|
+|**2024-11-23**|**Partial Knowledge Distillation for Alleviating the Inherent Inter-Class Discrepancy in Federated Learning**|Xiaoyu Gan et.al.|[2411.15403](http://arxiv.org/abs/2411.15403)|null|
+|**2024-11-22**|**BanglaEmbed: Efficient Sentence Embedding Models for a Low-Resource Language Using Cross-Lingual Distillation Techniques**|Muhammad Rafsan Kabir et.al.|[2411.15270](http://arxiv.org/abs/2411.15270)|null|
 |**2024-11-22**|**RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency**|Wentao Huang et.al.|[2411.15076](http://arxiv.org/abs/2411.15076)|null|
 |**2024-11-22**|**Adaptive Group Robust Ensemble Knowledge Distillation**|Patrik Kenfack et.al.|[2411.14984](http://arxiv.org/abs/2411.14984)|null|
-|**2024-11-22**|**Information Extraction from Heterogenous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957](http://arxiv.org/abs/2411.14957)|null|
+|**2024-11-25**|**Information Extraction from Heterogeneous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation**|Aniket Bhattacharyya et.al.|[2411.14957](http://arxiv.org/abs/2411.14957)|null|
 |**2024-11-22**|**Simplifying CLIP: Unleashing the Power of Large-Scale Models on Consumer-level Computers**|Hongbo Liu et.al.|[2411.14789](http://arxiv.org/abs/2411.14789)|null|
 |**2024-11-22**|**Improving Mathematical Reasoning Capabilities of Small Language Models via Feedback-Driven Distillation**|Xunyu Zhu et.al.|[2411.14698](http://arxiv.org/abs/2411.14698)|null|
 |**2024-11-21**|**Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference**|Yunhui Liu et.al.|[2411.14035](http://arxiv.org/abs/2411.14035)|**[link](https://github.com/cloudy1225/hg2m)**|
@@ -3370,6 +3422,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|Manuel Schwonberg et.al.|[2411.16407](http://arxiv.org/abs/2411.16407)|null|
+|**2024-11-25**|**Video-Text Dataset Construction from Multi-AI Feedback: Promoting Weak-to-Strong Preference Learning for Video Large Language Models**|Hao Yi et.al.|[2411.16201](http://arxiv.org/abs/2411.16201)|null|
+|**2024-11-25**|**On the Robustness of the Successive Projection Algorithm**|Giovanni Barbarino et.al.|[2411.16195](http://arxiv.org/abs/2411.16195)|null|
+|**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
+|**2024-11-25**|**DP-CDA: An Algorithm for Enhanced Privacy Preservation in Dataset Synthesis Through Randomized Mixing**|Utsab Saha et.al.|[2411.16121](http://arxiv.org/abs/2411.16121)|null|
+|**2024-11-25**|**Boosting 3D Object Generation through PBR Materials**|Yitong Wang et.al.|[2411.16080](http://arxiv.org/abs/2411.16080)|null|
+|**2024-11-24**|**PINNs4Drops: Convolutional feature-enhanced physics-informed neural networks for reconstructing two-phase flows**|Maximilian Dreisbach et.al.|[2411.15949](http://arxiv.org/abs/2411.15949)|null|
+|**2024-11-24**|**Generative Context Distillation**|Haebin Shin et.al.|[2411.15927](http://arxiv.org/abs/2411.15927)|null|
+|**2024-11-24**|**Beyond Data Scarcity: A Frequency-Driven Framework for Zero-Shot Forecasting**|Liran Nochumsohn et.al.|[2411.15743](http://arxiv.org/abs/2411.15743)|null|
+|**2024-11-24**|**Comparative Analysis of Diffusion Generative Models in Computational Pathology**|Denisha Thakkar et.al.|[2411.15719](http://arxiv.org/abs/2411.15719)|null|
+|**2024-11-24**|**Tackling Data Heterogeneity in Federated Time Series Forecasting**|Wei Yuan et.al.|[2411.15716](http://arxiv.org/abs/2411.15716)|null|
+|**2024-11-24**|**ROOT: VLM based System for Indoor Scene Understanding and Beyond**|Yonghui Wang et.al.|[2411.15714](http://arxiv.org/abs/2411.15714)|**[link](https://github.com/harrytea/root)**|
+|**2024-11-23**|**GraphGrad: Efficient Estimation of Sparse Polynomial Representations for General State-Space Models**|Benjamin Cox et.al.|[2411.15637](http://arxiv.org/abs/2411.15637)|null|
+|**2024-11-23**|**Enhancing Object Detection Accuracy in Autonomous Vehicles Using Synthetic Data**|Sergei Voronin et.al.|[2411.15602](http://arxiv.org/abs/2411.15602)|null|
+|**2024-11-23**|**Boosting Semi-Supervised Scene Text Recognition via Viewing and Summarizing**|Yadong Qu et.al.|[2411.15585](http://arxiv.org/abs/2411.15585)|null|
 |**2024-11-22**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/abs/2411.15098)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
 |**2024-11-22**|**The EE-Classifier: A classification method for functional data based on extremality indexes**|Catalina Lesmes et.al.|[2411.14999](http://arxiv.org/abs/2411.14999)|null|
 |**2024-11-22**|**Open-Amp: Synthetic Data Framework for Audio Effect Foundation Models**|Alec Wright et.al.|[2411.14972](http://arxiv.org/abs/2411.14972)|null|
