@@ -1,4 +1,4 @@
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -258,7 +258,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -1640,7 +1640,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -2123,7 +2123,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -2131,7 +2131,7 @@
 |---|---|---|---|---|
 |**2024-11-25**|**Spectral properties of Lévy Fokker--Planck equations**|Hardy Chan et.al.|[2411.16424](http://arxiv.org/abs/2411.16424)|null|
 |**2024-11-20**|**Nonlinear orbital stability of stationary shock profiles for the Lax-Wendroff scheme**|Jean-François Coulombel et.al.|[2411.13094](http://arxiv.org/abs/2411.13094)|null|
-|**2024-11-14**|**Enhancing generalization in high energy physics using white-box adversarial attacks**|Franck Rothen et.al.|[2411.09296](http://arxiv.org/abs/2411.09296)|null|
+|**2024-11-26**|**Enhancing generalization in high energy physics using white-box adversarial attacks**|Franck Rothen et.al.|[2411.09296](http://arxiv.org/abs/2411.09296)|null|
 |**2024-11-11**|**Minimal nilpotent finite $W$-algebra and cuspidal module category of $\mathfrak{sp}_{2n}$**|Genqiang Liu et.al.|[2411.06768](http://arxiv.org/abs/2411.06768)|null|
 |**2024-11-07**|**Well-Posedness and Regularity of the Heat Equation with Robin Boundary Conditions in the Two-Dimensional Wedge**|Marco Bravin et.al.|[2411.04651](http://arxiv.org/abs/2411.04651)|null|
 |**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
@@ -2317,7 +2317,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -2516,7 +2516,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -3309,7 +3309,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -3416,7 +3416,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -3434,7 +3434,7 @@
 |**2024-11-24**|**Comparative Analysis of Diffusion Generative Models in Computational Pathology**|Denisha Thakkar et.al.|[2411.15719](http://arxiv.org/abs/2411.15719)|null|
 |**2024-11-24**|**Tackling Data Heterogeneity in Federated Time Series Forecasting**|Wei Yuan et.al.|[2411.15716](http://arxiv.org/abs/2411.15716)|null|
 |**2024-11-24**|**ROOT: VLM based System for Indoor Scene Understanding and Beyond**|Yonghui Wang et.al.|[2411.15714](http://arxiv.org/abs/2411.15714)|**[link](https://github.com/harrytea/root)**|
-|**2024-11-23**|**GraphGrad: Efficient Estimation of Sparse Polynomial Representations for General State-Space Models**|Benjamin Cox et.al.|[2411.15637](http://arxiv.org/abs/2411.15637)|null|
+|**2024-11-26**|**GraphGrad: Efficient Estimation of Sparse Polynomial Representations for General State-Space Models**|Benjamin Cox et.al.|[2411.15637](http://arxiv.org/abs/2411.15637)|null|
 |**2024-11-23**|**Enhancing Object Detection Accuracy in Autonomous Vehicles Using Synthetic Data**|Sergei Voronin et.al.|[2411.15602](http://arxiv.org/abs/2411.15602)|null|
 |**2024-11-23**|**Boosting Semi-Supervised Scene Text Recognition via Viewing and Summarizing**|Yadong Qu et.al.|[2411.15585](http://arxiv.org/abs/2411.15585)|null|
 |**2024-11-22**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/abs/2411.15098)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
@@ -3647,5 +3647,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
 

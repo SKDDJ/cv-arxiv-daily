@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2129,7 +2129,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-25**|**Spectral properties of Lévy Fokker--Planck equations**|Hardy Chan et.al.|[2411.16424](http://arxiv.org/abs/2411.16424)|null|
 |**2024-11-20**|**Nonlinear orbital stability of stationary shock profiles for the Lax-Wendroff scheme**|Jean-François Coulombel et.al.|[2411.13094](http://arxiv.org/abs/2411.13094)|null|
-|**2024-11-14**|**Enhancing generalization in high energy physics using white-box adversarial attacks**|Franck Rothen et.al.|[2411.09296](http://arxiv.org/abs/2411.09296)|null|
+|**2024-11-26**|**Enhancing generalization in high energy physics using white-box adversarial attacks**|Franck Rothen et.al.|[2411.09296](http://arxiv.org/abs/2411.09296)|null|
 |**2024-11-11**|**Minimal nilpotent finite $W$-algebra and cuspidal module category of $\mathfrak{sp}_{2n}$**|Genqiang Liu et.al.|[2411.06768](http://arxiv.org/abs/2411.06768)|null|
 |**2024-11-07**|**Well-Posedness and Regularity of the Heat Equation with Robin Boundary Conditions in the Two-Dimensional Wedge**|Marco Bravin et.al.|[2411.04651](http://arxiv.org/abs/2411.04651)|null|
 |**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
@@ -3424,7 +3424,7 @@ layout: default
 |**2024-11-24**|**Comparative Analysis of Diffusion Generative Models in Computational Pathology**|Denisha Thakkar et.al.|[2411.15719](http://arxiv.org/abs/2411.15719)|null|
 |**2024-11-24**|**Tackling Data Heterogeneity in Federated Time Series Forecasting**|Wei Yuan et.al.|[2411.15716](http://arxiv.org/abs/2411.15716)|null|
 |**2024-11-24**|**ROOT: VLM based System for Indoor Scene Understanding and Beyond**|Yonghui Wang et.al.|[2411.15714](http://arxiv.org/abs/2411.15714)|**[link](https://github.com/harrytea/root)**|
-|**2024-11-23**|**GraphGrad: Efficient Estimation of Sparse Polynomial Representations for General State-Space Models**|Benjamin Cox et.al.|[2411.15637](http://arxiv.org/abs/2411.15637)|null|
+|**2024-11-26**|**GraphGrad: Efficient Estimation of Sparse Polynomial Representations for General State-Space Models**|Benjamin Cox et.al.|[2411.15637](http://arxiv.org/abs/2411.15637)|null|
 |**2024-11-23**|**Enhancing Object Detection Accuracy in Autonomous Vehicles Using Synthetic Data**|Sergei Voronin et.al.|[2411.15602](http://arxiv.org/abs/2411.15602)|null|
 |**2024-11-23**|**Boosting Semi-Supervised Scene Text Recognition via Viewing and Summarizing**|Yadong Qu et.al.|[2411.15585](http://arxiv.org/abs/2411.15585)|null|
 |**2024-11-22**|**OminiControl: Minimal and Universal Control for Diffusion Transformer**|Zhenxiong Tan et.al.|[2411.15098](http://arxiv.org/abs/2411.15098)|**[link](https://github.com/Yuanshi9815/OminiControl)**|
