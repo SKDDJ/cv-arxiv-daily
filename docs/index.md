@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
 |**2024-11-26**|**PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning**|Zhen Sun et.al.|[2411.17453](http://arxiv.org/abs/2411.17453)|null|
 |**2024-11-27**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217](http://arxiv.org/abs/2411.17217)|null|
 |**2024-11-25**|**Towards Efficient Model-Heterogeneity Federated Learning for Large Models**|Ruofan Jia et.al.|[2411.16796](http://arxiv.org/abs/2411.16796)|null|
@@ -270,6 +271,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**|Brian Chao et.al.|[2411.18625](http://arxiv.org/abs/2411.18625)|null|
+|**2024-11-27**|**GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**|Wentao Wang et.al.|[2411.18624](http://arxiv.org/abs/2411.18624)|null|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616](http://arxiv.org/abs/2411.18616)|null|
+|**2024-11-27**|**CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**|Rundi Wu et.al.|[2411.18613](http://arxiv.org/abs/2411.18613)|null|
+|**2024-11-27**|**Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**|Eva Prakash et.al.|[2411.18602](http://arxiv.org/abs/2411.18602)|null|
+|**2024-11-27**|**Bit symmetry entails the symmetry of the quantum transition probability**|Gerd Niestegge et.al.|[2411.18589](http://arxiv.org/abs/2411.18589)|null|
+|**2024-11-27**|**Building Confidence in Deep Generative Protein Design**|Tianyuan Zheng et.al.|[2411.18568](http://arxiv.org/abs/2411.18568)|null|
+|**2024-11-27**|**High-throughput antibody screening with high-quality factor nanophotonics and bioprinting**|Sajjad Abdollahramezani et.al.|[2411.18557](http://arxiv.org/abs/2411.18557)|null|
+|**2024-11-27**|**FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion**|Haosen Yang et.al.|[2411.18552](http://arxiv.org/abs/2411.18552)|null|
+|**2024-11-27**|**Enhancing weed detection performance by means of GenAI-based image augmentation**|Sourav Modak et.al.|[2411.18513](http://arxiv.org/abs/2411.18513)|null|
+|**2024-11-27**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
+|**2024-11-27**|**Synthetic ECG Generation for Data Augmentation and Transfer Learning in Arrhythmia Classification**|José Fernando Núñez et.al.|[2411.18456](http://arxiv.org/abs/2411.18456)|null|
+|**2024-11-27**|**Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator**|Frederic Kirstein et.al.|[2411.18444](http://arxiv.org/abs/2411.18444)|null|
+|**2024-11-27**|**Learning the Evolution of Physical Structure of Galaxies via Diffusion Models**|Andrew Lizarraga et.al.|[2411.18440](http://arxiv.org/abs/2411.18440)|null|
+|**2024-11-27**|**Search for heavy scalar or pseudoscalar states in $\mathrm{t \bar{t}}$ events at CMS**|Laurids Jeppe et.al.|[2411.18414](http://arxiv.org/abs/2411.18414)|null|
 |**2024-11-27**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
 |**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696](http://arxiv.org/abs/2411.17696)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
@@ -1665,6 +1681,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**AMPS: ASR with Multimodal Paraphrase Supervision**|Amruta Parulekar et.al.|[2411.18368](http://arxiv.org/abs/2411.18368)|null|
+|**2024-11-27**|**Large Language Model-Brained GUI Agents: A Survey**|Chaoyun Zhang et.al.|[2411.18279](http://arxiv.org/abs/2411.18279)|null|
+|**2024-11-27**|**Grid-augumented vision: A simple yet effective approach for enhanced spatial understanding in multi-modal agents**|Joongwon Chae et.al.|[2411.18270](http://arxiv.org/abs/2411.18270)|null|
+|**2024-11-27**|**Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning**|Melda Yeghaian et.al.|[2411.18253](http://arxiv.org/abs/2411.18253)|null|
+|**2024-11-26**|**NEMO: Can Multimodal LLMs Identify Attribute-Modified Objects?**|Jiaxuan Li et.al.|[2411.17794](http://arxiv.org/abs/2411.17794)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
 |**2024-11-26**|**AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM**|Jiarui Wang et.al.|[2411.17221](http://arxiv.org/abs/2411.17221)|**[link](https://github.com/wangjiarui153/AIGV-Assessor)**|
 |**2024-11-26**|**Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation**|Xu Zheng et.al.|[2411.17141](http://arxiv.org/abs/2411.17141)|null|
@@ -2153,6 +2174,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Task Arithmetic Through The Lens Of One-Shot Federated Learning**|Zhixu Tao et.al.|[2411.18607](http://arxiv.org/abs/2411.18607)|null|
 |**2024-11-25**|**Spectral properties of Lévy Fokker--Planck equations**|Hardy Chan et.al.|[2411.16424](http://arxiv.org/abs/2411.16424)|null|
 |**2024-11-20**|**Nonlinear orbital stability of stationary shock profiles for the Lax-Wendroff scheme**|Jean-François Coulombel et.al.|[2411.13094](http://arxiv.org/abs/2411.13094)|null|
 |**2024-11-26**|**Enhancing generalization in high energy physics using white-box adversarial attacks**|Franck Rothen et.al.|[2411.09296](http://arxiv.org/abs/2411.09296)|null|
@@ -2542,6 +2564,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data**|Wentao Wang et.al.|[2411.18624](http://arxiv.org/abs/2411.18624)|null|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616](http://arxiv.org/abs/2411.18616)|null|
+|**2024-11-27**|**CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**|Rundi Wu et.al.|[2411.18613](http://arxiv.org/abs/2411.18613)|null|
+|**2024-11-27**|**Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**|Eva Prakash et.al.|[2411.18602](http://arxiv.org/abs/2411.18602)|null|
+|**2024-11-27**|**FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion**|Haosen Yang et.al.|[2411.18552](http://arxiv.org/abs/2411.18552)|null|
+|**2024-11-27**|**Enhancing weed detection performance by means of GenAI-based image augmentation**|Sourav Modak et.al.|[2411.18513](http://arxiv.org/abs/2411.18513)|null|
+|**2024-11-27**|**Learning the Evolution of Physical Structure of Galaxies via Diffusion Models**|Andrew Lizarraga et.al.|[2411.18440](http://arxiv.org/abs/2411.18440)|null|
+|**2024-11-27**|**De-baryonifying halos via optimal transport**|Leander Thiele et.al.|[2411.18399](http://arxiv.org/abs/2411.18399)|null|
+|**2024-11-27**|**Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models**|Yiming Wu et.al.|[2411.18375](http://arxiv.org/abs/2411.18375)|null|
+|**2024-11-27**|**Large systems of symmetrized trapped Brownian Bridges and Schrodinger processes**|Stefan Adams et.al.|[2411.18359](http://arxiv.org/abs/2411.18359)|null|
+|**2024-11-27**|**TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models**|Riza Velioglu et.al.|[2411.18350](http://arxiv.org/abs/2411.18350)|null|
+|**2024-11-27**|**HiFiVFS: High Fidelity Video Face Swapping**|Xu Chen et.al.|[2411.18293](http://arxiv.org/abs/2411.18293)|null|
+|**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263](http://arxiv.org/abs/2411.18263)|null|
+|**2024-11-27**|**Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning**|Xiang Cheng et.al.|[2411.18230](http://arxiv.org/abs/2411.18230)|null|
+|**2024-11-27**|**Uniqueness and regularity of weak solutions of a drift-diffusion system for perovskite solar cells**|Annegret Glitzky et.al.|[2411.18223](http://arxiv.org/abs/2411.18223)|null|
 |**2024-11-27**|**StableAnimator: High-Quality Identity-Preserving Human Image Animation**|Shuyuan Tu et.al.|[2411.17697](http://arxiv.org/abs/2411.17697)|**[link](https://github.com/Francis-Rings/StableAnimator)**|
 |**2024-11-26**|**ScribbleLight: Single Image Indoor Relighting with Scribbles**|Jun Myeong Choi et.al.|[2411.17696](http://arxiv.org/abs/2411.17696)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
@@ -3348,6 +3385,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Vision Mamba Distillation for Low-resolution Fine-grained Image Classification**|Yao Chen et.al.|[2411.17980](http://arxiv.org/abs/2411.17980)|**[link](https://github.com/boa2004plaust/vimd)**|
+|**2024-11-27**|**Improved implicit diffusion model with knowledge distillation to estimate the spatial distribution density of carbon stock in remote sensing imagery**|Zhenyu Yu et.al.|[2411.17973](http://arxiv.org/abs/2411.17973)|null|
 |**2024-11-26**|**Large-Scale Data-Free Knowledge Distillation for ImageNet via Multi-Resolution Data Generation**|Minh-Tuan Tran et.al.|[2411.17046](http://arxiv.org/abs/2411.17046)|null|
 |**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
 |**2024-11-25**|**Dynamic Self-Distillation via Previous Mini-batches for Fine-tuning Small Language Models**|Yao Fu et.al.|[2411.16991](http://arxiv.org/abs/2411.16991)|null|
@@ -3457,6 +3496,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis**|Eva Prakash et.al.|[2411.18602](http://arxiv.org/abs/2411.18602)|null|
+|**2024-11-27**|**Enhancing weed detection performance by means of GenAI-based image augmentation**|Sourav Modak et.al.|[2411.18513](http://arxiv.org/abs/2411.18513)|null|
+|**2024-11-27**|**Synthetic ECG Generation for Data Augmentation and Transfer Learning in Arrhythmia Classification**|José Fernando Núñez et.al.|[2411.18456](http://arxiv.org/abs/2411.18456)|null|
+|**2024-11-27**|**The more, the better? Evaluating the role of EEG preprocessing for deep learning applications**|Federico Del Pup et.al.|[2411.18392](http://arxiv.org/abs/2411.18392)|null|
+|**2024-11-27**|**Two-Timescale Digital Twin Assisted Model Interference and Retraining over Wireless Network**|Jiayi Cong et.al.|[2411.18329](http://arxiv.org/abs/2411.18329)|null|
+|**2024-11-27**|**Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning**|Xiang Cheng et.al.|[2411.18230](http://arxiv.org/abs/2411.18230)|null|
+|**2024-11-27**|**SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation**|Duc-Hai Pham et.al.|[2411.18229](http://arxiv.org/abs/2411.18229)|null|
+|**2024-11-27**|**Training Data Synthesis with Difficulty Controlled Diffusion Model**|Zerun Wang et.al.|[2411.18109](http://arxiv.org/abs/2411.18109)|null|
+|**2024-11-27**|**Training and Evaluating Language Models with Template-based Data Generation**|Yifan Zhang et.al.|[2411.18104](http://arxiv.org/abs/2411.18104)|**[link](https://github.com/iiis-ai/templatemath)**|
+|**2024-11-26**|**CrypQ: A Database Benchmark Based on Dynamic, Ever-Evolving Ethereum Data**|Vincent Capol et.al.|[2411.17913](http://arxiv.org/abs/2411.17913)|null|
+|**2024-11-26**|**Repeated sampling of different individuals but the same clusters to improve precision of difference-in-differences estimators: the DISC design**|Jordan Downey et.al.|[2411.17905](http://arxiv.org/abs/2411.17905)|null|
 |**2024-11-26**|**RealSeal: Revolutionizing Media Authentication with Real-Time Realism Scoring**|Bhaktipriya Radharapu et.al.|[2411.17684](http://arxiv.org/abs/2411.17684)|null|
 |**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
 |**2024-11-26**|**Pre-training for Action Recognition with Automatically Generated Fractal Datasets**|Davyd Svyezhentsev et.al.|[2411.17584](http://arxiv.org/abs/2411.17584)|**[link](https://github.com/davidsvy/fractal_video)**|
