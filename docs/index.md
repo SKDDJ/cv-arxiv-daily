@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3393,7 +3393,7 @@ layout: default
 |**2024-11-25**|**Leveraging Foundation Models To learn the shape of semi-fluid deformable objects**|Omar El Assal et.al.|[2411.16802](http://arxiv.org/abs/2411.16802)|null|
 |**2024-11-25**|**O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?**|Zhen Huang et.al.|[2411.16489](http://arxiv.org/abs/2411.16489)|**[link](https://github.com/gair-nlp/o1-journey)**|
 |**2024-11-25**|**When Babies Teach Babies: Can student knowledge sharing outperform Teacher-Guided Distillation on small datasets?**|Srikrishna Iyer et.al.|[2411.16487](http://arxiv.org/abs/2411.16487)|**[link](https://github.com/ai-da-stc/generative-ai-research-babylm)**|
-|**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|null|
+|**2024-11-25**|**Learn from Foundation Model: Fruit Detection Model without Manual Annotation**|Yanan Wang et.al.|[2411.16196](http://arxiv.org/abs/2411.16196)|**[link](https://github.com/agroboticsresearch/sdm-d)**|
 |**2024-11-25**|**Beyond Task Vectors: Selective Task Arithmetic Based on Importance Metrics**|Tian Bowen et.al.|[2411.16139](http://arxiv.org/abs/2411.16139)|null|
 |**2024-11-25**|**Ensemble Learning via Knowledge Transfer for CTR Prediction**|Honghao Li et.al.|[2411.16122](http://arxiv.org/abs/2411.16122)|**[link](https://github.com/salmon1802/ektf)**|
 |**2024-11-24**|**Data Lineage Inference: Uncovering Privacy Vulnerabilities of Dataset Pruning**|Qi Li et.al.|[2411.15796](http://arxiv.org/abs/2411.15796)|null|
