@@ -1688,7 +1688,7 @@
 |**2024-11-26**|**NEMO: Can Multimodal LLMs Identify Attribute-Modified Objects?**|Jiaxuan Li et.al.|[2411.17794](http://arxiv.org/abs/2411.17794)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
 |**2024-11-26**|**AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM**|Jiarui Wang et.al.|[2411.17221](http://arxiv.org/abs/2411.17221)|**[link](https://github.com/wangjiarui153/AIGV-Assessor)**|
-|**2024-11-26**|**Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation**|Xu Zheng et.al.|[2411.17141](http://arxiv.org/abs/2411.17141)|null|
+|**2024-11-26**|**Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation**|Xu Zheng et.al.|[2411.17141](http://arxiv.org/abs/2411.17141)|**[link](https://github.com/zhengxuJosh/AnySeg)**|
 |**2024-11-26**|**Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models**|Colin Conwell et.al.|[2411.17066](http://arxiv.org/abs/2411.17066)|**[link](https://github.com/colinconwell/t2i-probology)**|
 |**2024-11-26**|**Multimodal Alignment and Fusion: A Survey**|Songtao Li et.al.|[2411.17040](http://arxiv.org/abs/2411.17040)|null|
 |**2024-11-25**|**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**|Yongwei Chen et.al.|[2411.16856](http://arxiv.org/abs/2411.16856)|null|
@@ -3406,7 +3406,7 @@
 |**2024-11-25**|**Ensemble Learning via Knowledge Transfer for CTR Prediction**|Honghao Li et.al.|[2411.16122](http://arxiv.org/abs/2411.16122)|**[link](https://github.com/salmon1802/ektf)**|
 |**2024-11-24**|**Data Lineage Inference: Uncovering Privacy Vulnerabilities of Dataset Pruning**|Qi Li et.al.|[2411.15796](http://arxiv.org/abs/2411.15796)|null|
 |**2024-11-23**|**Botfip-LLM: An Enhanced Multimodal Scientific Computing Framework Leveraging Knowledge Distillation from Large Language Models**|Tianhao Chen et.al.|[2411.15525](http://arxiv.org/abs/2411.15525)|null|
-|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|null|
+|**2024-11-23**|**Efficient Ternary Weight Embedding Model: Bridging Scalability and Performance**|Jiayi Chen et.al.|[2411.15438](http://arxiv.org/abs/2411.15438)|**[link](https://github.com/dataparameters/Ternary-Embedding-Models)**|
 |**2024-11-23**|**Partial Knowledge Distillation for Alleviating the Inherent Inter-Class Discrepancy in Federated Learning**|Xiaoyu Gan et.al.|[2411.15403](http://arxiv.org/abs/2411.15403)|null|
 |**2024-11-22**|**BanglaEmbed: Efficient Sentence Embedding Models for a Low-Resource Language Using Cross-Lingual Distillation Techniques**|Muhammad Rafsan Kabir et.al.|[2411.15270](http://arxiv.org/abs/2411.15270)|null|
 |**2024-11-22**|**RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency**|Wentao Huang et.al.|[2411.15076](http://arxiv.org/abs/2411.15076)|null|
