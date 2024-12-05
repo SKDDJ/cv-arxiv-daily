@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -281,7 +281,7 @@ layout: default
 |**2024-12-03**|**Motion Prompting: Controlling Video Generation with Motion Trajectories**|Daniel Geng et.al.|[2412.02700](http://arxiv.org/abs/2412.02700)|null|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
 |**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
-|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684](http://arxiv.org/abs/2412.02684)|null|
 |**2024-12-03**|**Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**|Yiftach Edelstein et.al.|[2412.02631](http://arxiv.org/abs/2412.02631)|null|
 |**2024-12-03**|**The effect of priors on Learning with Restricted Boltzmann Machines**|Gianluca Manzan et.al.|[2412.02623](http://arxiv.org/abs/2412.02623)|null|
@@ -1722,13 +1722,13 @@ layout: default
 |**2024-12-03**|**Initial Study On Improving Segmentation By Combining Preoperative CT And Intraoperative CBCT Using Synthetic Data**|Maximilian E. Tschuchnig et.al.|[2412.02294](http://arxiv.org/abs/2412.02294)|null|
 |**2024-12-03**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
-|**2024-12-03**|**Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases**|Liqiong Wang et.al.|[2412.02158](http://arxiv.org/abs/2412.02158)|**[link](https://github.com/kki2eve/agri-llava)**|
+|**2024-12-04**|**Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases**|Liqiong Wang et.al.|[2412.02158](http://arxiv.org/abs/2412.02158)|**[link](https://github.com/kki2eve/agri-llava)**|
 |**2024-12-02**|**Attacks on multimodal models**|Viacheslav Iablochnikov et.al.|[2412.01725](http://arxiv.org/abs/2412.01725)|null|
 |**2024-12-02**|**LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant**|Yikun Liu et.al.|[2412.01720](http://arxiv.org/abs/2412.01720)|null|
 |**2024-12-01**|**VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**|Weiming Ren et.al.|[2412.00927](http://arxiv.org/abs/2412.00927)|null|
 |**2024-11-30**|**MaintAGT:Sim2Real-Guided Multimodal Large Model for Intelligent Maintenance with Chain-of-Thought Reasoning**|Hongliang He et.al.|[2412.00481](http://arxiv.org/abs/2412.00481)|null|
 |**2024-11-30**|**Approximate Fiber Product: A Preliminary Algebraic-Geometric Perspective on Multimodal Embedding Alignment**|Dongfang Zhao et.al.|[2412.00373](http://arxiv.org/abs/2412.00373)|null|
-|**2024-11-29**|**ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model**|Kunyang Han et.al.|[2412.00153](http://arxiv.org/abs/2412.00153)|null|
+|**2024-12-04**|**ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model**|Kunyang Han et.al.|[2412.00153](http://arxiv.org/abs/2412.00153)|null|
 |**2024-11-28**|**Sparse Attention Vectors: Generative Multimodal Model Features Are Discriminative Vision-Language Classifiers**|Chancharik Mitra et.al.|[2412.00142](http://arxiv.org/abs/2412.00142)|null|
 |**2024-12-02**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
 |**2024-11-29**|**SDR-GNN: Spectral Domain Reconstruction Graph Neural Network for Incomplete Multimodal Learning in Conversational Emotion Recognition**|Fangze Fu et.al.|[2411.19822](http://arxiv.org/abs/2411.19822)|null|
@@ -2627,7 +2627,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-03**|**Diffusion-based Visual Anagram as Multi-task Learning**|Zhiyuan Xu et.al.|[2412.02693](http://arxiv.org/abs/2412.02693)|**[link](https://github.com/pixtella/anagram-mtl)**|
 |**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690](http://arxiv.org/abs/2412.02690)|null|
-|**2024-12-03**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
+|**2024-12-04**|**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance**|Viet Nguyen et.al.|[2412.02687](http://arxiv.org/abs/2412.02687)|null|
 |**2024-12-03**|**Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation**|Yiftach Edelstein et.al.|[2412.02631](http://arxiv.org/abs/2412.02631)|null|
 |**2024-12-03**|**Unveiling Concept Attribution in Diffusion Models**|Quang H. Nguyen et.al.|[2412.02542](http://arxiv.org/abs/2412.02542)|null|
 |**2024-12-03**|**It Takes Two: Real-time Co-Speech Two-person's Interaction Generation via Reactive Auto-regressive Diffusion Model**|Mingyi Shi et.al.|[2412.02419](http://arxiv.org/abs/2412.02419)|null|
