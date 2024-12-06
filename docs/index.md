@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.05
+## Updated on 2024.12.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1740,7 +1740,7 @@ layout: default
 |**2024-12-04**|**Training-Free Mitigation of Language Reasoning Degradation After Multimodal Instruction Tuning**|Neale Ratzlaff et.al.|[2412.03467](http://arxiv.org/abs/2412.03467)|null|
 |**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|Joongwon Chae et.al.|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
 |**2024-12-03**|**Initial Study On Improving Segmentation By Combining Preoperative CT And Intraoperative CBCT Using Synthetic Data**|Maximilian E. Tschuchnig et.al.|[2412.02294](http://arxiv.org/abs/2412.02294)|null|
-|**2024-12-03**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|
+|**2024-12-05**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
 |**2024-12-04**|**Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases**|Liqiong Wang et.al.|[2412.02158](http://arxiv.org/abs/2412.02158)|**[link](https://github.com/kki2eve/agri-llava)**|
 |**2024-12-02**|**Attacks on multimodal models**|Viacheslav Iablochnikov et.al.|[2412.01725](http://arxiv.org/abs/2412.01725)|null|
