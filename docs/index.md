@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -289,7 +289,7 @@ layout: default
 |**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446](http://arxiv.org/abs/2412.04446)|null|
 |**2024-12-05**|**Learning Artistic Signatures: Symmetry Discovery and Style Transfer**|Emma Finn et.al.|[2412.04441](http://arxiv.org/abs/2412.04441)|null|
 |**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
-|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|null|
+|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|**[link](https://github.com/tencentarc/divot)**|
 |**2024-12-05**|**Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**|Jian Han et.al.|[2412.04431](http://arxiv.org/abs/2412.04431)|null|
 |**2024-12-05**|**Reversible molecular simulation for training classical and machine learning force fields**|Joe G Greener et.al.|[2412.04374](http://arxiv.org/abs/2412.04374)|null|
 |**2024-12-05**|**Machine Theory of Mind for Autonomous Cyber-Defence**|Luke Swaby et.al.|[2412.04367](http://arxiv.org/abs/2412.04367)|null|
@@ -1763,7 +1763,7 @@ layout: default
 |**2024-12-05**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
 |**2024-12-04**|**Agri-LLaVA: Knowledge-Infused Large Multimodal Assistant on Agricultural Pests and Diseases**|Liqiong Wang et.al.|[2412.02158](http://arxiv.org/abs/2412.02158)|**[link](https://github.com/kki2eve/agri-llava)**|
-|**2024-12-02**|**Attacks on multimodal models**|Viacheslav Iablochnikov et.al.|[2412.01725](http://arxiv.org/abs/2412.01725)|null|
+|**2024-12-02**|**Attacks on multimodal models**|Viacheslav Iablochnikov et.al.|[2412.01725](http://arxiv.org/abs/2412.01725)|**[link](https://github.com/slava-qw/image-retrieval-robustness)**|
 |**2024-12-02**|**LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant**|Yikun Liu et.al.|[2412.01720](http://arxiv.org/abs/2412.01720)|null|
 |**2024-12-01**|**VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation**|Weiming Ren et.al.|[2412.00927](http://arxiv.org/abs/2412.00927)|null|
 |**2024-11-30**|**MaintAGT:Sim2Real-Guided Multimodal Large Model for Intelligent Maintenance with Chain-of-Thought Reasoning**|Hongliang He et.al.|[2412.00481](http://arxiv.org/abs/2412.00481)|null|
@@ -2672,7 +2672,7 @@ layout: default
 |**2024-12-05**|**MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**|Longtao Zheng et.al.|[2412.04448](http://arxiv.org/abs/2412.04448)|null|
 |**2024-12-05**|**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**|Yizhuo Li et.al.|[2412.04446](http://arxiv.org/abs/2412.04446)|null|
 |**2024-12-05**|**Learning Artistic Signatures: Symmetry Discovery and Style Transfer**|Emma Finn et.al.|[2412.04441](http://arxiv.org/abs/2412.04441)|null|
-|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|null|
+|**2024-12-05**|**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation**|Yuying Ge et.al.|[2412.04432](http://arxiv.org/abs/2412.04432)|**[link](https://github.com/tencentarc/divot)**|
 |**2024-12-05**|**Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis**|Jian Han et.al.|[2412.04431](http://arxiv.org/abs/2412.04431)|null|
 |**2024-12-05**|**Reversible molecular simulation for training classical and machine learning force fields**|Joe G Greener et.al.|[2412.04374](http://arxiv.org/abs/2412.04374)|null|
 |**2024-12-05**|**ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation**|Dayoung Gong et.al.|[2412.04353](http://arxiv.org/abs/2412.04353)|null|
@@ -3685,7 +3685,7 @@ layout: default
 |**2024-12-05**|**AI-based Attacker Models for Enhancing Multi-Stage Cyberattack Simulations in Smart Grids Using Co-Simulation Environments**|Omer Sen et.al.|[2412.03979](http://arxiv.org/abs/2412.03979)|null|
 |**2024-12-05**|**Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation**|Yi-Hung Chiu et.al.|[2412.03949](http://arxiv.org/abs/2412.03949)|null|
 |**2024-12-05**|**Towards Data Governance of Frontier AI Models**|Jason Hausenloy et.al.|[2412.03824](http://arxiv.org/abs/2412.03824)|null|
-|**2024-12-04**|**Diffusion in Zero-Shot Learning for Environmental Audio**|Ysobel Sims et.al.|[2412.03771](http://arxiv.org/abs/2412.03771)|null|
+|**2024-12-04**|**Diffusion in Zero-Shot Learning for Environmental Audio**|Ysobel Sims et.al.|[2412.03771](http://arxiv.org/abs/2412.03771)|**[link](https://github.com/ysims/zerodiffusion)**|
 |**2024-12-04**|**End to End Collaborative Synthetic Data Generation**|Sikha Pentyala et.al.|[2412.03766](http://arxiv.org/abs/2412.03766)|null|
 |**2024-12-04**|**Evaluating Language Models as Synthetic Data Generators**|Seungone Kim et.al.|[2412.03679](http://arxiv.org/abs/2412.03679)|null|
 |**2024-12-04**|**Interpreting Transformers for Jet Tagging**|Aaron Wang et.al.|[2412.03673](http://arxiv.org/abs/2412.03673)|null|
