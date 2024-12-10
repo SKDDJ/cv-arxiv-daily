@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3591,7 +3591,7 @@ layout: default
 |**2024-12-05**|**Diffusion-Augmented Coreset Expansion for Scalable Dataset Distillation**|Ali Abbasi et.al.|[2412.04668](http://arxiv.org/abs/2412.04668)|null|
 |**2024-12-05**|**FedDW: Distilling Weights through Consistency Optimization in Heterogeneous Federated Learning**|Jiayu Liu et.al.|[2412.04521](http://arxiv.org/abs/2412.04521)|**[link](https://github.com/liuvvvvv1/feddw)**|
 |**2024-12-05**|**Expanding Deep Learning-based Sensing Systems with Multi-Source Knowledge Transfer**|Gaole Dai et.al.|[2412.04060](http://arxiv.org/abs/2412.04060)|null|
-|**2024-12-04**|**KKLIP: Knowledge Distillation Exploiting K-means Clustering for Language-Image Pre-Training**|Kuei-Chun Kao et.al.|[2412.03513](http://arxiv.org/abs/2412.03513)|null|
+|**2024-12-07**|**Enhancing CLIP Conceptual Embedding through Knowledge Distillation**|Kuei-Chun Kao et.al.|[2412.03513](http://arxiv.org/abs/2412.03513)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](http://arxiv.org/abs/2412.03512)|null|
 |**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|**[link](https://github.com/ishikaalunawat/231aproj)**|
 |**2024-12-02**|**Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model**|Qianhan Feng et.al.|[2412.01282](http://arxiv.org/abs/2412.01282)|**[link](https://github.com/fqhank/align-kd)**|
