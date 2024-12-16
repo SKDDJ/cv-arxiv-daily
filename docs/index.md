@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.15
+## Updated on 2024.12.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -24,7 +24,7 @@ layout: default
 |**2024-12-11**|**Adaptive Principal Components Allocation with the $\ell_{2,g}$ -regularized Gaussian Graphical Model for Efficient Fine-Tuning Large Models**|Jingjing Zheng et.al.|[2412.08592](http://arxiv.org/abs/2412.08592)|**[link](https://github.com/jzheng20/Course_projects)**|
 |**2024-12-10**|**PETALface: Parameter Efficient Transfer Learning for Low-resolution Face Recognition**|Kartik Narayan et.al.|[2412.07771](http://arxiv.org/abs/2412.07771)|null|
 |**2024-12-10**|**MoDULA: Mixture of Domain-Specific and Universal LoRA for Multi-Task Learning**|Yufei Ma et.al.|[2412.07405](http://arxiv.org/abs/2412.07405)|null|
-|**2024-12-10**|**Crack-EdgeSAM Self-Prompting Crack Segmentation System for Edge Devices**|Yingchu Wang et.al.|[2412.07205](http://arxiv.org/abs/2412.07205)|null|
+|**2024-12-13**|**Crack-EdgeSAM Self-Prompting Crack Segmentation System for Edge Devices**|Yingchu Wang et.al.|[2412.07205](http://arxiv.org/abs/2412.07205)|null|
 |**2024-12-08**|**Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization**|Dongwei Wang et.al.|[2412.06858](http://arxiv.org/abs/2412.06858)|null|
 |**2024-12-09**|**BoRA: Bi-dimensional Weight-Decomposed Low-Rank Adaptation**|Qiushi Wang et.al.|[2412.06441](http://arxiv.org/abs/2412.06441)|null|
 |**2024-12-10**|**S $^{2}$ FT: Efficient, Scalable and Generalizable LLM Fine-tuning by Structured Sparsity**|Xinyu Yang et.al.|[2412.06289](http://arxiv.org/abs/2412.06289)|null|
@@ -301,7 +301,7 @@ layout: default
 |**2024-12-12**|**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training**|Dongting Hu et.al.|[2412.09619](http://arxiv.org/abs/2412.09619)|null|
 |**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618](http://arxiv.org/abs/2412.09618)|null|
 |**2024-12-12**|**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG**|Kavana Venkatesh et.al.|[2412.09614](http://arxiv.org/abs/2412.09614)|null|
-|**2024-12-12**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612](http://arxiv.org/abs/2412.09612)|**[link](https://github.com/yuanze-lin/olympus_page)**|
+|**2024-12-13**|**Olympus: A Universal Task Router for Computer Vision Tasks**|Yuanze Lin et.al.|[2412.09612](http://arxiv.org/abs/2412.09612)|**[link](https://github.com/yuanze-lin/olympus_page)**|
 |**2024-12-12**|**Owl-1: Omni World Model for Consistent Long Video Generation**|Yuanhui Huang et.al.|[2412.09600](http://arxiv.org/abs/2412.09600)|**[link](https://github.com/huang-yh/owl)**|
 |**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
 |**2024-12-12**|**Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**|Zexin He et.al.|[2412.09593](http://arxiv.org/abs/2412.09593)|null|
@@ -1849,7 +1849,7 @@ layout: default
 |**2024-12-10**|**Explaining and Mitigating the Modality Gap in Contrastive Multimodal Learning**|Can Yaras et.al.|[2412.07909](http://arxiv.org/abs/2412.07909)|null|
 |**2024-12-10**|**BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities**|Sahal Shaji Mullappilly et.al.|[2412.07769](http://arxiv.org/abs/2412.07769)|**[link](https://github.com/mbzuai-oryx/bimedix2)**|
 |**2024-12-10**|**ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer**|Jinyi Hu et.al.|[2412.07720](http://arxiv.org/abs/2412.07720)|**[link](https://github.com/thunlp/acdit)**|
-|**2024-12-12**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[2412.07689](http://arxiv.org/abs/2412.07689)|**[link](https://github.com/zhijian11/DriveMM)**|
+|**2024-12-13**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[2412.07689](http://arxiv.org/abs/2412.07689)|**[link](https://github.com/zhijian11/DriveMM)**|
 |**2024-12-10**|**Driving with InternVL: Oustanding Champion in the Track on Driving with Language of the Autonomous Grand Challenge at CVPR 2024**|Jiahan Li et.al.|[2412.07247](http://arxiv.org/abs/2412.07247)|null|
 |**2024-12-10**|**Maya: An Instruction Finetuned Multilingual Multimodal Model**|Nahid Alam et.al.|[2412.07112](http://arxiv.org/abs/2412.07112)|**[link](https://github.com/nahidalam/maya)**|
 |**2024-12-09**|**How to Merge Your Multimodal Models Over Time?**|Sebastian Dziadzio et.al.|[2412.06712](http://arxiv.org/abs/2412.06712)|**[link](https://github.com/explainableml/fomo_in_flux)**|
@@ -2795,7 +2795,7 @@ layout: default
 |**2024-12-12**|**Diffusion Model with Representation Alignment for Protein Inverse Folding**|Chenglin Wang et.al.|[2412.09380](http://arxiv.org/abs/2412.09380)|null|
 |**2024-12-12**|**Diffusion Predictive Control with Constraints**|Ralf Römer et.al.|[2412.09342](http://arxiv.org/abs/2412.09342)|**[link](https://github.com/ralfroemer99/dpcc)**|
 |**2024-12-12**|**Auto-Regressive Moving Diffusion Models for Time Series Forecasting**|Jiaxin Gao et.al.|[2412.09328](http://arxiv.org/abs/2412.09328)|**[link](https://github.com/daxin007/armd)**|
-|**2024-12-12**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
+|**2024-12-13**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
 |**2024-12-11**|**Generative Semantic Communication: Architectures, Technologies, and Applications**|Jinke Ren et.al.|[2412.08642](http://arxiv.org/abs/2412.08642)|null|
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|**[link](https://github.com/huawei-lin/DMin)**|
 |**2024-12-11**|**TryOffAnyone: Tiled Cloth Generation from a Dressed Person**|Ioannis Xarchakos et.al.|[2412.08573](http://arxiv.org/abs/2412.08573)|**[link](https://github.com/ixarchakos/try-off-anyone)**|
@@ -3892,7 +3892,7 @@ layout: default
 |**2024-12-12**|**AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials**|Yiheng Xu et.al.|[2412.09605](http://arxiv.org/abs/2412.09605)|null|
 |**2024-12-12**|**A Plug-and-Play Algorithm for 3D Video Super-Resolution of Single-Photon LiDAR data**|Alice Ruget et.al.|[2412.09427](http://arxiv.org/abs/2412.09427)|null|
 |**2024-12-12**|**MaskTerial: A Foundation Model for Automated 2D Material Flake Detection**|Jan-Lucas Uslu et.al.|[2412.09333](http://arxiv.org/abs/2412.09333)|null|
-|**2024-12-12**|**First Train to Generate, then Generate to Train: UnitedSynT5 for Few-Shot NLI**|Sourav Banerjee et.al.|[2412.09263](http://arxiv.org/abs/2412.09263)|null|
+|**2024-12-13**|**First Train to Generate, then Generate to Train: UnitedSynT5 for Few-Shot NLI**|Sourav Banerjee et.al.|[2412.09263](http://arxiv.org/abs/2412.09263)|null|
 |**2024-12-12**|**VLMs meet UDA: Boosting Transferability of Open Vocabulary Segmentation with Unsupervised Domain Adaptation**|Roberto Alcover-Couso et.al.|[2412.09240](http://arxiv.org/abs/2412.09240)|null|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-12**|**Towards Long-Horizon Vision-Language Navigation: Platform, Benchmark and Method**|Xinshuai Song et.al.|[2412.09082](http://arxiv.org/abs/2412.09082)|null|
