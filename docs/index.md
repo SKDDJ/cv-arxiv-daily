@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3935,7 +3935,7 @@ layout: default
 |**2024-12-13**|**Quaffure: Real-Time Quasi-Static Neural Hair Simulation**|Tuur Stuyck et.al.|[2412.10061](http://arxiv.org/abs/2412.10061)|null|
 |**2024-12-13**|**Are you doing better than random guessing? A call for using negative controls when evaluating causal discovery algorithms**|Anne Helby Petersen et.al.|[2412.10039](http://arxiv.org/abs/2412.10039)|null|
 |**2024-12-13**|**Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models**|Matteo Tomasetto et.al.|[2412.09942](http://arxiv.org/abs/2412.09942)|null|
-|**2024-12-13**|**Financial Sentiment Analysis: Leveraging Actual and Synthetic Data for Supervised Fine-tuning**|Abraham Atsiwo et.al.|[2412.09859](http://arxiv.org/abs/2412.09859)|null|
+|**2024-12-13**|**Financial Sentiment Analysis: Leveraging Actual and Synthetic Data for Supervised Fine-tuning**|Abraham Atsiwo et.al.|[2412.09859](http://arxiv.org/abs/2412.09859)|**[link](https://github.com/abraham-atsiwo/filbert-lc)**|
 |**2024-12-13**|**Leveraging Programmatically Generated Synthetic Data for Differentially Private Diffusion Training**|Yujin Choi et.al.|[2412.09842](http://arxiv.org/abs/2412.09842)|null|
 |**2024-12-13**|**LLM Distillation for Efficient Few-Shot Multiple Choice Question Answering**|Patrick Sutanto et.al.|[2412.09807](http://arxiv.org/abs/2412.09807)|null|
 |**2024-12-12**|**Private Synthetic Data Generation in Small Memory**|Rayne Holland et.al.|[2412.09756](http://arxiv.org/abs/2412.09756)|null|
