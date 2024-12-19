@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -35,7 +35,7 @@ layout: default
 |**2024-12-07**|**Training-Free Bayesianization for Low-Rank Adapters of Large Language Models**|Haizhou Shi et.al.|[2412.05723](http://arxiv.org/abs/2412.05723)|**[link](https://github.com/wang-ml-lab/bayesian-peft)**|
 |**2024-12-06**|**PETapter: Leveraging PET-style classification heads for modular few-shot parameter-efficient fine-tuning**|Jonas Rieger et.al.|[2412.04975](http://arxiv.org/abs/2412.04975)|null|
 |**2024-12-04**|**Prompting Large Language Models for Clinical Temporal Relation Extraction**|Jianping He et.al.|[2412.04512](http://arxiv.org/abs/2412.04512)|null|
-|**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
+|**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|**[link](https://github.com/ysj9909/DG-SoRA)**|
 |**2024-12-04**|**Improving Linguistic Diversity of Large Language Models with Possibility Exploration Fine-Tuning**|Long Mai et.al.|[2412.03343](http://arxiv.org/abs/2412.03343)|**[link](https://github.com/mailong25/peft_diversity)**|
 |**2024-12-03**|**Mixture of Physical Priors Adapter for Parameter-Efficient Fine-Tuning**|Zhaozhi Wang et.al.|[2412.02759](http://arxiv.org/abs/2412.02759)|null|
 |**2024-12-03**|**CPP-UT-Bench: Can LLMs Write Complex Unit Tests in C++?**|Vaishnavi Bhargava et.al.|[2412.02735](http://arxiv.org/abs/2412.02735)|null|
@@ -303,13 +303,13 @@ layout: default
 |**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
 |**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
 |**2024-12-17**|**Guiding Generative Protein Language Models with Reinforcement Learning**|Filippo Stocco et.al.|[2412.12979](http://arxiv.org/abs/2412.12979)|null|
-|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-18**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
 |**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|**[link](https://github.com/inria/geoarches)**|
 |**2024-12-17**|**Modified UNIFAC 2.0 -- A Group-Contribution Method Completed with Machine Learning**|Nicolas Hayer et.al.|[2412.12962](http://arxiv.org/abs/2412.12962)|null|
 |**2024-12-17**|**MOPO: Multi-Objective Prompt Optimization for Affective Text Generation**|Yarik Menchaca Resendiz et.al.|[2412.12948](http://arxiv.org/abs/2412.12948)|null|
 |**2024-12-17**|**Generation of cosmic ray trajectories by a Diffusion Model trained on test particles in 3D magnetohydrodynamic turbulence**|Johannes Martin et.al.|[2412.12923](http://arxiv.org/abs/2412.12923)|null|
 |**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
-|**2024-12-17**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
+|**2024-12-18**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
 |**2024-12-17**|**Memory-minimal quantum generation of stochastic processes: spectral invariants of quantum hidden Markov models**|Magdalini Zonnios et.al.|[2412.12812](http://arxiv.org/abs/2412.12812)|null|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095](http://arxiv.org/abs/2412.12095)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093](http://arxiv.org/abs/2412.12093)|null|
@@ -2849,12 +2849,12 @@ layout: default
 |**2024-12-17**|**A Pontryagin-Guided Neural Policy Optimization Framework for Merton's Portfolio Problem**|Jeonggyu Huh et.al.|[2412.13101](http://arxiv.org/abs/2412.13101)|null|
 |**2024-12-17**|**Prompt Augmentation for Self-supervised Text-guided Image Manipulation**|Rumeysa Bodur et.al.|[2412.13081](http://arxiv.org/abs/2412.13081)|null|
 |**2024-12-17**|**3D MedDiffusion: A 3D Medical Diffusion Model for Controllable and High-quality Medical Image Generation**|Haoshen Wang et.al.|[2412.13059](http://arxiv.org/abs/2412.13059)|null|
-|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-18**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
 |**2024-12-17**|**ArchesWeather & ArchesWeatherGen: a deterministic and generative model for efficient ML weather forecasting**|Guillaume Couairon et.al.|[2412.12971](http://arxiv.org/abs/2412.12971)|**[link](https://github.com/inria/geoarches)**|
 |**2024-12-17**|**Generation of cosmic ray trajectories by a Diffusion Model trained on test particles in 3D magnetohydrodynamic turbulence**|Johannes Martin et.al.|[2412.12923](http://arxiv.org/abs/2412.12923)|null|
 |**2024-12-17**|**Unsupervised Region-Based Image Editing of Denoising Diffusion Models**|Zixiang Li et.al.|[2412.12912](http://arxiv.org/abs/2412.12912)|null|
 |**2024-12-17**|**Design of Restricted Normalizing Flow towards Arbitrary Stochastic Policy with Computational Efficiency**|Taisuke Kobayashi et.al.|[2412.12894](http://arxiv.org/abs/2412.12894)|null|
-|**2024-12-17**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
+|**2024-12-18**|**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction**|Zhongjie Duan et.al.|[2412.12888](http://arxiv.org/abs/2412.12888)|**[link](https://github.com/modelscope/DiffSynth-Studio)**|
 |**2024-12-17**|**Rethinking Diffusion-Based Image Generators for Fundus Fluorescein Angiography Synthesis on Limited Data**|Chengzhou Yu et.al.|[2412.12778](http://arxiv.org/abs/2412.12778)|null|
 |**2024-12-17**|**Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation**|Shoukun Sun et.al.|[2412.12771](http://arxiv.org/abs/2412.12771)|null|
 |**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
@@ -4013,7 +4013,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-17**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|
+|**2024-12-18**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|
 |**2024-12-17**|**Are Data Experts Buying into Differentially Private Synthetic Data? Gathering Community Perspectives**|Lucas Rosenblatt et.al.|[2412.13030](http://arxiv.org/abs/2412.13030)|null|
 |**2024-12-17**|**OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain**|Shuting Wang et.al.|[2412.13018](http://arxiv.org/abs/2412.13018)|**[link](https://github.com/ruc-nlpir/omnieval)**|
 |**2024-12-17**|**Synthetic Data Generation for Anomaly Detection on Table Grapes**|Ionut Marian Motoi et.al.|[2412.12949](http://arxiv.org/abs/2412.12949)|null|
@@ -4025,7 +4025,7 @@ layout: default
 |**2024-12-16**|**Controllable Shadow Generation with Single-Step Diffusion Models from Synthetic Data**|Onur Tasar et.al.|[2412.11972](http://arxiv.org/abs/2412.11972)|null|
 |**2024-12-16**|**Scalable Data Transmission Framework for Earth Observation Satellites with Channel Adaptation**|Van-Phuc Bui et.al.|[2412.11857](http://arxiv.org/abs/2412.11857)|null|
 |**2024-12-16**|**Beyond Dataset Creation: Critical View of Annotation Variation and Bias Probing of a Dataset for Online Radical Content Detection**|Arij Riabi et.al.|[2412.11745](http://arxiv.org/abs/2412.11745)|null|
-|**2024-12-16**|**Conditional Diffusion Models Based Conditional Independence Testing**|Yanfeng Yang et.al.|[2412.11744](http://arxiv.org/abs/2412.11744)|**[link](https://github.com/yanfeng-yang-0316/cdcit)**|
+|**2024-12-18**|**Conditional Diffusion Models Based Conditional Independence Testing**|Yanfeng Yang et.al.|[2412.11744](http://arxiv.org/abs/2412.11744)|**[link](https://github.com/yanfeng-yang-0316/cdcit)**|
 |**2024-12-16**|**Generalized Bayesian deep reinforcement learning**|Shreya Sinha Roy et.al.|[2412.11743](http://arxiv.org/abs/2412.11743)|null|
 |**2024-12-16**|**PSGraph: Differentially Private Streaming Graph Synthesis by Considering Temporal Dynamics**|Quan Yuan et.al.|[2412.11369](http://arxiv.org/abs/2412.11369)|null|
 |**2024-12-17**|**Learning Set Functions with Implicit Differentiation**|Gözde Özcan et.al.|[2412.11239](http://arxiv.org/abs/2412.11239)|null|
