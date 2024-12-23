@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2902,7 +2902,7 @@ layout: default
 |**2024-12-19**|**Stable-V2A: Synthesis of Synchronized Sound Effects with Temporal and Semantic Controls**|Riccardo Fosco Gramaccioni et.al.|[2412.15023](http://arxiv.org/abs/2412.15023)|null|
 |**2024-12-19**|**MagicNaming: Consistent Identity Generation by Finding a "Name Space" in T2I Diffusion Models**|Jing Zhao et.al.|[2412.14902](http://arxiv.org/abs/2412.14902)|null|
 |**2024-12-19**|**Diffusion priors for Bayesian 3D reconstruction from incomplete measurements**|Julian L. Möbius et.al.|[2412.14897](http://arxiv.org/abs/2412.14897)|null|
-|**2024-12-19**|**Quantum Algorithms for Stochastic Differential Equations: A Schrödingerisation Approach**|Shi Jin et.al.|[2412.14868](http://arxiv.org/abs/2412.14868)|null|
+|**2024-12-20**|**Quantum Algorithms for Stochastic Differential Equations: A Schrödingerisation Approach**|Shi Jin et.al.|[2412.14868](http://arxiv.org/abs/2412.14868)|null|
 |**2024-12-18**|**AniDoc: Animation Creation Made Easier**|Yihao Meng et.al.|[2412.14173](http://arxiv.org/abs/2412.14173)|null|
 |**2024-12-19**|**E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling**|Zhihang Yuan et.al.|[2412.14170](http://arxiv.org/abs/2412.14170)|null|
 |**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169](http://arxiv.org/abs/2412.14169)|**[link](https://github.com/baaivision/nova)**|
@@ -4102,7 +4102,7 @@ layout: default
 |**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151](http://arxiv.org/abs/2412.15151)|null|
 |**2024-12-19**|**Assessing treatment effects in observational data with missing confounders: A comparative study of practical doubly-robust and traditional missing data methods**|Brian D. Williamson et.al.|[2412.15012](http://arxiv.org/abs/2412.15012)|null|
 |**2024-12-19**|**DS $^2$ -ABSA: Dual-Stream Data Synthesis with Label Refinement for Few-Shot Aspect-Based Sentiment Analysis**|Hongling Xu et.al.|[2412.14849](http://arxiv.org/abs/2412.14849)|**[link](https://github.com/behappyplz/ds2-absa)**|
-|**2024-12-19**|**ResoFilter: Rine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis**|Zeao Tu et.al.|[2412.14809](http://arxiv.org/abs/2412.14809)|**[link](https://github.com/tal-aurorax/resofilter)**|
+|**2024-12-20**|**ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis**|Zeao Tu et.al.|[2412.14809](http://arxiv.org/abs/2412.14809)|**[link](https://github.com/tal-aurorax/resofilter)**|
 |**2024-12-19**|**ALKAFI-LLAMA3: Fine-Tuning LLMs for Precise Legal Understanding in Palestine**|Rabee Qasem et.al.|[2412.14771](http://arxiv.org/abs/2412.14771)|null|
 |**2024-12-19**|**How to Synthesize Text Data without Model Collapse?**|Xuekai Zhu et.al.|[2412.14689](http://arxiv.org/abs/2412.14689)|null|
 |**2024-12-19**|**Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines**|Yunsu Kim et.al.|[2412.14684](http://arxiv.org/abs/2412.14684)|null|
