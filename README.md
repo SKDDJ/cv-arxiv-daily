@@ -298,6 +298,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
+|**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155](http://arxiv.org/abs/2412.16155)|null|
+|**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144](http://arxiv.org/abs/2412.16144)|null|
+|**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
+|**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121](http://arxiv.org/abs/2412.16121)|null|
+|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
+|**2024-12-20**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050](http://arxiv.org/abs/2412.16050)|null|
+|**2024-12-20**|**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**|Jiadong Pan et.al.|[2412.16039](http://arxiv.org/abs/2412.16039)|null|
+|**2024-12-20**|**Electric Vehicle Charging Stations Placement Optimization in Vietnam Using Mixed-Integer Nonlinear Programming Model**|Quynh Vu Truc et.al.|[2412.16025](http://arxiv.org/abs/2412.16025)|null|
+|**2024-12-20**|**Data-Centric Improvements for Enhancing Multi-Modal Understanding in Spoken Conversation Modeling**|Maximillian Chen et.al.|[2412.15995](http://arxiv.org/abs/2412.15995)|null|
+|**2024-12-20**|**Optimization of Beyond Diagonal RIS: A Universal Framework Applicable to Arbitrary Architectures**|Zheyu Wu et.al.|[2412.15965](http://arxiv.org/abs/2412.15965)|null|
+|**2024-12-20**|**Reframing Image Difference Captioning with BLIP2IDC and Synthetic Augmentation**|Gautier Evennou et.al.|[2412.15939](http://arxiv.org/abs/2412.15939)|null|
+|**2024-12-20**|**RiTTA: Modeling Event Relations in Text-to-Audio Generation**|Yuhang He et.al.|[2412.15922](http://arxiv.org/abs/2412.15922)|null|
+|**2024-12-20**|**Less is More: Towards Green Code Large Language Models via Unified Structural Pruning**|Guang Yang et.al.|[2412.15921](http://arxiv.org/abs/2412.15921)|null|
+|**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853](http://arxiv.org/abs/2412.15853)|null|
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
 |**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211](http://arxiv.org/abs/2412.15211)|null|
@@ -1920,6 +1935,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Measuring Cross-Modal Interactions in Multimodal Models**|Laura Wenderoth et.al.|[2412.15828](http://arxiv.org/abs/2412.15828)|**[link](https://github.com/laurawenderoth/intershap)**|
+|**2024-12-20**|**Precision ICU Resource Planning: A Multimodal Model for Brain Surgery Outcomes**|Maximilian Fischer et.al.|[2412.15818](http://arxiv.org/abs/2412.15818)|null|
+|**2024-12-20**|**Error-driven Data-efficient Large Multimodal Model Tuning**|Barry Menglong Yao et.al.|[2412.15652](http://arxiv.org/abs/2412.15652)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
@@ -2894,6 +2912,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Stochastic Analysis of Entanglement-assisted Quantum Communication Channels**|Karim S. Elsayed et.al.|[2412.16157](http://arxiv.org/abs/2412.16157)|null|
+|**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
+|**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121](http://arxiv.org/abs/2412.16121)|null|
+|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
+|**2024-12-20**|**Examining Entropic Unbalanced Optimal Transport and Sinkhorn Divergences for Spatial Forecast Verification**|Jacob J. M. Francis et.al.|[2412.16063](http://arxiv.org/abs/2412.16063)|null|
+|**2024-12-20**|**Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy**|Shaoyan Pan et.al.|[2412.16050](http://arxiv.org/abs/2412.16050)|null|
+|**2024-12-20**|**SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation**|Jiadong Pan et.al.|[2412.16039](http://arxiv.org/abs/2412.16039)|null|
+|**2024-12-20**|**Sensitivity of functionals of McKean-Vlasov SDE's with respect to the initial distribution**|Filippo de Feo et.al.|[2412.15906](http://arxiv.org/abs/2412.15906)|null|
+|**2024-12-20**|**On Robust Cross Domain Alignment**|Anish Chakrabarty et.al.|[2412.15861](http://arxiv.org/abs/2412.15861)|null|
+|**2024-12-20**|**Semi-Supervised Adaptation of Diffusion Models for Handwritten Text Generation**|Kai Brandenbusch et.al.|[2412.15853](http://arxiv.org/abs/2412.15853)|null|
+|**2024-12-20**|**Electromagnetic particle-in-cell modeling of an electron cyclotron resonance plasma discharge in hydrogen**|D. Eremin et.al.|[2412.15802](http://arxiv.org/abs/2412.15802)|null|
+|**2024-12-20**|**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance**|Hyunsoo Lee et.al.|[2412.15798](http://arxiv.org/abs/2412.15798)|null|
+|**2024-12-20**|**Learning Group Interactions and Semantic Intentions for Multi-Object Trajectory Prediction**|Mengshi Qi et.al.|[2412.15673](http://arxiv.org/abs/2412.15673)|null|
+|**2024-12-20**|**BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models**|Yifei Sun et.al.|[2412.15670](http://arxiv.org/abs/2412.15670)|null|
+|**2024-12-20**|**SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control**|Xiaohan Zhang et.al.|[2412.15664](http://arxiv.org/abs/2412.15664)|null|
 |**2024-12-19**|**LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis**|Hanlin Wang et.al.|[2412.15214](http://arxiv.org/abs/2412.15214)|null|
 |**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|
 |**2024-12-19**|**Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation**|Hadi Alzayer et.al.|[2412.15211](http://arxiv.org/abs/2412.15211)|null|
@@ -3927,6 +3960,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**BabyHGRN: Exploring RNNs for Sample-Efficient Training of Language Models**|Patrick Haller et.al.|[2412.15978](http://arxiv.org/abs/2412.15978)|null|
+|**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
+|**2024-12-19**|**Uncertainty-Guided Cross Attention Ensemble Mean Teacher for Semi-supervised Medical Image Segmentation**|Meghana Karri et.al.|[2412.15380](http://arxiv.org/abs/2412.15380)|null|
+|**2024-12-19**|**Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models**|Reza Shirkavand et.al.|[2412.15341](http://arxiv.org/abs/2412.15341)|null|
+|**2024-12-19**|**Self-Evolution Knowledge Distillation for LLM-based Machine Translation**|Yuncheng Song et.al.|[2412.15303](http://arxiv.org/abs/2412.15303)|null|
 |**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571](http://arxiv.org/abs/2412.14571)|null|
 |**2024-12-19**|**Multi-Level Optimal Transport for Universal Cross-Tokenizer Knowledge Distillation on Language Models**|Xiao Cui et.al.|[2412.14528](http://arxiv.org/abs/2412.14528)|null|
 |**2024-12-19**|**Knowledge Distillation in RNN-Attention Models for Early Prediction of Student Performance**|Sukrit Leelaluk et.al.|[2412.14526](http://arxiv.org/abs/2412.14526)|**[link](https://github.com/limu-research/2025-sac-rnn-attention-kd)**|
@@ -4108,6 +4146,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
+|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
+|**2024-12-20**|**Legommenders: A Comprehensive Content-Based Recommendation Library with LLM Support**|Qijiong Liu et.al.|[2412.15973](http://arxiv.org/abs/2412.15973)|null|
+|**2024-12-20**|**Fine-tuning Whisper on Low-Resource Languages for Real-World Applications**|Vincenzo Timmel et.al.|[2412.15726](http://arxiv.org/abs/2412.15726)|**[link](https://github.com/i4ds/whisper-finetune)**|
+|**2024-12-20**|**Synthetic Tabular Data Generation for Imbalanced Classification: The Surprising Effectiveness of an Overlap Class**|Annie D'souza et.al.|[2412.15657](http://arxiv.org/abs/2412.15657)|null|
+|**2024-12-20**|**Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage**|Zhi Gao et.al.|[2412.15606](http://arxiv.org/abs/2412.15606)|null|
+|**2024-12-20**|**ChangeDiff: A Multi-Temporal Change Detection Data Generator with Flexible Text Prompts via Diffusion Model**|Qi Zang et.al.|[2412.15541](http://arxiv.org/abs/2412.15541)|**[link](https://github.com/dzhaoxd/changediff)**|
+|**2024-12-20**|**GCA-3D: Towards Generalized and Consistent Domain Adaptation of 3D Generators**|Hengjia Li et.al.|[2412.15491](http://arxiv.org/abs/2412.15491)|null|
+|**2024-12-20**|**Toward Appearance-based Autonomous Landing Site Identification for Multirotor Drones in Unstructured Environments**|Joshua Springer et.al.|[2412.15486](http://arxiv.org/abs/2412.15486)|null|
+|**2024-12-19**|**Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling**|Ziyi Ni et.al.|[2412.15305](http://arxiv.org/abs/2412.15305)|null|
 |**2024-12-19**|**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization**|Jiacheng Zhang et.al.|[2412.15159](http://arxiv.org/abs/2412.15159)|null|
 |**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151](http://arxiv.org/abs/2412.15151)|null|
 |**2024-12-19**|**Assessing treatment effects in observational data with missing confounders: A comparative study of practical doubly-robust and traditional missing data methods**|Brian D. Williamson et.al.|[2412.15012](http://arxiv.org/abs/2412.15012)|**[link](https://github.com/PamelaShaw/Missing-Confounders-Methods)**|
