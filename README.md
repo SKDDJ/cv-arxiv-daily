@@ -1,4 +1,4 @@
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -292,7 +292,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -1929,7 +1929,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -1942,7 +1942,7 @@
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
 |**2024-12-19**|**Progressive Multimodal Reasoning via Active Retrieval**|Guanting Dong et.al.|[2412.14835](http://arxiv.org/abs/2412.14835)|null|
-|**2024-12-19**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|
+|**2024-12-21**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|
 |**2024-12-18**|**Descriptive Caption Enhancement with Visual Specialists for Multimodal Perception**|Yanpeng Sun et.al.|[2412.14233](http://arxiv.org/abs/2412.14233)|**[link](https://github.com/syp2ysy/dce)**|
 |**2024-12-18**|**AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**|Guillaume Astruc et.al.|[2412.14123](http://arxiv.org/abs/2412.14123)|**[link](https://github.com/gastruc/anysat)**|
 |**2024-12-19**|**G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o**|Tony Cheng Tong et.al.|[2412.13647](http://arxiv.org/abs/2412.13647)|**[link](https://github.com/ztangaj/gveval)**|
@@ -2498,7 +2498,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -2707,7 +2707,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -2906,7 +2906,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -3954,7 +3954,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -4140,7 +4140,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -4568,5 +4568,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20241223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241224>back to top</a>)</p>
 

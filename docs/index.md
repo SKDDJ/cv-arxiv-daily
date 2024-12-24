@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1942,7 +1942,7 @@ layout: default
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
 |**2024-12-19**|**Progressive Multimodal Reasoning via Active Retrieval**|Guanting Dong et.al.|[2412.14835](http://arxiv.org/abs/2412.14835)|null|
-|**2024-12-19**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|
+|**2024-12-21**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|
 |**2024-12-18**|**Descriptive Caption Enhancement with Visual Specialists for Multimodal Perception**|Yanpeng Sun et.al.|[2412.14233](http://arxiv.org/abs/2412.14233)|**[link](https://github.com/syp2ysy/dce)**|
 |**2024-12-18**|**AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities**|Guillaume Astruc et.al.|[2412.14123](http://arxiv.org/abs/2412.14123)|**[link](https://github.com/gastruc/anysat)**|
 |**2024-12-19**|**G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o**|Tony Cheng Tong et.al.|[2412.13647](http://arxiv.org/abs/2412.13647)|**[link](https://github.com/ztangaj/gveval)**|
