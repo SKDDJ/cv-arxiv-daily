@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.24
+## Updated on 2024.12.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2950,7 +2950,7 @@ layout: default
 |**2024-12-23**|**Heterogeneous carrying capacities and global extinction in metapopulations**|Jakub Hesoun et.al.|[2412.17461](http://arxiv.org/abs/2412.17461)|null|
 |**2024-12-23**|**AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows**|Hui Xiang et.al.|[2412.17394](http://arxiv.org/abs/2412.17394)|null|
 |**2024-12-23**|**Applications of optimal transport to Dyson Brownian Motions and beyond**|Xuan Wu et.al.|[2412.17389](http://arxiv.org/abs/2412.17389)|null|
-|**2024-12-23**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
+|**2024-12-24**|**Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement**|Hyeonjin Kim et.al.|[2412.17387](http://arxiv.org/abs/2412.17387)|null|
 |**2024-12-20**|**Stochastic Analysis of Entanglement-assisted Quantum Communication Channels**|Karim S. Elsayed et.al.|[2412.16157](http://arxiv.org/abs/2412.16157)|null|
 |**2024-12-20**|**Personalized Representation from Personalized Generation**|Shobhita Sundaram et.al.|[2412.16156](http://arxiv.org/abs/2412.16156)|**[link](https://github.com/ssundaram21/personalized-rep)**|
 |**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121](http://arxiv.org/abs/2412.16121)|null|
