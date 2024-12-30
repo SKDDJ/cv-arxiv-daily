@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,7 +23,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
 |**2024-12-23**|**Interweaving Memories of a Siamese Large Language Model**|Xin Song et.al.|[2412.17383](http://arxiv.org/abs/2412.17383)|**[link](https://github.com/ecnu-text-computing/imsm)**|
-|**2024-12-22**|**Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs**|Rushendra Sidibomma et.al.|[2412.17131](http://arxiv.org/abs/2412.17131)|null|
+|**2024-12-26**|**LLMsAgainstHate @ NLU of Devanagari Script Languages 2025: Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs**|Rushendra Sidibomma et.al.|[2412.17131](http://arxiv.org/abs/2412.17131)|null|
 |**2024-12-21**|**Label Privacy in Split Learning for Large Models with Parameter-Efficient Training**|Philip Zmushko et.al.|[2412.16669](http://arxiv.org/abs/2412.16669)|**[link](https://github.com/p3eft-iclr-2025/p3eft-iclr-2025)**|
 |**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424](http://arxiv.org/abs/2412.14424)|null|
 |**2024-12-18**|**Parameter-efficient Fine-tuning for improved Convolutional Baseline for Brain Tumor Segmentation in Sub-Saharan Africa Adult Glioma Dataset**|Bijay Adhikari et.al.|[2412.14100](http://arxiv.org/abs/2412.14100)|null|
@@ -1974,7 +1974,7 @@ layout: default
 |**2024-12-24**|**VisionLLM-based Multimodal Fusion Network for Glottic Carcinoma Early Detection**|Zhaohui Jin et.al.|[2412.18124](http://arxiv.org/abs/2412.18124)|null|
 |**2024-12-23**|**Multimodal Learning with Uncertainty Quantification based on Discounted Belief Fusion**|Grigor Bezirganyan et.al.|[2412.18024](http://arxiv.org/abs/2412.18024)|**[link](https://github.com/bezirganyan/DBF_uncertainty)**|
 |**2024-12-23**|**Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**|Priyaranjan Pattnayak et.al.|[2412.17759](http://arxiv.org/abs/2412.17759)|null|
-|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-25**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
 |**2024-12-23**|**EPE-P: Evidence-based Parameter-efficient Prompting for Multimodal Learning with Missing Modalities**|Zhe Chen et.al.|[2412.17677](http://arxiv.org/abs/2412.17677)|**[link](https://github.com/boris-jobs/epe-p_mllms-robustness)**|
 |**2024-12-23**|**V $^2$ -SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**|Long Bai et.al.|[2412.17595](http://arxiv.org/abs/2412.17595)|null|
 |**2024-12-23**|**More is Less? A Simulation-Based Approach to Dynamic Interactions between Biases in Multimodal Models**|Mounia Drissi et.al.|[2412.17505](http://arxiv.org/abs/2412.17505)|null|
@@ -2552,7 +2552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-24**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
+|**2024-12-26**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200](http://arxiv.org/abs/2412.15200)|null|
 |**2024-12-18**|**On the principle of linearized stability for quasilinear evolution equations in time-weighted spaces**|Bogdan-Vasile Matioc et.al.|[2412.13940](http://arxiv.org/abs/2412.13940)|null|
 |**2024-12-17**|**On the Bäcklund transform and the stability of the line soliton of the KP-II equation on $\mathbb R^2$**|Lorenzo Pompili et.al.|[2412.12530](http://arxiv.org/abs/2412.12530)|null|
