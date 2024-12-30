@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|null|
+|**2024-12-27**|**Parameter Efficient Fine-Tuning for Deep Learning-Based Full-Waveform Inversion**|Koustav Ghosal et.al.|[2412.19510](http://arxiv.org/abs/2412.19510)|null|
 |**2024-12-24**|**Multi-Point Positional Insertion Tuning for Small Object Detection**|Kanoko Goto et.al.|[2412.18090](http://arxiv.org/abs/2412.18090)|null|
 |**2024-12-23**|**Interweaving Memories of a Siamese Large Language Model**|Xin Song et.al.|[2412.17383](http://arxiv.org/abs/2412.17383)|**[link](https://github.com/ecnu-text-computing/imsm)**|
 |**2024-12-26**|**LLMsAgainstHate @ NLU of Devanagari Script Languages 2025: Hate Speech Detection and Target Identification in Devanagari Languages via Parameter Efficient Fine-Tuning of LLMs**|Rushendra Sidibomma et.al.|[2412.17131](http://arxiv.org/abs/2412.17131)|null|
@@ -302,6 +304,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Tensor Network Estimation of Distribution Algorithms**|John Gardiner et.al.|[2412.19780](http://arxiv.org/abs/2412.19780)|null|
+|**2024-12-27**|**Generative Video Propagation**|Shaoteng Liu et.al.|[2412.19761](http://arxiv.org/abs/2412.19761)|null|
+|**2024-12-27**|**Complement or substitute? How AI increases the demand for human skills**|Elina Mäkelä et.al.|[2412.19754](http://arxiv.org/abs/2412.19754)|null|
+|**2024-12-27**|**Text2Insight: Transform natural language text into insights seamlessly using multi-model architecture**|Pradeep Sain et.al.|[2412.19718](http://arxiv.org/abs/2412.19718)|null|
+|**2024-12-27**|**From Elements to Design: A Layered Approach for Automatic Graphic Design Composition**|Jiawei Lin et.al.|[2412.19712](http://arxiv.org/abs/2412.19712)|null|
+|**2024-12-27**|**An Integrated Optimization and Deep Learning Pipeline for Predicting Live Birth Success in IVF Using Feature Optimization and Transformer-Based Models**|Arezoo Borji et.al.|[2412.19696](http://arxiv.org/abs/2412.19696)|null|
+|**2024-12-27**|**From prediction to explanation: managing influential negative reviews through explainable AI**|Rongping Shen et.al.|[2412.19692](http://arxiv.org/abs/2412.19692)|null|
+|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
+|**2024-12-27**|**Diverse Rare Sample Generation with Pretrained GANs**|Subeen Lee et.al.|[2412.19543](http://arxiv.org/abs/2412.19543)|null|
+|**2024-12-27**|**Scalable Hierarchical Reinforcement Learning for Hyper Scale Multi-Robot Task Planning**|Xuan Zhou et.al.|[2412.19538](http://arxiv.org/abs/2412.19538)|null|
+|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|
+|**2024-12-27**|**Lévy Score Function and Score-Based Particle Algorithm for Nonlinear Lévy--Fokker--Planck Equations**|Yuanfei Huang et.al.|[2412.19520](http://arxiv.org/abs/2412.19520)|null|
+|**2024-12-27**|**Estimation of System Parameters Including Repeated Cross-Sectional Data through Emulator-Informed Deep Generative Model**|Hyunwoo Cho et.al.|[2412.19517](http://arxiv.org/abs/2412.19517)|null|
+|**2024-12-27**|**DrivingWorld: ConstructingWorld Model for Autonomous Driving via Video GPT**|Xiaotao Hu et.al.|[2412.19505](http://arxiv.org/abs/2412.19505)|**[link](https://github.com/yvanyin/drivingworld)**|
+|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|null|
 |**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
@@ -1969,6 +1986,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**From Elements to Design: A Layered Approach for Automatic Graphic Design Composition**|Jiawei Lin et.al.|[2412.19712](http://arxiv.org/abs/2412.19712)|null|
+|**2024-12-26**|**Multi-Head Attention Driven Dynamic Visual-Semantic Embedding for Enhanced Image-Text Matching**|Wenjing Chen et.al.|[2412.19184](http://arxiv.org/abs/2412.19184)|null|
+|**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142](http://arxiv.org/abs/2412.19142)|null|
 |**2024-12-24**|**MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**|Abdelmadjid Chergui et.al.|[2412.18437](http://arxiv.org/abs/2412.18437)|**[link](https://github.com/Madjid-CH/auto-mixer)**|
 |**2024-12-24**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
 |**2024-12-24**|**VisionLLM-based Multimodal Fusion Network for Glottic Carcinoma Early Detection**|Zhaohui Jin et.al.|[2412.18124](http://arxiv.org/abs/2412.18124)|null|
@@ -2554,6 +2574,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Estimation of System Parameters Including Repeated Cross-Sectional Data through Emulator-Informed Deep Generative Model**|Hyunwoo Cho et.al.|[2412.19517](http://arxiv.org/abs/2412.19517)|null|
+|**2024-12-26**|**Characterizing resources for multiparameter estimation of SU(2) and SU(1,1) unitaries**|Shaowei Du et.al.|[2412.19119](http://arxiv.org/abs/2412.19119)|null|
+|**2024-12-25**|**Mixed Fourier norm spaces of analytic functions on the upper half-plane and Toeplitz operators**|Zhirayr Avetisyan et.al.|[2412.18954](http://arxiv.org/abs/2412.18954)|null|
 |**2024-12-26**|**KunServe: Elastic and Efficient Large Language Model Serving with Parameter-centric Memory Management**|Rongxin Cheng et.al.|[2412.18169](http://arxiv.org/abs/2412.18169)|null|
 |**2024-12-19**|**DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation**|Wang Zhao et.al.|[2412.15200](http://arxiv.org/abs/2412.15200)|null|
 |**2024-12-18**|**On the principle of linearized stability for quasilinear evolution equations in time-weighted spaces**|Bogdan-Vasile Matioc et.al.|[2412.13940](http://arxiv.org/abs/2412.13940)|null|
@@ -2963,6 +2986,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
+|**2024-12-27**|**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture**|Miaomiao Dai et.al.|[2412.19535](http://arxiv.org/abs/2412.19535)|null|
+|**2024-12-27**|**Lévy Score Function and Score-Based Particle Algorithm for Nonlinear Lévy--Fokker--Planck Equations**|Yuanfei Huang et.al.|[2412.19520](http://arxiv.org/abs/2412.19520)|null|
+|**2024-12-27**|**RobotDiffuse: Motion Planning for Redundant Manipulator based on Diffusion Model**|Xiaohan Zhang et.al.|[2412.19500](http://arxiv.org/abs/2412.19500)|null|
+|**2024-12-27**|**RAIN: Real-time Animation of Infinite Video Stream**|Zhilei Shu et.al.|[2412.19489](http://arxiv.org/abs/2412.19489)|null|
+|**2024-12-27**|**DriveEditor: A Unified 3D Information-Guided Framework for Controllable Object Editing in Driving Scenes**|Yiyuan Liang et.al.|[2412.19458](http://arxiv.org/abs/2412.19458)|null|
+|**2024-12-27**|**Multi-scale Latent Point Consistency Models for 3D Shape Generation**|Bi'an Du et.al.|[2412.19413](http://arxiv.org/abs/2412.19413)|null|
+|**2024-12-27**|**A Generalized Einstein Relation for Markovian Friction Coefficients from Molecular Trajectories**|J. M. Hall et.al.|[2412.19398](http://arxiv.org/abs/2412.19398)|null|
+|**2024-12-26**|**6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**|Nabo He et.al.|[2412.19243](http://arxiv.org/abs/2412.19243)|null|
+|**2024-12-26**|**Mask Approximation Net: Merging Feature Extraction and Distribution Learning for Remote Sensing Change Captioning**|Dongwei Sun et.al.|[2412.19179](http://arxiv.org/abs/2412.19179)|null|
+|**2024-12-26**|**Convergence rate of Euler-Maruyama scheme for McKean-Vlasov SDEs with density-dependent drift**|Anh-Dung Le et.al.|[2412.19121](http://arxiv.org/abs/2412.19121)|null|
+|**2024-12-26**|**Discrete vs. Continuous Trade-offs for Generative Models**|Jathin Korrapati et.al.|[2412.19114](http://arxiv.org/abs/2412.19114)|null|
+|**2024-12-26**|**Improving Generative Pre-Training: An In-depth Study of Masked Image Modeling and Denoising Models**|Hyesong Choi et.al.|[2412.19104](http://arxiv.org/abs/2412.19104)|null|
+|**2024-12-26**|**Constrained stochastic linear quadratic control under regime switching with controlled jump size**|Xiaomin Shi et.al.|[2412.19100](http://arxiv.org/abs/2412.19100)|null|
+|**2024-12-26**|**Mask Factory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation**|Haotian Qian et.al.|[2412.19080](http://arxiv.org/abs/2412.19080)|null|
 |**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
 |**2024-12-24**|**DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers**|Yuntao Chen et.al.|[2412.18607](http://arxiv.org/abs/2412.18607)|null|
 |**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
@@ -4041,6 +4079,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**|Jiaqi Wang et.al.|[2412.19654](http://arxiv.org/abs/2412.19654)|null|
+|**2024-12-27**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models**|Shuo Wang et.al.|[2412.19449](http://arxiv.org/abs/2412.19449)|null|
+|**2024-12-26**|**SpectralKD: Understanding and Optimizing Vision Transformer Distillation through Spectral Analysis**|Huiyuan Tian et.al.|[2412.19055](http://arxiv.org/abs/2412.19055)|null|
 |**2024-12-24**|**HTR-JAND: Handwritten Text Recognition with Joint Attention Network and Knowledge Distillation**|Mohammed Hamdan et.al.|[2412.18524](http://arxiv.org/abs/2412.18524)|null|
 |**2024-12-23**|**Bi-Directional Multi-Scale Graph Dataset Condensation via Information Bottleneck**|Xingcheng Fu et.al.|[2412.17355](http://arxiv.org/abs/2412.17355)|**[link](https://github.com/ringbdstack/bimsgc)**|
 |**2024-12-23**|**Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**|Yuying Wang et.al.|[2412.17317](http://arxiv.org/abs/2412.17317)|null|
@@ -4050,7 +4091,7 @@
 |**2024-12-21**|**STKDRec: Spatial-Temporal Knowledge Distillation for Takeaway Recommendation**|Shuyuan Zhao et.al.|[2412.16502](http://arxiv.org/abs/2412.16502)|null|
 |**2024-12-21**|**Cross-View Consistency Regularisation for Knowledge Distillation**|Weijia Zhang et.al.|[2412.16493](http://arxiv.org/abs/2412.16493)|**[link](https://github.com/arcaninez/crld)**|
 |**2024-12-21**|**CBNN: 3-Party Secure Framework for Customized Binary Neural Networks Inference**|Benchang Dong et.al.|[2412.16449](http://arxiv.org/abs/2412.16449)|null|
-|**2024-12-20**|**LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**|Huawei Sun et.al.|[2412.16380](http://arxiv.org/abs/2412.16380)|**[link](https://github.com/harborsarah/lircdepth)**|
+|**2024-12-27**|**LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**|Huawei Sun et.al.|[2412.16380](http://arxiv.org/abs/2412.16380)|**[link](https://github.com/harborsarah/lircdepth)**|
 |**2024-12-20**|**BabyHGRN: Exploring RNNs for Sample-Efficient Training of Language Models**|Patrick Haller et.al.|[2412.15978](http://arxiv.org/abs/2412.15978)|null|
 |**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
 |**2024-12-19**|**Uncertainty-Guided Cross Attention Ensemble Mean Teacher for Semi-supervised Medical Image Segmentation**|Meghana Karri et.al.|[2412.15380](http://arxiv.org/abs/2412.15380)|null|
@@ -4237,6 +4278,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Direct estimates of irreversibility from time series**|Trevor GrandPre et.al.|[2412.19772](http://arxiv.org/abs/2412.19772)|null|
+|**2024-12-27**|**Generative Video Propagation**|Shaoteng Liu et.al.|[2412.19761](http://arxiv.org/abs/2412.19761)|null|
+|**2024-12-27**|**OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis**|Qiushi Sun et.al.|[2412.19723](http://arxiv.org/abs/2412.19723)|null|
+|**2024-12-27**|**TARGA: Targeted Synthetic Data Generation for Practical Reasoning over Structured Data**|Xiang Huang et.al.|[2412.19544](http://arxiv.org/abs/2412.19544)|**[link](https://github.com/cdhx/targa)**|
+|**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
+|**2024-12-27**|**NijiGAN: Transform What You See into Anime with Contrastive Semi-Supervised Learning and Neural Ordinary Differential Equations**|Kevin Putra Santoso et.al.|[2412.19455](http://arxiv.org/abs/2412.19455)|null|
+|**2024-12-26**|**Adaptive Conformal Inference by Betting**|Aleksandr Podkopaev et.al.|[2412.19318](http://arxiv.org/abs/2412.19318)|null|
+|**2024-12-26**|**Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing**|Inpyo Hong et.al.|[2412.19125](http://arxiv.org/abs/2412.19125)|**[link](https://github.com/Inpyo-Hong/AKT-Advanced-knowledge-Transfer)**|
+|**2024-12-26**|**Discrete vs. Continuous Trade-offs for Generative Models**|Jathin Korrapati et.al.|[2412.19114](http://arxiv.org/abs/2412.19114)|null|
+|**2024-12-26**|**Mask Factory: Towards High-quality Synthetic Data Generation for Dichotomous Image Segmentation**|Haotian Qian et.al.|[2412.19080](http://arxiv.org/abs/2412.19080)|null|
+|**2024-12-25**|**Bootstrap Your Own Context Length**|Liang Wang et.al.|[2412.18860](http://arxiv.org/abs/2412.18860)|null|
 |**2024-12-24**|**HTR-JAND: Handwritten Text Recognition with Joint Attention Network and Knowledge Distillation**|Mohammed Hamdan et.al.|[2412.18524](http://arxiv.org/abs/2412.18524)|null|
 |**2024-12-24**|**Subsampling, aligning, and averaging to find circular coordinates in recurrent time series**|Andrew J. Blumberg et.al.|[2412.18515](http://arxiv.org/abs/2412.18515)|null|
 |**2024-12-24**|**GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent**|Kangjia Zhao et.al.|[2412.18426](http://arxiv.org/abs/2412.18426)|null|
