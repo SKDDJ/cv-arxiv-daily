@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.02
+## Updated on 2025.01.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4315,7 +4315,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**A flexible parametric approach to synthetic patients generation using health data**|Marta Cipriani et.al.|[2412.21056](http://arxiv.org/abs/2412.21056)|null|
 |**2024-12-30**|**Rethinking Aleatoric and Epistemic Uncertainty**|Freddie Bickford Smith et.al.|[2412.20892](http://arxiv.org/abs/2412.20892)|null|
-|**2024-12-30**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735](http://arxiv.org/abs/2412.20735)|null|
+|**2024-12-31**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735](http://arxiv.org/abs/2412.20735)|null|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641](http://arxiv.org/abs/2412.20641)|null|
 |**2024-12-29**|**LEARNER: A Transfer Learning Method for Low-Rank Matrix Estimation**|Sean McGrath et.al.|[2412.20605](http://arxiv.org/abs/2412.20605)|**[link](https://github.com/stmcg/learner)**|
 |**2024-12-29**|**Testing and Improving the Robustness of Amortized Bayesian Inference for Cognitive Models**|Yufei Wu et.al.|[2412.20586](http://arxiv.org/abs/2412.20586)|**[link](https://github.com/yufeiwu1011/Robust-Amortized-Bayesian-Inference)**|
