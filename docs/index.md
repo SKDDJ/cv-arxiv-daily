@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2005,7 +2005,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964](http://arxiv.org/abs/2412.20964)|**[link](https://github.com/jpthu17/HBI)**|
 |**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725](http://arxiv.org/abs/2412.20725)|null|
-|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|null|
+|**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|**[link](https://github.com/thu-mig/yolo-uniow)**|
 |**2024-12-29**|**Audiopedia: Audio QA with Knowledge**|Abhirama Subramanyam Penamakuri et.al.|[2412.20619](http://arxiv.org/abs/2412.20619)|**[link](https://github.com/Abhiram4572/Audiopedia)**|
 |**2024-12-29**|**Diff4MMLiTS: Advanced Multimodal Liver Tumor Segmentation via Diffusion-Based Image Synthesis and Alignment**|Shiyun Chen et.al.|[2412.20418](http://arxiv.org/abs/2412.20418)|null|
 |**2024-12-27**|**From Elements to Design: A Layered Approach for Automatic Graphic Design Composition**|Jiawei Lin et.al.|[2412.19712](http://arxiv.org/abs/2412.19712)|null|
@@ -3012,7 +3012,7 @@ layout: default
 |**2024-12-30**|**Visual Style Prompt Learning Using Diffusion Models for Blind Face Restoration**|Wanglong Lu et.al.|[2412.21042](http://arxiv.org/abs/2412.21042)|**[link](https://github.com/longlongaaago/vspbfr)**|
 |**2024-12-30**|**A positivity-preserving truncated Euler--Maruyama method for stochastic differential equations with positive solutions: multi-dimensional case**|Xingwei Hu et.al.|[2412.20988](http://arxiv.org/abs/2412.20988)|null|
 |**2024-12-30**|**AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies**|Yibo Wen et.al.|[2412.20984](http://arxiv.org/abs/2412.20984)|null|
-|**2024-12-30**|**EdSr: A Novel End-to-End Approach for State-Space Sampling in Molecular Dynamics Simulation**|Hai-Ming Cao et.al.|[2412.20978](http://arxiv.org/abs/2412.20978)|null|
+|**2024-12-30**|**EdSr: A Novel End-to-End Approach for State-Space Sampling in Molecular Dynamics Simulation**|Hai-Ming Cao et.al.|[2412.20978](http://arxiv.org/abs/2412.20978)|**[link](https://github.com/haiming-cao/edsr)**|
 |**2024-12-30**|**Influence Maximization in Temporal Networks with Persistent and Reactive Behaviors**|Aaqib Zahoor et.al.|[2412.20936](http://arxiv.org/abs/2412.20936)|null|
 |**2024-12-30**|**Optimal Diffusion Processes**|Saber Jafarizadeh et.al.|[2412.20934](http://arxiv.org/abs/2412.20934)|null|
 |**2024-12-30**|**DDIM sampling for Generative AIBIM, a faster intelligent structural design framework**|Zhili He et.al.|[2412.20899](http://arxiv.org/abs/2412.20899)|null|
@@ -4313,7 +4313,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-30**|**A flexible parametric approach to synthetic patients generation using health data**|Marta Cipriani et.al.|[2412.21056](http://arxiv.org/abs/2412.21056)|null|
+|**2024-12-30**|**A flexible parametric approach to synthetic patients generation using health data**|Marta Cipriani et.al.|[2412.21056](http://arxiv.org/abs/2412.21056)|**[link](https://github.com/ldirocco/fleSSy)**|
 |**2024-12-30**|**Rethinking Aleatoric and Epistemic Uncertainty**|Freddie Bickford Smith et.al.|[2412.20892](http://arxiv.org/abs/2412.20892)|null|
 |**2024-12-31**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735](http://arxiv.org/abs/2412.20735)|null|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641](http://arxiv.org/abs/2412.20641)|null|
