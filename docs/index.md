@@ -308,6 +308,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
+|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|**[link](https://github.com/hustvl/LightningDiT)**|
+|**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422](http://arxiv.org/abs/2501.01422)|null|
+|**2025-01-02**|**Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers**|Seunghyun Lee et.al.|[2501.01414](http://arxiv.org/abs/2501.01414)|null|
+|**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
+|**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368](http://arxiv.org/abs/2501.01368)|null|
+|**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367](http://arxiv.org/abs/2501.01367)|null|
+|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
+|**2025-01-02**|**Range-Only Localization System for Small-Scale Flapping-Wing Robots**|Raul Tapia et.al.|[2501.01213](http://arxiv.org/abs/2501.01213)|null|
+|**2025-01-02**|**LayeringDiff: Layered Image Synthesis via Generation, then Disassembly with Generative Knowledge**|Kyoungkook Kang et.al.|[2501.01197](http://arxiv.org/abs/2501.01197)|null|
+|**2025-01-02**|**TexAVi: Generating Stereoscopic VR Video Clips from Text Descriptions**|Vriksha Srihari et.al.|[2501.01156](http://arxiv.org/abs/2501.01156)|null|
+|**2025-01-02**|**Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission**|Maojun Zhang et.al.|[2501.01138](http://arxiv.org/abs/2501.01138)|null|
+|**2025-01-02**|**Co-Design of a Robot Controller Board and Indoor Positioning System for IoT-Enabled Applications**|Ali Safa et.al.|[2501.01115](http://arxiv.org/abs/2501.01115)|null|
+|**2025-01-02**|**MalCL: Leveraging GAN-Based Generative Replay to Combat Catastrophic Forgetting in Malware Classification**|Jimin Park et.al.|[2501.01110](http://arxiv.org/abs/2501.01110)|null|
 |**2024-12-30**|**The Gaussian Kicked Rotor: Periodic forcing with finite-width pulses and the role of shifting the kick**|Jonathan Berkheim et.al.|[2412.21186](http://arxiv.org/abs/2412.21186)|null|
 |**2024-12-30**|**Unified dimensionality reduction techniques in chronic liver disease detection**|Anand Karna et.al.|[2412.21156](http://arxiv.org/abs/2412.21156)|null|
 |**2025-01-02**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
@@ -2003,6 +2018,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Asymmetric Reinforcing against Multi-modal Representation Bias**|Xiyuan Gao et.al.|[2501.01240](http://arxiv.org/abs/2501.01240)|null|
+|**2025-01-02**|**3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**|Jiajun Deng et.al.|[2501.01163](http://arxiv.org/abs/2501.01163)|null|
+|**2025-01-02**|**Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning**|Jian Lang et.al.|[2501.01120](http://arxiv.org/abs/2501.01120)|null|
+|**2025-01-02**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042](http://arxiv.org/abs/2501.01042)|null|
+|**2025-01-02**|**Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models**|Bin Wang et.al.|[2501.01034](http://arxiv.org/abs/2501.01034)|null|
+|**2025-01-01**|**Negative to Positive Co-learning with Aggressive Modality Dropout**|Nicholas Magal et.al.|[2501.00865](http://arxiv.org/abs/2501.00865)|null|
+|**2024-12-31**|**OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning**|Ling Fu et.al.|[2501.00321](http://arxiv.org/abs/2501.00321)|**[link](https://github.com/yuliang-liu/multimodalocr)**|
+|**2024-12-31**|**Dual Diffusion for Unified Image Generation and Understanding**|Zijie Li et.al.|[2501.00289](http://arxiv.org/abs/2501.00289)|null|
 |**2024-12-30**|**Hierarchical Banzhaf Interaction for General Video-Language Representation Learning**|Peng Jin et.al.|[2412.20964](http://arxiv.org/abs/2412.20964)|**[link](https://github.com/jpthu17/HBI)**|
 |**2024-12-30**|**Dialogue Director: Bridging the Gap in Dialogue Visualization for Multimodal Storytelling**|Min Zhang et.al.|[2412.20725](http://arxiv.org/abs/2412.20725)|null|
 |**2024-12-30**|**YOLO-UniOW: Efficient Universal Open-World Object Detection**|Lihao Liu et.al.|[2412.20645](http://arxiv.org/abs/2412.20645)|**[link](https://github.com/thu-mig/yolo-uniow)**|
@@ -2594,6 +2617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-01**|**Text2Earth: Unlocking Text-driven Remote Sensing Image Generation with a Global-Scale Dataset and a Foundation Model**|Chenyang Liu et.al.|[2501.00895](http://arxiv.org/abs/2501.00895)|null|
 |**2024-12-15**|**ChipAlign: Instruction Alignment in Large Language Models for Chip Design via Geodesic Interpolation**|Chenhui Deng et.al.|[2412.19819](http://arxiv.org/abs/2412.19819)|null|
 |**2024-12-27**|**Estimation of System Parameters Including Repeated Cross-Sectional Data through Emulator-Informed Deep Generative Model**|Hyunwoo Cho et.al.|[2412.19517](http://arxiv.org/abs/2412.19517)|null|
 |**2024-12-26**|**Characterizing resources for multiparameter estimation of SU(2) and SU(1,1) unitaries**|Shaowei Du et.al.|[2412.19119](http://arxiv.org/abs/2412.19119)|null|
@@ -3003,6 +3027,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
+|**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|**[link](https://github.com/hustvl/LightningDiT)**|
+|**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368](http://arxiv.org/abs/2501.01368)|null|
+|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-02**|**Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission**|Maojun Zhang et.al.|[2501.01138](http://arxiv.org/abs/2501.01138)|null|
+|**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097](http://arxiv.org/abs/2501.01097)|null|
+|**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066](http://arxiv.org/abs/2501.01066)|null|
+|**2025-01-02**|**Optimizing Noise Schedules of Generative Models in High Dimensionss**|Santiago Aranguri et.al.|[2501.00988](http://arxiv.org/abs/2501.00988)|null|
+|**2025-01-01**|**Linear-Quadratic Optimal Control for Mean-Field Stochastic Differential Equations in Infinite-Horizon with Regime Switching**|Hongwei Mei et.al.|[2501.00981](http://arxiv.org/abs/2501.00981)|null|
+|**2025-01-01**|**Cached Adaptive Token Merging: Dynamic Token Reduction and Redundant Computation Elimination in Diffusion Model**|Omid Saghatchian et.al.|[2501.00946](http://arxiv.org/abs/2501.00946)|**[link](https://github.com/omidiu/ca_tome)**|
+|**2025-01-01**|**Diffusion Prism: Enhancing Diversity and Morphology Consistency in Mask-to-Image Diffusion**|Hao Wang et.al.|[2501.00944](http://arxiv.org/abs/2501.00944)|null|
+|**2025-01-01**|**A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset**|Junhuan Yang et.al.|[2501.00941](http://arxiv.org/abs/2501.00941)|null|
+|**2025-01-01**|**Hierarchical Vision-Language Alignment for Text-to-Image Generation via Diffusion Models**|Emily Johnson et.al.|[2501.00917](http://arxiv.org/abs/2501.00917)|null|
+|**2025-01-01**|**Diffusion Policies for Generative Modeling of Spacecraft Trajectories**|Julia Briden et.al.|[2501.00915](http://arxiv.org/abs/2501.00915)|null|
+|**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|**[link](https://github.com/wmd3i/PaD-TS)**|
 |**2024-12-30**|**Well-posedness of quadratic RBSDEs and BSDEs with one-sided growth restrictions**|Shiqiu Zheng et.al.|[2412.21172](http://arxiv.org/abs/2412.21172)|null|
 |**2025-01-02**|**Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**|Yuanbo Yang et.al.|[2412.21117](http://arxiv.org/abs/2412.21117)|null|
 |**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|
@@ -4109,6 +4148,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-01**|**LENS-XAI: Redefining Lightweight and Explainable Network Security through Knowledge Distillation and Variational Autoencoders for Scalable Intrusion Detection in Cybersecurity**|Muhammet Anil Yagiz et.al.|[2501.00790](http://arxiv.org/abs/2501.00790)|null|
+|**2024-12-30**|**Temporal reasoning for timeline summarisation in social media**|Jiayu Song et.al.|[2501.00152](http://arxiv.org/abs/2501.00152)|null|
 |**2024-12-30**|**A Large-Scale Study on Video Action Dataset Condensation**|Yang Chen et.al.|[2412.21197](http://arxiv.org/abs/2412.21197)|null|
 |**2024-12-30**|**Improving Acoustic Scene Classification in Low-Resource Conditions**|Zhi Chen et.al.|[2412.20722](http://arxiv.org/abs/2412.20722)|null|
 |**2024-12-29**|**Distilling Desired Comments for Enhanced Code Review with Large Language Models**|Yongda Yu et.al.|[2412.20340](http://arxiv.org/abs/2412.20340)|null|
@@ -4313,6 +4354,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**|Xize Cheng et.al.|[2501.01384](http://arxiv.org/abs/2501.01384)|null|
+|**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
+|**2025-01-02**|**Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection**|Dat Nguyen et.al.|[2501.01184](http://arxiv.org/abs/2501.01184)|null|
+|**2025-01-02**|**Ultrasound Lung Aeration Map via Physics-Aware Neural Operators**|Jiayun Wang et.al.|[2501.01157](http://arxiv.org/abs/2501.01157)|null|
+|**2025-01-02**|**KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model**|Xinshuo Hu et.al.|[2501.01028](http://arxiv.org/abs/2501.01028)|**[link](https://github.com/HITsz-TMG/KaLM-Embedding)**|
+|**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954](http://arxiv.org/abs/2501.00954)|null|
+|**2025-01-01**|**A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset**|Junhuan Yang et.al.|[2501.00941](http://arxiv.org/abs/2501.00941)|null|
+|**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|**[link](https://github.com/wmd3i/PaD-TS)**|
+|**2025-01-01**|**VoiceRestore: Flow-Matching Transformers for Speech Recording Quality Restoration**|Stanislav Kirdey et.al.|[2501.00794](http://arxiv.org/abs/2501.00794)|null|
+|**2025-01-01**|**Beyond Static Datasets: A Behavior-Driven Entity-Specific Simulation to Overcome Data Scarcity and Train Effective Crypto Anti-Money Laundering Models**|Dinesh Srivasthav P et.al.|[2501.00757](http://arxiv.org/abs/2501.00757)|null|
+|**2025-01-01**|**RORem: Training a Robust Object Remover with Human-in-the-Loop**|Ruibin Li et.al.|[2501.00740](http://arxiv.org/abs/2501.00740)|null|
+|**2025-01-01**|**Cost and Reward Infused Metric Elicitation**|Chethan Bhateja et.al.|[2501.00696](http://arxiv.org/abs/2501.00696)|null|
+|**2024-12-31**|**Compositional Covariate Importance Testing via Partial Conjunction of Bivariate Hypotheses**|Ritwik Bhaduri et.al.|[2501.00566](http://arxiv.org/abs/2501.00566)|null|
+|**2024-12-31**|**Tensor Topic Modeling Via HOSVD**|Yating Liu et.al.|[2501.00535](http://arxiv.org/abs/2501.00535)|null|
+|**2024-12-31**|**Addressing Challenges in Data Quality and Model Generalization for Malaria Detection**|Kiswendsida Kisito Kabore et.al.|[2501.00464](http://arxiv.org/abs/2501.00464)|null|
 |**2024-12-30**|**A flexible parametric approach to synthetic patients generation using health data**|Marta Cipriani et.al.|[2412.21056](http://arxiv.org/abs/2412.21056)|**[link](https://github.com/ldirocco/fleSSy)**|
 |**2024-12-30**|**Rethinking Aleatoric and Epistemic Uncertainty**|Freddie Bickford Smith et.al.|[2412.20892](http://arxiv.org/abs/2412.20892)|null|
 |**2024-12-31**|**HUNYUANPROVER: A Scalable Data Synthesis Framework and Guided Tree Search for Automated Theorem Proving**|Yang Li et.al.|[2412.20735](http://arxiv.org/abs/2412.20735)|null|
