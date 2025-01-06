@@ -1,4 +1,4 @@
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -300,7 +300,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -313,8 +313,8 @@
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368](http://arxiv.org/abs/2501.01368)|null|
 |**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367](http://arxiv.org/abs/2501.01367)|null|
-|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
-|**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
+|**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-03**|**TabTreeFormer: Tabular Data Generation Using Hybrid Tree-Transformer**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
 |**2025-01-02**|**Range-Only Localization System for Small-Scale Flapping-Wing Robots**|Raul Tapia et.al.|[2501.01213](http://arxiv.org/abs/2501.01213)|null|
 |**2025-01-02**|**LayeringDiff: Layered Image Synthesis via Generation, then Disassembly with Generative Knowledge**|Kyoungkook Kang et.al.|[2501.01197](http://arxiv.org/abs/2501.01197)|null|
 |**2025-01-02**|**TexAVi: Generating Stereoscopic VR Video Clips from Text Descriptions**|Vriksha Srihari et.al.|[2501.01156](http://arxiv.org/abs/2501.01156)|null|
@@ -2012,7 +2012,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -2613,7 +2613,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -2828,7 +2828,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -3027,7 +3027,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -3036,7 +3036,7 @@
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
 |**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|**[link](https://github.com/hustvl/LightningDiT)**|
 |**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368](http://arxiv.org/abs/2501.01368)|null|
-|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
 |**2025-01-02**|**Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission**|Maojun Zhang et.al.|[2501.01138](http://arxiv.org/abs/2501.01138)|null|
 |**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097](http://arxiv.org/abs/2501.01097)|null|
 |**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066](http://arxiv.org/abs/2501.01066)|null|
@@ -4150,7 +4150,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -4358,17 +4358,17 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-02**|**OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**|Xize Cheng et.al.|[2501.01384](http://arxiv.org/abs/2501.01384)|null|
-|**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
+|**2025-01-03**|**TabTreeFormer: Tabular Data Generation Using Hybrid Tree-Transformer**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
 |**2025-01-02**|**Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection**|Dat Nguyen et.al.|[2501.01184](http://arxiv.org/abs/2501.01184)|null|
 |**2025-01-02**|**Ultrasound Lung Aeration Map via Physics-Aware Neural Operators**|Jiayun Wang et.al.|[2501.01157](http://arxiv.org/abs/2501.01157)|null|
-|**2025-01-02**|**KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model**|Xinshuo Hu et.al.|[2501.01028](http://arxiv.org/abs/2501.01028)|**[link](https://github.com/HITsz-TMG/KaLM-Embedding)**|
+|**2025-01-03**|**KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model**|Xinshuo Hu et.al.|[2501.01028](http://arxiv.org/abs/2501.01028)|**[link](https://github.com/HITsz-TMG/KaLM-Embedding)**|
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954](http://arxiv.org/abs/2501.00954)|null|
 |**2025-01-01**|**A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset**|Junhuan Yang et.al.|[2501.00941](http://arxiv.org/abs/2501.00941)|null|
 |**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|**[link](https://github.com/wmd3i/PaD-TS)**|
@@ -4847,5 +4847,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250106>back to top</a>)</p>
 

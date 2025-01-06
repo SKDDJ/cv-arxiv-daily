@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -315,8 +315,8 @@ layout: default
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368](http://arxiv.org/abs/2501.01368)|null|
 |**2025-01-02**|**Contrastive Learning from Exploratory Actions: Leveraging Natural Interactions for Preference Elicitation**|Nathaniel Dennler et.al.|[2501.01367](http://arxiv.org/abs/2501.01367)|null|
-|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
-|**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
+|**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-03**|**TabTreeFormer: Tabular Data Generation Using Hybrid Tree-Transformer**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
 |**2025-01-02**|**Range-Only Localization System for Small-Scale Flapping-Wing Robots**|Raul Tapia et.al.|[2501.01213](http://arxiv.org/abs/2501.01213)|null|
 |**2025-01-02**|**LayeringDiff: Layered Image Synthesis via Generation, then Disassembly with Generative Knowledge**|Kyoungkook Kang et.al.|[2501.01197](http://arxiv.org/abs/2501.01197)|null|
 |**2025-01-02**|**TexAVi: Generating Stereoscopic VR Video Clips from Text Descriptions**|Vriksha Srihari et.al.|[2501.01156](http://arxiv.org/abs/2501.01156)|null|
@@ -3030,7 +3030,7 @@ layout: default
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
 |**2025-01-02**|**Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models**|Jingfeng Yao et.al.|[2501.01423](http://arxiv.org/abs/2501.01423)|**[link](https://github.com/hustvl/LightningDiT)**|
 |**2025-01-02**|**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement**|Z. Zhang et.al.|[2501.01368](http://arxiv.org/abs/2501.01368)|null|
-|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
 |**2025-01-02**|**Semantics-Guided Diffusion for Deep Joint Source-Channel Coding in Wireless Image Transmission**|Maojun Zhang et.al.|[2501.01138](http://arxiv.org/abs/2501.01138)|null|
 |**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097](http://arxiv.org/abs/2501.01097)|null|
 |**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066](http://arxiv.org/abs/2501.01066)|null|
@@ -4355,10 +4355,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-02**|**OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**|Xize Cheng et.al.|[2501.01384](http://arxiv.org/abs/2501.01384)|null|
-|**2025-01-02**|**TabTreeFormer: Tree Augmented Tabular Data Generation using Transformers**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
+|**2025-01-03**|**TabTreeFormer: Tabular Data Generation Using Hybrid Tree-Transformer**|Jiayu Li et.al.|[2501.01216](http://arxiv.org/abs/2501.01216)|null|
 |**2025-01-02**|**Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection**|Dat Nguyen et.al.|[2501.01184](http://arxiv.org/abs/2501.01184)|null|
 |**2025-01-02**|**Ultrasound Lung Aeration Map via Physics-Aware Neural Operators**|Jiayun Wang et.al.|[2501.01157](http://arxiv.org/abs/2501.01157)|null|
-|**2025-01-02**|**KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model**|Xinshuo Hu et.al.|[2501.01028](http://arxiv.org/abs/2501.01028)|**[link](https://github.com/HITsz-TMG/KaLM-Embedding)**|
+|**2025-01-03**|**KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model**|Xinshuo Hu et.al.|[2501.01028](http://arxiv.org/abs/2501.01028)|**[link](https://github.com/HITsz-TMG/KaLM-Embedding)**|
 |**2025-01-01**|**Enhancing Early Diabetic Retinopathy Detection through Synthetic DR1 Image Generation: A StyleGAN3 Approach**|Sagarnil Das et.al.|[2501.00954](http://arxiv.org/abs/2501.00954)|null|
 |**2025-01-01**|**A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset**|Junhuan Yang et.al.|[2501.00941](http://arxiv.org/abs/2501.00941)|null|
 |**2025-01-01**|**Population Aware Diffusion for Time Series Generation**|Yang Li et.al.|[2501.00910](http://arxiv.org/abs/2501.00910)|**[link](https://github.com/wmd3i/PaD-TS)**|
