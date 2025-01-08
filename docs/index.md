@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,7 +25,7 @@ layout: default
 |**2025-01-05**|**Efficient Deployment of Large Language Models on Resource-constrained Devices**|Zhiwei Yao et.al.|[2501.02438](http://arxiv.org/abs/2501.02438)|null|
 |**2025-01-04**|**tCURLoRA: Tensor CUR Decomposition Based Low-Rank Parameter Adaptation for Medical Image Segmentation**|Guanghua He et.al.|[2501.02227](http://arxiv.org/abs/2501.02227)|null|
 |**2025-01-03**|**SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation**|Mingjie Li et.al.|[2501.01765](http://arxiv.org/abs/2501.01765)|null|
-|**2025-01-03**|**Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption**|Zhang Ruoyan et.al.|[2501.01672](http://arxiv.org/abs/2501.01672)|null|
+|**2025-01-07**|**Practical Secure Inference Algorithm for Fine-tuned Large Language Model Based on Fully Homomorphic Encryption**|Zhang Ruoyan et.al.|[2501.01672](http://arxiv.org/abs/2501.01672)|null|
 |**2024-12-30**|**Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment**|Jianfei Zhang et.al.|[2412.20834](http://arxiv.org/abs/2412.20834)|**[link](https://github.com/zhangjf-nlp/LatentDPO)**|
 |**2024-12-28**|**VELoRA: A Low-Rank Adaptation Approach for Efficient RGB-Event based Recognition**|Lan Chen et.al.|[2412.20064](http://arxiv.org/abs/2412.20064)|**[link](https://github.com/event-ahu/velora)**|
 |**2025-01-05**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|**[link](https://github.com/jhhuangkay/gradient-weight-normalized-low-rank-projection-for-efficient-llm-training)**|
@@ -319,14 +319,14 @@ layout: default
 |**2025-01-06**|**TransPixar: Advancing Text-to-Video Generation with Transparency**|Luozhou Wang et.al.|[2501.03006](http://arxiv.org/abs/2501.03006)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976](http://arxiv.org/abs/2501.02976)|null|
 |**2025-01-06**|**Leader Rotation Is Not Enough: Scrutinizing Leadership Democracy of Chained BFT Consensus**|Yining Tang et.al.|[2501.02970](http://arxiv.org/abs/2501.02970)|null|
-|**2025-01-06**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962](http://arxiv.org/abs/2501.02962)|null|
+|**2025-01-07**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962](http://arxiv.org/abs/2501.02962)|null|
 |**2025-01-06**|**Inhibition of bacterial growth by antibiotics**|Barnabe Ledoux et.al.|[2501.02944](http://arxiv.org/abs/2501.02944)|null|
 |**2025-01-06**|**Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions**|Jianhua Pei et.al.|[2501.02928](http://arxiv.org/abs/2501.02928)|null|
 |**2025-01-06**|**Pointmap-Conditioned Diffusion for Consistent Novel View Synthesis**|Thang-Anh-Quan Nguyen et.al.|[2501.02913](http://arxiv.org/abs/2501.02913)|null|
 |**2025-01-06**|**Sim-to-Real Transfer for Mobile Robots with Reinforcement Learning: from NVIDIA Isaac Sim to Gazebo and Real ROS 2 Robots**|Sahar Salimpour et.al.|[2501.02902](http://arxiv.org/abs/2501.02902)|**[link](https://github.com/sahars93/rl-navigation)**|
 |**2025-01-06**|**Conditional Mutual Information Based Diffusion Posterior Sampling for Solving Inverse Problems**|Shayan Mohajer Hamidi et.al.|[2501.02880](http://arxiv.org/abs/2501.02880)|null|
 |**2025-01-06**|**Towards HRTF Personalization using Denoising Diffusion Models**|Juan Camilo Albarracín Sánchez et.al.|[2501.02871](http://arxiv.org/abs/2501.02871)|null|
-|**2025-01-06**|**Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans**|Rezkellah Noureddine Khiati et.al.|[2501.02867](http://arxiv.org/abs/2501.02867)|null|
+|**2025-01-07**|**Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans**|Rezkellah Noureddine Khiati et.al.|[2501.02867](http://arxiv.org/abs/2501.02867)|null|
 |**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850](http://arxiv.org/abs/2501.02850)|null|
 |**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
 |**2025-01-03**|**MADGEN -- Mass-Spec attends to De Novo Molecular generation**|Yinkai Wang et.al.|[2501.01950](http://arxiv.org/abs/2501.01950)|null|
@@ -3069,12 +3069,12 @@ layout: default
 |**2025-01-06**|**DDRM-PR: Fourier Phase Retrieval using Denoising Diffusion Restoration Models**|Mehmet Onurcan Kaya et.al.|[2501.03030](http://arxiv.org/abs/2501.03030)|**[link](https://github.com/metu-space-lab/ddrm-pr)**|
 |**2025-01-06**|**Convexity in ReLU Neural Networks: beyond ICNNs?**|Anne Gagneux et.al.|[2501.03017](http://arxiv.org/abs/2501.03017)|null|
 |**2025-01-06**|**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution**|Rui Xie et.al.|[2501.02976](http://arxiv.org/abs/2501.02976)|null|
-|**2025-01-06**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962](http://arxiv.org/abs/2501.02962)|null|
+|**2025-01-07**|**SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild**|Jiawei Liu et.al.|[2501.02962](http://arxiv.org/abs/2501.02962)|null|
 |**2025-01-06**|**Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions**|Jianhua Pei et.al.|[2501.02928](http://arxiv.org/abs/2501.02928)|null|
 |**2025-01-06**|**Pointmap-Conditioned Diffusion for Consistent Novel View Synthesis**|Thang-Anh-Quan Nguyen et.al.|[2501.02913](http://arxiv.org/abs/2501.02913)|null|
 |**2025-01-06**|**Conditional Mutual Information Based Diffusion Posterior Sampling for Solving Inverse Problems**|Shayan Mohajer Hamidi et.al.|[2501.02880](http://arxiv.org/abs/2501.02880)|null|
 |**2025-01-06**|**Towards HRTF Personalization using Denoising Diffusion Models**|Juan Camilo Albarracín Sánchez et.al.|[2501.02871](http://arxiv.org/abs/2501.02871)|null|
-|**2025-01-06**|**Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans**|Rezkellah Noureddine Khiati et.al.|[2501.02867](http://arxiv.org/abs/2501.02867)|null|
+|**2025-01-07**|**Diff-Lung: Diffusion-Based Texture Synthesis for Enhanced Pathological Tissue Segmentation in Lung CT Scans**|Rezkellah Noureddine Khiati et.al.|[2501.02867](http://arxiv.org/abs/2501.02867)|null|
 |**2025-01-06**|**InpDiffusion: Image Inpainting Localization via Conditional Diffusion Models**|Kai Wang et.al.|[2501.02816](http://arxiv.org/abs/2501.02816)|null|
 |**2025-01-06**|**Fairness Through Matching**|Kunwoong Kim et.al.|[2501.02793](http://arxiv.org/abs/2501.02793)|**[link](https://github.com/kwkimonline/ftm)**|
 |**2025-01-06**|**Brick-Diffusion: Generating Long Videos with Brick-to-Wall Denoising**|Yunlong Yuan et.al.|[2501.02741](http://arxiv.org/abs/2501.02741)|null|
@@ -4206,7 +4206,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
+|**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
 |**2025-01-06**|**Comprehensive Pathological Image Segmentation via Teacher Aggregation for Tumor Microenvironment Analysis**|Daisuke Komura et.al.|[2501.02909](http://arxiv.org/abs/2501.02909)|null|
 |**2025-01-06**|**Knowledge Distillation with Adapted Weight**|Sirong Wu et.al.|[2501.02705](http://arxiv.org/abs/2501.02705)|null|
 |**2025-01-05**|**Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding**|Binh-Nguyen Nguyen et.al.|[2501.02432](http://arxiv.org/abs/2501.02432)|**[link](https://github.com/he-y/nlp-dataset-pruning)**|
