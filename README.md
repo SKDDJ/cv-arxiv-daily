@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**TADFormer : Task-Adaptive Dynamic Transformer for Efficient Multi-Task Learning**|Seungmin Baek et.al.|[2501.04293](http://arxiv.org/abs/2501.04293)|null|
 |**2025-01-07**|**Spectral-Aware Low-Rank Adaptation for Speaker Verification**|Zhe Li et.al.|[2501.03829](http://arxiv.org/abs/2501.03829)|null|
 |**2025-01-06**|**ADePT: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning**|Pengwei Tang et.al.|[2501.03291](http://arxiv.org/abs/2501.03291)|null|
 |**2025-01-05**|**HALO: Hadamard-Assisted Lossless Optimization for Efficient Low-Precision LLM Training and Fine-Tuning**|Saleh Ashkboos et.al.|[2501.02625](http://arxiv.org/abs/2501.02625)|null|
@@ -313,6 +314,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
+|**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
+|**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**Integrating IPbus ALFRED into the ALICE-FIT setup**|Krystian Roslon et.al.|[2501.04685](http://arxiv.org/abs/2501.04685)|null|
+|**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
+|**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641](http://arxiv.org/abs/2501.04641)|**[link](https://github.com/willcai7/multimodal-ghm)**|
+|**2025-01-08**|**Knowledge Retrieval Based on Generative AI**|Te-Lun Yang et.al.|[2501.04635](http://arxiv.org/abs/2501.04635)|null|
+|**2025-01-08**|**Disentangled Clothed Avatar Generation with Layered Representation**|Weitian Zhang et.al.|[2501.04631](http://arxiv.org/abs/2501.04631)|null|
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614](http://arxiv.org/abs/2501.04614)|null|
+|**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606](http://arxiv.org/abs/2501.04606)|null|
+|**2025-01-08**|**Understanding Expectations for a Robotic Guide Dog for Visually Impaired People**|J. Taery Kim et.al.|[2501.04594](http://arxiv.org/abs/2501.04594)|null|
+|**2025-01-08**|**Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time**|Uri Berger et.al.|[2501.04513](http://arxiv.org/abs/2501.04513)|null|
+|**2025-01-08**|**Simultaneous MOKE imaging and measurement of magneto-resistance with vector magnet: a low noise customized setup for low field magnetic devices and thin films characterization**|Imtiaz Noor Bhatti et.al.|[2501.04431](http://arxiv.org/abs/2501.04431)|null|
+|**2025-01-08**|**End-to-End Bangla AI for Solving Math Olympiad Problem Benchmark: Leveraging Large Language Model Using Integrated Approach**|H. M. Shadman Tabib et.al.|[2501.04425](http://arxiv.org/abs/2501.04425)|null|
 |**2025-01-07**|**WAPTS: A Weighted Allocation Probability Adjusted Thompson Sampling Algorithm for High-Dimensional and Sparse Experiment Settings**|Haochen Song et.al.|[2501.03999](http://arxiv.org/abs/2501.03999)|null|
 |**2025-01-07**|**Synthetic Data for Portfolios: A Throw of the Dice Will Never Abolish Chance**|Adil Rengim Cetingoz et.al.|[2501.03993](http://arxiv.org/abs/2501.03993)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
@@ -2070,6 +2086,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
 |**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895](http://arxiv.org/abs/2501.03895)|**[link](https://github.com/ictnlp/llava-mini)**|
 |**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879](http://arxiv.org/abs/2501.03879)|null|
 |**2025-01-06**|**CM3T: Framework for Efficient Multimodal Learning for Inhomogeneous Interaction Datasets**|Tanay Agrawal et.al.|[2501.03332](http://arxiv.org/abs/2501.03332)|null|
@@ -2675,6 +2692,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Towards Fair Class-wise Robustness: Class Optimal Distribution Adversarial Training**|Hongxin Zhi et.al.|[2501.04527](http://arxiv.org/abs/2501.04527)|null|
 |**2025-01-07**|**Cartan-covariant Quantum Channels and the PPT $^{2}$ conjecture**|Sean Prudhoe et.al.|[2501.03959](http://arxiv.org/abs/2501.03959)|null|
 |**2025-01-07**|**On the surjectivity of the Cauchy-Riemann and Laplace operators on weighted spaces of smooth functions**|Andreas Debrouwere et.al.|[2501.03751](http://arxiv.org/abs/2501.03751)|null|
 |**2025-01-06**|**The 3D energy-critical inhomogeneous nonlinear Schrodinger equation with strong singularity**|Yoonjung Lee et.al.|[2501.02697](http://arxiv.org/abs/2501.02697)|null|
@@ -3092,6 +3110,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
+|**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
+|**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
+|**2025-01-08**|**Quadratic-form Optimal Transport**|Ruodu Wang et.al.|[2501.04658](http://arxiv.org/abs/2501.04658)|null|
+|**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641](http://arxiv.org/abs/2501.04641)|**[link](https://github.com/willcai7/multimodal-ghm)**|
+|**2025-01-08**|**Disentangled Clothed Avatar Generation with Layered Representation**|Weitian Zhang et.al.|[2501.04631](http://arxiv.org/abs/2501.04631)|null|
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614](http://arxiv.org/abs/2501.04614)|null|
+|**2025-01-08**|**Enhancing Low-Cost Video Editing with Lightweight Adaptors and Temporal-Aware Inversion**|Yangfan He et.al.|[2501.04606](http://arxiv.org/abs/2501.04606)|null|
+|**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416](http://arxiv.org/abs/2501.04416)|null|
+|**2025-01-08**|**Edit as You See: Image-guided Video Editing via Masked Motion Modeling**|Zhi-Lin Huang et.al.|[2501.04325](http://arxiv.org/abs/2501.04325)|null|
+|**2025-01-08**|**Local convergence near equilibria for distribution dependent SDEs**|Shao-Qin Zhang et.al.|[2501.04313](http://arxiv.org/abs/2501.04313)|null|
+|**2025-01-08**|**DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models**|Hyogon Ryu et.al.|[2501.04304](http://arxiv.org/abs/2501.04304)|null|
+|**2025-01-08**|**ContextMRI: Enhancing Compressed Sensing MRI through Metadata Conditioning**|Hyungjin Chung et.al.|[2501.04284](http://arxiv.org/abs/2501.04284)|null|
+|**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256](http://arxiv.org/abs/2501.04256)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**Stabilising effect of generic anomalous diffusion independent of the Rayleigh number**|Antonio Barletta et.al.|[2501.03990](http://arxiv.org/abs/2501.03990)|null|
 |**2025-01-07**|**A precise asymptotic analysis of learning diffusion models: theory and insights**|Hugo Cui et.al.|[2501.03937](http://arxiv.org/abs/2501.03937)|null|
@@ -4251,6 +4283,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Boosting Salient Object Detection with Knowledge Distillated from Large Foundation Models**|Miaoyang He et.al.|[2501.04582](http://arxiv.org/abs/2501.04582)|null|
+|**2025-01-08**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions**|Na Yan et.al.|[2501.04436](http://arxiv.org/abs/2501.04436)|null|
+|**2025-01-08**|**Enhancing Scene Classification in Cloudy Image Scenarios: A Collaborative Transfer Method with Information Regulation Mechanism using Optical Cloud-Covered and SAR Remote Sensing Images**|Yuze Wang et.al.|[2501.04283](http://arxiv.org/abs/2501.04283)|null|
+|**2025-01-08**|**Generative Dataset Distillation Based on Self-knowledge Distillation**|Longzhen Li et.al.|[2501.04202](http://arxiv.org/abs/2501.04202)|null|
+|**2025-01-07**|**FedKD-hybrid: Federated Hybrid Knowledge Distillation for Lithography Hotspot Detection**|Yuqi Li et.al.|[2501.04066](http://arxiv.org/abs/2501.04066)|**[link](https://github.com/itsnotacie/nn-fedkd-hybrid)**|
 |**2025-01-07**|**A Diversity-Enhanced Knowledge Distillation Model for Practical Math Word Problem Solving**|Yi Zhang et.al.|[2501.03670](http://arxiv.org/abs/2501.03670)|**[link](https://github.com/a773938364/divkd)**|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
 |**2025-01-05**|**Strategic Fusion Optimizes Transformer Compression**|Md Shoaibur Rahman et.al.|[2501.03273](http://arxiv.org/abs/2501.03273)|null|
@@ -4475,6 +4512,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Though**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
+|**2025-01-08**|**Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling**|Nannan Li et.al.|[2501.04666](http://arxiv.org/abs/2501.04666)|null|
+|**2025-01-08**|**MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation**|Daniele Molino et.al.|[2501.04614](http://arxiv.org/abs/2501.04614)|null|
+|**2025-01-08**|**MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data**|Zifan Wang et.al.|[2501.04595](http://arxiv.org/abs/2501.04595)|null|
+|**2025-01-08**|**Inferring resource competition in microbial communities from time series**|Xiaowen Chen et.al.|[2501.04520](http://arxiv.org/abs/2501.04520)|null|
+|**2025-01-08**|**User Simulation in the Era of Generative AI: User Modeling, Synthetic Data Generation, and System Evaluation**|Krisztian Balog et.al.|[2501.04410](http://arxiv.org/abs/2501.04410)|null|
+|**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155](http://arxiv.org/abs/2501.04155)|**[link](https://github.com/sjoshi804/mm-gen)**|
+|**2025-01-07**|**Scalable Discovery of Fundamental Physical Laws: Learning Magnetohydrodynamics from 3D Turbulence Data**|Matthew Golden et.al.|[2501.04094](http://arxiv.org/abs/2501.04094)|null|
 |**2025-01-07**|**Synthetic Data for Portfolios: A Throw of the Dice Will Never Abolish Chance**|Adil Rengim Cetingoz et.al.|[2501.03993](http://arxiv.org/abs/2501.03993)|null|
 |**2025-01-07**|**Synthetic Data Privacy Metrics**|Amy Steier et.al.|[2501.03941](http://arxiv.org/abs/2501.03941)|null|
 |**2025-01-07**|**A precise asymptotic analysis of learning diffusion models: theory and insights**|Hugo Cui et.al.|[2501.03937](http://arxiv.org/abs/2501.03937)|null|
