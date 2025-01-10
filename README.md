@@ -314,6 +314,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
+|**2025-01-09**|**Consistent Flow Distillation for Text-to-3D Generation**|Runjie Yan et.al.|[2501.05445](http://arxiv.org/abs/2501.05445)|null|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
+|**2025-01-09**|**The GAN is dead; long live the GAN! A Modern GAN Baseline**|Yiwen Huang et.al.|[2501.05441](http://arxiv.org/abs/2501.05441)|null|
+|**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
+|**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|null|
+|**2025-01-09**|**Integrating Explainable AI for Effective Malware Detection in Encrypted Network Traffic**|Sileshi Nibret Zeleke et.al.|[2501.05387](http://arxiv.org/abs/2501.05387)|null|
+|**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
+|**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359](http://arxiv.org/abs/2501.05359)|null|
+|**2025-01-09**|**Video-Conferencing Beyond Screen-Sharing and Thumbnail Webcam Videos: Gesture-Aware Augmented Reality Video for Data-Rich Remote Presentations**|Matthew Brehmer et.al.|[2501.05345](http://arxiv.org/abs/2501.05345)|null|
+|**2025-01-09**|**The Bakers and Millers Game with Restricted Locations**|Simon Krogmann et.al.|[2501.05334](http://arxiv.org/abs/2501.05334)|null|
+|**2025-01-09**|**Patch-GAN Transfer Learning with Reconstructive Models for Cloud Removal**|Wanli Ma et.al.|[2501.05265](http://arxiv.org/abs/2501.05265)|null|
+|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
+|**2025-01-09**|**A Novel Approach to Scalable and Automatic Topic-Controlled Question Generation in Education**|Ziqing Li et.al.|[2501.05220](http://arxiv.org/abs/2501.05220)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
 |**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
@@ -2086,6 +2101,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer**|Hangzhou He et.al.|[2501.04975](http://arxiv.org/abs/2501.04975)|null|
 |**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
 |**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895](http://arxiv.org/abs/2501.03895)|**[link](https://github.com/ictnlp/llava-mini)**|
 |**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879](http://arxiv.org/abs/2501.03879)|null|
@@ -2692,6 +2708,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**CallNavi: A Study and Challenge on Function Calling Routing and Invocation in Large Language Models**|Yewei Song et.al.|[2501.05255](http://arxiv.org/abs/2501.05255)|null|
 |**2025-01-08**|**Towards Fair Class-wise Robustness: Class Optimal Distribution Adversarial Training**|Hongxin Zhi et.al.|[2501.04527](http://arxiv.org/abs/2501.04527)|null|
 |**2025-01-08**|**Cartan-covariant Quantum Channels and the PPT $^{2}$ conjecture**|Sean Prudhoe et.al.|[2501.03959](http://arxiv.org/abs/2501.03959)|null|
 |**2025-01-07**|**On the surjectivity of the Cauchy-Riemann and Laplace operators on weighted spaces of smooth functions**|Andreas Debrouwere et.al.|[2501.03751](http://arxiv.org/abs/2501.03751)|null|
@@ -3110,6 +3127,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Decentralized Diffusion Models**|David McAllister et.al.|[2501.05450](http://arxiv.org/abs/2501.05450)|null|
+|**2025-01-09**|**Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces**|Aniruddha Mahapatra et.al.|[2501.05442](http://arxiv.org/abs/2501.05442)|null|
+|**2025-01-09**|**The GAN is dead; long live the GAN! A Modern GAN Baseline**|Yiwen Huang et.al.|[2501.05441](http://arxiv.org/abs/2501.05441)|null|
+|**2025-01-09**|**Zero-1-to-G: Taming Pretrained 2D Diffusion Model for Direct 3D Generation**|Xuyi Meng et.al.|[2501.05427](http://arxiv.org/abs/2501.05427)|null|
+|**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|null|
+|**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
+|**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359](http://arxiv.org/abs/2501.05359)|null|
+|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
+|**2025-01-09**|**FaceMe: Robust Blind Face Restoration with Personal Identification**|Siyu Liu et.al.|[2501.05177](http://arxiv.org/abs/2501.05177)|null|
+|**2025-01-09**|**DiffAttack: Diffusion-based Timbre-reserved Adversarial Attack in Speaker Identification**|Qing Wang et.al.|[2501.05127](http://arxiv.org/abs/2501.05127)|null|
+|**2025-01-09**|**EquiBoost: An Equivariant Boosting Approach to Molecular Conformation Generation**|Yixuan Yang et.al.|[2501.05109](http://arxiv.org/abs/2501.05109)|null|
+|**2025-01-09**|**Recovery of activation propagation and self-sustained oscillation abilities in stroke brain networks**|Yingpeng Liu et.al.|[2501.05099](http://arxiv.org/abs/2501.05099)|null|
+|**2025-01-09**|**ResPanDiff: Diffusion Model with Disentangled Modulations for Image Fusion**|Shiqi Cao et.al.|[2501.05091](http://arxiv.org/abs/2501.05091)|null|
+|**2025-01-09**|**D3RM: A Discrete Denoising Diffusion Refinement Model for Piano Transcription**|Hounsu Kim et.al.|[2501.05068](http://arxiv.org/abs/2501.05068)|null|
+|**2025-01-09**|**On a reaction-diffusion virus model with general boundary conditions in heterogeneous environments**|Mingxin Wang et.al.|[2501.04992](http://arxiv.org/abs/2501.04992)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
 |**2025-01-08**|**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning**|Yuzhou Huang et.al.|[2501.04698](http://arxiv.org/abs/2501.04698)|null|
 |**2025-01-08**|**SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**|Zixuan Huang et.al.|[2501.04689](http://arxiv.org/abs/2501.04689)|null|
@@ -4512,6 +4544,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance**|Dimitrios Gerogiannis et.al.|[2501.05379](http://arxiv.org/abs/2501.05379)|null|
+|**2025-01-09**|**KabaddiPy: A package to enable access to Professional Kabaddi Data**|Bhaskar Lalwani et.al.|[2501.05168](http://arxiv.org/abs/2501.05168)|null|
+|**2025-01-09**|**Biomedical Relation Extraction via Adaptive Document-Relation Cross-Mapping and Concept Unique Identifier**|Yufei Shang et.al.|[2501.05155](http://arxiv.org/abs/2501.05155)|null|
+|**2025-01-09**|**Constrained Optimization of Charged Particle Tracking with Multi-Agent Reinforcement Learning**|Tobias Kortus et.al.|[2501.05113](http://arxiv.org/abs/2501.05113)|null|
+|**2025-01-09**|**MORDA: A Synthetic Dataset to Facilitate Adaptation of Object Detectors to Unseen Real-target Domain While Preserving Performance on Real-source Domain**|Hojun Lim et.al.|[2501.04950](http://arxiv.org/abs/2501.04950)|null|
+|**2025-01-09**|**Towards understanding the bias in decision trees**|Nathan Phelps et.al.|[2501.04903](http://arxiv.org/abs/2501.04903)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
 |**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling**|Nannan Li et.al.|[2501.04666](http://arxiv.org/abs/2501.04666)|null|
