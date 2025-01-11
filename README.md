@@ -2101,7 +2101,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-09**|**V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer**|Hangzhou He et.al.|[2501.04975](http://arxiv.org/abs/2501.04975)|null|
+|**2025-01-09**|**V2C-CBM: Building Concept Bottlenecks with Vision-to-Concept Tokenizer**|Hangzhou He et.al.|[2501.04975](http://arxiv.org/abs/2501.04975)|**[link](https://github.com/riverback/v2c-cbm)**|
 |**2025-01-08**|**Are They the Same? Exploring Visual Correspondence Shortcomings of Multimodal LLMs**|Yikang Zhou et.al.|[2501.04670](http://arxiv.org/abs/2501.04670)|**[link](https://github.com/zhouyiks/colva)**|
 |**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895](http://arxiv.org/abs/2501.03895)|**[link](https://github.com/ictnlp/llava-mini)**|
 |**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879](http://arxiv.org/abs/2501.03879)|null|
@@ -4321,15 +4321,15 @@
 |**2025-01-08**|**Generative Dataset Distillation Based on Self-knowledge Distillation**|Longzhen Li et.al.|[2501.04202](http://arxiv.org/abs/2501.04202)|null|
 |**2025-01-07**|**FedKD-hybrid: Federated Hybrid Knowledge Distillation for Lithography Hotspot Detection**|Yuqi Li et.al.|[2501.04066](http://arxiv.org/abs/2501.04066)|**[link](https://github.com/itsnotacie/nn-fedkd-hybrid)**|
 |**2025-01-07**|**A Diversity-Enhanced Knowledge Distillation Model for Practical Math Word Problem Solving**|Yi Zhang et.al.|[2501.03670](http://arxiv.org/abs/2501.03670)|**[link](https://github.com/a773938364/divkd)**|
-|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
+|**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|**[link](https://github.com/zxk1212/concealgs)**|
 |**2025-01-05**|**Strategic Fusion Optimizes Transformer Compression**|Md Shoaibur Rahman et.al.|[2501.03273](http://arxiv.org/abs/2501.03273)|null|
 |**2025-01-04**|**Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies**|Xubin Wang et.al.|[2501.03265](http://arxiv.org/abs/2501.03265)|**[link](https://github.com/wangxb96/awesome-ai-on-the-edge)**|
-|**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
+|**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|**[link](https://github.com/hkuds/lightgnn)**|
 |**2025-01-06**|**Comprehensive Pathological Image Segmentation via Teacher Aggregation for Tumor Microenvironment Analysis**|Daisuke Komura et.al.|[2501.02909](http://arxiv.org/abs/2501.02909)|null|
 |**2025-01-06**|**Knowledge Distillation with Adapted Weight**|Sirong Wu et.al.|[2501.02705](http://arxiv.org/abs/2501.02705)|null|
 |**2025-01-05**|**Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding**|Binh-Nguyen Nguyen et.al.|[2501.02432](http://arxiv.org/abs/2501.02432)|**[link](https://github.com/he-y/nlp-dataset-pruning)**|
 |**2025-01-04**|**Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison**|Tsz Kin Lam et.al.|[2501.02370](http://arxiv.org/abs/2501.02370)|null|
-|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
+|**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|**[link](https://github.com/wangsch10/v2x-dgpe)**|
 |**2025-01-09**|**KD-MSLRT: Lightweight Sign Language Recognition Model Based on Mediapipe and 3D to 1D Knowledge Distillation**|Yulong Li et.al.|[2501.02321](http://arxiv.org/abs/2501.02321)|null|
 |**2025-01-04**|**Distillation-Enhanced Physical Adversarial Attacks**|Wei Liu et.al.|[2501.02232](http://arxiv.org/abs/2501.02232)|null|
 |**2025-01-03**|**Structural and Statistical Audio Texture Knowledge Distillation (SSATKD) for Passive Sonar Classification**|Jarin Ritu et.al.|[2501.01921](http://arxiv.org/abs/2501.01921)|null|
