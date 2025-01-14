@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.13
+## Updated on 2025.01.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2128,7 +2128,7 @@ layout: default
 |**2025-01-02**|**3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**|Jiajun Deng et.al.|[2501.01163](http://arxiv.org/abs/2501.01163)|null|
 |**2025-01-02**|**Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning**|Jian Lang et.al.|[2501.01120](http://arxiv.org/abs/2501.01120)|**[link](https://github.com/jian-lang/ragpt)**|
 |**2025-01-10**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042](http://arxiv.org/abs/2501.01042)|null|
-|**2025-01-02**|**Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models**|Bin Wang et.al.|[2501.01034](http://arxiv.org/abs/2501.01034)|null|
+|**2025-01-11**|**Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models**|Bin Wang et.al.|[2501.01034](http://arxiv.org/abs/2501.01034)|null|
 |**2025-01-01**|**Negative to Positive Co-learning with Aggressive Modality Dropout**|Nicholas Magal et.al.|[2501.00865](http://arxiv.org/abs/2501.00865)|**[link](https://github.com/nmagal/modality_drop_for_colearning)**|
 |**2024-12-31**|**OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning**|Ling Fu et.al.|[2501.00321](http://arxiv.org/abs/2501.00321)|**[link](https://github.com/yuliang-liu/multimodalocr)**|
 |**2024-12-31**|**Dual Diffusion for Unified Image Generation and Understanding**|Zijie Li et.al.|[2501.00289](http://arxiv.org/abs/2501.00289)|null|
