@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4665,7 +4665,7 @@ layout: default
 |**2025-01-13**|**Ultrasonic Medical Tissue Imaging Using Probabilistic Inversion: Leveraging Variational Inference for Speed Reconstruction and Uncertainty Quantification**|Qiang Li et.al.|[2501.07348](http://arxiv.org/abs/2501.07348)|null|
 |**2025-01-13**|**The Lessons of Developing Process Reward Models in Mathematical Reasoning**|Zhenru Zhang et.al.|[2501.07301](http://arxiv.org/abs/2501.07301)|null|
 |**2025-01-13**|**A data-driven approach to discover and quantify systemic lupus erythematosus etiological heterogeneity from electronic health records**|Marco Barbero Mota et.al.|[2501.07206](http://arxiv.org/abs/2501.07206)|null|
-|**2025-01-13**|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[2501.07163](http://arxiv.org/abs/2501.07163)|null|
+|**2025-01-15**|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[2501.07163](http://arxiv.org/abs/2501.07163)|null|
 |**2025-01-13**|**State-space algorithm for detecting the nanohertz gravitational wave background**|Tom Kimpson et.al.|[2501.06990](http://arxiv.org/abs/2501.06990)|null|
 |**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903](http://arxiv.org/abs/2501.06903)|null|
 |**2025-01-12**|**DRDT3: Diffusion-Refined Decision Test-Time Training Model**|Xingshuai Huang et.al.|[2501.06718](http://arxiv.org/abs/2501.06718)|null|
