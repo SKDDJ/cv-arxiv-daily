@@ -322,6 +322,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
+|**2025-01-16**|**Learnings from Scaling Visual Tokenizers for Reconstruction and Generation**|Philippe Hansen-Estruch et.al.|[2501.09755](http://arxiv.org/abs/2501.09755)|null|
+|**2025-01-16**|**KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports**|Hajung Kim et.al.|[2501.09744](http://arxiv.org/abs/2501.09744)|null|
+|**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
+|**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719](http://arxiv.org/abs/2501.09719)|null|
+|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
+|**2025-01-16**|**A Survey of Research in Large Language Models for Electronic Design Automation**|Jingyu Pan et.al.|[2501.09655](http://arxiv.org/abs/2501.09655)|null|
+|**2025-01-16**|**Fabrication of Mode-Matched, Low-Loss Optical Resonators by Combination of FIB-Milling and CO $_2$ Laser Ablation**|Patrick Maier et.al.|[2501.09577](http://arxiv.org/abs/2501.09577)|null|
+|**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/abs/2501.09503)|null|
+|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464](http://arxiv.org/abs/2501.09464)|null|
+|**2025-01-16**|**"A Great Start, But...": Evaluating LLM-Generated Mind Maps for Information Mapping in Video-Based Design**|Tianhao He et.al.|[2501.09457](http://arxiv.org/abs/2501.09457)|null|
+|**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](http://arxiv.org/abs/2501.09433)|null|
+|**2025-01-16**|**Towards a Framework for Enterprise Architecture in Mobile Government: A Case Study**|Son Pham et.al.|[2501.09401](http://arxiv.org/abs/2501.09401)|null|
+|**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391](http://arxiv.org/abs/2501.09391)|null|
+|**2025-01-16**|**Identification of Traditional Medicinal Plant Leaves Using an effective Deep Learning model and Self-Curated Dataset**|Deepjyoti Chetia et.al.|[2501.09363](http://arxiv.org/abs/2501.09363)|null|
 |**2025-01-15**|**How Do Generative Models Draw a Software Engineer? A Case Study on Stable Diffusion Bias**|Tosin Fadahunsi et.al.|[2501.09014](http://arxiv.org/abs/2501.09014)|**[link](https://github.com/giordanodaloisio/sd-bias)**|
 |**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008](http://arxiv.org/abs/2501.09008)|null|
 |**2025-01-15**|**CrystalGRW: Generative Modeling of Crystal Structures with Targeted Properties via Geodesic Random Walks**|Krit Tangsongcharoen et.al.|[2501.08998](http://arxiv.org/abs/2501.08998)|null|
@@ -3199,6 +3214,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces**|Sumit Chaturvedi et.al.|[2501.09756](http://arxiv.org/abs/2501.09756)|null|
+|**2025-01-16**|**Inference-Time Scaling for Diffusion Models beyond Scaling Denoising Steps**|Nanye Ma et.al.|[2501.09732](http://arxiv.org/abs/2501.09732)|null|
+|**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
+|**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464](http://arxiv.org/abs/2501.09464)|null|
+|**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](http://arxiv.org/abs/2501.09433)|null|
+|**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391](http://arxiv.org/abs/2501.09391)|null|
+|**2025-01-16**|**UVRM: A Scalable 3D Reconstruction Model from Unposed Videos**|Shiu-hong Kao et.al.|[2501.09347](http://arxiv.org/abs/2501.09347)|null|
+|**2025-01-16**|**Domain-conditioned and Temporal-guided Diffusion Modeling for Accelerated Dynamic MRI Reconstruction**|Liping Zhang et.al.|[2501.09305](http://arxiv.org/abs/2501.09305)|null|
+|**2025-01-16**|**LAVCap: LLM-based Audio-Visual Captioning using Optimal Transport**|Kyeongha Rho et.al.|[2501.09291](http://arxiv.org/abs/2501.09291)|**[link](https://github.com/naver-intel-co-lab/gaudi-lavcap)**|
+|**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
+|**2025-01-16**|**PATCHEDSERVE: A Patch Management Framework for SLO-Optimized Hybrid Resolution Diffusion Serving**|Desen Sun et.al.|[2501.09253](http://arxiv.org/abs/2501.09253)|null|
+|**2025-01-15**|**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation**|Ahmad Süleyman et.al.|[2501.09194](http://arxiv.org/abs/2501.09194)|null|
+|**2025-01-15**|**Existence of Periodic and Stationary Solutions to Distribution-Dependent SDEs**|Wei Sun et.al.|[2501.09176](http://arxiv.org/abs/2501.09176)|null|
+|**2025-01-15**|**Generative diffusion model with inverse renormalization group flows**|Kanta Masuki et.al.|[2501.09064](http://arxiv.org/abs/2501.09064)|**[link](https://github.com/kantamasuki/rgdm)**|
 |**2025-01-15**|**SimGen: A Diffusion-Based Framework for Simultaneous Surgical Image and Segmentation Mask Generation**|Aditya Bhat et.al.|[2501.09008](http://arxiv.org/abs/2501.09008)|null|
 |**2025-01-15**|**RepVideo: Rethinking Cross-Layer Representation for Video Generation**|Chenyang Si et.al.|[2501.08994](http://arxiv.org/abs/2501.08994)|null|
 |**2025-01-15**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819](http://arxiv.org/abs/2501.08819)|**[link](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**|
@@ -4443,6 +4472,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation**|Hanrong Zhang et.al.|[2501.09525](http://arxiv.org/abs/2501.09525)|**[link](https://github.com/zhang-henry/sclifd_tii)**|
+|**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321](http://arxiv.org/abs/2501.09321)|null|
+|**2025-01-16**|**Knowledge Distillation for Image Restoration : Simultaneous Learning from Degraded and Clean Images**|Yongheng Zhang et.al.|[2501.09268](http://arxiv.org/abs/2501.09268)|null|
 |**2025-01-15**|**Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians**|Ishan Amin et.al.|[2501.09009](http://arxiv.org/abs/2501.09009)|null|
 |**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**Feature-based One-For-All: A Universal Framework for Heterogeneous Knowledge Distillation**|Jhe-Hao Lin et.al.|[2501.08885](http://arxiv.org/abs/2501.08885)|null|
@@ -4685,6 +4717,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Metrics for Inter-Dataset Similarity with Example Applications in Synthetic Data and Feature Selection Evaluation -- Extended Version**|Muhammad Rajabinasab et.al.|[2501.09591](http://arxiv.org/abs/2501.09591)|null|
+|**2025-01-16**|**Sequential PatchCore: Anomaly Detection for Surface Inspection using Synthetic Impurities**|Runzhou Mao et.al.|[2501.09579](http://arxiv.org/abs/2501.09579)|null|
+|**2025-01-16**|**Joint Transmission and Deblurring: A Semantic Communication Approach Using Events**|Pujing Yang et.al.|[2501.09396](http://arxiv.org/abs/2501.09396)|null|
+|**2025-01-16**|**Identifying Information from Observations with Uncertainty and Novelty**|Derek S. Prijatelj et.al.|[2501.09331](http://arxiv.org/abs/2501.09331)|null|
+|**2025-01-16**|**Text-guided Synthetic Geometric Augmentation for Zero-shot 3D Understanding**|Kohei Torimi et.al.|[2501.09278](http://arxiv.org/abs/2501.09278)|null|
+|**2025-01-15**|**Generative diffusion model with inverse renormalization group flows**|Kanta Masuki et.al.|[2501.09064](http://arxiv.org/abs/2501.09064)|**[link](https://github.com/kantamasuki/rgdm)**|
+|**2025-01-15**|**UNIR-Net: A Novel Approach for Restoring Underwater Images with Non-Uniform Illumination Using Synthetic Data**|Ezequiel Perez-Zarate et.al.|[2501.09053](http://arxiv.org/abs/2501.09053)|null|
+|**2025-01-15**|**Generating Realistic Synthetic Head Rotation Data for Extended Reality using Deep Learning**|Jakob Struye et.al.|[2501.09050](http://arxiv.org/abs/2501.09050)|null|
 |**2025-01-15**|**Aegis2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails**|Shaona Ghosh et.al.|[2501.09004](http://arxiv.org/abs/2501.09004)|null|
 |**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**SAIF: A Comprehensive Framework for Evaluating the Risks of Generative AI in the Public Sector**|Kyeongryul Lee et.al.|[2501.08814](http://arxiv.org/abs/2501.08814)|null|
