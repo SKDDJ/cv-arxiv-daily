@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.16
+## Updated on 2025.01.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -331,7 +331,7 @@ layout: default
 |**2025-01-15**|**Learning to Extract Cross-Domain Aspects and Understanding Sentiments Using Large Language Models**|Karukriti Kaushik Ghosh et.al.|[2501.08974](http://arxiv.org/abs/2501.08974)|null|
 |**2025-01-15**|**Karatsuba Matrix Multiplication and its Efficient Custom Hardware Implementations**|Trevor E. Pogue et.al.|[2501.08889](http://arxiv.org/abs/2501.08889)|**[link](https://github.com/trevorpogue/algebraic-nnhw)**|
 |**2025-01-15**|**Connecting SPDE to SGMs**|Junsu Seo et.al.|[2501.08877](http://arxiv.org/abs/2501.08877)|null|
-|**2025-01-15**|**Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869](http://arxiv.org/abs/2501.08869)|null|
+|**2025-01-16**|**Silent Abandonment in Text-Based Contact Centers: Identifying, Quantifying, and Mitigating its Operational Impacts**|Antonio Castellanos et.al.|[2501.08869](http://arxiv.org/abs/2501.08869)|null|
 |**2025-01-15**|**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution**|Shao-Hao Lu et.al.|[2501.08819](http://arxiv.org/abs/2501.08819)|**[link](https://github.com/ryanlu2240/boosting-diffusion-guidance-via-learning-degradation-aware-models-for-blind-super-resolution)**|
 |**2025-01-15**|**Securities Transaction Settlement Optimization on superconducting quantum devices**|Francesco Martini et.al.|[2501.08794](http://arxiv.org/abs/2501.08794)|null|
 |**2025-01-15**|**Near-Field ISAC: Synergy of Dual-Purpose Codebooks and Space-Time Adaptive Processing**|Ahmed Hussain et.al.|[2501.08776](http://arxiv.org/abs/2501.08776)|null|
