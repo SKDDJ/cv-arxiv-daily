@@ -323,6 +323,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
+|**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094](http://arxiv.org/abs/2501.13094)|**[link](https://github.com/jiachenlei/rrcm)**|
+|**2025-01-22**|**Innovative Web Tool for Remote Data Acquisition and Analysis: Customized for SKA Low frequency Beamforming Test Bed LPDA Array at Gauribidanur Radio Observatory**|Anumanchi Agastya Sai Ram Likhit et.al.|[2501.13090](http://arxiv.org/abs/2501.13090)|null|
+|**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087](http://arxiv.org/abs/2501.13087)|null|
+|**2025-01-22**|**Robust Body Composition Analysis by Generating 3D CT Volumes from Limited 2D Slices**|Lianrui Zuo et.al.|[2501.13071](http://arxiv.org/abs/2501.13071)|null|
+|**2025-01-22**|**Beyond the Lungs: Extending the Field of View in Chest CT with Latent Diffusion Models**|Lianrui Zuo et.al.|[2501.13068](http://arxiv.org/abs/2501.13068)|null|
+|**2025-01-22**|**Neural network enhanced cross entropy benchmark for monitored circuits**|Yangrui Hu et.al.|[2501.13005](http://arxiv.org/abs/2501.13005)|null|
+|**2025-01-22**|**Low-dimensional adaptation of diffusion models: Convergence in total variation**|Jiadong Liang et.al.|[2501.12982](http://arxiv.org/abs/2501.12982)|null|
+|**2025-01-22**|**Accessible Smart Contracts Verification: Synthesizing Formal Models with Tamed LLMs**|Jan Corazza et.al.|[2501.12972](http://arxiv.org/abs/2501.12972)|null|
+|**2025-01-22**|**Observation of Strong Nonreciprocal Thermal Emission**|Zhenong Zhang et.al.|[2501.12947](http://arxiv.org/abs/2501.12947)|null|
+|**2025-01-22**|**3D Object Manipulation in a Single Image using Generative Models**|Ruisi Zhao et.al.|[2501.12935](http://arxiv.org/abs/2501.12935)|null|
+|**2025-01-22**|**Reinforcement learning Based Automated Design of Differential Evolution Algorithm for Black-box Optimization**|Xu Yang et.al.|[2501.12881](http://arxiv.org/abs/2501.12881)|null|
+|**2025-01-22**|**CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation**|Xianglong Shi et.al.|[2501.12860](http://arxiv.org/abs/2501.12860)|null|
+|**2025-01-22**|**AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation**|Aghiles Kebaili et.al.|[2501.12840](http://arxiv.org/abs/2501.12840)|null|
+|**2025-01-22**|**Inverse Design of Chiral Structures for Giant Helical Dichroism**|Chia-Chun Pan et.al.|[2501.12825](http://arxiv.org/abs/2501.12825)|null|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
 |**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
@@ -2215,6 +2230,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Multi-stage intermediate fusion for multimodal learning to classify non-small cell lung cancer subtypes from CT and PET**|Fatih Aksu et.al.|[2501.12425](http://arxiv.org/abs/2501.12425)|null|
 |**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
 |**2025-01-20**|**Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks**|Zhenhailong Wang et.al.|[2501.11733](http://arxiv.org/abs/2501.11733)|null|
 |**2025-01-20**|**ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction**|Xiangyang Hu et.al.|[2501.11276](http://arxiv.org/abs/2501.11276)|**[link](https://github.com/justinhxy/itfc)**|
@@ -2839,6 +2855,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Waveguide arrays interaction to second neighbors: Exact solution**|M. A. Tapia-Valerdi et.al.|[2501.12550](http://arxiv.org/abs/2501.12550)|null|
 |**2025-01-20**|**Recurrent Diffusion for Large-Scale Parameter Generation**|Kai Wang et.al.|[2501.11587](http://arxiv.org/abs/2501.11587)|**[link](https://github.com/nus-hpc-ai-lab/recurrent-parameter-generation)**|
 |**2025-01-12**|**Evaluating Sample Utility for Data Selection by Mimicking Model Weights**|Tzu-Heng Huang et.al.|[2501.06708](http://arxiv.org/abs/2501.06708)|null|
 |**2025-01-10**|**Random Sparse Lifts: Construction, Analysis and Convergence of finite sparse networks**|David A. R. Robin et.al.|[2501.05930](http://arxiv.org/abs/2501.05930)|null|
@@ -3261,6 +3278,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
+|**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094](http://arxiv.org/abs/2501.13094)|**[link](https://github.com/jiachenlei/rrcm)**|
+|**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087](http://arxiv.org/abs/2501.13087)|null|
+|**2025-01-22**|**Robust Body Composition Analysis by Generating 3D CT Volumes from Limited 2D Slices**|Lianrui Zuo et.al.|[2501.13071](http://arxiv.org/abs/2501.13071)|null|
+|**2025-01-22**|**Beyond the Lungs: Extending the Field of View in Chest CT with Latent Diffusion Models**|Lianrui Zuo et.al.|[2501.13068](http://arxiv.org/abs/2501.13068)|null|
+|**2025-01-22**|**Low-dimensional adaptation of diffusion models: Convergence in total variation**|Jiadong Liang et.al.|[2501.12982](http://arxiv.org/abs/2501.12982)|null|
+|**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
+|**2025-01-22**|**3D Object Manipulation in a Single Image using Generative Models**|Ruisi Zhao et.al.|[2501.12935](http://arxiv.org/abs/2501.12935)|null|
+|**2025-01-22**|**CrossDiff: Diffusion Probabilistic Model With Cross-conditional Encoder-Decoder for Crack Segmentation**|Xianglong Shi et.al.|[2501.12860](http://arxiv.org/abs/2501.12860)|null|
+|**2025-01-22**|**AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation**|Aghiles Kebaili et.al.|[2501.12840](http://arxiv.org/abs/2501.12840)|null|
+|**2025-01-22**|**Certified Guidance for Planning with Deep Generative Models**|Francesco Giacomarra et.al.|[2501.12815](http://arxiv.org/abs/2501.12815)|null|
+|**2025-01-22**|**Explicit Eigenvalue Regularization Improves Sharpness-Aware Minimization**|Haocheng Luo et.al.|[2501.12666](http://arxiv.org/abs/2501.12666)|null|
+|**2025-01-22**|**T2ISafety: Benchmark for Assessing Fairness, Toxicity, and Privacy in Image Generation**|Lijun Li et.al.|[2501.12612](http://arxiv.org/abs/2501.12612)|null|
+|**2025-01-22**|**Image Motion Blur Removal in the Temporal Dimension with Video Diffusion Models**|Wang Pang et.al.|[2501.12604](http://arxiv.org/abs/2501.12604)|null|
+|**2025-01-22**|**Improved Deep Learning Methods for Large-Scale Dynamic Portfolio Choice**|Jeonggyu Huh et.al.|[2501.12600](http://arxiv.org/abs/2501.12600)|null|
 |**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
 |**2025-01-22**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
 |**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
@@ -4550,6 +4582,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
+|**2025-01-22**|**EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation**|Yifan Yu et.al.|[2501.12689](http://arxiv.org/abs/2501.12689)|null|
+|**2025-01-22**|**Extracting General-use Transformers for Low-resource Languages via Knowledge Distillation**|Jan Christian Blaise Cruz et.al.|[2501.12660](http://arxiv.org/abs/2501.12660)|null|
+|**2025-01-22**|**Toward Model-centric Heterogeneous Federated Graph Learning: A Knowledge-driven Approach**|Huilin lai et.al.|[2501.12624](http://arxiv.org/abs/2501.12624)|null|
+|**2025-01-21**|**Efficient Lung Ultrasound Severity Scoring Using Dedicated Feature Extractor**|Jiaqi Guo et.al.|[2501.12524](http://arxiv.org/abs/2501.12524)|null|
 |**2025-01-19**|**AI Based Font Pair Suggestion Modelling For Graphic Design**|Aryan Singh et.al.|[2501.10969](http://arxiv.org/abs/2501.10969)|null|
 |**2025-01-18**|**Learning to reconstruct signals with inexact sensing operator via knowledge distillation**|Roman Jacome et.al.|[2501.10794](http://arxiv.org/abs/2501.10794)|null|
 |**2025-01-18**|**Class-Imbalanced-Aware Adaptive Dataset Distillation for Scalable Pretrained Model on Credit Scoring**|Xia Li et.al.|[2501.10677](http://arxiv.org/abs/2501.10677)|null|
@@ -4803,6 +4840,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Learning accurate rigid registration for longitudinal brain MRI from synthetic data**|Jingru Fu et.al.|[2501.13010](http://arxiv.org/abs/2501.13010)|null|
+|**2025-01-22**|**Deep learning enhanced initial model prediction in elastic FWI: application to marine streamer data**|Pavel Plotnitskii et.al.|[2501.12992](http://arxiv.org/abs/2501.12992)|null|
+|**2025-01-22**|**Implicit Causality-biases in humans and LLMs as a tool for benchmarking LLM discourse capabilities**|Florian Kankowski et.al.|[2501.12980](http://arxiv.org/abs/2501.12980)|null|
+|**2025-01-22**|**Generating Diverse Q&A Benchmarks for RAG Evaluation with DataMorgana**|Simone Filice et.al.|[2501.12789](http://arxiv.org/abs/2501.12789)|null|
+|**2025-01-22**|**REX: Causal Discovery based on Machine Learning and Explainability techniques**|Jesus Renero et.al.|[2501.12706](http://arxiv.org/abs/2501.12706)|**[link](https://github.com/renero/causalgraph)**|
+|**2025-01-22**|**Approximate Puzzlepiece Compositing**|Xuan Huang et.al.|[2501.12581](http://arxiv.org/abs/2501.12581)|null|
+|**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
 |**2025-01-21**|**BlanketGen2-Fit3D: Synthetic Blanket Augmentation Towards Improving Real-World In-Bed Blanket Occluded Human Pose Estimation**|Tamás Karácsony et.al.|[2501.12318](http://arxiv.org/abs/2501.12318)|null|
 |**2025-01-21**|**Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and Refinement**|Maosong Cao et.al.|[2501.12273](http://arxiv.org/abs/2501.12273)|null|
 |**2025-01-21**|**Exploring Temporally-Aware Features for Point Tracking**|Inès Hyeonsu Kim et.al.|[2501.12218](http://arxiv.org/abs/2501.12218)|null|
