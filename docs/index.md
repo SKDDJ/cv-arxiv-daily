@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Domain Expansion: Parameter-Efficient Modules as Building Blocks for Composite Domains**|Mann Patel et.al.|[2501.14321](http://arxiv.org/abs/2501.14321)|**[link](https://github.com/manncodes/domain-expansion)**|
 |**2025-01-23**|**Parameter-Efficient Fine-Tuning for Foundation Models**|Dan Zhang et.al.|[2501.13787](http://arxiv.org/abs/2501.13787)|**[link](https://github.com/thudm/awesome-parameter-efficient-fine-tuning-for-foundation-models)**|
 |**2025-01-21**|**EDoRA: Efficient Weight-Decomposed Low-Rank Adaptation via Singular Value Decomposition**|Hamid Nasiri et.al.|[2501.12067](http://arxiv.org/abs/2501.12067)|**[link](https://github.com/hamid-nasiri/edora)**|
 |**2025-01-21**|**Is your LLM trapped in a Mental Set? Investigative study on how mental sets affect the reasoning capabilities of LLMs**|Saiful Haq et.al.|[2501.11833](http://arxiv.org/abs/2501.11833)|null|
@@ -326,6 +327,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|null|
+|**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
+|**2025-01-24**|**End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml**|Giuseppe Di Guglielmo et.al.|[2501.14663](http://arxiv.org/abs/2501.14663)|null|
+|**2025-01-24**|**Towards Scalable Topological Regularizers**|Hiu-Tung Wong et.al.|[2501.14641](http://arxiv.org/abs/2501.14641)|null|
+|**2025-01-24**|**Single-neuron deep generative model uncovers underlying physics of neuronal activity in Ca imaging data**|Jordi Abante et.al.|[2501.14615](http://arxiv.org/abs/2501.14615)|null|
+|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
+|**2025-01-24**|**Pesti-Gen: Unleashing a Generative Molecule Approach for Toxicity Aware Pesticide Design**|Taehan Kim et.al.|[2501.14469](http://arxiv.org/abs/2501.14469)|null|
+|**2025-01-24**|**CENTS: Generating synthetic electricity consumption time series for rare and unseen scenarios**|Michael Fuest et.al.|[2501.14426](http://arxiv.org/abs/2501.14426)|null|
+|**2025-01-24**|**DeepFlow: Serverless Large Language Model Serving at Scale**|Junhao Hu et.al.|[2501.14417](http://arxiv.org/abs/2501.14417)|null|
+|**2025-01-24**|**Uncovering the bias in the evidence for dynamical dark energy through minimal and generalized modeling approaches**|Ziad Sakr et.al.|[2501.14366](http://arxiv.org/abs/2501.14366)|null|
+|**2025-01-24**|**Advancing data-driven broadband seismic wavefield simulation with multi-conditional diffusion model**|Zhengfa Bi et.al.|[2501.14348](http://arxiv.org/abs/2501.14348)|null|
+|**2025-01-24**|**HorNets: Learning from Discrete and Continuous Signals with Routing Neural Networks**|Boshko koloski et.al.|[2501.14346](http://arxiv.org/abs/2501.14346)|**[link](https://github.com/bkolosk1/hornets)**|
+|**2025-01-24**|**Stochastic Method for Delayed Neutron Precursors Transport in Liquid Fuel**|Mathis Caprais et.al.|[2501.14332](http://arxiv.org/abs/2501.14332)|null|
+|**2025-01-24**|**PAID: A Framework of Product-Centric Advertising Image Design**|Hongyu Chen et.al.|[2501.14316](http://arxiv.org/abs/2501.14316)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
 |**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
@@ -2874,6 +2890,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Domain Expansion: Parameter-Efficient Modules as Building Blocks for Composite Domains**|Mann Patel et.al.|[2501.14321](http://arxiv.org/abs/2501.14321)|**[link](https://github.com/manncodes/domain-expansion)**|
+|**2025-01-24**|**Linear enhanced dissipation for the 2D Taylor-Couette flow in the exterior region: A supplementary example for Gearhart-Prüss type lemma**|Te Li et.al.|[2501.14187](http://arxiv.org/abs/2501.14187)|null|
 |**2025-01-23**|**Solutions of differential equations in Freud-weighted Sobolev spaces**|Maxime Breden et.al.|[2501.13672](http://arxiv.org/abs/2501.13672)|null|
 |**2025-01-23**|**Weighted theory of Toeplitz operators on the Fock spaces**|Jiale Chen et.al.|[2501.13571](http://arxiv.org/abs/2501.13571)|null|
 |**2025-01-22**|**Waveguide arrays interaction to second neighbors: Exact solution**|M. A. Tapia-Valerdi et.al.|[2501.12550](http://arxiv.org/abs/2501.12550)|null|
@@ -3295,6 +3313,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
+|**2025-01-24**|**Optimal Transport Barycenter via Nonconvex-Concave Minimax Optimization**|Kaheon Kim et.al.|[2501.14635](http://arxiv.org/abs/2501.14635)|null|
+|**2025-01-24**|**Diffusive transport on the real line: semi-contractive gradient flows and their discretization**|Daniel Matthes et.al.|[2501.14527](http://arxiv.org/abs/2501.14527)|null|
+|**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
+|**2025-01-24**|**Advancing data-driven broadband seismic wavefield simulation with multi-conditional diffusion model**|Zhengfa Bi et.al.|[2501.14348](http://arxiv.org/abs/2501.14348)|null|
+|**2025-01-24**|**Stochastic Method for Delayed Neutron Precursors Transport in Liquid Fuel**|Mathis Caprais et.al.|[2501.14332](http://arxiv.org/abs/2501.14332)|null|
+|**2025-01-24**|**Cosmic ray transport and acceleration in an evolving shock landscape**|Sophie Aerdker et.al.|[2501.14331](http://arxiv.org/abs/2501.14331)|null|
+|**2025-01-24**|**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image**|Xiaojun Tang et.al.|[2501.14264](http://arxiv.org/abs/2501.14264)|null|
+|**2025-01-24**|**TFG-Flow: Training-free Guidance in Multimodal Generative Flow**|Haowei Lin et.al.|[2501.14216](http://arxiv.org/abs/2501.14216)|null|
+|**2025-01-24**|**Fully Guided Neural Schrödinger bridge for Brain MR image synthesis**|Hanyeol Yang et.al.|[2501.14171](http://arxiv.org/abs/2501.14171)|null|
+|**2025-01-23**|**INDIGO+: A Unified INN-Guided Probabilistic Diffusion Algorithm for Blind and Non-Blind Image Restoration**|Di You et.al.|[2501.14014](http://arxiv.org/abs/2501.14014)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
 |**2025-01-23**|**Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction**|Zhi Sheng et.al.|[2501.13794](http://arxiv.org/abs/2501.13794)|null|
@@ -4612,6 +4641,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Remining Hard Negatives for Generative Pseudo Labeled Domain Adaptation**|Goksenin Yuksel et.al.|[2501.14434](http://arxiv.org/abs/2501.14434)|null|
+|**2025-01-24**|**Multimodal Prescriptive Deep Learning**|Dimitris Bertsimas et.al.|[2501.14152](http://arxiv.org/abs/2501.14152)|null|
 |**2025-01-23**|**On Learning Representations for Tabular Data Distillation**|Inwon Kang et.al.|[2501.13905](http://arxiv.org/abs/2501.13905)|null|
 |**2025-01-23**|**Unlearning Clients, Features and Samples in Vertical Federated Learning**|Ayush K. Varshney et.al.|[2501.13683](http://arxiv.org/abs/2501.13683)|null|
 |**2025-01-24**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
@@ -4871,6 +4902,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Stroke classification using Virtual Hybrid Edge Detection from in silico electrical impedance tomography data**|Juan Pablo Agnelli et.al.|[2501.14704](http://arxiv.org/abs/2501.14704)|null|
+|**2025-01-24**|**Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**|Faiz Muhammad Chaudhry et.al.|[2501.14510](http://arxiv.org/abs/2501.14510)|null|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319](http://arxiv.org/abs/2501.14319)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2025-01-23**|**Advancing Math Reasoning in Language Models: The Impact of Problem-Solving Data, Data Synthesis Methods, and Training Stages**|Zui Chen et.al.|[2501.14002](http://arxiv.org/abs/2501.14002)|null|
 |**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
 |**2025-01-23**|**Federated Granger Causality Learning for Interdependent Clients with State Space Representation**|Ayush Mohanty et.al.|[2501.13890](http://arxiv.org/abs/2501.13890)|null|
 |**2025-01-23**|**Fast Iterative and Task-Specific Imputation with Online Learning**|Rahul Bordoloi et.al.|[2501.13786](http://arxiv.org/abs/2501.13786)|null|
