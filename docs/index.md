@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3349,7 +3349,7 @@ layout: default
 |**2025-01-27**|**Minimax rates of convergence for the nonparametric estimation of the diffusion coefficient from time-homogeneous SDE paths**|Eddy Michel Ella Mintsa et.al.|[2501.15933](http://arxiv.org/abs/2501.15933)|null|
 |**2025-01-27**|**Generative AI for Lyapunov Optimization Theory in UAV-based Low-Altitude Economy Networking**|Zhang Liu et.al.|[2501.15928](http://arxiv.org/abs/2501.15928)|null|
 |**2025-01-27**|**Minimax rates of convergence of a binary classification procedure for time-homogeneous S.D.E paths**|Eddy Michel Ella Mintsa et.al.|[2501.15926](http://arxiv.org/abs/2501.15926)|null|
-|**2025-01-27**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
+|**2025-01-28**|**Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation**|Adil Kaan Akan et.al.|[2501.15878](http://arxiv.org/abs/2501.15878)|null|
 |**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
 |**2025-01-24**|**Optimal Transport Barycenter via Nonconvex-Concave Minimax Optimization**|Kaheon Kim et.al.|[2501.14635](http://arxiv.org/abs/2501.14635)|null|
 |**2025-01-24**|**Diffusive transport on the real line: semi-contractive gradient flows and their discretization**|Daniel Matthes et.al.|[2501.14527](http://arxiv.org/abs/2501.14527)|null|
@@ -4690,7 +4690,7 @@ layout: default
 |**2025-01-24**|**Multimodal Prescriptive Deep Learning**|Dimitris Bertsimas et.al.|[2501.14152](http://arxiv.org/abs/2501.14152)|null|
 |**2025-01-23**|**On Learning Representations for Tabular Data Distillation**|Inwon Kang et.al.|[2501.13905](http://arxiv.org/abs/2501.13905)|null|
 |**2025-01-23**|**Unlearning Clients, Features and Samples in Vertical Federated Learning**|Ayush K. Varshney et.al.|[2501.13683](http://arxiv.org/abs/2501.13683)|null|
-|**2025-01-24**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
+|**2025-01-28**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
 |**2025-01-22**|**LiT: Delving into a Simplified Linear Diffusion Transformer for Image Generation**|Jiahao Wang et.al.|[2501.12976](http://arxiv.org/abs/2501.12976)|null|
 |**2025-01-24**|**EchoLM: Accelerating LLM Serving with Real-time Knowledge Distillation**|Yifan Yu et.al.|[2501.12689](http://arxiv.org/abs/2501.12689)|null|
 |**2025-01-22**|**Extracting General-use Transformers for Low-resource Languages via Knowledge Distillation**|Jan Christian Blaise Cruz et.al.|[2501.12660](http://arxiv.org/abs/2501.12660)|null|
