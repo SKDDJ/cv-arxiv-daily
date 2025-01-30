@@ -329,6 +329,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Enriched Immersed Finite Element and Isogeometric Analysis -- Algorithms and Data Structures**|Nils Wunsch et.al.|[2501.17853](http://arxiv.org/abs/2501.17853)|null|
+|**2025-01-29**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841](http://arxiv.org/abs/2501.17841)|**[link](https://github.com/acoupi/acoupi)**|
+|**2025-01-29**|**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems**|Stephan Dübler et.al.|[2501.17786](http://arxiv.org/abs/2501.17786)|null|
+|**2025-01-29**|**Generative Unordered Flow for Set-Structured Data Generation**|Yangming Li et.al.|[2501.17770](http://arxiv.org/abs/2501.17770)|null|
+|**2025-01-29**|**Formally Verified Binary-level Pointer Analysis**|Freek Verbeek et.al.|[2501.17766](http://arxiv.org/abs/2501.17766)|null|
+|**2025-01-29**|**In-IDE Programming Courses: Learning Software Development in a Real-World Setting**|Anastasiia Birillo et.al.|[2501.17747](http://arxiv.org/abs/2501.17747)|null|
+|**2025-01-29**|**Testing Research Software: An In-Depth Survey of Practices, Methods, and Tools**|Nasir U. Eisty et.al.|[2501.17739](http://arxiv.org/abs/2501.17739)|null|
+|**2025-01-29**|**A technical review of multi-omics data integration methods: from classical statistical to deep generative approaches**|Ana R. Baião et.al.|[2501.17729](http://arxiv.org/abs/2501.17729)|null|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
+|**2025-01-29**|**Source-Channel Separation Theorems for Distortion Perception Coding**|Chao Tian et.al.|[2501.17706](http://arxiv.org/abs/2501.17706)|null|
+|**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
+|**2025-01-29**|**In-Context Meta LoRA Generation**|Yihua Shao et.al.|[2501.17635](http://arxiv.org/abs/2501.17635)|null|
+|**2025-01-29**|**Semantic Consistency Regularization with Large Language Models for Semi-supervised Sentiment Analysis**|Kunrong Li et.al.|[2501.17598](http://arxiv.org/abs/2501.17598)|null|
+|**2025-01-29**|**Music2Latent2: Audio Compression with Summary Embeddings and Autoregressive Decoding**|Marco Pasini et.al.|[2501.17578](http://arxiv.org/abs/2501.17578)|null|
+|**2025-01-29**|**Exploring the Potential of Wireless-enabled Multi-Chip AI Accelerators**|Emmanuel Irabor et.al.|[2501.17567](http://arxiv.org/abs/2501.17567)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
 |**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159](http://arxiv.org/abs/2501.17159)|null|
 |**2025-01-28**|**First Axion-Like Particle Results from a Broadband Search for Wave-Like Dark Matter in the 44 to 52 $μ$ eV Range with a Coaxial Dish Antenna**|Gabe Hoshino et.al.|[2501.17119](http://arxiv.org/abs/2501.17119)|null|
@@ -2296,6 +2311,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823](http://arxiv.org/abs/2501.17823)|null|
 |**2025-01-28**|**Molecular-driven Foundation Model for Oncologic Pathology**|Anurag Vaidya et.al.|[2501.16652](http://arxiv.org/abs/2501.16652)|null|
 |**2025-01-26**|**TinyLLaVA-Video: A Simple Framework of Small-scale Large Multimodal Models for Video Understanding**|Xingjian Zhang et.al.|[2501.15513](http://arxiv.org/abs/2501.15513)|**[link](https://github.com/zhangxj199/tinyllava-video)**|
 |**2025-01-25**|**Deep Multimodal Learning for Real-Time DDoS Attacks Detection in Internet of Vehicles**|Mohamed Ababsa et.al.|[2501.15252](http://arxiv.org/abs/2501.15252)|null|
@@ -2930,6 +2946,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**In-Context Meta LoRA Generation**|Yihua Shao et.al.|[2501.17635](http://arxiv.org/abs/2501.17635)|null|
 |**2025-01-28**|**Function Spaces on Uniformly Regular and Singular Riemannian Manifolds**|Herbert Amann et.al.|[2501.16845](http://arxiv.org/abs/2501.16845)|null|
 |**2025-01-25**|**On the decay of solutions for the negative fractional KdV equation**|Alysson Cunha et.al.|[2501.15306](http://arxiv.org/abs/2501.15306)|null|
 |**2025-01-24**|**Domain Expansion: Parameter-Efficient Modules as Building Blocks for Composite Domains**|Mann Patel et.al.|[2501.14321](http://arxiv.org/abs/2501.14321)|**[link](https://github.com/manncodes/domain-expansion)**|
@@ -3359,6 +3376,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801](http://arxiv.org/abs/2501.17801)|null|
+|**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
+|**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
+|**2025-01-29**|**On the Singular Control of a Diffusion and Its Running Infimum or Supremum**|Giorgio Ferrari et.al.|[2501.17577](http://arxiv.org/abs/2501.17577)|null|
+|**2025-01-29**|**Solving Inverse Problems using Diffusion with Fast Iterative Renoising**|Matt C. Bendel et.al.|[2501.17468](http://arxiv.org/abs/2501.17468)|null|
+|**2025-01-29**|**NF-MKV Net: A Constraint-Preserving Neural Network Approach to Solving Mean-Field Games Equilibrium**|Jinwei Liu et.al.|[2501.17450](http://arxiv.org/abs/2501.17450)|null|
+|**2025-01-28**|**MDDM: A Molecular Dynamics Diffusion Model to Predict Particle Self-Assembly**|Kevin Ferguson et.al.|[2501.17319](http://arxiv.org/abs/2501.17319)|null|
+|**2025-01-28**|**Deterministic Optimal Transport-based Gaussian Mixture Particle Filtering for Verifiable Applications**|Andrey A Popov et.al.|[2501.17302](http://arxiv.org/abs/2501.17302)|null|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
 |**2025-01-28**|**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait**|Han Yang et.al.|[2501.17159](http://arxiv.org/abs/2501.17159)|null|
 |**2025-01-28**|**Generative diffusion models from a PDE perspective**|Fei Cao et.al.|[2501.17054](http://arxiv.org/abs/2501.17054)|null|
@@ -4719,6 +4745,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|null|
+|**2025-01-28**|**A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts**|Hossein Mirzaei et.al.|[2501.17289](http://arxiv.org/abs/2501.17289)|null|
 |**2025-01-28**|**FedEFM: Federated Endovascular Foundation Model with Unseen Data**|Tuong Do et.al.|[2501.16992](http://arxiv.org/abs/2501.16992)|null|
 |**2025-01-28**|**Heterogeneity-aware Personalized Federated Learning via Adaptive Dual-Agent Reinforcement Learning**|Xi Chen et.al.|[2501.16966](http://arxiv.org/abs/2501.16966)|null|
 |**2025-01-29**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
@@ -4995,6 +5023,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Generative Unordered Flow for Set-Structured Data Generation**|Yangming Li et.al.|[2501.17770](http://arxiv.org/abs/2501.17770)|null|
+|**2025-01-29**|**A Framework for Generating Realistic Synthetic Tabular Data in a Randomized Controlled Trial Setting**|Niki Z. Petrakos et.al.|[2501.17719](http://arxiv.org/abs/2501.17719)|null|
+|**2025-01-29**|**Drivetrain simulation using variational autoencoders**|Pallavi Sharma et.al.|[2501.17653](http://arxiv.org/abs/2501.17653)|null|
+|**2025-01-29**|**RegionGCN: Spatial-Heterogeneity-Aware Graph Convolutional Networks**|Hao Guo et.al.|[2501.17599](http://arxiv.org/abs/2501.17599)|null|
+|**2025-01-29**|**Closing the Gap Between Synthetic and Ground Truth Time Series Distributions via Neural Mapping**|Daesoo Lee et.al.|[2501.17553](http://arxiv.org/abs/2501.17553)|**[link](https://github.com/ml4its/timevqvae)**|
+|**2025-01-29**|**SemML: Enhancing Automata-Theoretic LTL Synthesis with Machine Learning**|Jan Kretinsky et.al.|[2501.17496](http://arxiv.org/abs/2501.17496)|null|
+|**2025-01-28**|**A Guaranteed-Stable Neural Network Approach for Optimal Control of Nonlinear Systems**|Anran Li et.al.|[2501.17333](http://arxiv.org/abs/2501.17333)|null|
+|**2025-01-28**|**CardiCat: a Variational Autoencoder for High-Cardinality Tabular Data**|Lee Carlin et.al.|[2501.17324](http://arxiv.org/abs/2501.17324)|null|
+|**2025-01-28**|**Floodgates up to contain the DeePC and limit extrapolation**|Mohammad Ramadan et.al.|[2501.17318](http://arxiv.org/abs/2501.17318)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969](http://arxiv.org/abs/2501.16969)|null|
 |**2025-01-28**|**DBSCAN in domains with periodic boundary conditions**|Xander M. de Wit et.al.|[2501.16894](http://arxiv.org/abs/2501.16894)|**[link](https://github.com/xanderdw/pbc-dbscan)**|
