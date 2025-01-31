@@ -329,6 +329,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**Diffusion Autoencoders are Scalable Image Tokenizers**|Yinbo Chen et.al.|[2501.18593](http://arxiv.org/abs/2501.18593)|null|
+|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
+|**2025-01-30**|**WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in Post-Training**|Benjamin Feuer et.al.|[2501.18511](http://arxiv.org/abs/2501.18511)|**[link](https://github.com/penfever/wildchat-50m)**|
+|**2025-01-30**|**Examining the Expanding Role of Synthetic Data Throughout the AI Development Pipeline**|Shivani Kapania et.al.|[2501.18493](http://arxiv.org/abs/2501.18493)|null|
+|**2025-01-30**|**CodeBrain: Impute Any Brain MRI via Instance-specific Scalar-quantized Codes**|Yicheng Wu et.al.|[2501.18328](http://arxiv.org/abs/2501.18328)|null|
+|**2025-01-30**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251](http://arxiv.org/abs/2501.18251)|null|
+|**2025-01-30**|**Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss**|Wenshuo Chen et.al.|[2501.18232](http://arxiv.org/abs/2501.18232)|**[link](https://github.com/Hxxxz0/Free-T2m)**|
+|**2025-01-30**|**Inverse source problem of sub-diffusion of variable exponent**|Zhiyuan Li et.al.|[2501.18228](http://arxiv.org/abs/2501.18228)|null|
+|**2025-01-30**|**Behavior Modeling Space Reconstruction for E-Commerce Search**|Yejing Wang et.al.|[2501.18216](http://arxiv.org/abs/2501.18216)|**[link](https://github.com/Applied-Machine-Learning-Lab/DRP)**|
+|**2025-01-30**|**Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands**|Yajing Chen et.al.|[2501.18203](http://arxiv.org/abs/2501.18203)|null|
+|**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
+|**2025-01-30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-30**|**The Dilemma of Building Do-It-Yourself (DIY) Solutions for Workplace Accessibility**|Yoonha Cha et.al.|[2501.18148](http://arxiv.org/abs/2501.18148)|null|
+|**2025-01-30**|**HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback**|Xufeng Cai et.al.|[2501.18126](http://arxiv.org/abs/2501.18126)|null|
+|**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
 |**2025-01-29**|**Enriched Immersed Finite Element and Isogeometric Analysis -- Algorithms and Data Structures**|Nils Wunsch et.al.|[2501.17853](http://arxiv.org/abs/2501.17853)|null|
 |**2025-01-29**|**acoupi: An Open-Source Python Framework for Deploying Bioacoustic AI Models on Edge Devices**|Aude Vuilliomenet et.al.|[2501.17841](http://arxiv.org/abs/2501.17841)|**[link](https://github.com/acoupi/acoupi)**|
 |**2025-01-29**|**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems**|Stephan Dübler et.al.|[2501.17786](http://arxiv.org/abs/2501.17786)|null|
@@ -2311,13 +2326,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment**|Yuqin Cao et.al.|[2501.18314](http://arxiv.org/abs/2501.18314)|null|
+|**2025-01-30**|**Efficient Audiovisual Speech Processing via MUTUD: Multimodal Training and Unimodal Deployment**|Joanna Hong et.al.|[2501.18157](http://arxiv.org/abs/2501.18157)|null|
 |**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823](http://arxiv.org/abs/2501.17823)|null|
 |**2025-01-28**|**Molecular-driven Foundation Model for Oncologic Pathology**|Anurag Vaidya et.al.|[2501.16652](http://arxiv.org/abs/2501.16652)|null|
 |**2025-01-26**|**TinyLLaVA-Video: A Simple Framework of Small-scale Large Multimodal Models for Video Understanding**|Xingjian Zhang et.al.|[2501.15513](http://arxiv.org/abs/2501.15513)|**[link](https://github.com/zhangxj199/tinyllava-video)**|
-|**2025-01-25**|**Deep Multimodal Learning for Real-Time DDoS Attacks Detection in Internet of Vehicles**|Mohamed Ababsa et.al.|[2501.15252](http://arxiv.org/abs/2501.15252)|null|
+|**2025-01-25**|**Deep Multimodal Learning for Real-Time DDoS Attacks Detection in Internet of Vehicles**|Mohamed Ababsa et.al.|[2501.15252](http://arxiv.org/abs/2501.15252)|**[link](https://github.com/mohab1707/deep-multimodal-learning-for-real-time-ddos-attacks-detection-in-internet-of-vehicles)**|
 |**2025-01-25**|**PatentLMM: Large Multimodal Model for Generating Descriptions for Patent Figures**|Shreya Shukla et.al.|[2501.15074](http://arxiv.org/abs/2501.15074)|**[link](https://github.com/vl2g/PatentLMM)**|
 |**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
-|**2025-01-23**|**Temporal Preference Optimization for Long-Form Video Understanding**|Rui Li et.al.|[2501.13919](http://arxiv.org/abs/2501.13919)|null|
+|**2025-01-30**|**Temporal Preference Optimization for Long-Form Video Understanding**|Rui Li et.al.|[2501.13919](http://arxiv.org/abs/2501.13919)|null|
 |**2025-01-23**|**Pix2Cap-COCO: Advancing Visual Comprehension via Pixel-Level Captioning**|Zuyao You et.al.|[2501.13893](http://arxiv.org/abs/2501.13893)|**[link](https://github.com/geshang777/pix2cap)**|
 |**2025-01-23**|**Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos**|Kairui Hu et.al.|[2501.13826](http://arxiv.org/abs/2501.13826)|null|
 |**2025-01-23**|**Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge**|Haomiao Xiong et.al.|[2501.13468](http://arxiv.org/abs/2501.13468)|**[link](https://github.com/hmxiong/streamchat)**|
@@ -2946,7 +2963,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-29**|**In-Context Meta LoRA Generation**|Yihua Shao et.al.|[2501.17635](http://arxiv.org/abs/2501.17635)|null|
+|**2025-01-30**|**In-Context Meta LoRA Generation**|Yihua Shao et.al.|[2501.17635](http://arxiv.org/abs/2501.17635)|null|
 |**2025-01-28**|**Function Spaces on Uniformly Regular and Singular Riemannian Manifolds**|Herbert Amann et.al.|[2501.16845](http://arxiv.org/abs/2501.16845)|null|
 |**2025-01-25**|**On the decay of solutions for the negative fractional KdV equation**|Alysson Cunha et.al.|[2501.15306](http://arxiv.org/abs/2501.15306)|null|
 |**2025-01-24**|**Domain Expansion: Parameter-Efficient Modules as Building Blocks for Composite Domains**|Mann Patel et.al.|[2501.14321](http://arxiv.org/abs/2501.14321)|**[link](https://github.com/manncodes/domain-expansion)**|
@@ -3376,6 +3393,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models**|Ruofan Liang et.al.|[2501.18590](http://arxiv.org/abs/2501.18590)|null|
+|**2025-01-30**|**Log-Gaussian Cox Processes on General Metric Graphs**|David Bolin et.al.|[2501.18558](http://arxiv.org/abs/2501.18558)|null|
+|**2025-01-30**|**Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss**|Wenshuo Chen et.al.|[2501.18232](http://arxiv.org/abs/2501.18232)|**[link](https://github.com/Hxxxz0/Free-T2m)**|
+|**2025-01-30**|**Inverse source problem of sub-diffusion of variable exponent**|Zhiyuan Li et.al.|[2501.18228](http://arxiv.org/abs/2501.18228)|null|
+|**2025-01-30**|**Dual-Bounded Nonlinear Optimal Transport for Size Constrained Min Cut Clustering**|Fangyuan Xie et.al.|[2501.18143](http://arxiv.org/abs/2501.18143)|null|
+|**2025-01-29**|**Stochastic scattering control of spider diffusion governed by an optimal diffraction probability measure selected from its own local-time**|Isaac Ohavi et.al.|[2501.18057](http://arxiv.org/abs/2501.18057)|null|
+|**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
+|**2025-01-29**|**An optimal level of Stubbornness to win a soccer match**|Paramahansa Pramanik et.al.|[2501.18050](http://arxiv.org/abs/2501.18050)|null|
+|**2025-01-29**|**Conformal Dimensions On Causal Random Geometry**|Ryan Barouki et.al.|[2501.17930](http://arxiv.org/abs/2501.17930)|null|
 |**2025-01-29**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801](http://arxiv.org/abs/2501.17801)|null|
 |**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
 |**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
@@ -4745,14 +4771,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|null|
+|**2025-01-30**|**Mini-ResEmoteNet: Leveraging Knowledge Distillation for Human-Centered Design**|Amna Murtada et.al.|[2501.18538](http://arxiv.org/abs/2501.18538)|null|
+|**2025-01-29**|**RL-based Query Rewriting with Distilled LLM for online E-Commerce Systems**|Duy A. Nguyen et.al.|[2501.18056](http://arxiv.org/abs/2501.18056)|null|
+|**2025-01-29**|**Distilling Knowledge for Designing Computational Imaging Systems**|Leon Suarez-Rodriguez et.al.|[2501.17898](http://arxiv.org/abs/2501.17898)|null|
+|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|**[link](https://github.com/iot-tapor/tapor)**|
 |**2025-01-28**|**A Contrastive Teacher-Student Framework for Novelty Detection under Style Shifts**|Hossein Mirzaei et.al.|[2501.17289](http://arxiv.org/abs/2501.17289)|null|
 |**2025-01-28**|**FedEFM: Federated Endovascular Foundation Model with Unseen Data**|Tuong Do et.al.|[2501.16992](http://arxiv.org/abs/2501.16992)|null|
 |**2025-01-28**|**Heterogeneity-aware Personalized Federated Learning via Adaptive Dual-Agent Reinforcement Learning**|Xi Chen et.al.|[2501.16966](http://arxiv.org/abs/2501.16966)|null|
 |**2025-01-29**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
 |**2025-01-28**|**Target-driven Self-Distillation for Partial Observed Trajectories Forecasting**|Pengfei Zhu et.al.|[2501.16767](http://arxiv.org/abs/2501.16767)|null|
 |**2025-01-28**|**Efficient Knowledge Distillation of SAM for Medical Image Segmentation**|Kunal Dasharath Patil et.al.|[2501.16740](http://arxiv.org/abs/2501.16740)|null|
-|**2025-01-27**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|null|
+|**2025-01-30**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|**[link](https://github.com/microsoft/encoder-decoder-slm)**|
 |**2025-01-27**|**PISCO: Pretty Simple Compression for Retrieval-Augmented Generation**|Maxime Louis et.al.|[2501.16075](http://arxiv.org/abs/2501.16075)|null|
 |**2025-01-26**|**MimicGait: A Model Agnostic approach for Occluded Gait Recognition using Correlational Knowledge Distillation**|Ayush Gupta et.al.|[2501.15666](http://arxiv.org/abs/2501.15666)|**[link](https://github.com/ayush-00/mimicgait)**|
 |**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
@@ -5023,6 +5052,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-30**|**WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in Post-Training**|Benjamin Feuer et.al.|[2501.18511](http://arxiv.org/abs/2501.18511)|**[link](https://github.com/penfever/wildchat-50m)**|
+|**2025-01-30**|**Examining the Expanding Role of Synthetic Data Throughout the AI Development Pipeline**|Shivani Kapania et.al.|[2501.18493](http://arxiv.org/abs/2501.18493)|null|
+|**2025-01-30**|**MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding**|Yuxin Zuo et.al.|[2501.18362](http://arxiv.org/abs/2501.18362)|null|
+|**2025-01-30**|**Leveraging Sparsity for Sample-Efficient Preference Learning: A Theoretical Perspective**|Yunzhen Yao et.al.|[2501.18282](http://arxiv.org/abs/2501.18282)|null|
+|**2025-01-30**|**Diverse Preference Optimization**|Jack Lanchantin et.al.|[2501.18101](http://arxiv.org/abs/2501.18101)|null|
+|**2025-01-29**|**Explainable Machine Learning: An Illustration of Kolmogorov-Arnold Network Model for Airfoil Lift Prediction**|Sudhanva Kulkarni et.al.|[2501.17896](http://arxiv.org/abs/2501.17896)|null|
 |**2025-01-29**|**Generative Unordered Flow for Set-Structured Data Generation**|Yangming Li et.al.|[2501.17770](http://arxiv.org/abs/2501.17770)|null|
 |**2025-01-29**|**A Framework for Generating Realistic Synthetic Tabular Data in a Randomized Controlled Trial Setting**|Niki Z. Petrakos et.al.|[2501.17719](http://arxiv.org/abs/2501.17719)|null|
 |**2025-01-29**|**Drivetrain simulation using variational autoencoders**|Pallavi Sharma et.al.|[2501.17653](http://arxiv.org/abs/2501.17653)|null|
@@ -5031,7 +5066,7 @@
 |**2025-01-29**|**SemML: Enhancing Automata-Theoretic LTL Synthesis with Machine Learning**|Jan Kretinsky et.al.|[2501.17496](http://arxiv.org/abs/2501.17496)|null|
 |**2025-01-28**|**A Guaranteed-Stable Neural Network Approach for Optimal Control of Nonlinear Systems**|Anran Li et.al.|[2501.17333](http://arxiv.org/abs/2501.17333)|null|
 |**2025-01-28**|**CardiCat: a Variational Autoencoder for High-Cardinality Tabular Data**|Lee Carlin et.al.|[2501.17324](http://arxiv.org/abs/2501.17324)|null|
-|**2025-01-28**|**Floodgates up to contain the DeePC and limit extrapolation**|Mohammad Ramadan et.al.|[2501.17318](http://arxiv.org/abs/2501.17318)|null|
+|**2025-01-28**|**Floodgates up to contain the DeePC and limit extrapolation**|Mohammad Ramadan et.al.|[2501.17318](http://arxiv.org/abs/2501.17318)|**[link](https://github.com/msramada/floodgatesup-deepc)**|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969](http://arxiv.org/abs/2501.16969)|null|
 |**2025-01-28**|**DBSCAN in domains with periodic boundary conditions**|Xander M. de Wit et.al.|[2501.16894](http://arxiv.org/abs/2501.16894)|**[link](https://github.com/xanderdw/pbc-dbscan)**|
