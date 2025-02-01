@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.31
+## Updated on 2025.02.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3396,7 +3396,7 @@ layout: default
 |**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
 |**2025-01-29**|**An optimal level of Stubbornness to win a soccer match**|Paramahansa Pramanik et.al.|[2501.18050](http://arxiv.org/abs/2501.18050)|null|
 |**2025-01-29**|**Conformal Dimensions On Causal Random Geometry**|Ryan Barouki et.al.|[2501.17930](http://arxiv.org/abs/2501.17930)|null|
-|**2025-01-29**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801](http://arxiv.org/abs/2501.17801)|null|
+|**2025-01-29**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801](http://arxiv.org/abs/2501.17801)|**[link](https://github.com/Lyuliyao/Adam_CBO_Control)**|
 |**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
 |**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
 |**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
