@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -342,7 +342,7 @@ layout: default
 |**2025-01-30**|**Behavior Modeling Space Reconstruction for E-Commerce Search**|Yejing Wang et.al.|[2501.18216](http://arxiv.org/abs/2501.18216)|null|
 |**2025-01-30**|**Joint Design and Pricing of Extended Warranties for Multiple Automobiles with Different Price Bands**|Yajing Chen et.al.|[2501.18203](http://arxiv.org/abs/2501.18203)|null|
 |**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
-|**2025-01-30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
 |**2025-01-30**|**The Dilemma of Building Do-It-Yourself (DIY) Solutions for Workplace Accessibility**|Yoonha Cha et.al.|[2501.18148](http://arxiv.org/abs/2501.18148)|null|
 |**2025-01-30**|**HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback**|Xufeng Cai et.al.|[2501.18126](http://arxiv.org/abs/2501.18126)|null|
 |**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
@@ -3396,7 +3396,7 @@ layout: default
 |**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|null|
 |**2025-01-29**|**An optimal level of Stubbornness to win a soccer match**|Paramahansa Pramanik et.al.|[2501.18050](http://arxiv.org/abs/2501.18050)|null|
 |**2025-01-29**|**Conformal Dimensions On Causal Random Geometry**|Ryan Barouki et.al.|[2501.17930](http://arxiv.org/abs/2501.17930)|null|
-|**2025-01-29**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801](http://arxiv.org/abs/2501.17801)|**[link](https://github.com/Lyuliyao/Adam_CBO_Control)**|
+|**2025-01-31**|**Consensus Based Stochastic Control**|Liyao Lyu et.al.|[2501.17801](http://arxiv.org/abs/2501.17801)|**[link](https://github.com/Lyuliyao/Adam_CBO_Control)**|
 |**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
 |**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
 |**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
@@ -5045,7 +5045,7 @@ layout: default
 |**2025-01-30**|**WILDCHAT-50M: A Deep Dive Into the Role of Synthetic Data in Post-Training**|Benjamin Feuer et.al.|[2501.18511](http://arxiv.org/abs/2501.18511)|**[link](https://github.com/penfever/wildchat-50m)**|
 |**2025-01-30**|**Examining the Expanding Role of Synthetic Data Throughout the AI Development Pipeline**|Shivani Kapania et.al.|[2501.18493](http://arxiv.org/abs/2501.18493)|null|
 |**2025-01-30**|**MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding**|Yuxin Zuo et.al.|[2501.18362](http://arxiv.org/abs/2501.18362)|null|
-|**2025-01-30**|**Leveraging Sparsity for Sample-Efficient Preference Learning: A Theoretical Perspective**|Yunzhen Yao et.al.|[2501.18282](http://arxiv.org/abs/2501.18282)|null|
+|**2025-01-31**|**Leveraging Sparsity for Sample-Efficient Preference Learning: A Theoretical Perspective**|Yunzhen Yao et.al.|[2501.18282](http://arxiv.org/abs/2501.18282)|null|
 |**2025-01-30**|**Diverse Preference Optimization**|Jack Lanchantin et.al.|[2501.18101](http://arxiv.org/abs/2501.18101)|null|
 |**2025-01-29**|**Explainable Machine Learning: An Illustration of Kolmogorov-Arnold Network Model for Airfoil Lift Prediction**|Sudhanva Kulkarni et.al.|[2501.17896](http://arxiv.org/abs/2501.17896)|null|
 |**2025-01-29**|**Generative Unordered Flow for Set-Structured Data Generation**|Yangming Li et.al.|[2501.17770](http://arxiv.org/abs/2501.17770)|null|
