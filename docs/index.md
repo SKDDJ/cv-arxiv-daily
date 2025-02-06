@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.05
+## Updated on 2025.02.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2373,7 +2373,7 @@ layout: default
 |**2025-02-01**|**Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering**|Zechuan Li et.al.|[2502.00342](http://arxiv.org/abs/2502.00342)|null|
 |**2025-02-01**|**Mordal: Automated Pretrained Model Selection for Vision Language Models**|Shiqi He et.al.|[2502.00241](http://arxiv.org/abs/2502.00241)|null|
 |**2025-01-31**|**Multimodal MRI-Ultrasound AI for Prostate Cancer Detection Outperforms Radiologist MRI Interpretation: A Multi-Center Study**|Hassan Jahanandish et.al.|[2502.00146](http://arxiv.org/abs/2502.00146)|null|
-|**2025-01-31**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
+|**2025-02-04**|**AIN: The Arabic INclusive Large Multimodal Model**|Ahmed Heakl et.al.|[2502.00094](http://arxiv.org/abs/2502.00094)|null|
 |**2025-01-31**|**Do Large Multimodal Models Solve Caption Generation for Scientific Figures? Lessons Learned from SCICAP Challenge 2023**|Ting-Yao E. Hsu et.al.|[2501.19353](http://arxiv.org/abs/2501.19353)|null|
 |**2025-01-30**|**Integrating LMM Planners and 3D Skill Policies for Generalizable Manipulation**|Yuelei Li et.al.|[2501.18733](http://arxiv.org/abs/2501.18733)|null|
 |**2025-01-30**|**AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment**|Yuqin Cao et.al.|[2501.18314](http://arxiv.org/abs/2501.18314)|null|
@@ -3450,7 +3450,7 @@ layout: default
 |**2025-02-04**|**Sparse Data Generation Using Diffusion Models**|Phil Ostheimer et.al.|[2502.02448](http://arxiv.org/abs/2502.02448)|null|
 |**2025-02-04**|**Towards Fast Graph Generation via Autoregressive Noisy Filtration Modeling**|Markus Krimmel et.al.|[2502.02415](http://arxiv.org/abs/2502.02415)|null|
 |**2025-02-04**|**DIME:Diffusion-Based Maximum Entropy Reinforcement Learning**|Onur Celik et.al.|[2502.02316](http://arxiv.org/abs/2502.02316)|null|
-|**2025-02-04**|**A User Guide to Sampling Strategies for Sliced Optimal Transport**|Keanu Sisouk et.al.|[2502.02275](http://arxiv.org/abs/2502.02275)|null|
+|**2025-02-05**|**A User's Guide to Sampling Strategies for Sliced Optimal Transport**|Keanu Sisouk et.al.|[2502.02275](http://arxiv.org/abs/2502.02275)|null|
 |**2025-02-04**|**One-sided measure theoretic elliptic operators and applications to SDEs driven by Gaussian white noise with atomic intensity**|Alexandre B. Simas et.al.|[2502.02264](http://arxiv.org/abs/2502.02264)|null|
 |**2025-02-04**|**Exploring the latent space of diffusion models directly through singular value decomposition**|Li Wang et.al.|[2502.02225](http://arxiv.org/abs/2502.02225)|null|
 |**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373](http://arxiv.org/abs/2501.19373)|null|
