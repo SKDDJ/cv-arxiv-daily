@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4878,7 +4878,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-05**|**Knowledge Distillation from Large Language Models for Household Energy Modeling**|Mohannad Takrouri et.al.|[2502.03034](http://arxiv.org/abs/2502.03034)|null|
 |**2025-02-05**|**Training an LLM-as-a-Judge Model: Pipeline, Insights, and Practical Lessons**|Renjun Hu et.al.|[2502.02988](http://arxiv.org/abs/2502.02988)|null|
-|**2025-02-05**|**TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation**|Jiaqing Zhang et.al.|[2502.02854](http://arxiv.org/abs/2502.02854)|null|
+|**2025-02-06**|**TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation**|Jiaqing Zhang et.al.|[2502.02854](http://arxiv.org/abs/2502.02854)|null|
 |**2025-02-04**|**On Teacher Hacking in Language Model Distillation**|Daniil Tiapkin et.al.|[2502.02671](http://arxiv.org/abs/2502.02671)|null|
 |**2025-02-03**|**Enhancing Generalization via Sharpness-Aware Trajectory Matching for Dataset Condensation**|Boyan Gao et.al.|[2502.01865](http://arxiv.org/abs/2502.01865)|null|
 |**2025-02-03**|**Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**|Verna Dankers et.al.|[2502.01491](http://arxiv.org/abs/2502.01491)|null|
