@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Rank Also Matters: Hierarchical Configuration for Mixture of Adapter Experts in LLM Fine-Tuning**|Peizhuang Cong et.al.|[2502.03884](http://arxiv.org/abs/2502.03884)|null|
+|**2025-02-05**|**Bilevel ZOFO: Bridging Parameter-Efficient and Zeroth-Order Techniques for Efficient LLM Fine-Tuning and Meta-Training**|Reza Shirkavand et.al.|[2502.03604](http://arxiv.org/abs/2502.03604)|null|
 |**2025-02-05**|**RepLoRA: Reparameterizing Low-Rank Adaptation via the Perspective of Mixture of Experts**|Tuan Truong et.al.|[2502.03044](http://arxiv.org/abs/2502.03044)|null|
 |**2025-02-03**|**Robust Federated Finetuning of LLMs via Alternating Optimization of LoRA**|Shuangyi Chen et.al.|[2502.01755](http://arxiv.org/abs/2502.01755)|null|
 |**2025-02-03**|**Joint Localization and Activation Editing for Low-Resource Fine-Tuning**|Wen Lai et.al.|[2502.01179](http://arxiv.org/abs/2502.01179)|null|
@@ -338,6 +340,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Can Grammarly and ChatGPT accelerate language change? AI-powered technologies and their impact on the English language: wordiness vs. conciseness**|Karolina Rudnicka et.al.|[2502.04324](http://arxiv.org/abs/2502.04324)|null|
+|**2025-02-06**|**HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**|Yiming Huang et.al.|[2502.04308](http://arxiv.org/abs/2502.04308)|null|
+|**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
+|**2025-02-06**|**Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression**|Lirui Wang et.al.|[2502.04296](http://arxiv.org/abs/2502.04296)|null|
+|**2025-02-06**|**Breaking the Vault: A Case Study of the 2022 LastPass Data Breach**|Jessica Gentles et.al.|[2502.04287](http://arxiv.org/abs/2502.04287)|null|
+|**2025-02-06**|**Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz**|Zichang He et.al.|[2502.04277](http://arxiv.org/abs/2502.04277)|null|
+|**2025-02-06**|**Digital Gatekeeping: An Audit of Search Engine Results shows tailoring of queries on the Israel-Palestine Conflict**|Íris Damião et.al.|[2502.04266](http://arxiv.org/abs/2502.04266)|null|
+|**2025-02-06**|**Realistic Image-to-Image Machine Unlearning via Decoupling and Knowledge Retention**|Ayush K. Varshney et.al.|[2502.04260](http://arxiv.org/abs/2502.04260)|null|
+|**2025-02-06**|**TriNER: A Series of Named Entity Recognition Models For Hindi, Bengali & Marathi**|Mohammed Amaan Dhamaskar et.al.|[2502.04245](http://arxiv.org/abs/2502.04245)|null|
+|**2025-02-06**|**NLP-Based .NET CLR Event Logs Analyzer**|Maxim Stavtsev et.al.|[2502.04219](http://arxiv.org/abs/2502.04219)|null|
+|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|null|
+|**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158](http://arxiv.org/abs/2502.04158)|null|
+|**2025-02-06**|**Synthetic Datasets for Machine Learning on Spatio-Temporal Graphs using PDEs**|Jost Arndt et.al.|[2502.04140](http://arxiv.org/abs/2502.04140)|null|
+|**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|null|
+|**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116](http://arxiv.org/abs/2502.04116)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**Masked Autoencoders Are Effective Tokenizers for Diffusion Models**|Hao Chen et.al.|[2502.03444](http://arxiv.org/abs/2502.03444)|null|
 |**2025-02-05**|**Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization**|Yu-Han Wu et.al.|[2502.03435](http://arxiv.org/abs/2502.03435)|null|
@@ -3455,6 +3472,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**|Yiming Huang et.al.|[2502.04308](http://arxiv.org/abs/2502.04308)|null|
+|**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
+|**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158](http://arxiv.org/abs/2502.04158)|null|
+|**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|null|
+|**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116](http://arxiv.org/abs/2502.04116)|null|
+|**2025-02-06**|**TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers**|Younghye Hwang et.al.|[2502.04056](http://arxiv.org/abs/2502.04056)|null|
+|**2025-02-06**|**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**|Aleksandar Cvejic et.al.|[2502.04050](http://arxiv.org/abs/2502.04050)|null|
+|**2025-02-06**|**Hierarchical Entropic Diffusion for Ransomware Detection: A Probabilistic Approach to Behavioral Anomaly Isolation**|Vasili Iskorohodov et.al.|[2502.03882](http://arxiv.org/abs/2502.03882)|null|
+|**2025-02-06**|**Interactions between resource dependent branching processes and equilibria**|F. Thomas Bruss et.al.|[2502.03872](http://arxiv.org/abs/2502.03872)|null|
+|**2025-02-06**|**DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models**|Lingshun Kong et.al.|[2502.03810](http://arxiv.org/abs/2502.03810)|null|
+|**2025-02-06**|**PINS: Proximal Iterations with Sparse Newton and Sinkhorn for Optimal Transport**|Di Wu et.al.|[2502.03749](http://arxiv.org/abs/2502.03749)|null|
+|**2025-02-06**|**DICE: Distilling Classifier-Free Guidance into Text Embeddings**|Zhenyu Zhou et.al.|[2502.03726](http://arxiv.org/abs/2502.03726)|null|
+|**2025-02-06**|**SDEs with subcritical Lebesgue--Hölder drifts and driven by $α$ -stable processes**|Rongrong Tian et.al.|[2502.03712](http://arxiv.org/abs/2502.03712)|null|
+|**2025-02-06**|**Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free**|Gian Mario Favero et.al.|[2502.03687](http://arxiv.org/abs/2502.03687)|null|
+|**2025-02-06**|**Variational Control for Guidance in Diffusion Models**|Kushagra Pandey et.al.|[2502.03686](http://arxiv.org/abs/2502.03686)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**Masked Autoencoders Are Effective Tokenizers for Diffusion Models**|Hao Chen et.al.|[2502.03444](http://arxiv.org/abs/2502.03444)|null|
 |**2025-02-05**|**Linearized Optimal Transport pyLOT Library: A Toolkit for Machine Learning on Point Clouds**|Jun Linwu et.al.|[2502.03439](http://arxiv.org/abs/2502.03439)|null|
@@ -4876,6 +4908,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Dark Distillation: Backdooring Distilled Datasets without Accessing Raw Data**|Ziyuan Yang et.al.|[2502.04229](http://arxiv.org/abs/2502.04229)|null|
+|**2025-02-06**|**PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation**|Hyemin Lim et.al.|[2502.03984](http://arxiv.org/abs/2502.03984)|null|
+|**2025-02-06**|**Towards Unified Music Emotion Recognition across Dimensional and Categorical Models**|Jaeyong Kang et.al.|[2502.03979](http://arxiv.org/abs/2502.03979)|null|
+|**2025-02-06**|**BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation**|Bo Pang et.al.|[2502.03860](http://arxiv.org/abs/2502.03860)|null|
+|**2025-02-06**|**Taking A Closer Look at Interacting Objects: Interaction-Aware Open Vocabulary Scene Graph Generation**|Lin Li et.al.|[2502.03856](http://arxiv.org/abs/2502.03856)|null|
+|**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656](http://arxiv.org/abs/2502.03656)|null|
 |**2025-02-05**|**Knowledge Distillation from Large Language Models for Household Energy Modeling**|Mohannad Takrouri et.al.|[2502.03034](http://arxiv.org/abs/2502.03034)|null|
 |**2025-02-05**|**Training an LLM-as-a-Judge Model: Pipeline, Insights, and Practical Lessons**|Renjun Hu et.al.|[2502.02988](http://arxiv.org/abs/2502.02988)|null|
 |**2025-02-06**|**TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation**|Jiaqing Zhang et.al.|[2502.02854](http://arxiv.org/abs/2502.02854)|null|
@@ -5172,6 +5210,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Consistency of augmentation graph and network approximability in contrastive learning**|Chenghui Li et.al.|[2502.04312](http://arxiv.org/abs/2502.04312)|null|
+|**2025-02-06**|**Targeted Learning for Data Fairness**|Alexander Asemota et.al.|[2502.04309](http://arxiv.org/abs/2502.04309)|null|
+|**2025-02-06**|**Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression**|Lirui Wang et.al.|[2502.04296](http://arxiv.org/abs/2502.04296)|null|
+|**2025-02-06**|**Cohomology of symmetric stacks**|Chenjing Bu et.al.|[2502.04253](http://arxiv.org/abs/2502.04253)|null|
+|**2025-02-06**|**Are the Majority of Public Computational Notebooks Pathologically Non-Executable?**|Tien Nguyen et.al.|[2502.04184](http://arxiv.org/abs/2502.04184)|**[link](https://github.com/renote2024/ReNote2024)**|
+|**2025-02-06**|**A data-driven two-microphone method for in-situ sound absorption measurements**|Leon Emmerich et.al.|[2502.04143](http://arxiv.org/abs/2502.04143)|null|
+|**2025-02-06**|**Market-based insurance ratemaking: application to pet insurance**|Pierre-Olivier Goffard et.al.|[2502.04082](http://arxiv.org/abs/2502.04082)|null|
+|**2025-02-06**|**Evaluating Inter-Column Logical Relationships in Synthetic Tabular Data Generation**|Yunbo Long et.al.|[2502.04055](http://arxiv.org/abs/2502.04055)|null|
+|**2025-02-06**|**CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing**|Yu Yuan et.al.|[2502.03997](http://arxiv.org/abs/2502.03997)|null|
+|**2025-02-06**|**Tight Bounds on Jensen's Gap: Novel Approach with Applications in Generative Modeling**|Marcin Mazur et.al.|[2502.03988](http://arxiv.org/abs/2502.03988)|null|
+|**2025-02-06**|**MultiFloodSynth: Multi-Annotated Flood Synthetic Dataset Generation**|YoonJe Kang et.al.|[2502.03966](http://arxiv.org/abs/2502.03966)|null|
+|**2025-02-06**|**A retake on the analysis of scores truncated by terminal events**|Klaus Kähler Holst et.al.|[2502.03942](http://arxiv.org/abs/2502.03942)|null|
+|**2025-02-06**|**Thermal Model Calibration of a Squirrel-Cage Induction Machine**|Leon Blumrich et.al.|[2502.03935](http://arxiv.org/abs/2502.03935)|null|
+|**2025-02-06**|**Synthetic Poisoning Attacks: The Impact of Poisoned MRI Image on U-Net Brain Tumor Segmentation**|Tianhao Li et.al.|[2502.03825](http://arxiv.org/abs/2502.03825)|null|
+|**2025-02-06**|**Syntriever: How to Train Your Retriever with Synthetic Data from LLMs**|Minsang Kim et.al.|[2502.03824](http://arxiv.org/abs/2502.03824)|null|
 |**2025-02-05**|**Linearized Optimal Transport pyLOT Library: A Toolkit for Machine Learning on Point Clouds**|Jun Linwu et.al.|[2502.03439](http://arxiv.org/abs/2502.03439)|null|
 |**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429](http://arxiv.org/abs/2502.03429)|null|
 |**2025-02-05**|**Can Text-to-Image Generative Models Accurately Depict Age? A Comparative Study on Synthetic Portrait Generation and Age Estimation**|Alexey A. Novikov et.al.|[2502.03420](http://arxiv.org/abs/2502.03420)|null|
