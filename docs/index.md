@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -34,7 +34,7 @@ layout: default
 |**2025-01-30**|**Enhancing Large Language Model Efficiencyvia Symbolic Compression: A Formal Approach Towards Interpretability**|Lumen AI et.al.|[2501.18657](http://arxiv.org/abs/2501.18657)|null|
 |**2025-01-23**|**Low-Rank Adapters Meet Neural Architecture Search for LLM Compression**|J. Pablo Muñoz et.al.|[2501.16372](http://arxiv.org/abs/2501.16372)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
 |**2025-01-26**|**Fine Tuning without Catastrophic Forgetting via Selective Low Rank Adaptation**|Reza Akbarian Bafghi et.al.|[2501.15377](http://arxiv.org/abs/2501.15377)|null|
-|**2025-01-26**|**Decentralized Low-Rank Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2501.15361](http://arxiv.org/abs/2501.15361)|null|
+|**2025-02-09**|**Decentralized Low-Rank Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2501.15361](http://arxiv.org/abs/2501.15361)|null|
 |**2025-01-25**|**Complementary Subspace Low-Rank Adaptation of Vision-Language Models for Few-Shot Classification**|Zhongqi Wang et.al.|[2501.15040](http://arxiv.org/abs/2501.15040)|null|
 |**2025-01-24**|**Domain Expansion: Parameter-Efficient Modules as Building Blocks for Composite Domains**|Mann Patel et.al.|[2501.14321](http://arxiv.org/abs/2501.14321)|**[link](https://github.com/manncodes/domain-expansion)**|
 |**2025-01-23**|**Parameter-Efficient Fine-Tuning for Foundation Models**|Dan Zhang et.al.|[2501.13787](http://arxiv.org/abs/2501.13787)|**[link](https://github.com/thudm/awesome-parameter-efficient-fine-tuning-for-foundation-models)**|
