@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -351,7 +351,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|null|
+|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146](http://arxiv.org/abs/2502.12146)|null|
 |**2025-02-17**|**Correlative X-ray and electron tomography for scale-bridging, quantitative analysis of complex, hierarchical particle systems**|Alexander Götz et.al.|[2502.12140](http://arxiv.org/abs/2502.12140)|null|
 |**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
@@ -2517,14 +2517,14 @@ layout: default
 |**2025-02-16**|**AudioSpa: Spatializing Sound Events with Text**|Linfeng Feng et.al.|[2502.11219](http://arxiv.org/abs/2502.11219)|null|
 |**2025-02-16**|**UNITE-FND: Reframing Multimodal Fake News Detection through Unimodal Scene Translation**|Arka Mukherjee et.al.|[2502.11132](http://arxiv.org/abs/2502.11132)|null|
 |**2025-02-16**|**Demystifying Hateful Content: Leveraging Large Multimodal Models for Hateful Meme Detection with Explainable Decisions**|Ming Shan Hee et.al.|[2502.11073](http://arxiv.org/abs/2502.11073)|null|
-|**2025-02-15**|**BalanceBenchmark: A Survey for Imbalanced Learning**|Shaoxuan Xu et.al.|[2502.10816](http://arxiv.org/abs/2502.10816)|null|
+|**2025-02-18**|**BalanceBenchmark: A Survey for Imbalanced Learning**|Shaoxuan Xu et.al.|[2502.10816](http://arxiv.org/abs/2502.10816)|null|
 |**2025-02-14**|**PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation**|Faruk Ahmed et.al.|[2502.10536](http://arxiv.org/abs/2502.10536)|null|
 |**2025-02-14**|**Granite Vision: a lightweight, open-source multimodal model for enterprise Intelligence**|Granite Vision Team et.al.|[2502.09927](http://arxiv.org/abs/2502.09927)|null|
 |**2025-02-13**|**ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models**|Jonathan Roberts et.al.|[2502.09696](http://arxiv.org/abs/2502.09696)|null|
 |**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/abs/2502.09621)|null|
 |**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|**[link](https://github.com/ivan-tang-3d/enel)**|
-|**2025-02-12**|**Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**|Mohammad Mahdi Abootorabi et.al.|[2502.08826](http://arxiv.org/abs/2502.08826)|**[link](https://github.com/llm-lab-org/multimodal-rag-survey)**|
-|**2025-02-12**|**SB-Bench: Stereotype Bias Benchmark for Large Multimodal Models**|Vishal Narnaware et.al.|[2502.08779](http://arxiv.org/abs/2502.08779)|null|
+|**2025-02-17**|**Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation**|Mohammad Mahdi Abootorabi et.al.|[2502.08826](http://arxiv.org/abs/2502.08826)|**[link](https://github.com/llm-lab-org/multimodal-rag-survey)**|
+|**2025-02-17**|**SB-Bench: Stereotype Bias Benchmark for Large Multimodal Models**|Vishal Narnaware et.al.|[2502.08779](http://arxiv.org/abs/2502.08779)|null|
 |**2025-02-13**|**PulseCheck457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models**|Xingrui Wang et.al.|[2502.08636](http://arxiv.org/abs/2502.08636)|null|
 |**2025-02-12**|**What Is That Talk About? A Video-to-Text Summarization Dataset for Scientific Presentations**|Dongqi Liu et.al.|[2502.08279](http://arxiv.org/abs/2502.08279)|null|
 |**2025-02-12**|**UniCoRN: Unified Commented Retrieval Network with LMMs**|Maximilian Jaritz et.al.|[2502.08254](http://arxiv.org/abs/2502.08254)|null|
@@ -3620,7 +3620,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|null|
+|**2025-02-17**|**Diffusion Models without Classifier-free Guidance**|Zhicong Tang et.al.|[2502.12154](http://arxiv.org/abs/2502.12154)|**[link](https://github.com/tzco/Diffusion-wo-CFG)**|
 |**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146](http://arxiv.org/abs/2502.12146)|null|
 |**2025-02-17**|**How compositional generalization and creativity improve as diffusion models are trained**|Alessandro Favero et.al.|[2502.12089](http://arxiv.org/abs/2502.12089)|null|
 |**2025-02-17**|**HumanGif: Single-View Human Diffusion with Generative Prior**|Shoukang Hu et.al.|[2502.12080](http://arxiv.org/abs/2502.12080)|null|
@@ -3634,7 +3634,7 @@ layout: default
 |**2025-02-17**|**MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow**|Hanzhuo Huang et.al.|[2502.11697](http://arxiv.org/abs/2502.11697)|null|
 |**2025-02-17**|**GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text**|Gyumin Shim et.al.|[2502.11642](http://arxiv.org/abs/2502.11642)|null|
 |**2025-02-17**|**Membership Inference Attacks for Face Images Against Fine-Tuned Latent Diffusion Models**|Lauritz Christian Holme et.al.|[2502.11619](http://arxiv.org/abs/2502.11619)|null|
-|**2025-02-17**|**Maximum Entropy Reinforcement Learning with Diffusion Policy**|Xiaoyi Dong et.al.|[2502.11612](http://arxiv.org/abs/2502.11612)|null|
+|**2025-02-18**|**Maximum Entropy Reinforcement Learning with Diffusion Policy**|Xiaoyi Dong et.al.|[2502.11612](http://arxiv.org/abs/2502.11612)|null|
 |**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389](http://arxiv.org/abs/2502.10389)|null|
 |**2025-02-14**|**On creating convexity in high dimensions**|Samuel G. G. Johnston et.al.|[2502.10382](http://arxiv.org/abs/2502.10382)|null|
 |**2025-02-14**|**ReStyle3D: Scene-Level Appearance Transfer with Semantic Correspondences**|Liyuan Zhu et.al.|[2502.10377](http://arxiv.org/abs/2502.10377)|null|
