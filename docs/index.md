@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,7 +25,7 @@ layout: default
 |**2025-02-20**|**Generative Modeling of Individual Behavior at Scale**|Nabil Omi et.al.|[2502.14998](http://arxiv.org/abs/2502.14998)|null|
 |**2025-02-20**|**LoRA-GGPO: Mitigating Double Descent in LoRA Fine-Tuning via Gradient-Guided Perturbation Optimization**|Yupeng Chang et.al.|[2502.14538](http://arxiv.org/abs/2502.14538)|**[link](https://github.com/llm172/lora-ggpo)**|
 |**2025-02-20**|**NLoRA: Nyström-Initiated Low-Rank Adaptation for Large Language Models**|Chenlu Guo et.al.|[2502.14482](http://arxiv.org/abs/2502.14482)|**[link](https://github.com/TracyGuo2001/NLoRA)**|
-|**2025-02-19**|**Token Adaptation via Side Graph Convolution for Temporally and Spatially Efficient Fine-tuning of 3D Point Cloud Transformers**|Takahiko Furuya et.al.|[2502.14142](http://arxiv.org/abs/2502.14142)|**[link](https://github.com/takahikof/stag)**|
+|**2025-02-21**|**Token Adaptation via Side Graph Convolution for Efficient Fine-tuning of 3D Point Cloud Transformers**|Takahiko Furuya et.al.|[2502.14142](http://arxiv.org/abs/2502.14142)|**[link](https://github.com/takahikof/stag)**|
 |**2025-02-19**|**LSR-Adapt: Ultra-Efficient Parameter Tuning with Matrix Low Separation Rank Kernel Adaptation**|Xin Li et.al.|[2502.13568](http://arxiv.org/abs/2502.13568)|null|
 |**2025-02-18**|**GSQ-Tuning: Group-Shared Exponents Integer in Fully Quantized Training for LLMs On-Device Fine-tuning**|Sifan Zhou et.al.|[2502.12913](http://arxiv.org/abs/2502.12913)|null|
 |**2025-02-17**|**Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent**|Junda Wu et.al.|[2502.11740](http://arxiv.org/abs/2502.11740)|null|
