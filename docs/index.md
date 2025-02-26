@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,7 +23,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-21**|**Sparsity May Be All You Need: Sparse Random Parameter Adaptation**|Jesus Rios et.al.|[2502.15975](http://arxiv.org/abs/2502.15975)|null|
 |**2025-02-19**|**Black Sheep in the Herd: Playing with Spuriously Correlated Attributes for Vision-Language Recognition**|Xinyu Tian et.al.|[2502.15809](http://arxiv.org/abs/2502.15809)|null|
-|**2025-02-21**|**R-LoRA: Random Initialization of Multi-Head LoRA for Multi-Task Learning**|Jinda Liu et.al.|[2502.15455](http://arxiv.org/abs/2502.15455)|null|
+|**2025-02-21**|**R-LoRA: Random Initialization of Multi-Head LoRA for Multi-Task Learning**|Jinda Liu et.al.|[2502.15455](http://arxiv.org/abs/2502.15455)|**[link](https://github.com/jinda-liu/r-lora)**|
 |**2025-02-20**|**Generative Modeling of Individual Behavior at Scale**|Nabil Omi et.al.|[2502.14998](http://arxiv.org/abs/2502.14998)|null|
 |**2025-02-20**|**LoRA-GGPO: Mitigating Double Descent in LoRA Fine-Tuning via Gradient-Guided Perturbation Optimization**|Yupeng Chang et.al.|[2502.14538](http://arxiv.org/abs/2502.14538)|**[link](https://github.com/llm172/lora-ggpo)**|
 |**2025-02-20**|**NLoRA: Nyström-Initiated Low-Rank Adaptation for Large Language Models**|Chenlu Guo et.al.|[2502.14482](http://arxiv.org/abs/2502.14482)|**[link](https://github.com/TracyGuo2001/NLoRA)**|
@@ -365,7 +365,7 @@ layout: default
 |**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/abs/2502.17423)|null|
 |**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
 |**2025-02-24**|**What is a Good Question? Utility Estimation with LLM-based Simulations**|Dong-Ho Lee et.al.|[2502.17383](http://arxiv.org/abs/2502.17383)|null|
-|**2025-02-24**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|null|
+|**2025-02-25**|**KV-Edit: Training-Free Image Editing for Precise Background Preservation**|Tianrui Zhu et.al.|[2502.17363](http://arxiv.org/abs/2502.17363)|**[link](https://github.com/Xilluill/KV-Edit)**|
 |**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|null|
 |**2025-02-24**|**How Scientists Use Large Language Models to Program**|Gabrielle O'Brien et.al.|[2502.17348](http://arxiv.org/abs/2502.17348)|null|
 |**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327](http://arxiv.org/abs/2502.17327)|null|
@@ -2600,8 +2600,8 @@ layout: default
 |**2025-02-24**|**Systematic Weight Evaluation for Pruning Large Language Models: Enhancing Performance and Sustainability**|Ashhadul Islam et.al.|[2502.17071](http://arxiv.org/abs/2502.17071)|null|
 |**2025-02-24**|**DUNIA: Pixel-Sized Embeddings via Cross-Modal Alignment for Earth Observation Applications**|Ibrahim Fayad et.al.|[2502.17066](http://arxiv.org/abs/2502.17066)|null|
 |**2025-02-23**|**Category-Selective Neurons in Deep Networks: Comparing Purely Visual and Visual-Language Models**|Zitong Lu et.al.|[2502.16456](http://arxiv.org/abs/2502.16456)|null|
-|**2025-02-23**|**A Survey on Industrial Anomalies Synthesis**|Xichen Xu et.al.|[2502.16412](http://arxiv.org/abs/2502.16412)|null|
-|**2025-02-22**|**Understanding the Emergence of Multimodal Representation Alignment**|Megan Tjandrasuwita et.al.|[2502.16282](http://arxiv.org/abs/2502.16282)|null|
+|**2025-02-23**|**A Survey on Industrial Anomalies Synthesis**|Xichen Xu et.al.|[2502.16412](http://arxiv.org/abs/2502.16412)|**[link](https://github.com/m-3lab/awesome-anomaly-synthesis)**|
+|**2025-02-22**|**Understanding the Emergence of Multimodal Representation Alignment**|Megan Tjandrasuwita et.al.|[2502.16282](http://arxiv.org/abs/2502.16282)|**[link](https://github.com/megantj/multimodal_alignment)**|
 |**2025-02-22**|**Beyond Visual Perception: Insights from Smartphone Interaction of Visually Impaired Users with Large Multimodal Models**|Jingyi Xie et.al.|[2502.16098](http://arxiv.org/abs/2502.16098)|null|
 |**2025-02-21**|**Multi-Agent Multimodal Models for Multicultural Text to Image Generation**|Parth Bhalerao et.al.|[2502.15972](http://arxiv.org/abs/2502.15972)|null|
 |**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542](http://arxiv.org/abs/2502.15542)|null|
@@ -3741,11 +3741,11 @@ layout: default
 |**2025-02-24**|**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing**|Xiangpeng Yang et.al.|[2502.17258](http://arxiv.org/abs/2502.17258)|null|
 |**2025-02-24**|**Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**|Baptiste Chopin et.al.|[2502.17198](http://arxiv.org/abs/2502.17198)|null|
 |**2025-02-24**|**Scaling Limits for Exponential Hedging in the Brownian Framework**|Yan Dolinksy et.al.|[2502.17186](http://arxiv.org/abs/2502.17186)|null|
-|**2025-02-24**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
+|**2025-02-25**|**DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks**|Canyu Zhao et.al.|[2502.17157](http://arxiv.org/abs/2502.17157)|**[link](https://github.com/aim-uofa/Diception)**|
 |**2025-02-24**|**Strong convergence of the adaptive Milstein method for nonlinear stochastic differential equations with piecewise continuous arguments**|Yuhang Zhang et.al.|[2502.17126](http://arxiv.org/abs/2502.17126)|null|
-|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|null|
+|**2025-02-24**|**Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions**|Zhong Li et.al.|[2502.17119](http://arxiv.org/abs/2502.17119)|**[link](https://github.com/diffusion-model-leiden/awesome-diffusion-models-for-tabular-data)**|
 |**2025-02-24**|**SFLD: Reducing the content bias for AI-generated Image Detection**|Seoyeon Gye et.al.|[2502.17105](http://arxiv.org/abs/2502.17105)|null|
-|**2025-02-24**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100](http://arxiv.org/abs/2502.17100)|null|
+|**2025-02-25**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100](http://arxiv.org/abs/2502.17100)|null|
 |**2025-02-24**|**Conditional Diffusion-Flow models for generating 3D cosmic density fields: applications to f(R) cosmologies**|Julieth Katherine Riveros et.al.|[2502.17087](http://arxiv.org/abs/2502.17087)|null|
 |**2025-02-24**|**Quasi-likelihood ratio test for jump-diffusion processes based on adaptive maximum likelihood inference**|Hiromasa Nishikawa et.al.|[2502.17058](http://arxiv.org/abs/2502.17058)|null|
 |**2025-02-24**|**SpecDM: Hyperspectral Dataset Synthesis with Pixel-level Semantic Annotations**|Wendi Liu et.al.|[2502.17056](http://arxiv.org/abs/2502.17056)|null|
@@ -5340,16 +5340,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation**|Vishal Thengane et.al.|[2502.17429](http://arxiv.org/abs/2502.17429)|null|
+|**2025-02-24**|**CLIMB-3D: Continual Learning for Imbalanced 3D Instance Segmentation**|Vishal Thengane et.al.|[2502.17429](http://arxiv.org/abs/2502.17429)|**[link](https://github.com/vgthengane/climb3d)**|
 |**2025-02-24**|**Implicit Word Reordering with Knowledge Distillation for Cross-Lingual Dependency Parsing**|Zhuoran Li et.al.|[2502.17308](http://arxiv.org/abs/2502.17308)|null|
 |**2025-02-24**|**Improving the Transferability of Adversarial Examples by Inverse Knowledge Distillation**|Wenyuan Wu et.al.|[2502.17003](http://arxiv.org/abs/2502.17003)|null|
 |**2025-02-24**|**PQDAST: Depth-Aware Arbitrary Style Transfer for Games via Perceptual Quality-Guided Distillation**|Eleftherios Ioannou et.al.|[2502.16996](http://arxiv.org/abs/2502.16996)|null|
-|**2025-02-24**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
+|**2025-02-25**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
 |**2025-02-24**|**A Transformer-in-Transformer Network Utilizing Knowledge Distillation for Image Recognition**|Dewan Tauhid Rahman et.al.|[2502.16762](http://arxiv.org/abs/2502.16762)|null|
 |**2025-02-23**|**EDocNet: Efficient Datasheet Layout Analysis Based on Focus and Global Knowledge Distillation**|Hong Cai Chen et.al.|[2502.16541](http://arxiv.org/abs/2502.16541)|null|
-|**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959](http://arxiv.org/abs/2502.15959)|null|
+|**2025-02-21**|**A Knowledge Distillation-Based Approach to Enhance Transparency of Classifier Models**|Yuchen Jiang et.al.|[2502.15959](http://arxiv.org/abs/2502.15959)|**[link](https://github.com/aipmlab/kd-fmv)**|
 |**2025-02-21**|**PPC-GPT: Federated Task-Specific Compression of Large Language Models via Pruning and Chain-of-Thought Distillation**|Tao Fan et.al.|[2502.15857](http://arxiv.org/abs/2502.15857)|null|
-|**2025-02-21**|**Scaling Sparse and Dense Retrieval in Decoder-Only LLMs**|Hansi Zeng et.al.|[2502.15526](http://arxiv.org/abs/2502.15526)|null|
+|**2025-02-21**|**Scaling Sparse and Dense Retrieval in Decoder-Only LLMs**|Hansi Zeng et.al.|[2502.15526](http://arxiv.org/abs/2502.15526)|**[link](https://github.com/hansizeng/scaling-retriever)**|
 |**2025-02-20**|**Modifying Final Splits of Classification Tree for Fine-tuning Subpopulation Target in Policy Making**|Lei Bill Wang et.al.|[2502.15072](http://arxiv.org/abs/2502.15072)|null|
 |**2025-02-20**|**TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation**|Juntong Ni et.al.|[2502.15016](http://arxiv.org/abs/2502.15016)|null|
 |**2025-02-20**|**Synergistic Fusion of Multi-Source Knowledge via Evidence Theory for High-Entropy Alloy Discovery**|Minh-Quyet Ha et.al.|[2502.14631](http://arxiv.org/abs/2502.14631)|null|
@@ -5714,7 +5714,7 @@ layout: default
 |**2025-02-24**|**From High-Entropy Alloys to Alloys with High Entropy: A New Paradigm in Materials Science and Engineering for Advancing Sustainable Metallurgy**|Jose Manuel Torralba et.al.|[2502.17279](http://arxiv.org/abs/2502.17279)|null|
 |**2025-02-24**|**A Two-step Linear Mixing Model for Unmixing under Hyperspectral Variability**|Xander Haijen et.al.|[2502.17212](http://arxiv.org/abs/2502.17212)|null|
 |**2025-02-24**|**A Pragmatic Note on Evaluating Generative Models with Fréchet Inception Distance for Retinal Image Synthesis**|Yuli Wu et.al.|[2502.17160](http://arxiv.org/abs/2502.17160)|null|
-|**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|null|
+|**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|**[link](https://github.com/kugwzk/at_diff)**|
 |**2025-02-24**|**WildFrame: Comparing Framing in Humans and LLMs on Naturally Occurring Texts**|Gili Lior et.al.|[2502.17091](http://arxiv.org/abs/2502.17091)|null|
 |**2025-02-24**|**PrivaCI-Bench: Evaluating Privacy with Contextual Integrity and Legal Compliance**|Haoran Li et.al.|[2502.17041](http://arxiv.org/abs/2502.17041)|null|
 |**2025-02-24**|**Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation**|Jaskaran Singh Walia et.al.|[2502.17011](http://arxiv.org/abs/2502.17011)|null|
