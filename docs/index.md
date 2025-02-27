@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -368,8 +368,8 @@ layout: default
 |**2025-02-25**|**Stretchable Capacitive and Resistive Strain Sensors: Accessible Manufacturing Using Direct Ink Writing**|Lukas Cha et.al.|[2502.18363](http://arxiv.org/abs/2502.18363)|null|
 |**2025-02-25**|**Towards softerware: Enabling personalization of interactive data representations for users with disabilities**|Frank Elavsky et.al.|[2502.18348](http://arxiv.org/abs/2502.18348)|null|
 |**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
-|**2025-02-25**|**Bayesian Computation in Deep Learning**|Wenlong Chen et.al.|[2502.18300](http://arxiv.org/abs/2502.18300)|null|
-|**2025-02-25**|**Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support**|Guoxin Wang et.al.|[2502.18274](http://arxiv.org/abs/2502.18274)|null|
+|**2025-02-26**|**Bayesian Computation in Deep Learning**|Wenlong Chen et.al.|[2502.18300](http://arxiv.org/abs/2502.18300)|null|
+|**2025-02-26**|**Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support**|Guoxin Wang et.al.|[2502.18274](http://arxiv.org/abs/2502.18274)|null|
 |**2025-02-25**|**Imperfect Knowledge Management (IKM) in GEFRED (GENeralized model for Fuzzy RElational Databases)**|Leoncio Jimenez et.al.|[2502.18255](http://arxiv.org/abs/2502.18255)|null|
 |**2025-02-25**|**A 3D Printed Quad-Ridged Flared Horn Antenna Feeder for Radio-Telescopes**|Andreas Hofmann et.al.|[2502.18243](http://arxiv.org/abs/2502.18243)|null|
 |**2025-02-25**|**Causal AI-based Root Cause Identification: Research to Practice at Scale**|Saurabh Jha et.al.|[2502.18240](http://arxiv.org/abs/2502.18240)|null|
