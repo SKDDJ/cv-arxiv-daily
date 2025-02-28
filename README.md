@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**LORENZA: Enhancing Generalization in Low-Rank Gradient LLM Training via Efficient Zeroth-Order Adaptive SAM**|Yehonathan Refael et.al.|[2502.19571](http://arxiv.org/abs/2502.19571)|null|
 |**2025-02-22**|**ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models**|Xuxu Liu et.al.|[2502.18511](http://arxiv.org/abs/2502.18511)|null|
 |**2025-02-27**|**SECURA: Sigmoid-Enhanced CUR Decomposition with Uninterrupted Retention and Low-Rank Adaptation in Large Language Models**|Yuxuan Zhang et.al.|[2502.18168](http://arxiv.org/abs/2502.18168)|null|
 |**2025-02-21**|**Sparsity May Be All You Need: Sparse Random Parameter Adaptation**|Jesus Rios et.al.|[2502.15975](http://arxiv.org/abs/2502.15975)|null|
@@ -360,6 +361,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2502.20390](http://arxiv.org/abs/2502.20390)|null|
+|**2025-02-27**|**Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**|Sucheng Ren et.al.|[2502.20388](http://arxiv.org/abs/2502.20388)|null|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
+|**2025-02-27**|**ACCORD: Application Context-aware Cross-layer Optimization and Resource Design for 5G/NextG Machine-centric Applications**|Azuka Chiejina et.al.|[2502.20320](http://arxiv.org/abs/2502.20320)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313](http://arxiv.org/abs/2502.20313)|null|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
+|**2025-02-27**|**Do computer vision foundation models learn the low-level characteristics of the human visual system?**|Yancheng Cai et.al.|[2502.20256](http://arxiv.org/abs/2502.20256)|null|
+|**2025-02-27**|**Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets**|Chichien Tsai et.al.|[2502.20246](http://arxiv.org/abs/2502.20246)|null|
+|**2025-02-27**|**From Retrieval to Generation: Comparing Different Approaches**|Abdelrahman Abdallah et.al.|[2502.20245](http://arxiv.org/abs/2502.20245)|null|
+|**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
+|**2025-02-27**|**AI Will Always Love You: Studying Implicit Biases in Romantic AI Companions**|Clare Grogan et.al.|[2502.20231](http://arxiv.org/abs/2502.20231)|null|
+|**2025-02-27**|**Model Checking Linear Temporal Logic with Standpoint Modalities**|Rajab Aghamov et.al.|[2502.20193](http://arxiv.org/abs/2502.20193)|null|
+|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172](http://arxiv.org/abs/2502.20172)|null|
 |**2025-02-26**|**Multi-modal Contrastive Learning for Tumor-specific Missing Modality Synthesis**|Minjoo Lim et.al.|[2502.19390](http://arxiv.org/abs/2502.19390)|null|
 |**2025-02-26**|**Deep Learning For Time Series Analysis With Application On Human Motion**|Ali Ismail-Fawaz et.al.|[2502.19364](http://arxiv.org/abs/2502.19364)|null|
 |**2025-02-26**|**Shh, don't say that! Domain Certification in LLMs**|Cornelius Emde et.al.|[2502.19320](http://arxiv.org/abs/2502.19320)|null|
@@ -2627,6 +2643,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
+|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172](http://arxiv.org/abs/2502.20172)|null|
+|**2025-02-27**|**Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion**|QingYuan Jiang et.al.|[2502.20120](http://arxiv.org/abs/2502.20120)|null|
+|**2025-02-27**|**MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge**|Yuntao Du et.al.|[2502.19870](http://arxiv.org/abs/2502.19870)|**[link](https://github.com/MMKE-Bench-ICLR/MMKE-Bench)**|
+|**2025-02-27**|**Knowledge Bridger: Towards Training-free Missing Multi-modality Completion**|Guanzhou Ke et.al.|[2502.19834](http://arxiv.org/abs/2502.19834)|null|
+|**2025-02-27**|**MICINet: Multi-Level Inter-Class Confusing Information Removal for Reliable Multimodal Classification**|Tong Zhang et.al.|[2502.19674](http://arxiv.org/abs/2502.19674)|null|
 |**2025-02-25**|**Mind the Gap: Bridging the Divide Between AI Aspirations and the Reality of Autonomous Characterization**|Grace Guinan et.al.|[2502.18604](http://arxiv.org/abs/2502.18604)|null|
 |**2025-02-25**|**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs**|Gaye Colakoglu et.al.|[2502.18179](http://arxiv.org/abs/2502.18179)|**[link](https://github.com/gayecolakoglu/layie-llm)**|
 |**2025-02-25**|**CPVis: Evidence-based Multimodal Learning Analytics for Evaluation in Collaborative Programming**|Gefei Zhang et.al.|[2502.17835](http://arxiv.org/abs/2502.17835)|null|
@@ -3778,6 +3800,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313](http://arxiv.org/abs/2502.20313)|null|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
+|**2025-02-27**|**How cancer emerges: Data-driven universal insights into tumorigenesis via hallmark networks**|Jiahe Wang et.al.|[2502.20275](http://arxiv.org/abs/2502.20275)|null|
+|**2025-02-27**|**Exponential convergence of general iterative proportional fitting procedures**|Stephan Eckstein et.al.|[2502.20264](http://arxiv.org/abs/2502.20264)|null|
+|**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
+|**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172](http://arxiv.org/abs/2502.20172)|null|
+|**2025-02-27**|**Robust sensitivity control in digital pathology via tile score distribution matching**|Arthur Pignet et.al.|[2502.20144](http://arxiv.org/abs/2502.20144)|null|
+|**2025-02-27**|**Your contrastive learning problem is secretly a distribution alignment problem**|Zihao Chen et.al.|[2502.20141](http://arxiv.org/abs/2502.20141)|null|
+|**2025-02-27**|**Scalability of the second-order reliability method for stochastic differential equations with multiplicative noise**|Timo Schorlepp et.al.|[2502.20114](http://arxiv.org/abs/2502.20114)|null|
+|**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100](http://arxiv.org/abs/2502.20100)|null|
+|**2025-02-27**|**Image Referenced Sketch Colorization Based on Animation Creation Workflow**|Dingkun Yan et.al.|[2502.19937](http://arxiv.org/abs/2502.19937)|null|
+|**2025-02-27**|**DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models**|Weihao wu et.al.|[2502.19924](http://arxiv.org/abs/2502.19924)|null|
 |**2025-02-26**|**Joint Optimal Transport and Embedding for Network Alignment**|Qi Yu et.al.|[2502.19334](http://arxiv.org/abs/2502.19334)|null|
 |**2025-02-26**|**Polynomial McKean-Vlasov SDEs**|Christa Cuchiero et.al.|[2502.19203](http://arxiv.org/abs/2502.19203)|null|
 |**2025-02-26**|**HDM: Hybrid Diffusion Model for Unified Image Anomaly Detection**|Zekang Weng et.al.|[2502.19200](http://arxiv.org/abs/2502.19200)|null|
@@ -5415,6 +5452,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
+|**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
+|**2025-02-27**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
+|**2025-02-27**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
+|**2025-02-27**|**XCOMPS: A Multilingual Benchmark of Conceptual Minimal Pairs**|Linyang He et.al.|[2502.19737](http://arxiv.org/abs/2502.19737)|null|
+|**2025-02-26**|**Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination in QA Agents**|Ashley Lewis et.al.|[2502.19545](http://arxiv.org/abs/2502.19545)|null|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
 |**2025-02-22**|**Multi-Teacher Knowledge Distillation with Reinforcement Learning for Visual Recognition**|Chuanguang Yang et.al.|[2502.18510](http://arxiv.org/abs/2502.18510)|null|
 |**2025-02-25**|**AfroXLMR-Comet: Multilingual Knowledge Distillation with Attention Matching for Low-Resource languages**|Joshua Sakthivel Raju et.al.|[2502.18020](http://arxiv.org/abs/2502.18020)|null|
@@ -5790,6 +5833,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**Sanity Checking Causal Representation Learning on a Simple Real-World System**|Juan L. Gamella et.al.|[2502.20099](http://arxiv.org/abs/2502.20099)|null|
+|**2025-02-27**|**Quantum generative classification with mixed states**|Diego H. Useche et.al.|[2502.19970](http://arxiv.org/abs/2502.19970)|null|
+|**2025-02-27**|**Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation**|Xiang Geng et.al.|[2502.19941](http://arxiv.org/abs/2502.19941)|null|
+|**2025-02-27**|**Shifting the Paradigm: A Diffeomorphism Between Time Series Data Manifolds for Achieving Shift-Invariancy in Deep Learning**|Berken Utku Demirel et.al.|[2502.19921](http://arxiv.org/abs/2502.19921)|null|
+|**2025-02-27**|**UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition**|Xiao Lin et.al.|[2502.19803](http://arxiv.org/abs/2502.19803)|null|
+|**2025-02-27**|**Developmental Support Approach to AI's Autonomous Growth: Toward the Realization of a Mutually Beneficial Stage Through Experiential Learning**|Taichiro Endo et.al.|[2502.19798](http://arxiv.org/abs/2502.19798)|null|
+|**2025-02-27**|**In-Context Learning with Hypothesis-Class Guidance**|Ziqian Lin et.al.|[2502.19787](http://arxiv.org/abs/2502.19787)|null|
+|**2025-02-27**|**Few-Shot Multilingual Open-Domain QA from 5 Examples**|Fan Jiang et.al.|[2502.19722](http://arxiv.org/abs/2502.19722)|null|
+|**2025-02-27**|**Training Robust Graph Neural Networks by Modeling Noise Dependencies**|Yeonjun In et.al.|[2502.19670](http://arxiv.org/abs/2502.19670)|null|
+|**2025-02-26**|**Learning Ensembles of Interpretable Simple Structure**|Gaurav Arwade et.al.|[2502.19602](http://arxiv.org/abs/2502.19602)|null|
+|**2025-02-26**|**Trustworthy Answers, Messier Data: Bridging the Gap in Low-Resource Retrieval-Augmented Generation for Domain Expert Systems**|Nayoung Choi et.al.|[2502.19596](http://arxiv.org/abs/2502.19596)|null|
+|**2025-02-26**|**Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination in QA Agents**|Ashley Lewis et.al.|[2502.19545](http://arxiv.org/abs/2502.19545)|null|
 |**2025-02-26**|**FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users**|Anikait Singh et.al.|[2502.19312](http://arxiv.org/abs/2502.19312)|null|
 |**2025-02-26**|**AI-Powered Bayesian Inference**|Veronika Ročková et.al.|[2502.19231](http://arxiv.org/abs/2502.19231)|null|
 |**2025-02-26**|**Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**|Petri Mäkinen et.al.|[2502.19169](http://arxiv.org/abs/2502.19169)|null|
