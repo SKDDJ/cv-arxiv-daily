@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -372,7 +372,7 @@ layout: default
 |**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
 |**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
 |**2025-02-27**|**Do computer vision foundation models learn the low-level characteristics of the human visual system?**|Yancheng Cai et.al.|[2502.20256](http://arxiv.org/abs/2502.20256)|null|
-|**2025-02-27**|**Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets**|Chichien Tsai et.al.|[2502.20246](http://arxiv.org/abs/2502.20246)|null|
+|**2025-02-28**|**Beyond Natural Language Perplexity: Detecting Dead Code Poisoning in Code Generation Datasets**|Chi-Chien Tsai et.al.|[2502.20246](http://arxiv.org/abs/2502.20246)|null|
 |**2025-02-27**|**From Retrieval to Generation: Comparing Different Approaches**|Abdelrahman Abdallah et.al.|[2502.20245](http://arxiv.org/abs/2502.20245)|null|
 |**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
 |**2025-02-27**|**AI Will Always Love You: Studying Implicit Biases in Romantic AI Companions**|Clare Grogan et.al.|[2502.20231](http://arxiv.org/abs/2502.20231)|null|
@@ -3803,7 +3803,7 @@ layout: default
 |**2025-02-27**|**Exponential convergence of general iterative proportional fitting procedures**|Stephan Eckstein et.al.|[2502.20264](http://arxiv.org/abs/2502.20264)|null|
 |**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
 |**2025-02-27**|**Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think**|Liang Chen et.al.|[2502.20172](http://arxiv.org/abs/2502.20172)|null|
-|**2025-02-27**|**Robust sensitivity control in digital pathology via tile score distribution matching**|Arthur Pignet et.al.|[2502.20144](http://arxiv.org/abs/2502.20144)|null|
+|**2025-02-28**|**Robust sensitivity control in digital pathology via tile score distribution matching**|Arthur Pignet et.al.|[2502.20144](http://arxiv.org/abs/2502.20144)|null|
 |**2025-02-27**|**Your contrastive learning problem is secretly a distribution alignment problem**|Zihao Chen et.al.|[2502.20141](http://arxiv.org/abs/2502.20141)|null|
 |**2025-02-27**|**Scalability of the second-order reliability method for stochastic differential equations with multiplicative noise**|Timo Schorlepp et.al.|[2502.20114](http://arxiv.org/abs/2502.20114)|null|
 |**2025-02-27**|**Generative augmentations for improved cardiac ultrasound segmentation using diffusion models**|Gilles Van De Vyver et.al.|[2502.20100](http://arxiv.org/abs/2502.20100)|null|
@@ -5446,8 +5446,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
 |**2025-02-27**|**Granite Embedding Models**|Parul Awasthy et.al.|[2502.20204](http://arxiv.org/abs/2502.20204)|null|
-|**2025-02-27**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
-|**2025-02-27**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
+|**2025-02-28**|**Behind the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
+|**2025-02-28**|**Lightweight Contrastive Distilled Hashing for Online Cross-modal Retrieval**|Jiaxing Li et.al.|[2502.19751](http://arxiv.org/abs/2502.19751)|null|
 |**2025-02-27**|**XCOMPS: A Multilingual Benchmark of Conceptual Minimal Pairs**|Linyang He et.al.|[2502.19737](http://arxiv.org/abs/2502.19737)|null|
 |**2025-02-26**|**Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination in QA Agents**|Ashley Lewis et.al.|[2502.19545](http://arxiv.org/abs/2502.19545)|null|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
@@ -5826,7 +5826,7 @@ layout: default
 |**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
 |**2025-02-27**|**Sanity Checking Causal Representation Learning on a Simple Real-World System**|Juan L. Gamella et.al.|[2502.20099](http://arxiv.org/abs/2502.20099)|null|
 |**2025-02-27**|**Quantum generative classification with mixed states**|Diego H. Useche et.al.|[2502.19970](http://arxiv.org/abs/2502.19970)|null|
-|**2025-02-27**|**Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation**|Xiang Geng et.al.|[2502.19941](http://arxiv.org/abs/2502.19941)|null|
+|**2025-02-28**|**Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation**|Xiang Geng et.al.|[2502.19941](http://arxiv.org/abs/2502.19941)|null|
 |**2025-02-27**|**Shifting the Paradigm: A Diffeomorphism Between Time Series Data Manifolds for Achieving Shift-Invariancy in Deep Learning**|Berken Utku Demirel et.al.|[2502.19921](http://arxiv.org/abs/2502.19921)|null|
 |**2025-02-27**|**UIFace: Unleashing Inherent Model Capabilities to Enhance Intra-Class Diversity in Synthetic Face Recognition**|Xiao Lin et.al.|[2502.19803](http://arxiv.org/abs/2502.19803)|null|
 |**2025-02-27**|**Developmental Support Approach to AI's Autonomous Growth: Toward the Realization of a Mutually Beneficial Stage Through Experiential Learning**|Taichiro Endo et.al.|[2502.19798](http://arxiv.org/abs/2502.19798)|null|
