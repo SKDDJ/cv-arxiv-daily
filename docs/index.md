@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**|Wonjun Kang et.al.|[2503.03499](http://arxiv.org/abs/2503.03499)|null|
 |**2025-02-28**|**PaCA: Partial Connection Adaptation for Efficient Fine-Tuning**|Sunghyeon Woo et.al.|[2503.01905](http://arxiv.org/abs/2503.01905)|null|
 |**2025-03-03**|**Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace**|Jia-Chen Zhang et.al.|[2503.01419](http://arxiv.org/abs/2503.01419)|null|
 |**2025-03-03**|**PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation**|Linhai Zhang et.al.|[2503.01303](http://arxiv.org/abs/2503.01303)|null|
@@ -369,6 +370,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
+|**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
+|**2025-03-05**|**DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles**|Rui Zhao et.al.|[2503.03651](http://arxiv.org/abs/2503.03651)|null|
+|**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595](http://arxiv.org/abs/2503.03595)|null|
+|**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464](http://arxiv.org/abs/2503.03464)|null|
+|**2025-03-05**|**Predicting Practically? Domain Generalization for Predictive Analytics in Real-world Environments**|Hanyu Duan et.al.|[2503.03399](http://arxiv.org/abs/2503.03399)|null|
+|**2025-03-05**|**Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2503.03367](http://arxiv.org/abs/2503.03367)|null|
+|**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
+|**2025-03-05**|**Label-Efficient LiDAR Semantic Segmentation with 2D-3D Vision Transformer Adapters**|Julia Hindel et.al.|[2503.03299](http://arxiv.org/abs/2503.03299)|null|
+|**2025-03-05**|**Group Delay Dispersion Measurements of Novel Multilayer Interference Coatings in the Mid-Infrared Spectral Regime**|Ulrich Galander et.al.|[2503.03289](http://arxiv.org/abs/2503.03289)|null|
+|**2025-03-05**|**Optimizing for the Shortest Path in Denoising Diffusion Model**|Ping Chen et.al.|[2503.03265](http://arxiv.org/abs/2503.03265)|null|
+|**2025-03-05**|**Mean Field Game of Controls with State Reflections: Existence and Limit Theory**|Lijun Bo et.al.|[2503.03253](http://arxiv.org/abs/2503.03253)|null|
+|**2025-03-05**|**GenColor: Generative Color-Concept Association in Visual Design**|Yihan Hou et.al.|[2503.03236](http://arxiv.org/abs/2503.03236)|null|
 |**2025-03-04**|**ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models**|Qinyu Zhao et.al.|[2503.02883](http://arxiv.org/abs/2503.02883)|null|
 |**2025-03-04**|**SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting**|Ting-Ji Huang et.al.|[2503.02836](http://arxiv.org/abs/2503.02836)|**[link](https://github.com/Tingji2419/SeqFusion)**|
 |**2025-03-04**|**A Multimodal Symphony: Integrating Taste and Sound through Generative AI**|Matteo Spanio et.al.|[2503.02823](http://arxiv.org/abs/2503.02823)|null|
@@ -2679,6 +2695,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|null|
+|**2025-03-05**|**See What You Are Told: Visual Attention Sink in Large Multimodal Models**|Seil Kang et.al.|[2503.03321](http://arxiv.org/abs/2503.03321)|null|
 |**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/abs/2503.02849)|null|
 |**2025-03-04**|**Multimodal AI predicts clinical outcomes of drug combinations from preclinical data**|Yepeng Huang et.al.|[2503.02781](http://arxiv.org/abs/2503.02781)|null|
 |**2025-03-04**|**DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models**|Saeed Ranjbar Alvar et.al.|[2503.02175](http://arxiv.org/abs/2503.02175)|null|
@@ -3850,6 +3868,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Constrained Gaussian Wasserstein Optimal Transport with Commutative Covariance Matrices**|Jun Chen et.al.|[2503.03744](http://arxiv.org/abs/2503.03744)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
+|**2025-03-05**|**Gaussian-type density estimates for mixed SDEs driven by correlated fractional Brownian motions**|Maximilian Buthenhoff et.al.|[2503.03685](http://arxiv.org/abs/2503.03685)|null|
+|**2025-03-05**|**Strong solutions for singular SDEs driven by long-range dependent fractional Brownian motion and other Volterra processes**|Maximilian Buthenhoff et.al.|[2503.03677](http://arxiv.org/abs/2503.03677)|null|
+|**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595](http://arxiv.org/abs/2503.03595)|null|
+|**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464](http://arxiv.org/abs/2503.03464)|null|
+|**2025-03-05**|**Top-K Maximum Intensity Projection Priors for 3D Liver Vessel Segmentation**|Xiaotong Zhang et.al.|[2503.03367](http://arxiv.org/abs/2503.03367)|null|
+|**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
+|**2025-03-05**|**Optimizing for the Shortest Path in Denoising Diffusion Model**|Ping Chen et.al.|[2503.03265](http://arxiv.org/abs/2503.03265)|null|
+|**2025-03-05**|**GenColor: Generative Color-Concept Association in Visual Design**|Yihan Hou et.al.|[2503.03236](http://arxiv.org/abs/2503.03236)|null|
+|**2025-03-05**|**Mocap-2-to-3: Lifting 2D Diffusion-Based Pretrained Models for 3D Motion Capture**|Zhumei Wang et.al.|[2503.03222](http://arxiv.org/abs/2503.03222)|null|
+|**2025-03-05**|**An Analytical Theory of Power Law Spectral Bias in the Learning Dynamics of Diffusion Models**|Binxu Wang et.al.|[2503.03206](http://arxiv.org/abs/2503.03206)|null|
+|**2025-03-05**|**WarmFed: Federated Learning with Warm-Start for Globalization and Personalization Via Personalized Diffusion Models**|Tao Feng et.al.|[2503.03110](http://arxiv.org/abs/2503.03110)|null|
+|**2025-03-05**|**$C$-existence families, $C$ -semigroups and their associated abstract Cauchy problems in complete random normed modules**|Xia Zhang et.al.|[2503.03096](http://arxiv.org/abs/2503.03096)|null|
 |**2025-03-04**|**Generating Reliable Initial Velocity Models for Full-waveform Inversion with Well and Structural Constraints**|Qingchen Zhang et.al.|[2503.02815](http://arxiv.org/abs/2503.02815)|null|
 |**2025-03-04**|**An optimal-transport finite-particle method for driven mass diffusion**|Anna Pandolfi et.al.|[2503.02813](http://arxiv.org/abs/2503.02813)|null|
 |**2025-03-04**|**StageDesigner: Artistic Stage Generation for Scenography via Theater Scripts**|Zhaoxing Gan et.al.|[2503.02595](http://arxiv.org/abs/2503.02595)|null|
@@ -5529,6 +5562,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo et.al.|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
+|**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144](http://arxiv.org/abs/2503.03144)|null|
 |**2025-03-04**|**It Helps to Take a Second Opinion: Teaching Smaller LLMs to Deliberate Mutually via Selective Rationale Optimisation**|Sohan Patnaik et.al.|[2503.02463](http://arxiv.org/abs/2503.02463)|null|
 |**2025-03-04**|**Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration**|Pengchen Liang et.al.|[2503.02321](http://arxiv.org/abs/2503.02321)|null|
 |**2025-02-27**|**Enhancing Transformer with GNN Structural Knowledge via Distillation: A Novel Approach**|Zhihua Duan et.al.|[2503.01888](http://arxiv.org/abs/2503.01888)|null|
@@ -5920,6 +5955,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Handling Uncertainty in Health Data using Generative Algorithms**|Mahdi Arab Loodaricheh et.al.|[2503.03715](http://arxiv.org/abs/2503.03715)|null|
+|**2025-03-05**|**Robust Learning of Diverse Code Edits**|Tushar Aggarwal et.al.|[2503.03656](http://arxiv.org/abs/2503.03656)|null|
+|**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
+|**2025-03-05**|**Semiparametric Growth-Curve Modeling in Hierarchical, Longitudinal Studies**|Rajesh Selukar et.al.|[2503.03550](http://arxiv.org/abs/2503.03550)|null|
+|**2025-03-05**|**Rethinking Synthetic Data definitions: A privacy driven approach**|Vibeke Binz Vallevik et.al.|[2503.03506](http://arxiv.org/abs/2503.03506)|null|
+|**2025-03-05**|**Bridging Synthetic-to-Real Gaps: Frequency-Aware Perturbation and Selection for Single-shot Multi-Parametric Mapping Reconstruction**|Linyu Fan et.al.|[2503.03475](http://arxiv.org/abs/2503.03475)|null|
+|**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464](http://arxiv.org/abs/2503.03464)|null|
+|**2025-03-05**|**Simplicial SMOTE: Oversampling Solution to the Imbalanced Learning Problem**|Oleg Kachan et.al.|[2503.03418](http://arxiv.org/abs/2503.03418)|null|
+|**2025-03-05**|**Evolutionary Prediction Games**|Eden Saig et.al.|[2503.03401](http://arxiv.org/abs/2503.03401)|null|
+|**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
+|**2025-03-05**|**Optimizing for the Shortest Path in Denoising Diffusion Model**|Ping Chen et.al.|[2503.03265](http://arxiv.org/abs/2503.03265)|null|
+|**2025-03-05**|**Can Frontier LLMs Replace Annotators in Biomedical Text Mining? Analyzing Challenges and Exploring Solutions**|Yichong Zhao et.al.|[2503.03261](http://arxiv.org/abs/2503.03261)|null|
+|**2025-03-05**|**Online Bidding under RoS Constraints without Knowing the Value**|Sushant Vijayan et.al.|[2503.03195](http://arxiv.org/abs/2503.03195)|null|
+|**2025-03-05**|**Distributed Certifiably Correct Range-Aided SLAM**|Alexander Thoms et.al.|[2503.03192](http://arxiv.org/abs/2503.03192)|null|
+|**2025-03-05**|**SpinML: Customized Synthetic Data Generation for Private Training of Specialized ML Models**|Jiang Zhang et.al.|[2503.03160](http://arxiv.org/abs/2503.03160)|null|
 |**2025-03-04**|**Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots**|Shuang Chen et.al.|[2503.02752](http://arxiv.org/abs/2503.02752)|null|
 |**2025-03-05**|**ArcPro: Architectural Programs for Structured 3D Abstraction of Sparse Points**|Qirui Huang et.al.|[2503.02745](http://arxiv.org/abs/2503.02745)|null|
 |**2025-03-04**|**The Effectiveness of Large Language Models in Transforming Unstructured Text to Standardized Formats**|William Brach et.al.|[2503.02650](http://arxiv.org/abs/2503.02650)|null|
