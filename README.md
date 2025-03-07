@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models**|Xinyi He et.al.|[2503.04396](http://arxiv.org/abs/2503.04396)|null|
 |**2025-03-05**|**State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**|Wonjun Kang et.al.|[2503.03499](http://arxiv.org/abs/2503.03499)|null|
 |**2025-02-28**|**PaCA: Partial Connection Adaptation for Efficient Fine-Tuning**|Sunghyeon Woo et.al.|[2503.01905](http://arxiv.org/abs/2503.01905)|null|
 |**2025-03-03**|**Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace**|Jia-Chen Zhang et.al.|[2503.01419](http://arxiv.org/abs/2503.01419)|null|
@@ -368,6 +369,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
+|**2025-03-06**|**What Are You Doing? A Closer Look at Controllable Human Video Generation**|Emanuele Bugliarello et.al.|[2503.04666](http://arxiv.org/abs/2503.04666)|null|
+|**2025-03-06**|**Risk-aware Trading Portfolio Optimization**|Marco Bianchetti et.al.|[2503.04662](http://arxiv.org/abs/2503.04662)|null|
+|**2025-03-06**|**IFIR: A Comprehensive Benchmark for Evaluating Instruction-Following in Expert-Domain Information Retrieval**|Tingyu Song et.al.|[2503.04644](http://arxiv.org/abs/2503.04644)|null|
+|**2025-03-06**|**Simulating the Real World: A Unified Survey of Multimodal Generative Models**|Yuqi Hu et.al.|[2503.04641](http://arxiv.org/abs/2503.04641)|null|
+|**2025-03-06**|**3HANDS Dataset: Learning from Humans for Generating Naturalistic Handovers with Supernumerary Robotic Limbs**|Artin Saberpour Abadian et.al.|[2503.04635](http://arxiv.org/abs/2503.04635)|null|
+|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-06**|**Method for recovering data on unreported low-severity crashes**|Alberto Morando et.al.|[2503.04529](http://arxiv.org/abs/2503.04529)|null|
+|**2025-03-06**|**Learning Object Placement Programs for Indoor Scene Synthesis with Iterative Self Training**|Adrian Chang et.al.|[2503.04496](http://arxiv.org/abs/2503.04496)|null|
+|**2025-03-06**|**InfoSEM: A Deep Generative Model with Informative Priors for Gene Regulatory Network Inference**|Tianyu Cui et.al.|[2503.04483](http://arxiv.org/abs/2503.04483)|null|
+|**2025-03-06**|**ToolFuzz -- Automated Agent Tool Testing**|Ivan Milev et.al.|[2503.04479](http://arxiv.org/abs/2503.04479)|null|
+|**2025-03-06**|**Semantic Alignment of Unimodal Medical Text and Vision Representations**|Maxime Di Folco et.al.|[2503.04478](http://arxiv.org/abs/2503.04478)|null|
+|**2025-03-06**|**PALo: Learning Posture-Aware Locomotion for Quadruped Robots**|Xiangyu Miao et.al.|[2503.04462](http://arxiv.org/abs/2503.04462)|null|
+|**2025-03-06**|**Polling on a circle with non-uniform batch arrivals**|Tim Engels et.al.|[2503.04448](http://arxiv.org/abs/2503.04448)|null|
+|**2025-03-06**|**Can Large Language Models Predict Antimicrobial Resistance Gene?**|Hyunwoo Yoo et.al.|[2503.04413](http://arxiv.org/abs/2503.04413)|null|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-05**|**Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models**|Bar Karov et.al.|[2503.03669](http://arxiv.org/abs/2503.03669)|null|
@@ -2695,6 +2711,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Large Language Models in Bioinformatics: A Survey**|Zhenyu Wang et.al.|[2503.04490](http://arxiv.org/abs/2503.04490)|null|
+|**2025-03-06**|**Semantic Alignment of Unimodal Medical Text and Vision Representations**|Maxime Di Folco et.al.|[2503.04478](http://arxiv.org/abs/2503.04478)|null|
+|**2025-03-06**|**ToFu: Visual Tokens Reduction via Fusion for Multi-modal, Multi-patch, Multi-image Task**|Vittorio Pippi et.al.|[2503.04444](http://arxiv.org/abs/2503.04444)|null|
+|**2025-03-05**|**Rebalanced Multimodal Learning with Data-aware Unimodal Sampling**|Qingyuan Jiang et.al.|[2503.03792](http://arxiv.org/abs/2503.03792)|null|
 |**2025-03-06**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|null|
 |**2025-03-05**|**See What You Are Told: Visual Attention Sink in Large Multimodal Models**|Seil Kang et.al.|[2503.03321](http://arxiv.org/abs/2503.03321)|null|
 |**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/abs/2503.02849)|null|
@@ -3431,6 +3451,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Can We Optimize Deep RL Policy Weights as Trajectory Modeling?**|Hongyao Tang et.al.|[2503.04074](http://arxiv.org/abs/2503.04074)|null|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
 |**2025-02-28**|**Post-Hoc Uncertainty Quantification in Pre-Trained Neural Networks via Activation-Level Gaussian Processes**|Richard Bergna et.al.|[2502.20966](http://arxiv.org/abs/2502.20966)|null|
 |**2025-02-23**|**Irreducible components of affine Lusztig varieties**|Xuhua He et.al.|[2502.16441](http://arxiv.org/abs/2502.16441)|null|
@@ -3874,6 +3895,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
+|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-06**|**Double metasurfaces and Optimal transport**|Irem Altiner et.al.|[2503.04536](http://arxiv.org/abs/2503.04536)|null|
+|**2025-03-06**|**Guided smoothing and control for diffusion processes**|Oskar Eklund et.al.|[2503.04326](http://arxiv.org/abs/2503.04326)|**[link](https://github.com/mschauer/GuiSDE.jl)**|
+|**2025-03-06**|**Opinion Dynamics with Continuous Age Structure**|Andrew Nugent et.al.|[2503.04319](http://arxiv.org/abs/2503.04319)|null|
+|**2025-03-06**|**How to Move Your Dragon: Text-to-Motion Synthesis for Large-Vocabulary Objects**|Wonkwang Lee et.al.|[2503.04257](http://arxiv.org/abs/2503.04257)|null|
+|**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
+|**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215](http://arxiv.org/abs/2503.04215)|null|
+|**2025-03-06**|**CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation**|Yuki Tanaka et.al.|[2503.04164](http://arxiv.org/abs/2503.04164)|null|
+|**2025-03-06**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
+|**2025-03-06**|**FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**|Ziqi Ni et.al.|[2503.04067](http://arxiv.org/abs/2503.04067)|null|
+|**2025-03-06**|**RA-DP: Rapid Adaptive Diffusion Policy for Training-Free High-frequency Robotics Replanning**|Xi Ye et.al.|[2503.04051](http://arxiv.org/abs/2503.04051)|null|
+|**2025-03-06**|**Underlying Semantic Diffusion for Effective and Efficient In-Context Learning**|Zhong Ji et.al.|[2503.04050](http://arxiv.org/abs/2503.04050)|null|
+|**2025-03-06**|**Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details**|Yifei Gao et.al.|[2503.04037](http://arxiv.org/abs/2503.04037)|null|
+|**2025-03-06**|**TextDoctor: Unified Document Image Inpainting via Patch Pyramid Diffusion Models**|Wanglong Lu et.al.|[2503.04021](http://arxiv.org/abs/2503.04021)|null|
 |**2025-03-05**|**Constrained Gaussian Wasserstein Optimal Transport with Commutative Covariance Matrices**|Jun Chen et.al.|[2503.03744](http://arxiv.org/abs/2503.03744)|null|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
@@ -5570,6 +5606,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
+|**2025-03-06**|**scDD: Latent Codes Based scRNA-seq Dataset Distillation with Foundation Model Knowledge**|Zhen Yu et.al.|[2503.04357](http://arxiv.org/abs/2503.04357)|null|
 |**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo et.al.|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
 |**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144](http://arxiv.org/abs/2503.03144)|null|
 |**2025-03-04**|**It Helps to Take a Second Opinion: Teaching Smaller LLMs to Deliberate Mutually via Selective Rationale Optimisation**|Sohan Patnaik et.al.|[2503.02463](http://arxiv.org/abs/2503.02463)|null|
@@ -5965,6 +6003,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
+|**2025-03-06**|**Assessing the performance of compartmental and renewal models for learning $R_{t}$ using spatially heterogeneous epidemic simulations on real geographies**|Matthew Ghosh et.al.|[2503.04648](http://arxiv.org/abs/2503.04648)|null|
+|**2025-03-06**|**PathoPainter: Augmenting Histopathology Segmentation via Tumor-aware Inpainting**|Hong Liu et.al.|[2503.04634](http://arxiv.org/abs/2503.04634)|null|
+|**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
+|**2025-03-06**|**CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation**|Yuki Tanaka et.al.|[2503.04164](http://arxiv.org/abs/2503.04164)|null|
+|**2025-03-06**|**Dynamic Benchmarking of Reasoning Capabilities in Code Large Language Models Under Data Contamination**|Simin Chen et.al.|[2503.04149](http://arxiv.org/abs/2503.04149)|null|
+|**2025-03-06**|**Chart-HQA: A Benchmark for Hypothetical Question Answering in Charts**|Xiangnan Chen et.al.|[2503.04095](http://arxiv.org/abs/2503.04095)|null|
+|**2025-03-06**|**PP-DocBee: Improving Multimodal Document Understanding Through a Bag of Tricks**|Feng Ni et.al.|[2503.04065](http://arxiv.org/abs/2503.04065)|null|
+|**2025-03-06**|**Subgraph Federated Learning for Local Generalization**|Sungwon Kim et.al.|[2503.03995](http://arxiv.org/abs/2503.03995)|null|
+|**2025-03-05**|**Improving the Temporal Resolution of SOHO/MDI Magnetograms of Solar Active Regions Using a Deep Generative Model**|Jialiang Li et.al.|[2503.03959](http://arxiv.org/abs/2503.03959)|null|
+|**2025-03-05**|**Enhancing Autonomous Driving Safety with Collision Scenario Integration**|Zi Wang et.al.|[2503.03957](http://arxiv.org/abs/2503.03957)|null|
+|**2025-03-05**|**Neural Descriptors: Self-Supervised Learning of Robust Local Surface Descriptors Using Polynomial Patches**|Gal Yona et.al.|[2503.03907](http://arxiv.org/abs/2503.03907)|null|
 |**2025-03-05**|**Handling Uncertainty in Health Data using Generative Algorithms**|Mahdi Arab Loodaricheh et.al.|[2503.03715](http://arxiv.org/abs/2503.03715)|null|
 |**2025-03-05**|**Robust Learning of Diverse Code Edits**|Tushar Aggarwal et.al.|[2503.03656](http://arxiv.org/abs/2503.03656)|null|
 |**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
