@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**MoFE: Mixture of Frozen Experts Architecture**|Jean Seo et.al.|[2503.06491](http://arxiv.org/abs/2503.06491)|null|
+|**2025-03-08**|**Lifelong Learning with Task-Specific Adaptation: Addressing the Stability-Plasticity Dilemma**|Ruiyu Wang et.al.|[2503.06213](http://arxiv.org/abs/2503.06213)|null|
 |**2025-03-07**|**Quantum-PEFT: Ultra parameter-efficient fine-tuning**|Toshiaki Koike-Akino et.al.|[2503.05431](http://arxiv.org/abs/2503.05431)|null|
 |**2025-03-07**|**Personalized Text Generation with Contrastive Activation Steering**|Jinghao Zhang et.al.|[2503.05213](http://arxiv.org/abs/2503.05213)|null|
 |**2025-03-06**|**TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models**|Xinyi He et.al.|[2503.04396](http://arxiv.org/abs/2503.04396)|null|
@@ -371,6 +373,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
+|**2025-03-10**|**Advancing our Understanding of Optoionic Effects for the Design of Solar Batteries: A Theoretical Perspective**|Matteo Rinaldi et.al.|[2503.07460](http://arxiv.org/abs/2503.07460)|null|
+|**2025-03-10**|**Is a Good Foundation Necessary for Efficient Reinforcement Learning? The Computational Role of the Base Model in Exploration**|Dylan J. Foster et.al.|[2503.07453](http://arxiv.org/abs/2503.07453)|null|
+|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
+|**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418](http://arxiv.org/abs/2503.07418)|null|
+|**2025-03-10**|**TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**|Shaobin Zhuang et.al.|[2503.07416](http://arxiv.org/abs/2503.07416)|null|
+|**2025-03-10**|**SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models**|Ouxiang Li et.al.|[2503.07392](http://arxiv.org/abs/2503.07392)|null|
+|**2025-03-10**|**PersonaBooth: Personalized Text-to-Motion Generation**|Boeun Kim et.al.|[2503.07390](http://arxiv.org/abs/2503.07390)|null|
+|**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|null|
+|**2025-03-10**|**RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox Testing**|Yiqing Xie et.al.|[2503.07358](http://arxiv.org/abs/2503.07358)|null|
+|**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307](http://arxiv.org/abs/2503.07307)|null|
+|**2025-03-10**|**Cool-3D: An End-to-End Thermal-Aware Framework for Early-Phase Design Space Exploration of Microfluidic-Cooled 3DICs**|Runxi Wang et.al.|[2503.07297](http://arxiv.org/abs/2503.07297)|null|
+|**2025-03-10**|**Efficient Distillation of Classifier-Free Guidance using Adapters**|Cristian Perez Jensen et.al.|[2503.07274](http://arxiv.org/abs/2503.07274)|null|
+|**2025-03-10**|**Customized SAM 2 for Referring Remote Sensing Image Segmentation**|Fu Rong et.al.|[2503.07266](http://arxiv.org/abs/2503.07266)|null|
+|**2025-03-10**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253](http://arxiv.org/abs/2503.07253)|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|
 |**2025-03-07**|**A functional approach for curve alignment and shape analysis**|Issam-Ali Moindjié et.al.|[2503.05632](http://arxiv.org/abs/2503.05632)|null|
@@ -2728,6 +2745,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**|Yuwei Niu et.al.|[2503.07265](http://arxiv.org/abs/2503.07265)|null|
+|**2025-03-10**|**A Multimodal Benchmark Dataset and Model for Crop Disease Diagnosis**|Xiang Liu et.al.|[2503.06973](http://arxiv.org/abs/2503.06973)|null|
+|**2025-03-10**|**LLaFEA: Frame-Event Complementary Fusion for Fine-Grained Spatiotemporal Understanding in LMMs**|Hanyu Zhou et.al.|[2503.06934](http://arxiv.org/abs/2503.06934)|null|
+|**2025-03-10**|**HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation**|Xingzu Zhan et.al.|[2503.06897](http://arxiv.org/abs/2503.06897)|null|
+|**2025-03-10**|**Towards Generalization of Tactile Image Generation: Reference-Free Evaluation in a Leakage-Free Setting**|Cagri Gungor et.al.|[2503.06860](http://arxiv.org/abs/2503.06860)|null|
+|**2025-03-09**|**SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts**|Shijia Zhao et.al.|[2503.06467](http://arxiv.org/abs/2503.06467)|null|
+|**2025-03-09**|**DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning**|Chengxuan Qian et.al.|[2503.06456](http://arxiv.org/abs/2503.06456)|null|
+|**2025-03-08**|**UrbanVideo-Bench: Benchmarking Vision-Language Models on Embodied Intelligence with Video Data in Urban Spaces**|Baining Zhao et.al.|[2503.06157](http://arxiv.org/abs/2503.06157)|null|
+|**2025-03-07**|**CASP: Compression of Large Multimodal Models Based on Attention Sparsity**|Mohsen Gholami et.al.|[2503.05936](http://arxiv.org/abs/2503.05936)|null|
 |**2025-03-07**|**Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation**|Xinkun Wang et.al.|[2503.05319](http://arxiv.org/abs/2503.05319)|null|
 |**2025-03-06**|**Large Language Models in Bioinformatics: A Survey**|Zhenyu Wang et.al.|[2503.04490](http://arxiv.org/abs/2503.04490)|null|
 |**2025-03-06**|**Semantic Alignment of Unimodal Medical Text and Vision Representations**|Maxime Di Folco et.al.|[2503.04478](http://arxiv.org/abs/2503.04478)|null|
@@ -3469,6 +3495,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time**|Xiaotian Han et.al.|[2503.07066](http://arxiv.org/abs/2503.07066)|null|
+|**2025-03-08**|**Secure On-Device Video OOD Detection Without Backpropagation**|Li Li et.al.|[2503.06166](http://arxiv.org/abs/2503.06166)|null|
 |**2025-03-06**|**Can We Optimize Deep RL Policy Weights as Trajectory Modeling?**|Hongyao Tang et.al.|[2503.04074](http://arxiv.org/abs/2503.04074)|null|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
 |**2025-02-28**|**Post-Hoc Uncertainty Quantification in Pre-Trained Neural Networks via Activation-Level Gaussian Processes**|Richard Bergna et.al.|[2502.20966](http://arxiv.org/abs/2502.20966)|null|
@@ -3913,6 +3941,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|null|
+|**2025-03-10**|**AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion**|Mingzhen Sun et.al.|[2503.07418](http://arxiv.org/abs/2503.07418)|null|
+|**2025-03-10**|**TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**|Shaobin Zhuang et.al.|[2503.07416](http://arxiv.org/abs/2503.07416)|null|
+|**2025-03-10**|**SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models**|Ouxiang Li et.al.|[2503.07392](http://arxiv.org/abs/2503.07392)|null|
+|**2025-03-10**|**PersonaBooth: Personalized Text-to-Motion Generation**|Boeun Kim et.al.|[2503.07390](http://arxiv.org/abs/2503.07390)|null|
+|**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|null|
+|**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307](http://arxiv.org/abs/2503.07307)|null|
+|**2025-03-10**|**Efficient Distillation of Classifier-Free Guidance using Adapters**|Cristian Perez Jensen et.al.|[2503.07274](http://arxiv.org/abs/2503.07274)|null|
+|**2025-03-10**|**AnomalyPainter: Vision-Language-Diffusion Synergy for Zero-Shot Realistic and Diverse Industrial Anomaly Synthesis**|Zhangyu Lai et.al.|[2503.07253](http://arxiv.org/abs/2503.07253)|null|
+|**2025-03-10**|**Stochastic Epidemic Models with Partial Information**|Florent Ouabo Kamkumo et.al.|[2503.07251](http://arxiv.org/abs/2503.07251)|null|
+|**2025-03-10**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
+|**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|
+|**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|null|
+|**2025-03-10**|**Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms**|Jiaming Song et.al.|[2503.07154](http://arxiv.org/abs/2503.07154)|null|
+|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152](http://arxiv.org/abs/2503.07152)|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|
 |**2025-03-07**|**Multi-asset optimal trade execution with stochastic cross-effects: An Obizhaeva-Wang-type framework**|Julia Ackermann et.al.|[2503.05594](http://arxiv.org/abs/2503.05594)|null|
@@ -5639,6 +5682,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Distilling Knowledge into Quantum Vision Transformers for Biomedical Image Classification**|Thomas Boucher et.al.|[2503.07294](http://arxiv.org/abs/2503.07294)|null|
+|**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[2503.07234](http://arxiv.org/abs/2503.07234)|null|
+|**2025-03-10**|**PTMs-TSCIL Pre-Trained Models Based Class-Incremental Learning**|Yuanlong Wu et.al.|[2503.07153](http://arxiv.org/abs/2503.07153)|null|
+|**2025-03-10**|**Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation**|Pengchen Liang et.al.|[2503.06976](http://arxiv.org/abs/2503.06976)|null|
+|**2025-03-09**|**Asymmetric Decision-Making in Online Knowledge Distillation:Unifying Consensus and Divergence**|Zhaowei Chen et.al.|[2503.06685](http://arxiv.org/abs/2503.06685)|null|
+|**2025-03-09**|**HFedCKD: Toward Robust Heterogeneous Federated Learning via Data-free Knowledge Distillation and Two-way Contrast**|Yiting Zheng et.al.|[2503.06511](http://arxiv.org/abs/2503.06511)|null|
+|**2025-03-09**|**Causality Enhanced Origin-Destination Flow Prediction in Data-Scarce Cities**|Tao Feng et.al.|[2503.06398](http://arxiv.org/abs/2503.06398)|null|
+|**2025-03-08**|**ACAM-KD: Adaptive and Cooperative Attention Masking for Knowledge Distillation**|Qizhen Lan et.al.|[2503.06307](http://arxiv.org/abs/2503.06307)|null|
+|**2025-03-08**|**Improving SAM for Camouflaged Object Detection via Dual Stream Adapters**|Jiaming Liu et.al.|[2503.06042](http://arxiv.org/abs/2503.06042)|null|
 |**2025-03-07**|**Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning**|Run He et.al.|[2503.05423](http://arxiv.org/abs/2503.05423)|null|
 |**2025-03-07**|**Spatial Distillation based Distribution Alignment (SDDA) for Cross-Headset EEG Classification**|Dingkun Liu et.al.|[2503.05349](http://arxiv.org/abs/2503.05349)|null|
 |**2025-03-07**|**Similarity-Based Domain Adaptation with LLMs**|Jie He et.al.|[2503.05281](http://arxiv.org/abs/2503.05281)|null|
@@ -6042,6 +6094,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References**|Yitang Li et.al.|[2503.07481](http://arxiv.org/abs/2503.07481)|null|
+|**2025-03-10**|**Skelite: Compact Neural Networks for Efficient Iterative Skeletonization**|Luis D. Reyes Vargas et.al.|[2503.07369](http://arxiv.org/abs/2503.07369)|null|
+|**2025-03-10**|**Score-informed Music Source Separation: Improving Synthetic-to-real Generalization in Classical Music**|Eetu Tunturi et.al.|[2503.07352](http://arxiv.org/abs/2503.07352)|null|
+|**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
+|**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|
+|**2025-03-10**|**PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM**|Alan Dao et.al.|[2503.07111](http://arxiv.org/abs/2503.07111)|null|
+|**2025-03-10**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
+|**2025-03-10**|**Task-Specific Knowledge Distillation from the Vision Foundation Model for Enhanced Medical Image Segmentation**|Pengchen Liang et.al.|[2503.06976](http://arxiv.org/abs/2503.06976)|null|
+|**2025-03-10**|**CAFusion: Controllable Anatomical Synthesis of Perirectal Lymph Nodes via SDF-guided Diffusion**|Weidong Guo et.al.|[2503.06919](http://arxiv.org/abs/2503.06919)|null|
+|**2025-03-09**|**UniGenX: Unified Generation of Sequence and Structure with Autoregressive Diffusion**|Gongbo Zhang et.al.|[2503.06687](http://arxiv.org/abs/2503.06687)|null|
+|**2025-03-09**|**Reinforcement Learning with Verifiable Rewards: GRPO's Effective Loss, Dynamics, and Success Amplification**|Youssef Mroueh et.al.|[2503.06639](http://arxiv.org/abs/2503.06639)|null|
+|**2025-03-09**|**Synthetic Data Generation for Minimum-Exposure Navigation in a Time-Varying Environment using Generative AI Models**|Nachiket U. Bapat et.al.|[2503.06619](http://arxiv.org/abs/2503.06619)|null|
+|**2025-03-09**|**Inverse Reinforcement Learning for Minimum-Exposure Paths in Spatiotemporally Varying Scalar Fields**|Alexandra E. Ballentine et.al.|[2503.06611](http://arxiv.org/abs/2503.06611)|null|
+|**2025-03-09**|**Extremes of structural causal models**|Sebastian Engelke et.al.|[2503.06536](http://arxiv.org/abs/2503.06536)|null|
+|**2025-03-09**|**UAV-Assisted Coverage Hole Detection Using Reinforcement Learning in Urban Cellular Networks**|Mushfiqur Rahman et.al.|[2503.06494](http://arxiv.org/abs/2503.06494)|null|
 |**2025-03-07**|**Algorithmic Data Minimization for Machine Learning over Internet-of-Things Data Streams**|Ted Shaowang et.al.|[2503.05675](http://arxiv.org/abs/2503.05675)|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
 |**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
