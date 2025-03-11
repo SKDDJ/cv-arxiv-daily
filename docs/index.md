@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -24,12 +24,12 @@ layout: default
 |**2025-03-07**|**Quantum-PEFT: Ultra parameter-efficient fine-tuning**|Toshiaki Koike-Akino et.al.|[2503.05431](http://arxiv.org/abs/2503.05431)|null|
 |**2025-03-07**|**Personalized Text Generation with Contrastive Activation Steering**|Jinghao Zhang et.al.|[2503.05213](http://arxiv.org/abs/2503.05213)|null|
 |**2025-03-06**|**TableLoRA: Low-rank Adaptation on Table Structure Understanding for Large Language Models**|Xinyi He et.al.|[2503.04396](http://arxiv.org/abs/2503.04396)|null|
-|**2025-03-05**|**State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**|Wonjun Kang et.al.|[2503.03499](http://arxiv.org/abs/2503.03499)|null|
+|**2025-03-05**|**State-offset Tuning: State-based Parameter-Efficient Fine-Tuning for State Space Models**|Wonjun Kang et.al.|[2503.03499](http://arxiv.org/abs/2503.03499)|**[link](https://github.com/furiosa-ai/ssm-state-tuning)**|
 |**2025-02-28**|**PaCA: Partial Connection Adaptation for Efficient Fine-Tuning**|Sunghyeon Woo et.al.|[2503.01905](http://arxiv.org/abs/2503.01905)|null|
 |**2025-03-03**|**Parameter-Efficient Fine-Tuning of Large Language Models via Deconvolution in Subspace**|Jia-Chen Zhang et.al.|[2503.01419](http://arxiv.org/abs/2503.01419)|null|
 |**2025-03-03**|**PROPER: A Progressive Learning Framework for Personalized Large Language Models with Group-Level Adaptation**|Linhai Zhang et.al.|[2503.01303](http://arxiv.org/abs/2503.01303)|null|
 |**2025-03-03**|**Beyond QA Pairs: Assessing Parameter-Efficient Fine-Tuning for Fact Embedding in LLMs**|Shivam Ratnakar et.al.|[2503.01131](http://arxiv.org/abs/2503.01131)|null|
-|**2025-03-02**|**Re-Imagining Multimodal Instruction Tuning: A Representation View**|Yiyang Liu et.al.|[2503.00723](http://arxiv.org/abs/2503.00723)|null|
+|**2025-03-09**|**Re-Imagining Multimodal Instruction Tuning: A Representation View**|Yiyang Liu et.al.|[2503.00723](http://arxiv.org/abs/2503.00723)|**[link](https://github.com/comeandcode/MRT)**|
 |**2025-02-27**|**MobiLLM: Enabling LLM Fine-Tuning on the Mobile Device via Server Assisted Side Tuning**|Liang Li et.al.|[2502.20421](http://arxiv.org/abs/2502.20421)|null|
 |**2025-02-26**|**LORENZA: Enhancing Generalization in Low-Rank Gradient LLM Training via Efficient Zeroth-Order Adaptive SAM**|Yehonathan Refael et.al.|[2502.19571](http://arxiv.org/abs/2502.19571)|null|
 |**2025-02-22**|**ELBA-Bench: An Efficient Learning Backdoor Attacks Benchmark for Large Language Models**|Xuxu Liu et.al.|[2502.18511](http://arxiv.org/abs/2502.18511)|null|
@@ -379,7 +379,7 @@ layout: default
 |**2025-03-07**|**Geometric Optimization of Patterned Conductive Polymer Composite-based Strain Sensors Toward Enhanced Sensing Performance**|Jia-Chen Shang et.al.|[2503.05603](http://arxiv.org/abs/2503.05603)|null|
 |**2025-03-07**|**Diffusion Models for Cayley Graphs**|Michael R. Douglas et.al.|[2503.05558](http://arxiv.org/abs/2503.05558)|null|
 |**2025-03-07**|**Radio Frequency from Optical with Instabilities below $10^{-15}$ - Generation and Measurement**|A. Hati et.al.|[2503.05547](http://arxiv.org/abs/2503.05547)|null|
-|**2025-03-07**|**Accelerating db-A $^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539](http://arxiv.org/abs/2503.05539)|null|
+|**2025-03-10**|**Accelerating db-A* for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539](http://arxiv.org/abs/2503.05539)|null|
 |**2025-03-07**|**Post-Hoc Concept Disentanglement: From Correlated to Isolated Concept Representations**|Eren Erogullari et.al.|[2503.05522](http://arxiv.org/abs/2503.05522)|null|
 |**2025-03-07**|**Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model**|Guolin Yin et.al.|[2503.05514](http://arxiv.org/abs/2503.05514)|null|
 |**2025-03-07**|**Localized necking under global compression in two-scale metallic hierarchical solids**|Naresh Chockalingam S. et.al.|[2503.05498](http://arxiv.org/abs/2503.05498)|null|
@@ -2733,7 +2733,7 @@ layout: default
 |**2025-03-06**|**Semantic Alignment of Unimodal Medical Text and Vision Representations**|Maxime Di Folco et.al.|[2503.04478](http://arxiv.org/abs/2503.04478)|null|
 |**2025-03-06**|**ToFu: Visual Tokens Reduction via Fusion for Multi-modal, Multi-patch, Multi-image Task**|Vittorio Pippi et.al.|[2503.04444](http://arxiv.org/abs/2503.04444)|null|
 |**2025-03-05**|**Rebalanced Multimodal Learning with Data-aware Unimodal Sampling**|Qingyuan Jiang et.al.|[2503.03792](http://arxiv.org/abs/2503.03792)|null|
-|**2025-03-06**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|null|
+|**2025-03-06**|**DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms**|Xiaojun Bi et.al.|[2503.03644](http://arxiv.org/abs/2503.03644)|**[link](https://github.com/thinklis/dongbamie)**|
 |**2025-03-05**|**See What You Are Told: Visual Attention Sink in Large Multimodal Models**|Seil Kang et.al.|[2503.03321](http://arxiv.org/abs/2503.03321)|null|
 |**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/abs/2503.02849)|null|
 |**2025-03-04**|**Multimodal AI predicts clinical outcomes of drug combinations from preclinical data**|Yepeng Huang et.al.|[2503.02781](http://arxiv.org/abs/2503.02781)|null|
@@ -3911,7 +3911,7 @@ layout: default
 |**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|
 |**2025-03-07**|**Multi-asset optimal trade execution with stochastic cross-effects: An Obizhaeva-Wang-type framework**|Julia Ackermann et.al.|[2503.05594](http://arxiv.org/abs/2503.05594)|null|
 |**2025-03-07**|**Diffusion Models for Cayley Graphs**|Michael R. Douglas et.al.|[2503.05558](http://arxiv.org/abs/2503.05558)|null|
-|**2025-03-07**|**Accelerating db-A $^\textbf{*}$ for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539](http://arxiv.org/abs/2503.05539)|null|
+|**2025-03-10**|**Accelerating db-A* for Kinodynamic Motion Planning Using Diffusion**|Julius Franke et.al.|[2503.05539](http://arxiv.org/abs/2503.05539)|null|
 |**2025-03-07**|**Exploiting Inexact Computations in Multilevel Sampling Methods**|Josef Martínek et.al.|[2503.05533](http://arxiv.org/abs/2503.05533)|null|
 |**2025-03-07**|**Noise-Robust Radio Frequency Fingerprint Identification Using Denoise Diffusion Model**|Guolin Yin et.al.|[2503.05514](http://arxiv.org/abs/2503.05514)|null|
 |**2025-03-07**|**Riemannian Metric Learning: Closer to You than You Imagine**|Samuel Gruffaz et.al.|[2503.05321](http://arxiv.org/abs/2503.05321)|null|
@@ -5636,7 +5636,7 @@ layout: default
 |**2025-03-07**|**Similarity-Based Domain Adaptation with LLMs**|Jie He et.al.|[2503.05281](http://arxiv.org/abs/2503.05281)|null|
 |**2025-03-05**|**ZAugNet for Z-Slice Augmentation in Bio-Imaging**|Alessandro Pasqui et.al.|[2503.04843](http://arxiv.org/abs/2503.04843)|null|
 |**2025-03-05**|**Distilling Dataset into Neural Field**|Donghyeok Shin et.al.|[2503.04835](http://arxiv.org/abs/2503.04835)|null|
-|**2025-03-05**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Mazouz Alaa Eddine et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
+|**2025-03-10**|**RD Efficient FPGA Deployment of Learned Image Compression: Knowledge Distillation and Hybrid Quantization**|Alaa Mazouz et.al.|[2503.04832](http://arxiv.org/abs/2503.04832)|null|
 |**2025-03-07**|**No Forgetting Learning: Memory-free Continual Learning**|Mohammad Ali Vahedifar et.al.|[2503.04638](http://arxiv.org/abs/2503.04638)|null|
 |**2025-03-06**|**scDD: Latent Codes Based scRNA-seq Dataset Distillation with Foundation Model Knowledge**|Zhen Yu et.al.|[2503.04357](http://arxiv.org/abs/2503.04357)|null|
 |**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo et.al.|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
@@ -6034,7 +6034,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-07**|**Algorithmic Data Minimization for Machine Learning over Internet-of-Things Data Streams**|Ted Shaowang et.al.|[2503.05675](http://arxiv.org/abs/2503.05675)|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630](http://arxiv.org/abs/2503.05630)|null|
 |**2025-03-07**|**Novel Object 6D Pose Estimation with a Single Reference View**|Jian Liu et.al.|[2503.05578](http://arxiv.org/abs/2503.05578)|null|
 |**2025-03-07**|**Statistical Deficiency for Task Inclusion Estimation**|Loïc Fosse et.al.|[2503.05491](http://arxiv.org/abs/2503.05491)|null|
