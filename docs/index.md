@@ -377,6 +377,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
+|**2025-03-12**|**Minimax Optimality of the Probability Flow ODE for Diffusion Models**|Changxiao Cai et.al.|[2503.09583](http://arxiv.org/abs/2503.09583)|null|
+|**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
+|**2025-03-12**|**TPDiff: Temporal Pyramid Video Diffusion Model**|Lingmin Ran et.al.|[2503.09566](http://arxiv.org/abs/2503.09566)|null|
+|**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560](http://arxiv.org/abs/2503.09560)|null|
+|**2025-03-12**|**GenHPE: Generative Counterfactuals for 3D Human Pose Estimation with Radio Frequency Signals**|Shuokang Huang et.al.|[2503.09537](http://arxiv.org/abs/2503.09537)|null|
+|**2025-03-12**|**Total Ionizing Dose Measurements in Small Satellites in LEO using LabOSat-01**|Lucas Finazzi et.al.|[2503.09520](http://arxiv.org/abs/2503.09520)|null|
+|**2025-03-12**|**CM-Diff: A Single Generative Network for Bidirectional Cross-Modality Translation Diffusion Model Between Infrared and Visible Images**|Bin Hu et.al.|[2503.09514](http://arxiv.org/abs/2503.09514)|null|
+|**2025-03-12**|**DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction**|Junjie Zhou et.al.|[2503.09491](http://arxiv.org/abs/2503.09491)|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
+|**2025-03-12**|**How Well Does Your Tabular Generator Learn the Structure of Tabular Data?**|Xiangjian Jiang et.al.|[2503.09453](http://arxiv.org/abs/2503.09453)|null|
+|**2025-03-12**|**Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models**|Zhihua Tian et.al.|[2503.09446](http://arxiv.org/abs/2503.09446)|null|
+|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439](http://arxiv.org/abs/2503.09439)|null|
+|**2025-03-12**|**Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space**|Yifan Zhou et.al.|[2503.09419](http://arxiv.org/abs/2503.09419)|null|
+|**2025-03-12**|**Diff-CL: A Novel Cross Pseudo-Supervision Method for Semi-supervised Medical Image Segmentation**|Xiuzhen Guo et.al.|[2503.09408](http://arxiv.org/abs/2503.09408)|null|
 |**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|null|
 |**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
 |**2025-03-12**|**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting**|Yongsheng Yu et.al.|[2503.08677](http://arxiv.org/abs/2503.08677)|null|
@@ -2762,6 +2777,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**MOAT: Evaluating LMMs for Capability Integration and Instruction Grounding**|Zhoutong Ye et.al.|[2503.09348](http://arxiv.org/abs/2503.09348)|null|
+|**2025-03-12**|**Teaching LMMs for Image Quality Scoring and Interpreting**|Zicheng Zhang et.al.|[2503.09197](http://arxiv.org/abs/2503.09197)|null|
 |**2025-03-11**|**Proc4Gem: Foundation models for physical agency through procedural generation**|Yixin Lin et.al.|[2503.08593](http://arxiv.org/abs/2503.08593)|null|
 |**2025-03-11**|**ComicsPAP: understanding comic strips by picking the correct panel**|Emanuele Vivoli et.al.|[2503.08561](http://arxiv.org/abs/2503.08561)|null|
 |**2025-03-12**|**Layton: Latent Consistency Tokenizer for 1024-pixel Image Reconstruction and Generation by 256 Tokens**|Qingsong Xie et.al.|[2503.08377](http://arxiv.org/abs/2503.08377)|null|
@@ -3518,6 +3535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**On the Internal Representations of Graph Metanetworks**|Taesun Yeom et.al.|[2503.09120](http://arxiv.org/abs/2503.09120)|null|
 |**2025-03-11**|**LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning**|Weijie Zhou et.al.|[2503.08508](http://arxiv.org/abs/2503.08508)|**[link](https://github.com/unira-zwj/LightPlanner)**|
 |**2025-03-11**|**Sampling the space of solutions of an artificial neural network**|Alessandro Zambon et.al.|[2503.08266](http://arxiv.org/abs/2503.08266)|null|
 |**2025-03-11**|**Threshold for the existence of scattering states for nonlinear Schrödinger equations without gauge invariance**|Hayato Miyazaki et.al.|[2503.07983](http://arxiv.org/abs/2503.07983)|null|
@@ -3963,6 +3981,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop**|Chenyu Li et.al.|[2503.09595](http://arxiv.org/abs/2503.09595)|null|
+|**2025-03-12**|**Minimax Optimality of the Probability Flow ODE for Diffusion Models**|Changxiao Cai et.al.|[2503.09583](http://arxiv.org/abs/2503.09583)|null|
+|**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
+|**2025-03-12**|**TPDiff: Temporal Pyramid Video Diffusion Model**|Lingmin Ran et.al.|[2503.09566](http://arxiv.org/abs/2503.09566)|null|
+|**2025-03-12**|**FCaS: Fine-grained Cardiac Image Synthesis based on 3D Template Conditional Diffusion Model**|Jiahao Xia et.al.|[2503.09560](http://arxiv.org/abs/2503.09560)|null|
+|**2025-03-12**|**CM-Diff: A Single Generative Network for Bidirectional Cross-Modality Translation Diffusion Model Between Infrared and Visible Images**|Bin Hu et.al.|[2503.09514](http://arxiv.org/abs/2503.09514)|null|
+|**2025-03-12**|**DAMM-Diffusion: Learning Divergence-Aware Multi-Modal Diffusion Model for Nanoparticles Distribution Prediction**|Junjie Zhou et.al.|[2503.09491](http://arxiv.org/abs/2503.09491)|null|
+|**2025-03-12**|**Fast computation of the TGOSPA metric for multiple target tracking via unbalanced optimal transport**|Viktor Nevelius Wernholm et.al.|[2503.09449](http://arxiv.org/abs/2503.09449)|null|
+|**2025-03-12**|**Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models**|Zhihua Tian et.al.|[2503.09446](http://arxiv.org/abs/2503.09446)|null|
+|**2025-03-12**|**SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation**|Qijian Zhang et.al.|[2503.09439](http://arxiv.org/abs/2503.09439)|null|
+|**2025-03-12**|**Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space**|Yifan Zhou et.al.|[2503.09419](http://arxiv.org/abs/2503.09419)|null|
+|**2025-03-12**|**Diff-CL: A Novel Cross Pseudo-Supervision Method for Semi-supervised Medical Image Segmentation**|Xiuzhen Guo et.al.|[2503.09408](http://arxiv.org/abs/2503.09408)|null|
+|**2025-03-12**|**Task Allocation for Multi-agent Systems via Unequal-dimensional Optimal Transport**|Anqi Dong et.al.|[2503.09369](http://arxiv.org/abs/2503.09369)|null|
+|**2025-03-12**|**Schrödinger Bridges for Systems of Interacting Particles**|Henri Orland et.al.|[2503.09328](http://arxiv.org/abs/2503.09328)|null|
+|**2025-03-12**|**UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer**|Haoxuan Wang et.al.|[2503.09277](http://arxiv.org/abs/2503.09277)|null|
 |**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**Modeling Stock Return Distributions and Pricing Options**|Xinxin Jiang et.al.|[2503.08666](http://arxiv.org/abs/2503.08666)|null|
@@ -5717,6 +5750,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**xVLM2Vec: Adapting LVLM-based embedding models to multilinguality using Self-Knowledge Distillation**|Elio Musacchio et.al.|[2503.09313](http://arxiv.org/abs/2503.09313)|null|
+|**2025-03-12**|**Adaptive Temperature Based on Logits Correlation in Knowledge Distillation**|Kazuhiro Matsuyama et.al.|[2503.09030](http://arxiv.org/abs/2503.09030)|null|
+|**2025-03-12**|**Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds**|Dikai Liu et.al.|[2503.08997](http://arxiv.org/abs/2503.08997)|null|
 |**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|null|
 |**2025-03-11**|**Structural and Statistical Texture Knowledge Distillation and Learning for Segmentation**|Deyi Ji et.al.|[2503.08043](http://arxiv.org/abs/2503.08043)|null|
 |**2025-03-11**|**Generalized Kullback-Leibler Divergence Loss**|Jiequan Cui et.al.|[2503.08038](http://arxiv.org/abs/2503.08038)|null|
@@ -6133,6 +6169,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572](http://arxiv.org/abs/2503.09572)|null|
+|**2025-03-12**|**Neural Network-Based Change Point Detection for Large-Scale Time-Evolving Data**|Jialiang Geng et.al.|[2503.09541](http://arxiv.org/abs/2503.09541)|null|
+|**2025-03-12**|**Materials Discovery With Quantum-Enhanced Machine Learning Algorithms**|Ignacio F. Graña et.al.|[2503.09517](http://arxiv.org/abs/2503.09517)|null|
+|**2025-03-12**|**How Well Does Your Tabular Generator Learn the Structure of Tabular Data?**|Xiangjian Jiang et.al.|[2503.09453](http://arxiv.org/abs/2503.09453)|null|
+|**2025-03-12**|**Florenz: Scaling Laws for Systematic Generalization in Vision-Language Models**|Julian Spravil et.al.|[2503.09443](http://arxiv.org/abs/2503.09443)|null|
+|**2025-03-12**|**Monte Carlo Diffusion for Generalizable Learning-Based RANSAC**|Jiale Wang et.al.|[2503.09410](http://arxiv.org/abs/2503.09410)|null|
+|**2025-03-12**|**Close-up-GS: Enhancing Close-Up View Synthesis in 3D Gaussian Splatting with Progressive Self-Training**|Jiatong Xia et.al.|[2503.09396](http://arxiv.org/abs/2503.09396)|null|
+|**2025-03-12**|**RetSTA: An LLM-Based Approach for Standardizing Clinical Fundus Image Reports**|Jiushen Cai et.al.|[2503.09358](http://arxiv.org/abs/2503.09358)|null|
+|**2025-03-12**|**Fully-Synthetic Training for Visual Quality Inspection in Automotive Production**|Christoph Huber et.al.|[2503.09354](http://arxiv.org/abs/2503.09354)|null|
+|**2025-03-12**|**Adaptive political surveys and GPT-4: Tackling the cold start problem with simulated user interactions**|Fynn Bachmann et.al.|[2503.09311](http://arxiv.org/abs/2503.09311)|null|
+|**2025-03-12**|**Neural Normalized Cut: A Differential and Generalizable Approach for Spectral Clustering**|Wei He et.al.|[2503.09260](http://arxiv.org/abs/2503.09260)|null|
+|**2025-03-12**|**Active Learning Inspired ControlNet Guidance for Augmenting Semantic Segmentation Datasets**|Hannah Kniesel et.al.|[2503.09221](http://arxiv.org/abs/2503.09221)|null|
+|**2025-03-12**|**Addressing pitfalls in implicit unobserved confounding synthesis using explicit block hierarchical ancestral sampling**|Xudong Sun et.al.|[2503.09194](http://arxiv.org/abs/2503.09194)|null|
+|**2025-03-12**|**Training Data Provenance Verification: Did Your Model Use Synthetic Data from My Generative Model for Training?**|Yuechen Xie et.al.|[2503.09122](http://arxiv.org/abs/2503.09122)|null|
+|**2025-03-12**|**Tacchi 2.0: A Low Computational Cost and Comprehensive Dynamic Contact Simulator for Vision-based Tactile Sensors**|Yuhao Sun et.al.|[2503.09100](http://arxiv.org/abs/2503.09100)|null|
 |**2025-03-11**|**Generating Robot Constitutions & Benchmarks for Semantic Safety**|Pierre Sermanet et.al.|[2503.08663](http://arxiv.org/abs/2503.08663)|null|
 |**2025-03-11**|**Rethinking Diffusion Model in High Dimension**|Zhenxin Zheng et.al.|[2503.08643](http://arxiv.org/abs/2503.08643)|null|
 |**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|null|
