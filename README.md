@@ -1,4 +1,4 @@
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -374,7 +374,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -2806,7 +2806,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -3575,13 +3575,13 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-13**|**Interpolation of Matrix Weighted Spaces**|Félix Cabello Sánchez et.al.|[2503.10577](http://arxiv.org/abs/2503.10577)|null|
+|**2025-03-17**|**Interpolation of Matrix Weighted Spaces and Commutator Estimates**|Félix Cabello Sánchez et.al.|[2503.10577](http://arxiv.org/abs/2503.10577)|null|
 |**2025-03-13**|**Architecture-Aware Minimization (A $^2$ M): How to Find Flat Minima in Neural Architecture Search**|Matteo Gambella et.al.|[2503.10404](http://arxiv.org/abs/2503.10404)|null|
 |**2025-03-13**|**Rapid analysis of point-contact Andreev reflection spectra via machine learning with adaptive data augmentation**|Dongik Lee et.al.|[2503.10040](http://arxiv.org/abs/2503.10040)|null|
 |**2025-03-12**|**On the Internal Representations of Graph Metanetworks**|Taesun Yeom et.al.|[2503.09120](http://arxiv.org/abs/2503.09120)|null|
@@ -3589,7 +3589,7 @@
 |**2025-03-11**|**Sampling the space of solutions of an artificial neural network**|Alessandro Zambon et.al.|[2503.08266](http://arxiv.org/abs/2503.08266)|null|
 |**2025-03-11**|**Threshold for the existence of scattering states for nonlinear Schrödinger equations without gauge invariance**|Hayato Miyazaki et.al.|[2503.07983](http://arxiv.org/abs/2503.07983)|null|
 |**2025-03-10**|**You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time**|Xiaotian Han et.al.|[2503.07066](http://arxiv.org/abs/2503.07066)|**[link](https://github.com/ahxt/yodo)**|
-|**2025-03-08**|**Secure On-Device Video OOD Detection Without Backpropagation**|Li Li et.al.|[2503.06166](http://arxiv.org/abs/2503.06166)|**[link](https://github.com/dystopians/secdood)**|
+|**2025-03-17**|**Secure On-Device Video OOD Detection Without Backpropagation**|Shawn Li et.al.|[2503.06166](http://arxiv.org/abs/2503.06166)|**[link](https://github.com/dystopians/secdood)**|
 |**2025-03-06**|**Can We Optimize Deep RL Policy Weights as Trajectory Modeling?**|Hongyao Tang et.al.|[2503.04074](http://arxiv.org/abs/2503.04074)|null|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
 |**2025-02-28**|**Post-Hoc Uncertainty Quantification in Pre-Trained Neural Networks via Activation-Level Gaussian Processes**|Richard Bergna et.al.|[2502.20966](http://arxiv.org/abs/2502.20966)|null|
@@ -3829,7 +3829,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -4028,7 +4028,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -4037,7 +4037,7 @@
 |**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
 |**2025-03-14**|**Dynamics of a coupled nonlocal PDE-ODE system with spatial memory: well-posedness, stability, and bifurcation analysis**|Yurij Salmaniw et.al.|[2503.11550](http://arxiv.org/abs/2503.11550)|null|
 |**2025-03-14**|**Quadratic BSDEs with Singular Generators and Unbounded Terminal Conditions: Theory and Applications**|Wenbo Wang et.al.|[2503.11443](http://arxiv.org/abs/2503.11443)|null|
-|**2025-03-14**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439](http://arxiv.org/abs/2503.11439)|null|
+|**2025-03-17**|**COIN: Confidence Score-Guided Distillation for Annotation-Free Cell Segmentation**|Sanghyun Jo et.al.|[2503.11439](http://arxiv.org/abs/2503.11439)|null|
 |**2025-03-14**|**FlowKac: An Efficient Neural Fokker-Planck solver using Temporal Normalizing flows and the Feynman Kac-Formula**|Naoufal El Bekri et.al.|[2503.11427](http://arxiv.org/abs/2503.11427)|null|
 |**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
 |**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412](http://arxiv.org/abs/2503.11412)|null|
@@ -5829,7 +5829,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -5840,11 +5840,11 @@
 |**2025-03-14**|**Enabling Weak Client Participation via On-device Knowledge Distillation in Heterogenous Federated Learning**|Jihyun Lim et.al.|[2503.11151](http://arxiv.org/abs/2503.11151)|null|
 |**2025-03-12**|**CleverDistiller: Simple and Spatially Consistent Cross-modal Distillation**|Hariprasath Govindarajan et.al.|[2503.09878](http://arxiv.org/abs/2503.09878)|null|
 |**2025-03-12**|**Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments**|Mohamed Elnoor et.al.|[2503.09820](http://arxiv.org/abs/2503.09820)|null|
-|**2025-03-12**|**xVLM2Vec: Adapting LVLM-based embedding models to multilinguality using Self-Knowledge Distillation**|Elio Musacchio et.al.|[2503.09313](http://arxiv.org/abs/2503.09313)|null|
+|**2025-03-16**|**xVLM2Vec: Adapting LVLM-based embedding models to multilinguality using Self-Knowledge Distillation**|Elio Musacchio et.al.|[2503.09313](http://arxiv.org/abs/2503.09313)|null|
 |**2025-03-12**|**Adaptive Temperature Based on Logits Correlation in Knowledge Distillation**|Kazuhiro Matsuyama et.al.|[2503.09030](http://arxiv.org/abs/2503.09030)|**[link](https://github.com/kei813121/atkd)**|
 |**2025-03-12**|**Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds**|Dikai Liu et.al.|[2503.08997](http://arxiv.org/abs/2503.08997)|null|
 |**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|**[link](https://github.com/xianfengwu01/lightgen)**|
-|**2025-03-11**|**Structural and Statistical Texture Knowledge Distillation and Learning for Segmentation**|Deyi Ji et.al.|[2503.08043](http://arxiv.org/abs/2503.08043)|null|
+|**2025-03-16**|**Structural and Statistical Texture Knowledge Distillation and Learning for Segmentation**|Deyi Ji et.al.|[2503.08043](http://arxiv.org/abs/2503.08043)|null|
 |**2025-03-11**|**Generalized Kullback-Leibler Divergence Loss**|Jiequan Cui et.al.|[2503.08038](http://arxiv.org/abs/2503.08038)|null|
 |**2025-03-11**|**Efficient Dataset Distillation through Low-Rank Space Sampling**|Hangyang Kong et.al.|[2503.07998](http://arxiv.org/abs/2503.07998)|null|
 |**2025-03-10**|**Training Domain Draft Models for Speculative Decoding: Best Practices and Insights**|Fenglu Hong et.al.|[2503.07807](http://arxiv.org/abs/2503.07807)|null|
@@ -6255,7 +6255,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -7277,5 +7277,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
 
