@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.19
+## Updated on 2025.03.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4094,7 +4094,7 @@ layout: default
 |**2025-03-18**|**LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models**|Yu Cheng et.al.|[2503.14325](http://arxiv.org/abs/2503.14325)|null|
 |**2025-03-18**|**Controllability concepts for mean-field dynamics with reduced-rank coefficients**|Dan Goreac et.al.|[2503.14278](http://arxiv.org/abs/2503.14278)|null|
 |**2025-03-18**|**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation**|Jiang Qin et.al.|[2503.14275](http://arxiv.org/abs/2503.14275)|null|
-|**2025-03-18**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|
+|**2025-03-19**|**CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution**|Runyi Li et.al.|[2503.14272](http://arxiv.org/abs/2503.14272)|null|
 |**2025-03-17**|**Mixtures of ensembles: System separation and identification via optimal transport**|Filip Elvander et.al.|[2503.13362](http://arxiv.org/abs/2503.13362)|null|
 |**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358](http://arxiv.org/abs/2503.13358)|null|
 |**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272](http://arxiv.org/abs/2503.13272)|null|
@@ -5909,7 +5909,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
+|**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
 |**2025-03-18**|**SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation**|Weihong Chen et.al.|[2503.14097](http://arxiv.org/abs/2503.14097)|null|
 |**2025-03-18**|**SCORE: Soft Label Compression-Centric Dataset Condensation via Coding Rate Optimization**|Bowen Yuan et.al.|[2503.13935](http://arxiv.org/abs/2503.13935)|null|
 |**2025-03-18**|**Scale-Aware Contrastive Reverse Distillation for Unsupervised Medical Anomaly Detection**|Chunlei Li et.al.|[2503.13828](http://arxiv.org/abs/2503.13828)|null|
