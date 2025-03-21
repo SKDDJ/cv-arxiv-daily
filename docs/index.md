@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**|Chia-Yi Hsu et.al.|[2503.16195](http://arxiv.org/abs/2503.16195)|null|
+|**2025-03-20**|**SALT: Singular Value Adaptation with Low-Rank Transformation**|Abdelrahman Elsayed et.al.|[2503.16055](http://arxiv.org/abs/2503.16055)|null|
 |**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390](http://arxiv.org/abs/2503.15390)|null|
 |**2025-03-18**|**MAST-Pro: Dynamic Mixture-of-Experts for Adaptive Segmentation of Pan-Tumors with Knowledge-Driven Prompts**|Runqi Meng et.al.|[2503.14355](http://arxiv.org/abs/2503.14355)|null|
 |**2025-03-15**|**A Survey on Federated Fine-tuning of Large Language Models**|Yebo Wu et.al.|[2503.12016](http://arxiv.org/abs/2503.12016)|**[link](https://github.com/clin0212/awesome-federated-llm-learning)**|
@@ -385,6 +387,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation**|Yuqing Wang et.al.|[2503.16430](http://arxiv.org/abs/2503.16430)|null|
+|**2025-03-20**|**SynCity: Training-Free Generation of 3D Worlds**|Paul Engstler et.al.|[2503.16420](http://arxiv.org/abs/2503.16420)|null|
+|**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
+|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
+|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
+|**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/abs/2503.16394)|null|
+|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
+|**2025-03-20**|**Heat transfer and mixing in initiated Chemical Vapor Deposition analyzed by in-situ gas composition sensing**|Simon Shindler et.al.|[2503.16373](http://arxiv.org/abs/2503.16373)|null|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
+|**2025-03-20**|**Rapid patient-specific neural networks for intraoperative X-ray to volume registration**|Vivek Gopalakrishnan et.al.|[2503.16309](http://arxiv.org/abs/2503.16309)|null|
+|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|null|
+|**2025-03-20**|**Diffusion-augmented Graph Contrastive Learning for Collaborative Filter**|Fan Huang et.al.|[2503.16290](http://arxiv.org/abs/2503.16290)|null|
+|**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289](http://arxiv.org/abs/2503.16289)|null|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|null|
 |**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
 |**2025-03-19**|**MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space**|Lixing Xiao et.al.|[2503.15451](http://arxiv.org/abs/2503.15451)|null|
@@ -2860,6 +2877,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423](http://arxiv.org/abs/2503.16423)|null|
+|**2025-03-20**|**Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction**|Aniek Eijpe et.al.|[2503.16069](http://arxiv.org/abs/2503.16069)|null|
+|**2025-03-20**|**What can Off-the-Shelves Large Multi-Modal Models do for Dynamic Scene Graph Generation?**|Xuanming Cui et.al.|[2503.15846](http://arxiv.org/abs/2503.15846)|null|
+|**2025-03-19**|**EarthScape: A Multimodal Dataset for Surficial Geologic Mapping and Earth Surface Analysis**|Matthew Massey et.al.|[2503.15625](http://arxiv.org/abs/2503.15625)|null|
 |**2025-03-19**|**A Review on Large Language Models for Visual Analytics**|Navya Sonal Agarwal et.al.|[2503.15176](http://arxiv.org/abs/2503.15176)|null|
 |**2025-03-19**|**Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU**|Àlex Pujol Vidal et.al.|[2503.15166](http://arxiv.org/abs/2503.15166)|null|
 |**2025-03-19**|**Optimal Transport Adapter Tuning for Bridging Modality Gaps in Few-Shot Remote Sensing Scene Classification**|Zhong Ji et.al.|[2503.14938](http://arxiv.org/abs/2503.14938)|null|
@@ -4101,6 +4122,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
+|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
+|**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
+|**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
+|**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
+|**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/abs/2503.16394)|null|
+|**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
+|**2025-03-20**|**Heat transfer and mixing in initiated Chemical Vapor Deposition analyzed by in-situ gas composition sensing**|Simon Shindler et.al.|[2503.16373](http://arxiv.org/abs/2503.16373)|null|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
+|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|null|
+|**2025-03-20**|**Diffusion-augmented Graph Contrastive Learning for Collaborative Filter**|Fan Huang et.al.|[2503.16290](http://arxiv.org/abs/2503.16290)|null|
+|**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289](http://arxiv.org/abs/2503.16289)|null|
+|**2025-03-20**|**Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens**|Shuqi Lu et.al.|[2503.16278](http://arxiv.org/abs/2503.16278)|null|
+|**2025-03-20**|**Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts**|Yu Cao et.al.|[2503.16218](http://arxiv.org/abs/2503.16218)|null|
+|**2025-03-20**|**Improving Discriminator Guidance in Diffusion Models**|Alexandre Verine et.al.|[2503.16117](http://arxiv.org/abs/2503.16117)|null|
 |**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|null|
 |**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
 |**2025-03-19**|**MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space**|Lixing Xiao et.al.|[2503.15451](http://arxiv.org/abs/2503.15451)|null|
@@ -5945,6 +5981,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning**|Zhaowei Liu et.al.|[2503.16252](http://arxiv.org/abs/2503.16252)|null|
+|**2025-03-20**|**InhibiDistilbert: Knowledge Distillation for a ReLU and Addition-based Transformer**|Tony Zhang et.al.|[2503.15983](http://arxiv.org/abs/2503.15983)|null|
+|**2025-03-19**|**KoGNER: A Novel Framework for Knowledge Graph Distillation on Biomedical Named Entity Recognition**|Heming Zhang et.al.|[2503.15737](http://arxiv.org/abs/2503.15737)|null|
+|**2025-03-19**|**Technical Report for the 5th CLVision Challenge at CVPR: Addressing the Class-Incremental with Repetition using Unlabeled Data -- 4th Place Solution**|Panagiota Moraiti et.al.|[2503.15697](http://arxiv.org/abs/2503.15697)|null|
+|**2025-03-19**|**High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight**|Cédric Vincent et.al.|[2503.15676](http://arxiv.org/abs/2503.15676)|null|
 |**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
 |**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
 |**2025-03-19**|**Taming Flow Matching with Unbalanced Optimal Transport into Fast Pansharpening**|Zihan Cao et.al.|[2503.14975](http://arxiv.org/abs/2503.14975)|null|
@@ -6386,6 +6427,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
+|**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
+|**2025-03-20**|**VP-NTK: Exploring the Benefits of Visual Prompting in Differentially Private Data Synthesis**|Chia-Yi Hsu et.al.|[2503.16195](http://arxiv.org/abs/2503.16195)|null|
+|**2025-03-20**|**MarkushGrapher: Joint Visual and Textual Recognition of Markush Structures**|Lucas Morin et.al.|[2503.16096](http://arxiv.org/abs/2503.16096)|null|
+|**2025-03-20**|**Tuning LLMs by RAG Principles: Towards LLM-native Memory**|Jiale Wei et.al.|[2503.16071](http://arxiv.org/abs/2503.16071)|null|
+|**2025-03-20**|**Bokehlicious: Photorealistic Bokeh Rendering with Controllable Apertures**|Tim Seizinger et.al.|[2503.16067](http://arxiv.org/abs/2503.16067)|null|
+|**2025-03-20**|**Closer to Ground Truth: Realistic Shape and Appearance Labeled Data Generation for Unsupervised Underwater Image Segmentation**|Andrei Jelea et.al.|[2503.16051](http://arxiv.org/abs/2503.16051)|null|
+|**2025-03-20**|**Outcome-Informed Weighting for Robust ATE Estimation**|Linying Yang et.al.|[2503.15989](http://arxiv.org/abs/2503.15989)|null|
+|**2025-03-20**|**TVineSynth: A Truncated C-Vine Copula Generator of Synthetic Tabular Data to Balance Privacy and Utility**|Elisabeth Griesbauer et.al.|[2503.15972](http://arxiv.org/abs/2503.15972)|null|
+|**2025-03-20**|**Integrative Analysis of High-dimensional RCT and RWD Subject to Censoring and Hidden Confounding**|Xin Ye et.al.|[2503.15967](http://arxiv.org/abs/2503.15967)|null|
+|**2025-03-20**|**An Evaluation Framework for the FAIR Assessment tools in Open Science**|Payel Patra et.al.|[2503.15929](http://arxiv.org/abs/2503.15929)|null|
+|**2025-03-20**|**TruthLens: Explainable DeepFake Detection for Face Manipulated and Fully Synthetic Data**|Rohit Kundu et.al.|[2503.15867](http://arxiv.org/abs/2503.15867)|null|
+|**2025-03-20**|**Controlling Avatar Diffusion with Learnable Gaussian Embedding**|Xuan Gao et.al.|[2503.15809](http://arxiv.org/abs/2503.15809)|null|
+|**2025-03-19**|**The Change You Want To Detect: Semantic Change Detection In Earth Observation With Hybrid Data Generation**|Benidir Yanis et.al.|[2503.15683](http://arxiv.org/abs/2503.15683)|null|
+|**2025-03-19**|**Neural Lyapunov Function Approximation with Self-Supervised Reinforcement Learning**|Luc McCutcheon et.al.|[2503.15629](http://arxiv.org/abs/2503.15629)|null|
 |**2025-03-19**|**Improved Lattice QCD $B_c\to J/ψ$ Vector, Axial-Vector, and Tensor Form Factors**|Judd Harrison et.al.|[2503.15090](http://arxiv.org/abs/2503.15090)|null|
 |**2025-03-19**|**Box-constrained L0 Bregman-relaxations**|Mhamed Essafri et.al.|[2503.15083](http://arxiv.org/abs/2503.15083)|null|
 |**2025-03-19**|**ELTEX: A Framework for Domain-Driven Synthetic Data Generation**|Arina Razmyslovich et.al.|[2503.15055](http://arxiv.org/abs/2503.15055)|**[link](https://github.com/1712n/eltex)**|
