@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -5946,7 +5946,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-19**|**DCA: Dividing and Conquering Amnesia in Incremental Object Detection**|Aoting Zhang et.al.|[2503.15295](http://arxiv.org/abs/2503.15295)|null|
-|**2025-03-19**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
+|**2025-03-20**|**Distilling 3D distinctive local descriptors for 6D pose estimation**|Amir Hamza et.al.|[2503.15106](http://arxiv.org/abs/2503.15106)|null|
 |**2025-03-19**|**Taming Flow Matching with Unbalanced Optimal Transport into Fast Pansharpening**|Zihan Cao et.al.|[2503.14975](http://arxiv.org/abs/2503.14975)|null|
 |**2025-03-19**|**Ensemble Knowledge Distillation for Machine Learning Interatomic Potentials**|Sakib Matin et.al.|[2503.14293](http://arxiv.org/abs/2503.14293)|null|
 |**2025-03-18**|**SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation**|Weihong Chen et.al.|[2503.14097](http://arxiv.org/abs/2503.14097)|null|
@@ -6399,7 +6399,7 @@ layout: default
 |**2025-03-18**|**Graph-CNNs for RF Imaging: Learning the Electric Field Integral Equations**|Kyriakos Stylianopoulos et.al.|[2503.14439](http://arxiv.org/abs/2503.14439)|null|
 |**2025-03-18**|**QSTToolkit: A Python Library for Deep Learning Powered Quantum State Tomography**|George FitzGerald et.al.|[2503.14422](http://arxiv.org/abs/2503.14422)|null|
 |**2025-03-18**|**Optimizing High-Dimensional Oblique Splits**|Chien-Ming Chi et.al.|[2503.14381](http://arxiv.org/abs/2503.14381)|null|
-|**2025-03-18**|**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
+|**2025-03-19**|**VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation**|Shoubin Yu et.al.|[2503.14350](http://arxiv.org/abs/2503.14350)|null|
 |**2025-03-18**|**Four checks for low-fidelity synthetic data: recommendations for disclosure control and quality evaluation**|Gillian M Raab et.al.|[2503.14211](http://arxiv.org/abs/2503.14211)|null|
 |**2025-03-18**|**Synthetic Data Generation Using Large Language Models: Advances in Text and Code**|Mihai Nadas et.al.|[2503.14023](http://arxiv.org/abs/2503.14023)|null|
 |**2025-03-18**|**The KoLMogorov Test: Compression by Code Generation**|Ori Yoran et.al.|[2503.13992](http://arxiv.org/abs/2503.13992)|null|
