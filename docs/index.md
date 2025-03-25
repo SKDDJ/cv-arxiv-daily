@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2896,7 +2896,7 @@ layout: default
 |**2025-03-21**|**Modeled vortex dynamics on a Bose-Einstein condensate in a rotating lattice**|P. Capuzzi et.al.|[2503.17317](http://arxiv.org/abs/2503.17317)|null|
 |**2025-03-21**|**MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering**|Jialin Chen et.al.|[2503.16858](http://arxiv.org/abs/2503.16858)|null|
 |**2025-03-18**|**Do Multimodal Large Language Models Understand Welding?**|Grigorii Khvatskii et.al.|[2503.16537](http://arxiv.org/abs/2503.16537)|null|
-|**2025-03-20**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423](http://arxiv.org/abs/2503.16423)|null|
+|**2025-03-24**|**GAEA: A Geolocation Aware Conversational Model**|Ron Campos et.al.|[2503.16423](http://arxiv.org/abs/2503.16423)|null|
 |**2025-03-20**|**Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction**|Aniek Eijpe et.al.|[2503.16069](http://arxiv.org/abs/2503.16069)|null|
 |**2025-03-20**|**What can Off-the-Shelves Large Multi-Modal Models do for Dynamic Scene Graph Generation?**|Xuanming Cui et.al.|[2503.15846](http://arxiv.org/abs/2503.15846)|null|
 |**2025-03-19**|**EarthScape: A Multimodal Dataset for Surficial Geologic Mapping and Earth Surface Analysis**|Matthew Massey et.al.|[2503.15625](http://arxiv.org/abs/2503.15625)|**[link](https://github.com/masseygeo/earthscape)**|
@@ -2906,7 +2906,7 @@ layout: default
 |**2025-03-19**|**Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation**|Siwei Wen et.al.|[2503.14905](http://arxiv.org/abs/2503.14905)|null|
 |**2025-03-19**|**MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models**|Chejian Xu et.al.|[2503.14827](http://arxiv.org/abs/2503.14827)|null|
 |**2025-03-18**|**Tracking Meets Large Multimodal Models for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.14498](http://arxiv.org/abs/2503.14498)|**[link](https://github.com/mbzuai-oryx/trackingmeetslmm)**|
-|**2025-03-18**|**VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**|Seungwon Lim et.al.|[2503.14427](http://arxiv.org/abs/2503.14427)|null|
+|**2025-03-22**|**VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms**|Seungwon Lim et.al.|[2503.14427](http://arxiv.org/abs/2503.14427)|null|
 |**2025-03-18**|**HySurvPred: Multimodal Hyperbolic Embedding with Angle-Aware Hierarchical Contrastive Learning and Uncertainty Constraints for Survival Prediction**|Jiaqi Yang et.al.|[2503.13862](http://arxiv.org/abs/2503.13862)|null|
 |**2025-03-17**|**Triad: Empowering LMM-based Anomaly Detection with Vision Expert-guided Visual Tokenizer and Manufacturing Process**|Yuanze Li et.al.|[2503.13184](http://arxiv.org/abs/2503.13184)|null|
 |**2025-03-17**|**HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model**|Tao Wang et.al.|[2503.13026](http://arxiv.org/abs/2503.13026)|null|
@@ -3694,7 +3694,7 @@ layout: default
 |**2025-03-17**|**ProDiF: Protecting Domain-Invariant Features to Secure Pre-Trained Models Against Extraction**|Tong Zhou et.al.|[2503.13224](http://arxiv.org/abs/2503.13224)|null|
 |**2025-03-17**|**The VMC survey -- LII. The internal kinematics of the LMC with new VISTA observations**|S. Vijayasree et.al.|[2503.13039](http://arxiv.org/abs/2503.13039)|null|
 |**2025-03-16**|**Learning Privacy from Visual Entities**|Alessio Xompero et.al.|[2503.12464](http://arxiv.org/abs/2503.12464)|null|
-|**2025-03-17**|**Interpolation of Matrix Weighted Spaces and Commutator Estimates**|Félix Cabello Sánchez et.al.|[2503.10577](http://arxiv.org/abs/2503.10577)|null|
+|**2025-03-21**|**Interpolation of Matrix Weighted Spaces and Commutator Estimates**|Félix Cabello Sánchez et.al.|[2503.10577](http://arxiv.org/abs/2503.10577)|null|
 |**2025-03-13**|**Architecture-Aware Minimization (A $^2$ M): How to Find Flat Minima in Neural Architecture Search**|Matteo Gambella et.al.|[2503.10404](http://arxiv.org/abs/2503.10404)|**[link](https://github.com/ai-tech-research-lab/asquaredm)**|
 |**2025-03-13**|**Rapid analysis of point-contact Andreev reflection spectra via machine learning with adaptive data augmentation**|Dongik Lee et.al.|[2503.10040](http://arxiv.org/abs/2503.10040)|null|
 |**2025-03-12**|**On the Internal Representations of Graph Metanetworks**|Taesun Yeom et.al.|[2503.09120](http://arxiv.org/abs/2503.09120)|null|
@@ -4155,7 +4155,7 @@ layout: default
 |**2025-03-21**|**DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech**|Yongkang Cheng et.al.|[2503.17059](http://arxiv.org/abs/2503.17059)|null|
 |**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
 |**2025-03-21**|**Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles**|Ruoqi Zhang et.al.|[2503.16978](http://arxiv.org/abs/2503.16978)|null|
-|**2025-03-21**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
+|**2025-03-24**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
 |**2025-03-21**|**When Preferences Diverge: Aligning Diffusion Models with Minority-Aware Adaptive DPO**|Lingfan Zhang et.al.|[2503.16921](http://arxiv.org/abs/2503.16921)|null|
 |**2025-03-21**|**Malliavin-Bismut Score-based Diffusion Models**|Ehsan Mirafzali et.al.|[2503.16917](http://arxiv.org/abs/2503.16917)|null|
 |**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
