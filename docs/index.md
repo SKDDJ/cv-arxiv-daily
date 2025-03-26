@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683](http://arxiv.org/abs/2503.19683)|**[link](https://github.com/yermandy/deepfake-detection)**|
+|**2025-03-25**|**VectorFit : Adaptive Singular & Bias Vector Fine-Tuning of Pre-trained Foundation Models**|Suhas G Hegde et.al.|[2503.19530](http://arxiv.org/abs/2503.19530)|null|
 |**2025-03-24**|**MoST: Efficient Monarch Sparse Tuning for 3D Representation Learning**|Xu Han et.al.|[2503.18368](http://arxiv.org/abs/2503.18368)|null|
 |**2025-03-24**|**Coeff-Tuning: A Graph Filter Subspace View for Tuning Attention-Based Large Models**|Zichen Miao et.al.|[2503.18337](http://arxiv.org/abs/2503.18337)|null|
 |**2025-03-23**|**Decoupling Angles and Strength in Low-rank Adaptation**|Massimo Bini et.al.|[2503.18225](http://arxiv.org/abs/2503.18225)|null|
@@ -392,6 +394,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914](http://arxiv.org/abs/2503.19914)|null|
+|**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913](http://arxiv.org/abs/2503.19913)|null|
+|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
+|**2025-03-25**|**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**|Fernando Julio Cendra et.al.|[2503.19902](http://arxiv.org/abs/2503.19902)|null|
+|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
+|**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893](http://arxiv.org/abs/2503.19893)|null|
+|**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
+|**2025-03-25**|**TopoGEN: topology-driven microstructure generation for in silico modeling of fiber network mechanics**|Sara Cardona et.al.|[2503.19832](http://arxiv.org/abs/2503.19832)|null|
+|**2025-03-25**|**IgCraft: A versatile sequence generation framework for antibody discovery and engineering**|Matthew Greenig et.al.|[2503.19821](http://arxiv.org/abs/2503.19821)|null|
+|**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798](http://arxiv.org/abs/2503.19798)|null|
+|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
+|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
+|**2025-03-25**|**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**|Kartik Thakral et.al.|[2503.19783](http://arxiv.org/abs/2503.19783)|null|
+|**2025-03-25**|**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**|Junhyuk So et.al.|[2503.19731](http://arxiv.org/abs/2503.19731)|null|
+|**2025-03-25**|**CoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation**|Rupak Bose et.al.|[2503.19661](http://arxiv.org/abs/2503.19661)|null|
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950](http://arxiv.org/abs/2503.18950)|null|
 |**2025-03-24**|**Equivariant Image Modeling**|Ruixiao Dong et.al.|[2503.18948](http://arxiv.org/abs/2503.18948)|**[link](https://github.com/drx-code/EquivariantModeling)**|
 |**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
@@ -2912,6 +2929,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**CAFe: Unifying Representation and Generation with Contrastive-Autoregressive Finetuning**|Hao Yu et.al.|[2503.19900](http://arxiv.org/abs/2503.19900)|null|
+|**2025-03-25**|**RGB-Th-Bench: A Dense benchmark for Visual-Thermal Understanding of Vision Language Models**|Mehdi Moshtaghi et.al.|[2503.19654](http://arxiv.org/abs/2503.19654)|null|
+|**2025-03-25**|**Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation**|Hongcheng Gao et.al.|[2503.19622](http://arxiv.org/abs/2503.19622)|null|
+|**2025-03-25**|**VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction**|Zizhi Chen et.al.|[2503.19367](http://arxiv.org/abs/2503.19367)|null|
+|**2025-03-25**|**Membership Inference Attacks on Large-Scale Models: A Survey**|Hengyu Wu et.al.|[2503.19338](http://arxiv.org/abs/2503.19338)|null|
+|**2025-03-25**|**LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text**|Weizhi Chen et.al.|[2503.19311](http://arxiv.org/abs/2503.19311)|null|
 |**2025-03-24**|**Adaptive Unimodal Regulation for Balanced Multimodal Information Acquisition**|Chengxiang Huang et.al.|[2503.18595](http://arxiv.org/abs/2503.18595)|null|
 |**2025-03-24**|**Image-to-Text for Medical Reports Using Adaptive Co-Attention and Triple-LSTM Module**|Yishen Liu et.al.|[2503.18297](http://arxiv.org/abs/2503.18297)|null|
 |**2025-03-21**|**Audio-Enhanced Vision-Language Modeling with Latent Space Broadening for High Quality Data Expansion**|Yu Sun et.al.|[2503.17551](http://arxiv.org/abs/2503.17551)|null|
@@ -3707,6 +3730,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**On Symmetries in Convolutional Weights**|Bilal Alsallakh et.al.|[2503.19215](http://arxiv.org/abs/2503.19215)|null|
 |**2025-03-23**|**Spectral synthesis for exponentials in weighted $L^2$ -spaces**|Andrei V. Semenov et.al.|[2503.18131](http://arxiv.org/abs/2503.18131)|null|
 |**2025-03-21**|**Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space**|Vinicius Hernandes et.al.|[2503.17140](http://arxiv.org/abs/2503.17140)|null|
 |**2025-03-21**|**Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction**|Léo Meynent et.al.|[2503.17138](http://arxiv.org/abs/2503.17138)|**[link](https://github.com/HSG-AIML/ICLR_WSL_2025-Structure_is_not_enough)**|
@@ -4166,6 +4190,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914](http://arxiv.org/abs/2503.19914)|null|
+|**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913](http://arxiv.org/abs/2503.19913)|null|
+|**2025-03-25**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
+|**2025-03-25**|**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**|Fernando Julio Cendra et.al.|[2503.19902](http://arxiv.org/abs/2503.19902)|null|
+|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
+|**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
+|**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798](http://arxiv.org/abs/2503.19798)|null|
+|**2025-03-25**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
+|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
+|**2025-03-25**|**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**|Kartik Thakral et.al.|[2503.19783](http://arxiv.org/abs/2503.19783)|null|
+|**2025-03-25**|**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models**|Junhyuk So et.al.|[2503.19731](http://arxiv.org/abs/2503.19731)|null|
+|**2025-03-25**|**CoSimGen: Controllable Diffusion Model for Simultaneous Image and Mask Generation**|Rupak Bose et.al.|[2503.19661](http://arxiv.org/abs/2503.19661)|null|
+|**2025-03-25**|**OpenSDI: Spotting Diffusion-Generated Images in the Open World**|Yabin Wang et.al.|[2503.19653](http://arxiv.org/abs/2503.19653)|null|
+|**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
+|**2025-03-25**|**Variational conditional normalizing flows for computing second-order mean field control problems**|Jiaxi Zhao et.al.|[2503.19580](http://arxiv.org/abs/2503.19580)|**[link](https://github.com/jiaxi98/cnf_ot)**|
 |**2025-03-24**|**Target-Aware Video Diffusion Models**|Taeksoo Kim et.al.|[2503.18950](http://arxiv.org/abs/2503.18950)|null|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
 |**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933](http://arxiv.org/abs/2503.18933)|null|
@@ -6055,8 +6094,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
+|**2025-03-23**|**FedSKD: Aggregation-free Model-heterogeneous Federated Learning using Multi-dimensional Similarity Knowledge Distillation**|Ziqiao Weng et.al.|[2503.18981](http://arxiv.org/abs/2503.18981)|null|
 |**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944](http://arxiv.org/abs/2503.18944)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
-|**2025-03-24**|**Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation**|Yanda Chen et.al.|[2503.18872](http://arxiv.org/abs/2503.18872)|null|
+|**2025-03-24**|**Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation**|Yanda Chen et.al.|[2503.18872](http://arxiv.org/abs/2503.18872)|**[link](https://github.com/cydaaa30/ccfs)**|
 |**2025-03-24**|**Generative Dataset Distillation using Min-Max Diffusion Model**|Junqiao Fan et.al.|[2503.18626](http://arxiv.org/abs/2503.18626)|null|
 |**2025-03-24**|**Distilling Stereo Networks for Performant and Efficient Leaner Networks**|Rafia Rahim et.al.|[2503.18544](http://arxiv.org/abs/2503.18544)|**[link](https://github.com/cogsys-tuebingen/Distilling-Stereo-Networks)**|
 |**2025-03-24**|**Video-XL-Pro: Reconstructive Token Compression for Extremely Long Video Understanding**|Xiangrui Liu et.al.|[2503.18478](http://arxiv.org/abs/2503.18478)|null|
@@ -6518,6 +6559,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**SemEval-2025 Task 9: The Food Hazard Detection Challenge**|Korbinian Randl et.al.|[2503.19800](http://arxiv.org/abs/2503.19800)|null|
+|**2025-03-25**|**AIGC-assisted Federated Learning for Vehicular Edge Intelligence: Vehicle Selection, Resource Allocation and Model Augmentation**|Xianke Qiang et.al.|[2503.19676](http://arxiv.org/abs/2503.19676)|null|
+|**2025-03-25**|**Scaling Laws of Synthetic Data for Language Models**|Zeyu Qin et.al.|[2503.19551](http://arxiv.org/abs/2503.19551)|null|
+|**2025-03-25**|**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**|Zhuoran Zhao et.al.|[2503.19307](http://arxiv.org/abs/2503.19307)|null|
+|**2025-03-24**|**Deep learning in the abyss: a stratified Physics Informed Neural Network for data assimilation**|Vadim Limousin et.al.|[2503.19160](http://arxiv.org/abs/2503.19160)|null|
 |**2025-03-24**|**Reasoning to Learn from Latent Thoughts**|Yangjun Ruan et.al.|[2503.18866](http://arxiv.org/abs/2503.18866)|null|
 |**2025-03-24**|**Unsupervised Acquisition of Discrete Grammatical Categories**|David Ph. Shakouri et.al.|[2503.18702](http://arxiv.org/abs/2503.18702)|null|
 |**2025-03-24**|**GranQ: Granular Zero-Shot Quantization with Unified Layer-Channel Awareness**|Inpyo Hong et.al.|[2503.18339](http://arxiv.org/abs/2503.18339)|null|
