@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition**|Sarah Alyami et.al.|[2504.01666](http://arxiv.org/abs/2504.01666)|null|
+|**2025-04-02**|**CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition**|Sarah Alyami et.al.|[2504.01666](http://arxiv.org/abs/2504.01666)|**[link](https://github.com/snalyami/CLIP-SLA)**|
 |**2025-04-01**|**Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations**|Chongjie Si et.al.|[2504.00851](http://arxiv.org/abs/2504.00851)|null|
 |**2025-04-01**|**DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism**|Dengchun Li et.al.|[2504.00661](http://arxiv.org/abs/2504.00661)|**[link](https://github.com/mikecovlee/DynMoLE)**|
 |**2025-03-31**|**ElaLoRA: Elastic & Learnable Low-Rank Adaptation for Efficient Model Fine-Tuning**|Huandong Chang et.al.|[2504.00254](http://arxiv.org/abs/2504.00254)|null|
