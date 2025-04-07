@@ -403,6 +403,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**|Wulin Xie et.al.|[2504.03641](http://arxiv.org/abs/2504.03641)|null|
+|**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630](http://arxiv.org/abs/2504.03630)|null|
+|**2025-04-04**|**Quantifying the uncertainty of model-based synthetic image quality metrics**|Ciaran Bench et.al.|[2504.03623](http://arxiv.org/abs/2504.03623)|null|
+|**2025-04-04**|**VISTA-OCR: Towards generative and interactive end to end OCR models**|Laziz Hamdi et.al.|[2504.03621](http://arxiv.org/abs/2504.03621)|null|
+|**2025-04-04**|**Autonomous and Self-Adapting System for Synthetic Media Detection and Attribution**|Aref Azizpour et.al.|[2504.03615](http://arxiv.org/abs/2504.03615)|null|
+|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
+|**2025-04-04**|**HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration**|Boyuan Wang et.al.|[2504.03536](http://arxiv.org/abs/2504.03536)|null|
+|**2025-04-04**|**Diffusion Active Learning: Towards Data-Driven Experimental Design in Computed Tomography**|Luis Barba et.al.|[2504.03491](http://arxiv.org/abs/2504.03491)|null|
+|**2025-04-04**|**BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution**|Zihao He et.al.|[2504.03490](http://arxiv.org/abs/2504.03490)|null|
+|**2025-04-04**|**Structured Legal Document Generation in India: A Model-Agnostic Wrapper Approach with VidhikDastaavej**|Shubham Kumar Nigam et.al.|[2504.03486](http://arxiv.org/abs/2504.03486)|null|
+|**2025-04-04**|**Dynamic Importance in Diffusion U-Net for Enhanced Image Synthesis**|Xi Wang et.al.|[2504.03471](http://arxiv.org/abs/2504.03471)|null|
+|**2025-04-04**|**D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**|Antoine Dumoulin et.al.|[2504.03468](http://arxiv.org/abs/2504.03468)|null|
+|**2025-04-04**|**Generating ensembles of spatially-coherent in-situ forecasts using flow matching**|David Landry et.al.|[2504.03463](http://arxiv.org/abs/2504.03463)|null|
+|**2025-04-04**|**Conditioning Diffusions Using Malliavin Calculus**|Jakiw Pidstrigach et.al.|[2504.03461](http://arxiv.org/abs/2504.03461)|null|
+|**2025-04-04**|**QuinID: Enabling FDMA-Based Fully Parallel RFID with Frequency-Selective Antenna**|Xin Na et.al.|[2504.03412](http://arxiv.org/abs/2504.03412)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
 |**2025-04-03**|**Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization**|Kangle Deng et.al.|[2504.02817](http://arxiv.org/abs/2504.02817)|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
@@ -3028,6 +3043,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**DML-RAM: Deep Multimodal Learning Framework for Robotic Arm Manipulation using Pre-trained Models**|Sathish Kumar et.al.|[2504.03423](http://arxiv.org/abs/2504.03423)|null|
+|**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096](http://arxiv.org/abs/2504.03096)|null|
 |**2025-04-03**|**VEGAS: Towards Visually Explainable and Grounded Artificial Social Intelligence**|Hao Li et.al.|[2504.02227](http://arxiv.org/abs/2504.02227)|null|
 |**2025-04-02**|**One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image**|Ezzeldin Shereen et.al.|[2504.02132](http://arxiv.org/abs/2504.02132)|null|
 |**2025-04-02**|**Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness**|Haochen Wang et.al.|[2504.01901](http://arxiv.org/abs/2504.01901)|null|
@@ -3856,6 +3873,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**The Torus Centralizing Subalgebra of $\text{Dist}(G_r)$**|Paul Sobaje et.al.|[2504.03121](http://arxiv.org/abs/2504.03121)|null|
 |**2025-04-02**|**Instruction-Guided Autoregressive Neural Network Parameter Generation**|Soro Bedionita et.al.|[2504.02012](http://arxiv.org/abs/2504.02012)|null|
 |**2025-04-01**|**MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning**|Maolin Wang et.al.|[2504.00460](http://arxiv.org/abs/2504.00460)|null|
 |**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
@@ -4320,6 +4338,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630](http://arxiv.org/abs/2504.03630)|null|
+|**2025-04-04**|**Quantifying the uncertainty of model-based synthetic image quality metrics**|Ciaran Bench et.al.|[2504.03623](http://arxiv.org/abs/2504.03623)|null|
+|**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
+|**2025-04-04**|**Diffusion Active Learning: Towards Data-Driven Experimental Design in Computed Tomography**|Luis Barba et.al.|[2504.03491](http://arxiv.org/abs/2504.03491)|null|
+|**2025-04-04**|**BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution**|Zihao He et.al.|[2504.03490](http://arxiv.org/abs/2504.03490)|null|
+|**2025-04-04**|**Dynamic Importance in Diffusion U-Net for Enhanced Image Synthesis**|Xi Wang et.al.|[2504.03471](http://arxiv.org/abs/2504.03471)|null|
+|**2025-04-04**|**D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**|Antoine Dumoulin et.al.|[2504.03468](http://arxiv.org/abs/2504.03468)|null|
+|**2025-04-04**|**Stochastic Control of Drawdowns via Reinsurance under Random Inspection**|Kira Dudziak et.al.|[2504.03319](http://arxiv.org/abs/2504.03319)|null|
+|**2025-04-04**|**Nonlinear Dynamical Unbalanced Optimal Transport: Relaxation and Duality**|Dongjun Wu et.al.|[2504.03301](http://arxiv.org/abs/2504.03301)|null|
+|**2025-04-04**|**FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement**|Gia-Nghia Tran et.al.|[2504.03292](http://arxiv.org/abs/2504.03292)|null|
+|**2025-04-04**|**Dynamic Optimal Transport with Optimal Preferential Paths**|Marcello Carioni et.al.|[2504.03285](http://arxiv.org/abs/2504.03285)|null|
+|**2025-04-04**|**The Ground Cost for Optimal Transport of Angular Velocity**|Karthik Elamvazhuthi et.al.|[2504.03190](http://arxiv.org/abs/2504.03190)|null|
+|**2025-04-04**|**Simultaneous Learning of Optimal Transports for Training All-to-All Flow-Based Condition Transfer Model**|Kotaro Ikeda et.al.|[2504.03188](http://arxiv.org/abs/2504.03188)|null|
+|**2025-04-04**|**On the Connection Between Diffusion Models and Molecular Dynamics**|Liam Harcombe et.al.|[2504.03187](http://arxiv.org/abs/2504.03187)|null|
+|**2025-04-04**|**Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models**|Xuran Ma et.al.|[2504.03140](http://arxiv.org/abs/2504.03140)|null|
 |**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828](http://arxiv.org/abs/2504.02828)|null|
 |**2025-04-03**|**Convergence of the Markovian iteration for coupled FBSDEs via a differentiation approach**|Zhipeng Huang et.al.|[2504.02814](http://arxiv.org/abs/2504.02814)|null|
 |**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801](http://arxiv.org/abs/2504.02801)|null|
@@ -6809,6 +6842,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630](http://arxiv.org/abs/2504.03630)|null|
+|**2025-04-04**|**A New Statistical Approach to Calibration-Free Localization Using Unlabeled Crowdsourced Data**|Haozhou Hu et.al.|[2504.03619](http://arxiv.org/abs/2504.03619)|null|
+|**2025-04-04**|**APIGen-MT: Agentic Pipeline for Multi-Turn Data Generation via Simulated Agent-Human Interplay**|Akshara Prabhakar et.al.|[2504.03601](http://arxiv.org/abs/2504.03601)|null|
+|**2025-04-04**|**Discovering Partially Known Ordinary Differential Equations: a Case Study on the Chemical Kinetics of Cellulose Degradation**|Federica Bragone et.al.|[2504.03484](http://arxiv.org/abs/2504.03484)|null|
+|**2025-04-04**|**D-Garment: Physics-Conditioned Latent Diffusion for Dynamic Garment Deformations**|Antoine Dumoulin et.al.|[2504.03468](http://arxiv.org/abs/2504.03468)|null|
+|**2025-04-04**|**Data Augmentation of Time-Series Data in Human Movement Biomechanics: A Scoping Review**|Christina Halmich et.al.|[2504.03334](http://arxiv.org/abs/2504.03334)|null|
+|**2025-04-04**|**Mind the Prompt: Prompting Strategies in Audio Generations for Improving Sound Classification**|Francesca Ronchini et.al.|[2504.03329](http://arxiv.org/abs/2504.03329)|null|
+|**2025-04-04**|**A model-free feature extraction procedure for interval-valued time series prediction**|Wan Tian et.al.|[2504.03310](http://arxiv.org/abs/2504.03310)|null|
+|**2025-04-03**|**DiSRT-In-Bed: Diffusion-Based Sim-to-Real Transfer Framework for In-Bed Human Mesh Recovery**|Jing Gao et.al.|[2504.03006](http://arxiv.org/abs/2504.03006)|null|
+|**2025-04-03**|**Online Learning for Nonlinear Dynamical Systems without the I.I.D. Condition**|Lantian Zhang et.al.|[2504.02995](http://arxiv.org/abs/2504.02995)|null|
+|**2025-04-03**|**Generating Diverse Audio-Visual 360 Soundscapes for Sound Event Localization and Detection**|Adrian S. Roman et.al.|[2504.02988](http://arxiv.org/abs/2504.02988)|null|
 |**2025-04-03**|**MegaMath: Pushing the Limits of Open Math Corpora**|Fan Zhou et.al.|[2504.02807](http://arxiv.org/abs/2504.02807)|null|
 |**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|
 |**2025-04-03**|**Regulating Spatial Fairness in a Tripartite Micromobility Sharing System via Reinforcement Learning**|Matteo Cederle et.al.|[2504.02597](http://arxiv.org/abs/2504.02597)|null|
