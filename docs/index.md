@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -415,7 +415,7 @@ layout: default
 |**2025-04-07**|**Graph-based Diffusion Model for Collaborative Filtering**|Xuan Zhang et.al.|[2504.05029](http://arxiv.org/abs/2504.05029)|null|
 |**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
 |**2025-04-07**|**Low-Rate Semantic Communication with Codebook-based Conditional Generative Models**|Kailang Ye et.al.|[2504.04977](http://arxiv.org/abs/2504.04977)|null|
-|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
+|**2025-04-08**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
 |**2025-04-07**|**A Unified Pairwise Framework for RLHF: Bridging Generative Reward Modeling and Policy Optimization**|Wenyuan Xu et.al.|[2504.04950](http://arxiv.org/abs/2504.04950)|null|
 |**2025-04-07**|**One Quantizer is Enough: Toward a Lightweight Audio Codec**|Linwei Zhai et.al.|[2504.04949](http://arxiv.org/abs/2504.04949)|null|
 |**2025-04-07**|**Video-Bench: Human-Aligned Video Generation Benchmark**|Hui Han et.al.|[2504.04907](http://arxiv.org/abs/2504.04907)|null|
@@ -4371,11 +4371,11 @@ layout: default
 |**2025-04-07**|**Safe and Efficient Coexistence of Autonomous Vehicles with Human-Driven Traffic at Signalized Intersections**|Filippos N. Tzortzoglou et.al.|[2504.05101](http://arxiv.org/abs/2504.05101)|null|
 |**2025-04-07**|**Graph-based Diffusion Model for Collaborative Filtering**|Xuan Zhang et.al.|[2504.05029](http://arxiv.org/abs/2504.05029)|null|
 |**2025-04-07**|**Solving the fully nonlinear Monge-Ampère equation using the Legendre-Kolmogorov-Arnold Network method**|Bingcheng Hu et.al.|[2504.05022](http://arxiv.org/abs/2504.05022)|null|
-|**2025-04-07**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
+|**2025-04-08**|**REWIND: Real-Time Egocentric Whole-Body Motion Diffusion with Exemplar-Based Identity Conditioning**|Jihyun Lee et.al.|[2504.04956](http://arxiv.org/abs/2504.04956)|null|
 |**2025-04-07**|**Stochastic differential equations driven by fractional Brownian motion: dependence on the Hurst parameter**|Anna P. Kwossek et.al.|[2504.04860](http://arxiv.org/abs/2504.04860)|null|
 |**2025-04-07**|**Approach to optimal quantum transport via states over time**|Matt Hoogsteder-Riera et.al.|[2504.04856](http://arxiv.org/abs/2504.04856)|null|
 |**2025-04-07**|**Topological Schrödinger Bridge Matching**|Maosheng Yang et.al.|[2504.04799](http://arxiv.org/abs/2504.04799)|null|
-|**2025-04-07**|**TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation**|Jacob Si et.al.|[2504.04798](http://arxiv.org/abs/2504.04798)|null|
+|**2025-04-08**|**TabRep: a Simple and Effective Continuous Representation for Training Tabular Diffusion Models**|Jacob Si et.al.|[2504.04798](http://arxiv.org/abs/2504.04798)|null|
 |**2025-04-07**|**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing**|Hui Liu et.al.|[2504.04784](http://arxiv.org/abs/2504.04784)|null|
 |**2025-04-07**|**Strong approximation and central limit theorems for multiscale stochastic gene networks**|Baptiste Nicolas Huguet et.al.|[2504.04768](http://arxiv.org/abs/2504.04768)|null|
 |**2025-04-07**|**Continuous Locomotive Crowd Behavior Generation**|Inhwan Bae et.al.|[2504.04756](http://arxiv.org/abs/2504.04756)|null|
@@ -6393,7 +6393,7 @@ layout: default
 |**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|null|
 |**2025-04-07**|**T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models**|Minki Kang et.al.|[2504.04718](http://arxiv.org/abs/2504.04718)|null|
 |**2025-04-06**|**A Novel Algorithm for Personalized Federated Learning: Knowledge Distillation with Weighted Combination Loss**|Hengrui Hu et.al.|[2504.04642](http://arxiv.org/abs/2504.04642)|null|
-|**2025-04-06**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
+|**2025-04-08**|**Your Image Generator Is Your New Private Dataset**|Nicolo Resmini et.al.|[2504.04582](http://arxiv.org/abs/2504.04582)|null|
 |**2025-04-05**|**CoMBO: Conflict Mitigation via Branched Optimization for Class Incremental Segmentation**|Kai Fang et.al.|[2504.04156](http://arxiv.org/abs/2504.04156)|null|
 |**2025-04-05**|**Corrected with the Latest Version: Make Robust Asynchronous Federated Learning Possible**|Chaoyi Lu et.al.|[2504.04081](http://arxiv.org/abs/2504.04081)|null|
 |**2025-04-04**|**Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking**|Chris Samarinas et.al.|[2504.03947](http://arxiv.org/abs/2504.03947)|**[link](https://github.com/algoprog/InteRank)**|
@@ -6904,7 +6904,7 @@ layout: default
 |**2025-04-07**|**Towards Visual Text Grounding of Multimodal Large Language Model**|Ming Li et.al.|[2504.04974](http://arxiv.org/abs/2504.04974)|null|
 |**2025-04-07**|**SoK: LLM-based Log Parsing**|Viktor Beck et.al.|[2504.04877](http://arxiv.org/abs/2504.04877)|null|
 |**2025-04-07**|**Statistical parametric simulation studies based on real data**|Christina Sauer et.al.|[2504.04864](http://arxiv.org/abs/2504.04864)|null|
-|**2025-04-07**|**TabRep: Training Tabular Diffusion Models with a Simple and Effective Continuous Representation**|Jacob Si et.al.|[2504.04798](http://arxiv.org/abs/2504.04798)|null|
+|**2025-04-08**|**TabRep: a Simple and Effective Continuous Representation for Training Tabular Diffusion Models**|Jacob Si et.al.|[2504.04798](http://arxiv.org/abs/2504.04798)|null|
 |**2025-04-07**|**Enhancing Compositional Reasoning in Vision-Language Models with Synthetic Preference Data**|Samarth Mishra et.al.|[2504.04740](http://arxiv.org/abs/2504.04740)|null|
 |**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736](http://arxiv.org/abs/2504.04736)|null|
 |**2025-04-04**|**Enhancing Causal Effect Estimation with Diffusion-Generated Data**|Li Chen et.al.|[2504.03630](http://arxiv.org/abs/2504.03630)|null|
