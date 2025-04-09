@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
 |**2025-04-05**|**FISH-Tuning: Enhancing PEFT Methods with Fisher Information**|Kang Xue et.al.|[2504.04050](http://arxiv.org/abs/2504.04050)|null|
 |**2025-04-02**|**CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition**|Sarah Alyami et.al.|[2504.01666](http://arxiv.org/abs/2504.01666)|**[link](https://github.com/snalyami/CLIP-SLA)**|
 |**2025-04-01**|**Generalized Tensor-based Parameter-Efficient Fine-Tuning via Lie Group Transformations**|Chongjie Si et.al.|[2504.00851](http://arxiv.org/abs/2504.00851)|null|
@@ -404,6 +405,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
+|**2025-04-08**|**Electronic Structure Guided Inverse Design Using Generative Models**|Shuyi Jia et.al.|[2504.06249](http://arxiv.org/abs/2504.06249)|null|
+|**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
+|**2025-04-08**|**WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care**|Vanessa Borst et.al.|[2504.06185](http://arxiv.org/abs/2504.06185)|null|
+|**2025-04-08**|**Deploying Chatbots in Customer Service: Adoption Hurdles and Simple Remedies**|Evgeny Kagan et.al.|[2504.06145](http://arxiv.org/abs/2504.06145)|null|
+|**2025-04-08**|**QGen Studio: An Adaptive Question-Answer Generation, Training and Evaluation Platform**|Movina Moses et.al.|[2504.06136](http://arxiv.org/abs/2504.06136)|null|
+|**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131](http://arxiv.org/abs/2504.06131)|null|
+|**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
+|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
+|**2025-04-08**|**Note on the Universality of Parameterized IQP Circuits with Hidden Units for Generating Probability Distributions**|Andrii Kurkin et.al.|[2504.05997](http://arxiv.org/abs/2504.05997)|null|
+|**2025-04-08**|**An Empirical Study of GPT-4o Image Generation Capabilities**|Sixiang Chen et.al.|[2504.05979](http://arxiv.org/abs/2504.05979)|null|
+|**2025-04-08**|**Diffusion Based Ambiguous Image Segmentation**|Jakob Lønborg Christensen et.al.|[2504.05977](http://arxiv.org/abs/2504.05977)|null|
+|**2025-04-08**|**Adaptive Extended Kalman Filtering for Battery State of Charge Estimation on STM32**|António Barros et.al.|[2504.05936](http://arxiv.org/abs/2504.05936)|null|
+|**2025-04-08**|**Pushing JWST to the extremes: search and scrutiny of bright galaxy candidates at z $\simeq$ 15-30**|M. Castellano et.al.|[2504.05893](http://arxiv.org/abs/2504.05893)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
 |**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
@@ -3059,6 +3075,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**Mapping biodiversity at very-high resolution in Europe**|César Leblanc et.al.|[2504.05231](http://arxiv.org/abs/2504.05231)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
@@ -3898,6 +3915,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**QEMesh: Employing A Quadric Error Metrics-Based Representation for Mesh Generation**|Jiaqi Li et.al.|[2504.05720](http://arxiv.org/abs/2504.05720)|null|
 |**2025-03-27**|**Geometric Flow Models over Neural Network Weights**|Ege Erdogan et.al.|[2504.03710](http://arxiv.org/abs/2504.03710)|null|
 |**2025-04-04**|**The Torus Centralizing Subalgebra of $\text{Dist}(G_r)$**|Paul Sobaje et.al.|[2504.03121](http://arxiv.org/abs/2504.03121)|null|
 |**2025-04-02**|**Instruction-Guided Autoregressive Neural Network Parameter Generation**|Soro Bedionita et.al.|[2504.02012](http://arxiv.org/abs/2504.02012)|null|
@@ -4364,6 +4382,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
+|**2025-04-08**|**A Mean-Reverting Model of Exchange Rate Risk Premium Using Ornstein-Uhlenbeck Dynamics**|SeungJae Hwang et.al.|[2504.06028](http://arxiv.org/abs/2504.06028)|null|
+|**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
+|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
+|**2025-04-08**|**An Empirical Study of GPT-4o Image Generation Capabilities**|Sixiang Chen et.al.|[2504.05979](http://arxiv.org/abs/2504.05979)|null|
+|**2025-04-08**|**Diffusion Based Ambiguous Image Segmentation**|Jakob Lønborg Christensen et.al.|[2504.05977](http://arxiv.org/abs/2504.05977)|null|
+|**2025-04-08**|**Physics-aware generative models for turbulent fluid flows through energy-consistent stochastic interpolants**|Nikolaj T. Mücke et.al.|[2504.05852](http://arxiv.org/abs/2504.05852)|null|
+|**2025-04-08**|**On the Importance of Conditioning for Privacy-Preserving Data Augmentation**|Julian Lorenz et.al.|[2504.05849](http://arxiv.org/abs/2504.05849)|null|
+|**2025-04-08**|**Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking**|Junxi Chen et.al.|[2504.05838](http://arxiv.org/abs/2504.05838)|null|
+|**2025-04-08**|**Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models**|Jiahao Chen et.al.|[2504.05815](http://arxiv.org/abs/2504.05815)|null|
+|**2025-04-08**|**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling**|Jaskirat Singh et.al.|[2504.05800](http://arxiv.org/abs/2504.05800)|null|
+|**2025-04-08**|**QEMesh: Employing A Quadric Error Metrics-Based Representation for Mesh Generation**|Jiaqi Li et.al.|[2504.05720](http://arxiv.org/abs/2504.05720)|null|
+|**2025-04-08**|**Reconstruction-Free Anomaly Detection with Diffusion Models via Direct Latent Likelihood Evaluation**|Shunsuke Sakai et.al.|[2504.05662](http://arxiv.org/abs/2504.05662)|null|
+|**2025-04-08**|**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model**|Qi Mao et.al.|[2504.05594](http://arxiv.org/abs/2504.05594)|null|
+|**2025-04-07**|**Studying Image Diffusion Features for Zero-Shot Video Object Segmentation**|Thanos Delatolas et.al.|[2504.05468](http://arxiv.org/abs/2504.05468)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
 |**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
@@ -6388,6 +6421,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Multi-Sense Embeddings for Language Models and Knowledge Distillation**|Qitong Wang et.al.|[2504.06036](http://arxiv.org/abs/2504.06036)|null|
+|**2025-04-07**|**Learning Activity View-invariance Under Extreme Viewpoint Changes via Curriculum Knowledge Distillation**|Arjun Somayazulu et.al.|[2504.05451](http://arxiv.org/abs/2504.05451)|null|
 |**2025-04-07**|**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization**|Zeqin Yu et.al.|[2504.05224](http://arxiv.org/abs/2504.05224)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
 |**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954](http://arxiv.org/abs/2504.04954)|null|
@@ -6892,6 +6927,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Diagrammatic expansion for the mutual-information rate in the realm of limited statistics**|Tobias Kühn et.al.|[2504.06255](http://arxiv.org/abs/2504.06255)|null|
+|**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176](http://arxiv.org/abs/2504.06176)|null|
+|**2025-04-08**|**QGen Studio: An Adaptive Question-Answer Generation, Training and Evaluation Platform**|Movina Moses et.al.|[2504.06136](http://arxiv.org/abs/2504.06136)|null|
+|**2025-04-08**|**Explainable AI for building energy retrofitting under data scarcity**|Panagiota Rempi et.al.|[2504.06055](http://arxiv.org/abs/2504.06055)|null|
+|**2025-04-08**|**Trust-Region Twisted Policy Improvement**|Joery A. de Vries et.al.|[2504.06048](http://arxiv.org/abs/2504.06048)|null|
+|**2025-04-08**|**Leveraging Robust Optimization for LLM Alignment under Distribution Shifts**|Mingye Zhu et.al.|[2504.05831](http://arxiv.org/abs/2504.05831)|null|
+|**2025-04-08**|**Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought**|Yi Peng et.al.|[2504.05599](http://arxiv.org/abs/2504.05599)|null|
+|**2025-04-08**|**Knowledge-Instruct: Effective Continual Pre-training from Limited Data using Instructions**|Oded Ovadia et.al.|[2504.05571](http://arxiv.org/abs/2504.05571)|null|
+|**2025-04-07**|**A Generalized Tangent Approximation Framework for Strongly Super-Gaussian Likelihoods**|Somjit Roy et.al.|[2504.05431](http://arxiv.org/abs/2504.05431)|null|
+|**2025-04-07**|**GARF: Learning Generalizable 3D Reassembly for Real-World Fractures**|Sihang Li et.al.|[2504.05400](http://arxiv.org/abs/2504.05400)|null|
 |**2025-04-07**|**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**|German Barquero et.al.|[2504.05265](http://arxiv.org/abs/2504.05265)|null|
 |**2025-04-07**|**Bayesian estimation of causal effects from observational categorical data**|Vera Kvisgaard et.al.|[2504.05198](http://arxiv.org/abs/2504.05198)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
