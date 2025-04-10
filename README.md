@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**DUKAE: DUal-level Knowledge Accumulation and Ensemble for Pre-Trained Model-Based Continual Learning**|Songze Li et.al.|[2504.06521](http://arxiv.org/abs/2504.06521)|null|
 |**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
 |**2025-04-05**|**FISH-Tuning: Enhancing PEFT Methods with Fisher Information**|Kang Xue et.al.|[2504.04050](http://arxiv.org/abs/2504.04050)|null|
 |**2025-04-02**|**CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition**|Sarah Alyami et.al.|[2504.01666](http://arxiv.org/abs/2504.01666)|**[link](https://github.com/snalyami/CLIP-SLA)**|
@@ -403,6 +404,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Identifying Unknown Stochastic Dynamics via Finite expression methods**|Senwei Liang et.al.|[2504.07085](http://arxiv.org/abs/2504.07085)|null|
+|**2025-04-09**|**Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety**|Chad Melton et.al.|[2504.07022](http://arxiv.org/abs/2504.07022)|null|
+|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
+|**2025-04-09**|**A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology**|Marco Acerbis et.al.|[2504.06957](http://arxiv.org/abs/2504.06957)|null|
+|**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950](http://arxiv.org/abs/2504.06950)|null|
+|**2025-04-09**|**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923](http://arxiv.org/abs/2504.06923)|null|
+|**2025-04-09**|**Data Augmentation for Fake Reviews Detection in Multiple Languages and Multiple Domains**|Ming Liu et.al.|[2504.06917](http://arxiv.org/abs/2504.06917)|null|
+|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
+|**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
+|**2025-04-09**|**CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading**|Mishan Aliev et.al.|[2504.06856](http://arxiv.org/abs/2504.06856)|null|
+|**2025-04-09**|**Open Problems and a Hypothetical Path Forward in LLM Knowledge Paradigms**|Xiaotian Ye et.al.|[2504.06823](http://arxiv.org/abs/2504.06823)|null|
+|**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
+|**2025-04-09**|**A Meaningful Perturbation Metric for Evaluating Explainability Methods**|Danielle Cohen et.al.|[2504.06800](http://arxiv.org/abs/2504.06800)|null|
+|**2025-04-09**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768](http://arxiv.org/abs/2504.06768)|null|
+|**2025-04-09**|**DIMA: DIffusing Motion Artifacts for unsupervised correction in brain MRI images**|Paolo Angella et.al.|[2504.06767](http://arxiv.org/abs/2504.06767)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**Electronic Structure Guided Inverse Design Using Generative Models**|Shuyi Jia et.al.|[2504.06249](http://arxiv.org/abs/2504.06249)|null|
@@ -3075,6 +3091,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|null|
+|**2025-04-09**|**Classifying the Unknown: In-Context Learning for Open-Vocabulary Text and Symbol Recognition**|Tom Simon et.al.|[2504.06841](http://arxiv.org/abs/2504.06841)|null|
+|**2025-04-09**|**Domain-Conditioned Scene Graphs for State-Grounded Task Planning**|Jonas Herzog et.al.|[2504.06661](http://arxiv.org/abs/2504.06661)|null|
+|**2025-04-09**|**SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas**|Chenghao Ma et.al.|[2504.06637](http://arxiv.org/abs/2504.06637)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**Mapping biodiversity at very-high resolution in Europe**|César Leblanc et.al.|[2504.05231](http://arxiv.org/abs/2504.05231)|null|
@@ -4388,6 +4408,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Identifying Unknown Stochastic Dynamics via Finite expression methods**|Senwei Liang et.al.|[2504.07085](http://arxiv.org/abs/2504.07085)|null|
+|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
+|**2025-04-09**|**Tractable reformulations of DRO problems over structured optimal transport ambiguity sets**|Lotfi M. Chaouach et.al.|[2504.06966](http://arxiv.org/abs/2504.06966)|null|
+|**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950](http://arxiv.org/abs/2504.06950)|null|
+|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
+|**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
+|**2025-04-09**|**CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading**|Mishan Aliev et.al.|[2504.06856](http://arxiv.org/abs/2504.06856)|null|
+|**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
+|**2025-04-09**|**DIMA: DIffusing Motion Artifacts for unsupervised correction in brain MRI images**|Paolo Angella et.al.|[2504.06767](http://arxiv.org/abs/2504.06767)|null|
+|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishbuh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
+|**2025-04-09**|**Optimal Execution and Macroscopic Market Making**|Ivan Guo et.al.|[2504.06717](http://arxiv.org/abs/2504.06717)|null|
+|**2025-04-09**|**Probability Density Geodesics in Image Diffusion Latent Space**|Qingtao Yu et.al.|[2504.06675](http://arxiv.org/abs/2504.06675)|null|
+|**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
+|**2025-04-09**|**Diffusion Factor Models: Generating High-Dimensional Returns with Factor Structure**|Minshuo Chen et.al.|[2504.06566](http://arxiv.org/abs/2504.06566)|null|
+|**2025-04-09**|**DiffusionCom: Structure-Aware Multimodal Diffusion Model for Multimodal Knowledge Graph Completion**|Wei Huang et.al.|[2504.06543](http://arxiv.org/abs/2504.06543)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**A Mean-Reverting Model of Exchange Rate Risk Premium Using Ornstein-Uhlenbeck Dynamics**|SeungJae Hwang et.al.|[2504.06028](http://arxiv.org/abs/2504.06028)|null|
 |**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
@@ -6429,6 +6464,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer**|Shi Pan et.al.|[2504.07061](http://arxiv.org/abs/2504.07061)|null|
+|**2025-04-09**|**Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**|Thomas Kerdreux et.al.|[2504.06962](http://arxiv.org/abs/2504.06962)|null|
 |**2025-04-08**|**Multi-Sense Embeddings for Language Models and Knowledge Distillation**|Qitong Wang et.al.|[2504.06036](http://arxiv.org/abs/2504.06036)|null|
 |**2025-04-07**|**Learning Activity View-invariance Under Extreme Viewpoint Changes via Curriculum Knowledge Distillation**|Arjun Somayazulu et.al.|[2504.05451](http://arxiv.org/abs/2504.05451)|null|
 |**2025-04-07**|**Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization**|Zeqin Yu et.al.|[2504.05224](http://arxiv.org/abs/2504.05224)|null|
@@ -6937,6 +6974,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Restoring the Forecasting Power of Google Trends with Statistical Preprocessing**|Candice Djorno et.al.|[2504.07032](http://arxiv.org/abs/2504.07032)|null|
+|**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997](http://arxiv.org/abs/2504.06997)|null|
+|**2025-04-09**|**Enhancing Metabolic Syndrome Prediction with Hybrid Data Balancing and Counterfactuals**|Sanyam Paresh Shah et.al.|[2504.06987](http://arxiv.org/abs/2504.06987)|null|
+|**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982](http://arxiv.org/abs/2504.06982)|null|
+|**2025-04-09**|**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923](http://arxiv.org/abs/2504.06923)|null|
+|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
+|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801](http://arxiv.org/abs/2504.06801)|null|
+|**2025-04-09**|**NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables**|Lanrui Wang et.al.|[2504.06560](http://arxiv.org/abs/2504.06560)|null|
 |**2025-04-08**|**Diagrammatic expansion for the mutual-information rate in the realm of limited statistics**|Tobias Kühn et.al.|[2504.06255](http://arxiv.org/abs/2504.06255)|null|
 |**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176](http://arxiv.org/abs/2504.06176)|null|
 |**2025-04-08**|**QGen Studio: An Adaptive Question-Answer Generation, Training and Evaluation Platform**|Movina Moses et.al.|[2504.06136](http://arxiv.org/abs/2504.06136)|null|
