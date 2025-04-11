@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3103,7 +3103,7 @@ layout: default
 |**2025-04-06**|**Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead**|Chengjie Lu et.al.|[2504.04630](http://arxiv.org/abs/2504.04630)|null|
 |**2025-04-06**|**FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency**|Shiyan Liu et.al.|[2504.04427](http://arxiv.org/abs/2504.04427)|null|
 |**2025-04-05**|**Could AI Trace and Explain the Origins of AI-Generated Images and Text?**|Hongchao Fang et.al.|[2504.04279](http://arxiv.org/abs/2504.04279)|null|
-|**2025-04-04**|**VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models**|Dahun Kim et.al.|[2504.03970](http://arxiv.org/abs/2504.03970)|null|
+|**2025-04-10**|**VideoComp: Advancing Fine-Grained Compositional and Temporal Alignment in Video-Text Models**|Dahun Kim et.al.|[2504.03970](http://arxiv.org/abs/2504.03970)|null|
 |**2025-04-04**|**Interpretable Multimodal Learning for Tumor Protein-Metal Binding: Progress, Challenges, and Perspectives**|Xiaokun Liu et.al.|[2504.03847](http://arxiv.org/abs/2504.03847)|null|
 |**2025-04-04**|**DML-RAM: Deep Multimodal Learning Framework for Robotic Arm Manipulation using Pre-trained Models**|Sathish Kumar et.al.|[2504.03423](http://arxiv.org/abs/2504.03423)|null|
 |**2025-04-04**|**Scaling Open-Vocabulary Action Detection**|Zhen Hao Sia et.al.|[2504.03096](http://arxiv.org/abs/2504.03096)|null|
@@ -4411,7 +4411,7 @@ layout: default
 |**2025-04-09**|**CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading**|Mishan Aliev et.al.|[2504.06856](http://arxiv.org/abs/2504.06856)|null|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**DIMA: DIffusing Motion Artifacts for unsupervised correction in brain MRI images**|Paolo Angella et.al.|[2504.06767](http://arxiv.org/abs/2504.06767)|null|
-|**2025-04-09**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishbuh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
+|**2025-04-10**|**Compass Control: Multi Object Orientation Control for Text-to-Image Generation**|Rishubh Parihar et.al.|[2504.06752](http://arxiv.org/abs/2504.06752)|null|
 |**2025-04-09**|**Optimal Execution and Macroscopic Market Making**|Ivan Guo et.al.|[2504.06717](http://arxiv.org/abs/2504.06717)|null|
 |**2025-04-09**|**Probability Density Geodesics in Image Diffusion Latent Space**|Qingtao Yu et.al.|[2504.06675](http://arxiv.org/abs/2504.06675)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
@@ -6970,7 +6970,7 @@ layout: default
 |**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982](http://arxiv.org/abs/2504.06982)|null|
 |**2025-04-09**|**The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data**|Georgi Ganev et.al.|[2504.06923](http://arxiv.org/abs/2504.06923)|null|
 |**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
-|**2025-04-09**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801](http://arxiv.org/abs/2504.06801)|null|
+|**2025-04-10**|**MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection**|Rishubh Parihar et.al.|[2504.06801](http://arxiv.org/abs/2504.06801)|null|
 |**2025-04-09**|**NeedleInATable: Exploring Long-Context Capability of Large Language Models towards Long-Structured Tables**|Lanrui Wang et.al.|[2504.06560](http://arxiv.org/abs/2504.06560)|null|
 |**2025-04-08**|**Diagrammatic expansion for the mutual-information rate in the realm of limited statistics**|Tobias Kühn et.al.|[2504.06255](http://arxiv.org/abs/2504.06255)|null|
 |**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176](http://arxiv.org/abs/2504.06176)|null|
