@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -416,7 +416,7 @@ layout: default
 |**2025-04-10**|**Optimal Control For Anti-Abeta Treatment in Alzheimer's Disease using a Reaction-Diffusion Model**|Wenrui Hao et.al.|[2504.07913](http://arxiv.org/abs/2504.07913)|null|
 |**2025-04-10**|**DiverseFlow: Sample-Efficient Diverse Mode Coverage in Flows**|Mashrur M. Morshed et.al.|[2504.07894](http://arxiv.org/abs/2504.07894)|null|
 |**2025-04-10**|**QubitHammer Attacks: Qubit Flipping Attacks in Multi-tenant Superconducting Quantum Computers**|Yizhuo Tan et.al.|[2504.07875](http://arxiv.org/abs/2504.07875)|null|
-|**2025-04-10**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866](http://arxiv.org/abs/2504.07866)|null|
+|**2025-04-11**|**Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs**|Yichun Yin et.al.|[2504.07866](http://arxiv.org/abs/2504.07866)|null|
 |**2025-04-10**|**A Review of HPC-Accelerated CFD in National Security and Defense**|James Afful et.al.|[2504.07837](http://arxiv.org/abs/2504.07837)|null|
 |**2025-04-10**|**The ISC Creator: Human-Centered Design of Learning Analytics Interactive Indicator Specification Cards**|Shoeb Joarder et.al.|[2504.07811](http://arxiv.org/abs/2504.07811)|null|
 |**2025-04-10**|**Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations**|Yifan Ding et.al.|[2504.07793](http://arxiv.org/abs/2504.07793)|**[link](https://github.com/limchaos/likelihood-ood)**|
@@ -3107,7 +3107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-10**|**Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
+|**2025-04-11**|**Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
 |**2025-04-10**|**Unveiling the Impact of Multimodal Features on Chinese Spelling Correction: From Analysis to Design**|Xiaowu Zhang et.al.|[2504.07661](http://arxiv.org/abs/2504.07661)|**[link](https://github.com/iiosnail/nambert)**|
 |**2025-04-10**|**Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction**|Kyoyun Choi et.al.|[2504.07415](http://arxiv.org/abs/2504.07415)|null|
 |**2025-04-09**|**Zeus: Zero-shot LLM Instruction for Union Segmentation in Multimodal Medical Imaging**|Siyuan Dai et.al.|[2504.07336](http://arxiv.org/abs/2504.07336)|null|
@@ -7012,7 +7012,7 @@ layout: default
 |**2025-04-10**|**Adversarial Subspace Generation for Outlier Detection in High-Dimensional Data**|Jose Cribeiro-Ramallo et.al.|[2504.07522](http://arxiv.org/abs/2504.07522)|**[link](https://github.com/jcribeiro98/v-gan)**|
 |**2025-04-10**|**Conditional Data Synthesis Augmentation**|Xinyu Tian et.al.|[2504.07426](http://arxiv.org/abs/2504.07426)|null|
 |**2025-04-10**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|**[link](https://github.com/dariant/id-booth)**|
-|**2025-04-09**|**SemEval-2025 Task 5: LLMs4Subjects -- LLM-based Automated Subject Tagging for a National Technical Library's Open-Access Catalog**|Jennifer D'Souza et.al.|[2504.07199](http://arxiv.org/abs/2504.07199)|null|
+|**2025-04-11**|**SemEval-2025 Task 5: LLMs4Subjects -- LLM-based Automated Subject Tagging for a National Technical Library's Open-Access Catalog**|Jennifer D'Souza et.al.|[2504.07199](http://arxiv.org/abs/2504.07199)|null|
 |**2025-04-09**|**The Effects of Binary Reference Stars on JWST NIRCam Coronagraphy**|Klaus Subbotina Stephenson et.al.|[2504.07190](http://arxiv.org/abs/2504.07190)|null|
 |**2025-04-09**|**R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents**|Naman Jain et.al.|[2504.07164](http://arxiv.org/abs/2504.07164)|null|
 |**2025-04-09**|**Restoring the Forecasting Power of Google Trends with Statistical Preprocessing**|Candice Djorno et.al.|[2504.07032](http://arxiv.org/abs/2504.07032)|null|
