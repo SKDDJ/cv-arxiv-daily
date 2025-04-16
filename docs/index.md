@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**A Decade of Wheat Mapping for Lebanon**|Hasan Wehbi et.al.|[2504.11366](http://arxiv.org/abs/2504.11366)|null|
 |**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
 |**2025-04-10**|**LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation**|Juzheng Zhang et.al.|[2504.07448](http://arxiv.org/abs/2504.07448)|**[link](https://github.com/juzhengz/lori)**|
 |**2025-04-14**|**DUKAE: DUal-level Knowledge Accumulation and Ensemble for Pre-Trained Model-Based Continual Learning**|Songze Li et.al.|[2504.06521](http://arxiv.org/abs/2504.06521)|null|
@@ -409,6 +410,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
+|**2025-04-15**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen et.al.|[2504.11454](http://arxiv.org/abs/2504.11454)|null|
+|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhaol et.al.|[2504.11447](http://arxiv.org/abs/2504.11447)|null|
+|**2025-04-15**|**NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**|Yanrui Bin et.al.|[2504.11427](http://arxiv.org/abs/2504.11427)|null|
+|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
+|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
+|**2025-04-15**|**Ring Artifacts Correction Based on Global-Local Features Interaction Guidance in the Projection Domain**|Yunze Liu et.al.|[2504.11375](http://arxiv.org/abs/2504.11375)|null|
+|**2025-04-15**|**Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics**|Silvio Meneguzzo et.al.|[2504.11341](http://arxiv.org/abs/2504.11341)|null|
+|**2025-04-15**|**Autoregressive Distillation of Diffusion Transformers**|Yeongmin Kim et.al.|[2504.11295](http://arxiv.org/abs/2504.11295)|null|
+|**2025-04-15**|**DeepSelective: Feature Gating and Representation Matching for Interpretable Clinical Prediction**|Ruochi Zhang et.al.|[2504.11264](http://arxiv.org/abs/2504.11264)|null|
+|**2025-04-15**|**VEXP: A Low-Cost RISC-V ISA Extension for Accelerated Softmax Computation in Transformers**|Run Wang et.al.|[2504.11227](http://arxiv.org/abs/2504.11227)|null|
+|**2025-04-15**|**Focal Split: Untethered Snapshot Depth from Differential Defocus**|Junjie Luo et.al.|[2504.11202](http://arxiv.org/abs/2504.11202)|null|
+|**2025-04-15**|**DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale Attention**|Haohan Chen et.al.|[2504.11160](http://arxiv.org/abs/2504.11160)|null|
+|**2025-04-15**|**SAR-to-RGB Translation with Latent Diffusion for Earth Observation**|Kaan Aydin et.al.|[2504.11154](http://arxiv.org/abs/2504.11154)|null|
+|**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143](http://arxiv.org/abs/2504.11143)|null|
 |**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483](http://arxiv.org/abs/2504.10483)|null|
 |**2025-04-14**|**Online Advanced Labs in Physics**|Peter A. Bennett et.al.|[2504.10470](http://arxiv.org/abs/2504.10470)|null|
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466](http://arxiv.org/abs/2504.10466)|null|
@@ -3139,6 +3155,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Leveraging multimodal explanatory annotations for video interpretation with Modality Specific Dataset**|Elisa Ancarani et.al.|[2504.11232](http://arxiv.org/abs/2504.11232)|null|
+|**2025-04-15**|**TerraMind: Large-Scale Generative Multimodality for Earth Observation**|Johannes Jakubik et.al.|[2504.11171](http://arxiv.org/abs/2504.11171)|null|
+|**2025-04-15**|**PuzzleBench: A Fully Dynamic Evaluation Framework for Large Multimodal Models on Puzzle Solving**|Zeyu Zhang et.al.|[2504.10885](http://arxiv.org/abs/2504.10885)|null|
 |**2025-04-15**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
 |**2025-04-14**|**Improving Multimodal Hateful Meme Detection Exploiting LMM-Generated Knowledge**|Maria Tzelepi et.al.|[2504.09914](http://arxiv.org/abs/2504.09914)|null|
@@ -4000,6 +4019,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning**|Saif Punjwani et.al.|[2504.10646](http://arxiv.org/abs/2504.10646)|null|
 |**2025-04-14**|**A Model Zoo of Vision Transformers**|Damian Falk et.al.|[2504.10231](http://arxiv.org/abs/2504.10231)|null|
 |**2025-04-14**|**The Impact of Model Zoo Size and Composition on Weight Space Learning**|Damian Falk et.al.|[2504.10141](http://arxiv.org/abs/2504.10141)|null|
 |**2025-04-10**|**Conformally weighted Einstein manifolds: the uniqueness problem**|Miguel Brozos-Vázquez et.al.|[2504.07860](http://arxiv.org/abs/2504.07860)|null|
@@ -4471,6 +4491,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception**|Ziqi Pang et.al.|[2504.11457](http://arxiv.org/abs/2504.11457)|null|
+|**2025-04-15**|**Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion**|An Zhaol et.al.|[2504.11447](http://arxiv.org/abs/2504.11447)|null|
+|**2025-04-15**|**NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors**|Yanrui Bin et.al.|[2504.11427](http://arxiv.org/abs/2504.11427)|null|
+|**2025-04-15**|**ADT: Tuning Diffusion Models with Adversarial Supervision**|Dazhong Shen et.al.|[2504.11423](http://arxiv.org/abs/2504.11423)|null|
+|**2025-04-15**|**VideoPanda: Video Panoramic Diffusion with Multi-view Attention**|Kevin Xie et.al.|[2504.11389](http://arxiv.org/abs/2504.11389)|null|
+|**2025-04-15**|**Autoregressive Distillation of Diffusion Transformers**|Yeongmin Kim et.al.|[2504.11295](http://arxiv.org/abs/2504.11295)|null|
+|**2025-04-15**|**Simulation-based inference for stochastic nonlinear mixed-effects models with applications in systems biology**|Henrik Häggström et.al.|[2504.11279](http://arxiv.org/abs/2504.11279)|null|
+|**2025-04-15**|**SAR-to-RGB Translation with Latent Diffusion for Earth Observation**|Kaan Aydin et.al.|[2504.11154](http://arxiv.org/abs/2504.11154)|null|
+|**2025-04-15**|**Taming Consistency Distillation for Accelerated Human Image Animation**|Xiang Wang et.al.|[2504.11143](http://arxiv.org/abs/2504.11143)|null|
+|**2025-04-15**|**A definition of the background state of the atmosphere using optimal transport**|Charlie Egan et.al.|[2504.11141](http://arxiv.org/abs/2504.11141)|null|
+|**2025-04-15**|**Hessian stability and convergence rates for entropic and Sinkhorn potentials via semiconcavity**|Giacomo Greco et.al.|[2504.11133](http://arxiv.org/abs/2504.11133)|null|
+|**2025-04-15**|**Defending Against Frequency-Based Attacks with Diffusion Models**|Fatemeh Amerehi et.al.|[2504.11034](http://arxiv.org/abs/2504.11034)|null|
+|**2025-04-15**|**AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era**|Chenyang Zhu et.al.|[2504.11015](http://arxiv.org/abs/2504.11015)|null|
+|**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
+|**2025-04-15**|**ProtFlow: Fast Protein Sequence Design via Flow Matching on Compressed Protein Language Model Embeddings**|Zitai Kong et.al.|[2504.10983](http://arxiv.org/abs/2504.10983)|null|
 |**2025-04-14**|**REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers**|Xingjian Leng et.al.|[2504.10483](http://arxiv.org/abs/2504.10483)|null|
 |**2025-04-15**|**Maximum entropy modeling of Optimal Transport: the sub-optimality regime and the transition from dense to sparse networks**|Lorenzo Buffa et.al.|[2504.10444](http://arxiv.org/abs/2504.10444)|null|
 |**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
@@ -6570,6 +6605,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**A Dual-Space Framework for General Knowledge Distillation of Large Language Models**|Xue Zhang et.al.|[2504.11426](http://arxiv.org/abs/2504.11426)|null|
+|**2025-04-15**|**Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning**|Ali Taghibakhshi et.al.|[2504.11409](http://arxiv.org/abs/2504.11409)|null|
+|**2025-04-15**|**Distillation-Supervised Convolutional Low-Rank Adaptation for Efficient Image Super-Resolution**|Xinning Chai et.al.|[2504.11271](http://arxiv.org/abs/2504.11271)|null|
+|**2025-04-15**|**Efficient Reasoning Models: A Survey**|Sicheng Feng et.al.|[2504.10903](http://arxiv.org/abs/2504.10903)|null|
+|**2025-04-14**|**Optimising Intrusion Detection Systems in Cloud-Edge Continuum with Knowledge Distillation for Privacy-Preserving and Efficient Communication**|Soad Almabdy et.al.|[2504.10698](http://arxiv.org/abs/2504.10698)|null|
+|**2025-04-14**|**Better Estimation of the KL Divergence Between Language Models**|Afra Amini et.al.|[2504.10637](http://arxiv.org/abs/2504.10637)|null|
 |**2025-04-14**|**Digital Staining with Knowledge Distillation: A Unified Framework for Unpaired and Paired-But-Misaligned Data**|Ziwang Xu et.al.|[2504.09899](http://arxiv.org/abs/2504.09899)|null|
 |**2025-04-14**|**DUDA: Distilled Unsupervised Domain Adaptation for Lightweight Semantic Segmentation**|Beomseok Kang et.al.|[2504.09814](http://arxiv.org/abs/2504.09814)|null|
 |**2025-04-13**|**Can LLMs Revolutionize the Design of Explainable and Efficient TinyML Models?**|Christophe El Zeinaty et.al.|[2504.09685](http://arxiv.org/abs/2504.09685)|null|
@@ -7092,6 +7133,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Posterior Consistency in Parametric Models via a Tighter Notion of Identifiability**|Nicola Bariletto et.al.|[2504.11360](http://arxiv.org/abs/2504.11360)|null|
+|**2025-04-15**|**Looking beyond the next token**|Abitha Thankaraj et.al.|[2504.11336](http://arxiv.org/abs/2504.11336)|null|
+|**2025-04-15**|**UI-E2I-Synth: Advancing GUI Grounding with Large-Scale Instruction Synthesis**|Xinyi Liu et.al.|[2504.11257](http://arxiv.org/abs/2504.11257)|null|
+|**2025-04-15**|**Divergence of Empirical Neural Tangent Kernel in Classification Problems**|Zixiong Yu et.al.|[2504.11130](http://arxiv.org/abs/2504.11130)|null|
+|**2025-04-15**|**$R$ -matrix type parametrization of the Jost function for extracting the resonance parameters from scattering data**|P. Vaandrager et.al.|[2504.11129](http://arxiv.org/abs/2504.11129)|null|
+|**2025-04-15**|**Leveraging Vertical Public-Private Split for Improved Synthetic Data Generation**|Samuel Maddock et.al.|[2504.10987](http://arxiv.org/abs/2504.10987)|null|
+|**2025-04-15**|**Safe-Construct: Redefining Construction Safety Violation Recognition as 3D Multi-View Engagement Task**|Aviral Chharia et.al.|[2504.10880](http://arxiv.org/abs/2504.10880)|null|
+|**2025-04-15**|**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**|Shun Iwase et.al.|[2504.10857](http://arxiv.org/abs/2504.10857)|null|
+|**2025-04-15**|**E2E Parking Dataset: An Open Benchmark for End-to-End Autonomous Parking**|Kejia Gao et.al.|[2504.10812](http://arxiv.org/abs/2504.10812)|null|
+|**2025-04-14**|**PlantD: Performance, Latency ANalysis, and Testing for Data Pipelines -- An Open Source Measurement, Testing, and Simulation Framework**|Christopher Bogart et.al.|[2504.10692](http://arxiv.org/abs/2504.10692)|null|
+|**2025-04-14**|**H-MoRe: Learning Human-centric Motion Representation for Action Analysis**|Zhanbo Huang et.al.|[2504.10676](http://arxiv.org/abs/2504.10676)|null|
+|**2025-04-14**|**Cross terms and monochromatic gravitational wave sources in our Galactic Centre**|Pau Amaro Seoane et.al.|[2504.10594](http://arxiv.org/abs/2504.10594)|null|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
 |**2025-04-14**|**Quantum Liouvillian Tomography**|Diogo Aguiar et.al.|[2504.10393](http://arxiv.org/abs/2504.10393)|null|
 |**2025-04-14**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337](http://arxiv.org/abs/2504.10337)|null|
