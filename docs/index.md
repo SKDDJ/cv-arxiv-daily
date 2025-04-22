@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -422,7 +422,7 @@ layout: default
 |**2025-04-18**|**Entropic Time Schedulers for Generative Diffusion Models**|Dejan Stancevic et.al.|[2504.13612](http://arxiv.org/abs/2504.13612)|null|
 |**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561](http://arxiv.org/abs/2504.13561)|null|
 |**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554](http://arxiv.org/abs/2504.13554)|null|
-|**2025-04-18**|**Beyond One-Hot Labels: Semantic Mixing for Model Calibration**|Haoyang Luo et.al.|[2504.13548](http://arxiv.org/abs/2504.13548)|null|
+|**2025-04-18**|**Beyond One-Hot Labels: Semantic Mixing for Model Calibration**|Haoyang Luo et.al.|[2504.13548](http://arxiv.org/abs/2504.13548)|**[link](https://github.com/e-galois/csm)**|
 |**2025-04-18**|**Enhancing Multilingual Sentiment Analysis with Explainability for Sinhala, English, and Code-Mixed Content**|Azmarah Rizvi et.al.|[2504.13545](http://arxiv.org/abs/2504.13545)|null|
 |**2025-04-18**|**MusFlow: Multimodal Music Generation via Conditional Flow Matching**|Jiahao Song et.al.|[2504.13535](http://arxiv.org/abs/2504.13535)|null|
 |**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
@@ -3211,8 +3211,8 @@ layout: default
 |**2025-04-15**|**Leveraging multimodal explanatory annotations for video interpretation with Modality Specific Dataset**|Elisa Ancarani et.al.|[2504.11232](http://arxiv.org/abs/2504.11232)|null|
 |**2025-04-15**|**TerraMind: Large-Scale Generative Multimodality for Earth Observation**|Johannes Jakubik et.al.|[2504.11171](http://arxiv.org/abs/2504.11171)|null|
 |**2025-04-15**|**PuzzleBench: A Fully Dynamic Evaluation Framework for Large Multimodal Models on Puzzle Solving**|Zeyu Zhang et.al.|[2504.10885](http://arxiv.org/abs/2504.10885)|null|
-|**2025-04-15**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|**[link](https://github.com/opengvlab/internvl)**|
-|**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
+|**2025-04-19**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|**[link](https://github.com/opengvlab/internvl)**|
+|**2025-04-21**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
 |**2025-04-14**|**Improving Multimodal Hateful Meme Detection Exploiting LMM-Generated Knowledge**|Maria Tzelepi et.al.|[2504.09914](http://arxiv.org/abs/2504.09914)|null|
 |**2025-04-13**|**Automatic Detection of Intro and Credits in Video using CLIP and Multihead Attention**|Vasilii Korolkov et.al.|[2504.09738](http://arxiv.org/abs/2504.09738)|null|
 |**2025-04-13**|**InfoMAE: Pair-Efficient Cross-Modal Alignment for Multimodal Time-Series Sensing Signals**|Tomoyoshi Kimura et.al.|[2504.09707](http://arxiv.org/abs/2504.09707)|null|
@@ -4553,7 +4553,7 @@ layout: default
 |**2025-04-18**|**Entropic Time Schedulers for Generative Diffusion Models**|Dejan Stancevic et.al.|[2504.13612](http://arxiv.org/abs/2504.13612)|null|
 |**2025-04-18**|**WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion**|Yang Wu et.al.|[2504.13561](http://arxiv.org/abs/2504.13561)|null|
 |**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554](http://arxiv.org/abs/2504.13554)|null|
-|**2025-04-18**|**Beyond One-Hot Labels: Semantic Mixing for Model Calibration**|Haoyang Luo et.al.|[2504.13548](http://arxiv.org/abs/2504.13548)|null|
+|**2025-04-18**|**Beyond One-Hot Labels: Semantic Mixing for Model Calibration**|Haoyang Luo et.al.|[2504.13548](http://arxiv.org/abs/2504.13548)|**[link](https://github.com/e-galois/csm)**|
 |**2025-04-18**|**Continuous-time filtering in Lie groups: estimation via the Fr{é}chet mean of solutions to stochastic differential equations**|Magalie Bénéfice et.al.|[2504.13502](http://arxiv.org/abs/2504.13502)|null|
 |**2025-04-18**|**U-Shape Mamba: State Space Model for faster diffusion**|Alex Ergasti et.al.|[2504.13499](http://arxiv.org/abs/2504.13499)|null|
 |**2025-04-18**|**Open-Loop and Closed-Loop Strategies for Linear Quadratic Mean Field Games: The Direct Approach**|Yong Liang et.al.|[2504.13496](http://arxiv.org/abs/2504.13496)|null|
@@ -7237,7 +7237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|null|
+|**2025-04-18**|**Leveraging Automatic CAD Annotations for Supervised Learning in 3D Scene Understanding**|Yuchen Rao et.al.|[2504.13580](http://arxiv.org/abs/2504.13580)|**[link](https://github.com/stefan-ainetter/SCANnotatepp)**|
 |**2025-04-18**|**Using Machine Learning and Neural Networks to Analyze and Predict Chaos in Multi-Pendulum and Chaotic Systems**|Vasista Ramachandruni et.al.|[2504.13453](http://arxiv.org/abs/2504.13453)|null|
 |**2025-04-17**|**PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding**|Jang Hyun Cho et.al.|[2504.13180](http://arxiv.org/abs/2504.13180)|null|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157](http://arxiv.org/abs/2504.13157)|null|
