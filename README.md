@@ -1,4 +1,4 @@
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -408,7 +408,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -424,7 +424,7 @@
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models**|Yuhang Zhong et.al.|[2504.15138](http://arxiv.org/abs/2504.15138)|null|
 |**2025-04-21**|**Robust and Real-time Surface Normal Estimation from Stereo Disparities using Affine Transformations**|Csongor Csanad Kariko et.al.|[2504.15121](http://arxiv.org/abs/2504.15121)|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-21**|**Generative Artificial Intelligence for Beamforming in Low-Altitude Economy**|Geng Sun et.al.|[2504.15079](http://arxiv.org/abs/2504.15079)|null|
 |**2025-04-21**|**SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation**|Yue Li et.al.|[2504.15035](http://arxiv.org/abs/2504.15035)|null|
 |**2025-04-21**|**Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models**|Zijin Yang et.al.|[2504.15026](http://arxiv.org/abs/2504.15026)|null|
@@ -3215,7 +3215,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -4098,7 +4098,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -4377,7 +4377,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -4576,7 +4576,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -4589,7 +4589,7 @@
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models**|Yuhang Zhong et.al.|[2504.15138](http://arxiv.org/abs/2504.15138)|null|
 |**2025-04-21**|**$\mathbb{L}^p$-solutions $(1 <p< 2)$ for reflected BSDEs with general jumps and stochastic monotone generators**|Badr Elmansouri et.al.|[2504.15136](http://arxiv.org/abs/2504.15136)|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-21**|**Generative Artificial Intelligence for Beamforming in Low-Altitude Economy**|Geng Sun et.al.|[2504.15079](http://arxiv.org/abs/2504.15079)|null|
 |**2025-04-21**|**SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation**|Yue Li et.al.|[2504.15035](http://arxiv.org/abs/2504.15035)|null|
 |**2025-04-21**|**Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models**|Zijin Yang et.al.|[2504.15026](http://arxiv.org/abs/2504.15026)|null|
@@ -6752,14 +6752,14 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Dataset Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-21**|**Linear Item-Item Model with Neural Knowledge for Session-based Recommendation**|Minjin Choi et.al.|[2504.15057](http://arxiv.org/abs/2504.15057)|null|
-|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|
+|**2025-04-22**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|
 |**2025-04-21**|**Distribution-aware Dataset Distillation for Efficient Image Restoration**|Zhuoran Zheng et.al.|[2504.14826](http://arxiv.org/abs/2504.14826)|null|
 |**2025-04-21**|**DONOD: Robust and Generalizable Instruction Fine-Tuning for LLMs via Model-Intrinsic Dataset Pruning**|Jucheng Hu et.al.|[2504.14810](http://arxiv.org/abs/2504.14810)|null|
 |**2025-04-20**|**Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions**|Luyang Fang et.al.|[2504.14772](http://arxiv.org/abs/2504.14772)|null|
@@ -7297,7 +7297,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -7307,7 +7307,7 @@
 |**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259](http://arxiv.org/abs/2504.15259)|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
 |**2025-04-21**|**Predicting Methane Adsorption in Metal-Substituted MOFs: A Comparative Study between Density Functional Theory and Machine Learning**|Karim Aljamal et.al.|[2504.15034](http://arxiv.org/abs/2504.15034)|null|
-|**2025-04-21**|**clusttraj: a solvent-informed clustering tool for molecular modeling**|Rafael Bicudo Ribeiro et.al.|[2504.14978](http://arxiv.org/abs/2504.14978)|null|
+|**2025-04-22**|**clusttraj: A Solvent-Informed Clustering Tool for Molecular Modeling**|Rafael Bicudo Ribeiro et.al.|[2504.14978](http://arxiv.org/abs/2504.14978)|null|
 |**2025-04-21**|**SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks**|Masoud Moghani et.al.|[2504.14857](http://arxiv.org/abs/2504.14857)|null|
 |**2025-04-21**|**Transparentize the Internal and External Knowledge Utilization in LLMs with Trustworthy Citation**|Jiajun Shen et.al.|[2504.14856](http://arxiv.org/abs/2504.14856)|null|
 |**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835](http://arxiv.org/abs/2504.14835)|null|
@@ -8612,5 +8612,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 

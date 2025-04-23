@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -426,7 +426,7 @@ layout: default
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models**|Yuhang Zhong et.al.|[2504.15138](http://arxiv.org/abs/2504.15138)|null|
 |**2025-04-21**|**Robust and Real-time Surface Normal Estimation from Stereo Disparities using Affine Transformations**|Csongor Csanad Kariko et.al.|[2504.15121](http://arxiv.org/abs/2504.15121)|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-21**|**Generative Artificial Intelligence for Beamforming in Low-Altitude Economy**|Geng Sun et.al.|[2504.15079](http://arxiv.org/abs/2504.15079)|null|
 |**2025-04-21**|**SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation**|Yue Li et.al.|[2504.15035](http://arxiv.org/abs/2504.15035)|null|
 |**2025-04-21**|**Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models**|Zijin Yang et.al.|[2504.15026](http://arxiv.org/abs/2504.15026)|null|
@@ -4583,7 +4583,7 @@ layout: default
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models**|Yuhang Zhong et.al.|[2504.15138](http://arxiv.org/abs/2504.15138)|null|
 |**2025-04-21**|**$\mathbb{L}^p$-solutions $(1 <p< 2)$ for reflected BSDEs with general jumps and stochastic monotone generators**|Badr Elmansouri et.al.|[2504.15136](http://arxiv.org/abs/2504.15136)|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-21**|**Generative Artificial Intelligence for Beamforming in Low-Altitude Economy**|Geng Sun et.al.|[2504.15079](http://arxiv.org/abs/2504.15079)|null|
 |**2025-04-21**|**SOLIDO: A Robust Watermarking Method for Speech Synthesis via Low-Rank Adaptation**|Yue Li et.al.|[2504.15035](http://arxiv.org/abs/2504.15035)|null|
 |**2025-04-21**|**Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models**|Zijin Yang et.al.|[2504.15026](http://arxiv.org/abs/2504.15026)|null|
@@ -6751,7 +6751,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-21**|**Linear Item-Item Model with Neural Knowledge for Session-based Recommendation**|Minjin Choi et.al.|[2504.15057](http://arxiv.org/abs/2504.15057)|null|
-|**2025-04-21**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|
+|**2025-04-22**|**Distribution-aware Forgetting Compensation for Exemplar-Free Lifelong Person Re-identification**|Shiben Liu et.al.|[2504.15041](http://arxiv.org/abs/2504.15041)|**[link](https://github.com/LiuShiBen/DAFC)**|
 |**2025-04-21**|**Distribution-aware Dataset Distillation for Efficient Image Restoration**|Zhuoran Zheng et.al.|[2504.14826](http://arxiv.org/abs/2504.14826)|null|
 |**2025-04-21**|**DONOD: Robust and Generalizable Instruction Fine-Tuning for LLMs via Model-Intrinsic Dataset Pruning**|Jucheng Hu et.al.|[2504.14810](http://arxiv.org/abs/2504.14810)|null|
 |**2025-04-20**|**Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions**|Luyang Fang et.al.|[2504.14772](http://arxiv.org/abs/2504.14772)|null|
@@ -7297,7 +7297,7 @@ layout: default
 |**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259](http://arxiv.org/abs/2504.15259)|null|
 |**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
 |**2025-04-21**|**Predicting Methane Adsorption in Metal-Substituted MOFs: A Comparative Study between Density Functional Theory and Machine Learning**|Karim Aljamal et.al.|[2504.15034](http://arxiv.org/abs/2504.15034)|null|
-|**2025-04-21**|**clusttraj: a solvent-informed clustering tool for molecular modeling**|Rafael Bicudo Ribeiro et.al.|[2504.14978](http://arxiv.org/abs/2504.14978)|null|
+|**2025-04-22**|**clusttraj: A Solvent-Informed Clustering Tool for Molecular Modeling**|Rafael Bicudo Ribeiro et.al.|[2504.14978](http://arxiv.org/abs/2504.14978)|null|
 |**2025-04-21**|**SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks**|Masoud Moghani et.al.|[2504.14857](http://arxiv.org/abs/2504.14857)|null|
 |**2025-04-21**|**Transparentize the Internal and External Knowledge Utilization in LLMs with Trustworthy Citation**|Jiajun Shen et.al.|[2504.14856](http://arxiv.org/abs/2504.14856)|null|
 |**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835](http://arxiv.org/abs/2504.14835)|null|
