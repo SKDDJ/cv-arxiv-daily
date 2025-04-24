@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4135,7 +4135,7 @@ layout: default
 |**2025-04-01**|**MetaLoRA: Tensor-Enhanced Adaptive Low-Rank Fine-tuning**|Maolin Wang et.al.|[2504.00460](http://arxiv.org/abs/2504.00460)|null|
 |**2025-04-08**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
 |**2025-03-26**|**Shape Generation via Weight Space Learning**|Maximilian Plattner et.al.|[2503.21830](http://arxiv.org/abs/2503.21830)|null|
-|**2025-03-24**|**On Symmetries in Convolutional Weights**|Bilal Alsallakh et.al.|[2503.19215](http://arxiv.org/abs/2503.19215)|null|
+|**2025-04-22**|**On Symmetries in Convolutional Weights**|Bilal Alsallakh et.al.|[2503.19215](http://arxiv.org/abs/2503.19215)|null|
 |**2025-03-23**|**Spectral synthesis for exponentials in weighted $L^2$ -spaces**|Andrei V. Semenov et.al.|[2503.18131](http://arxiv.org/abs/2503.18131)|null|
 |**2025-03-21**|**Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space**|Vinicius Hernandes et.al.|[2503.17140](http://arxiv.org/abs/2503.17140)|null|
 |**2025-03-21**|**Structure Is Not Enough: Leveraging Behavior for Neural Network Weight Reconstruction**|Léo Meynent et.al.|[2503.17138](http://arxiv.org/abs/2503.17138)|**[link](https://github.com/HSG-AIML/ICLR_WSL_2025-Structure_is_not_enough)**|
