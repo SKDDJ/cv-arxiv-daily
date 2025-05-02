@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -7567,7 +7567,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-30**|**Polka-dotted Stars: a Hierarchical Model for Mapping Stellar Surfaces Using Occultation Light Curves and the Case of TOI-3884**|Sabina Sagynbayeva et.al.|[2504.21852](http://arxiv.org/abs/2504.21852)|null|
 |**2025-04-30**|**Parameter Inference of Black Hole Images using Deep Learning in Visibility Space**|Franc O et.al.|[2504.21840](http://arxiv.org/abs/2504.21840)|null|
-|**2025-04-30**|**How Real Are Synthetic Therapy Conversations? Evaluating Fidelity in Prolonged Exposure Dialogues**|Suhas BN et.al.|[2504.21800](http://arxiv.org/abs/2504.21800)|null|
+|**2025-05-01**|**How Real Are Synthetic Therapy Conversations? Evaluating Fidelity in Prolonged Exposure Dialogues**|Suhas BN et.al.|[2504.21800](http://arxiv.org/abs/2504.21800)|null|
 |**2025-04-30**|**On the Robustness of Mixture Models in the Presence of Hidden Markov Regimes with Covariate-Dependent Transition Probabilities**|Demian Pouzo et.al.|[2504.21669](http://arxiv.org/abs/2504.21669)|null|
 |**2025-04-30**|**Quantitative Auditing of AI Fairness with Differentially Private Synthetic Data**|Chih-Cheng Rex Yuan et.al.|[2504.21634](http://arxiv.org/abs/2504.21634)|null|
 |**2025-04-30**|**Improving Informally Romanized Language Identification**|Adrian Benton et.al.|[2504.21540](http://arxiv.org/abs/2504.21540)|null|
