@@ -649,7 +649,7 @@
 |**2025-04-11**|**On the Design of Diffusion-based Neural Speech Codecs**|Pietro Foti et.al.|[2504.08470](http://arxiv.org/abs/2504.08470)|null|
 |**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|**[link](https://github.com/chenweiye9/moun-ad)**|
 |**2025-04-10**|**PixelFlow: Pixel-Space Generative Models with Flow**|Shoufa Chen et.al.|[2504.07963](http://arxiv.org/abs/2504.07963)|**[link](https://github.com/shoufachen/pixelflow)**|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
 |**2025-04-10**|**Activating high-power parametric oscillation in photonic-crystal resonators**|Grant M. Brodnik et.al.|[2504.07947](http://arxiv.org/abs/2504.07947)|null|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
@@ -1496,7 +1496,7 @@
 |**2025-01-16**|**Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review**|Masatoshi Uehara et.al.|[2501.09685](http://arxiv.org/abs/2501.09685)|null|
 |**2025-01-16**|**A Survey of Research in Large Language Models for Electronic Design Automation**|Jingyu Pan et.al.|[2501.09655](http://arxiv.org/abs/2501.09655)|null|
 |**2025-01-16**|**Fabrication of Mode-Matched, Low-Loss Optical Resonators by Combination of FIB-Milling and CO $_2$ Laser Ablation**|Patrick Maier et.al.|[2501.09577](http://arxiv.org/abs/2501.09577)|null|
-|**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/abs/2501.09503)|null|
+|**2025-01-16**|**AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**|Junjie He et.al.|[2501.09503](http://arxiv.org/abs/2501.09503)|**[link](https://github.com/junjiehe96/AnyStory)**|
 |**2025-01-16**|**Pruning for Sparse Diffusion Models based on Gradient Flow**|Ben Wan et.al.|[2501.09464](http://arxiv.org/abs/2501.09464)|null|
 |**2025-01-16**|**"A Great Start, But...": Evaluating LLM-Generated Mind Maps for Information Mapping in Video-Based Design**|Tianhao He et.al.|[2501.09457](http://arxiv.org/abs/2501.09457)|null|
 |**2025-01-16**|**CaPa: Carve-n-Paint Synthesis for Efficient 4K Textured Mesh Generation**|Hwan Heo et.al.|[2501.09433](http://arxiv.org/abs/2501.09433)|**[link](https://github.com/ncsoft/CaPa)**|
@@ -4964,7 +4964,7 @@
 |**2025-04-11**|**Muon-Accelerated Attention Distillation for Real-Time Edge Synthesis via Optimized Latent Diffusion**|Weiye Chen et.al.|[2504.08451](http://arxiv.org/abs/2504.08451)|**[link](https://github.com/chenweiye9/moun-ad)**|
 |**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-11**|**Single View Garment Reconstruction Using Diffusion Mapping Via Pattern Coordinates**|Ren Li et.al.|[2504.08353](http://arxiv.org/abs/2504.08353)|null|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
 |**2025-04-10**|**Optimal Control For Anti-Abeta Treatment in Alzheimer's Disease using a Reaction-Diffusion Model**|Wenrui Hao et.al.|[2504.07913](http://arxiv.org/abs/2504.07913)|null|
@@ -7410,7 +7410,7 @@
 |**2024-12-30**|**Improving Acoustic Scene Classification in Low-Resource Conditions**|Zhi Chen et.al.|[2412.20722](http://arxiv.org/abs/2412.20722)|null|
 |**2025-01-05**|**Distilling Desired Comments for Enhanced Code Review with Large Language Models**|Yongda Yu et.al.|[2412.20340](http://arxiv.org/abs/2412.20340)|null|
 |**2024-12-28**|**Injecting Explainability and Lightweight Design into Weakly Supervised Video Anomaly Detection Systems**|Wen-Dong Jiang et.al.|[2412.20201](http://arxiv.org/abs/2412.20201)|null|
-|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|null|
+|**2024-12-28**|**SimLTD: Simple Supervised and Semi-Supervised Long-Tailed Object Detection**|Phi Vu Tran et.al.|[2412.20047](http://arxiv.org/abs/2412.20047)|**[link](https://github.com/lexisnexis-risk-open-source/simltd)**|
 |**2024-12-28**|**Invariant debiasing learning for recommendation via biased imputation**|Ting Bai et.al.|[2412.20036](http://arxiv.org/abs/2412.20036)|**[link](https://github.com/bai-lab/kd-debias)**|
 |**2024-12-28**|**Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking**|You Wu et.al.|[2412.20002](http://arxiv.org/abs/2412.20002)|**[link](https://github.com/wuyou3474/AVTrack)**|
 |**2024-12-27**|**Asymmetrical Reciprocity-based Federated Learning for Resolving Disparities in Medical Diagnosis**|Jiaqi Wang et.al.|[2412.19654](http://arxiv.org/abs/2412.19654)|**[link](https://github.com/JackqqWang/fedhelp)**|
@@ -7640,7 +7640,7 @@
 |**2025-04-29**|**What's Wrong with Your Synthetic Tabular Data? Using Explainable AI to Evaluate Generative Models**|Jan Kapar et.al.|[2504.20687](http://arxiv.org/abs/2504.20687)|null|
 |**2025-04-29**|**OG-HFYOLO :Orientation gradient guidance and heterogeneous feature fusion for deformation table cell instance segmentation**|Long Liu et.al.|[2504.20682](http://arxiv.org/abs/2504.20682)|null|
 |**2025-04-29**|**SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data**|Michael Ogezi et.al.|[2504.20648](http://arxiv.org/abs/2504.20648)|null|
-|**2025-04-29**|**Bridging the Generalisation Gap: Synthetic Data Generation for Multi-Site Clinical Model Validation**|Bradley Segal et.al.|[2504.20635](http://arxiv.org/abs/2504.20635)|null|
+|**2025-04-29**|**Bridging the Generalisation Gap: Synthetic Data Generation for Multi-Site Clinical Model Validation**|Bradley Segal et.al.|[2504.20635](http://arxiv.org/abs/2504.20635)|**[link](https://github.com/BradSegal/ClinicalDataSimulator)**|
 |**2025-04-29**|**ReasonIR: Training Retrievers for Reasoning Tasks**|Rulin Shao et.al.|[2504.20595](http://arxiv.org/abs/2504.20595)|null|
 |**2025-04-29**|**Antidote: A Unified Framework for Mitigating LVLM Hallucinations in Counterfactual Presupposition and Object Perception**|Yuanchen Wu et.al.|[2504.20468](http://arxiv.org/abs/2504.20468)|null|
 |**2025-04-29**|**RV-Syn: Rational and Verifiable Mathematical Reasoning Data Synthesis based on Structured Function Library**|Jiapeng Wang et.al.|[2504.20426](http://arxiv.org/abs/2504.20426)|null|
@@ -7792,7 +7792,7 @@
 |**2025-04-14**|**Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy**|Georgi Ganev et.al.|[2504.08254](http://arxiv.org/abs/2504.08254)|null|
 |**2025-04-11**|**InSPE: Rapid Evaluation of Heterogeneous Multi-Modal Infrastructure Sensor Placement**|Zhaoliang Zheng et.al.|[2504.08240](http://arxiv.org/abs/2504.08240)|null|
 |**2025-04-11**|**SynthFM: Training Modality-agnostic Foundation Models for Medical Image Segmentation without Real Medical Data**|Sourya Sengupta et.al.|[2504.08177](http://arxiv.org/abs/2504.08177)|null|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
 |**2025-04-10**|**Zero-Shot Cross-Domain Code Search without Fine-Tuning**|Keyu Liang et.al.|[2504.07740](http://arxiv.org/abs/2504.07740)|**[link](https://github.com/zju-ctag/codebridge)**|
 |**2025-04-10**|**Diffusion Transformers for Tabular Data Time Series Generation**|Fabrizio Garuti et.al.|[2504.07566](http://arxiv.org/abs/2504.07566)|**[link](https://github.com/fabriziogaruti/TabDiT)**|
 |**2025-04-10**|**PhaseGen: A Diffusion-Based Approach for Complex-Valued MRI Data Generation**|Moritz Rempe et.al.|[2504.07560](http://arxiv.org/abs/2504.07560)|**[link](https://github.com/TIO-IKIM/PhaseGen)**|
