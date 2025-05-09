@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -429,15 +429,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
-|**2025-05-07**|**Flexing RISC-V Instruction Subset Processors (RISPs) to Extreme Edge**|Alireza Raisiardali et.al.|[2505.04567](http://arxiv.org/abs/2505.04567)|null|
+|**2025-05-08**|**Flexing RISC-V Instruction Subset Processors (RISPs) to Extreme Edge**|Alireza Raisiardali et.al.|[2505.04567](http://arxiv.org/abs/2505.04567)|null|
 |**2025-05-07**|**Risk-sensitive Reinforcement Learning Based on Convex Scoring Functions**|Shanyu Han et.al.|[2505.04553](http://arxiv.org/abs/2505.04553)|null|
 |**2025-05-07**|**Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**|Pengfei Guo et.al.|[2505.04522](http://arxiv.org/abs/2505.04522)|null|
-|**2025-05-07**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
+|**2025-05-08**|**HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation**|Teng Hu et.al.|[2505.04512](http://arxiv.org/abs/2505.04512)|null|
 |**2025-05-07**|**Detecting Spelling and Grammatical Anomalies in Russian Poetry Texts**|Ilya Koziev et.al.|[2505.04507](http://arxiv.org/abs/2505.04507)|null|
 |**2025-05-07**|**Uncovering Key Features for Model-Driven Engineering of Complex Performance Indicators: A Scoping Review**|Benito Giunta et.al.|[2505.04498](http://arxiv.org/abs/2505.04498)|null|
-|**2025-05-07**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
+|**2025-05-08**|**Defining and Quantifying Creative Behavior in Popular Image Generators**|Aditi Ramaswamy et.al.|[2505.04497](http://arxiv.org/abs/2505.04497)|null|
 |**2025-05-07**|**Efficient Flow Matching using Latent Variables**|Anirban Samaddar et.al.|[2505.04486](http://arxiv.org/abs/2505.04486)|null|
-|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485](http://arxiv.org/abs/2505.04485)|null|
+|**2025-05-08**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485](http://arxiv.org/abs/2505.04485)|null|
 |**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
 |**2025-05-07**|**An Asynchronous Distributed-Memory Parallel Algorithm for k-mer Counting**|Souvadra Hati et.al.|[2505.04431](http://arxiv.org/abs/2505.04431)|null|
 |**2025-05-07**|**Recognizing Ornaments in Vocal Indian Art Music with Active Annotation**|Sumit Kumar et.al.|[2505.04419](http://arxiv.org/abs/2505.04419)|null|
@@ -4352,7 +4352,7 @@ layout: default
 |**2025-04-23**|**Probing Bulk Band Topology from Time Boundary Effect in Synthetic Dimension**|Huisheng Xu et.al.|[2504.16390](http://arxiv.org/abs/2504.16390)|null|
 |**2025-04-20**|**Analysis of stochastic fluid-rigid body dynamics: an approach by stochastic maximal regularity**|Felix Brandt et.al.|[2504.14676](http://arxiv.org/abs/2504.14676)|null|
 |**2025-04-16**|**Advanced MST3 Encryption scheme based on generalized Suzuki 2-groups**|Gennady Khalimov et.al.|[2504.11804](http://arxiv.org/abs/2504.11804)|null|
-|**2025-04-14**|**Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning**|Saif Punjwani et.al.|[2504.10646](http://arxiv.org/abs/2504.10646)|null|
+|**2025-04-14**|**Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning**|Saif Punjwani et.al.|[2504.10646](http://arxiv.org/abs/2504.10646)|**[link](https://github.com/SaifPunjwani/weight-of-thought)**|
 |**2025-04-14**|**A Model Zoo of Vision Transformers**|Damian Falk et.al.|[2504.10231](http://arxiv.org/abs/2504.10231)|null|
 |**2025-04-14**|**The Impact of Model Zoo Size and Composition on Weight Space Learning**|Damian Falk et.al.|[2504.10141](http://arxiv.org/abs/2504.10141)|null|
 |**2025-04-10**|**Conformally weighted Einstein manifolds: the uniqueness problem**|Miguel Brozos-Vázquez et.al.|[2504.07860](http://arxiv.org/abs/2504.07860)|null|
@@ -7178,7 +7178,7 @@ layout: default
 |**2025-05-06**|**SepALM: Audio Language Models Are Error Correctors for Robust Speech Separation**|Zhaoxi Mu et.al.|[2505.03273](http://arxiv.org/abs/2505.03273)|null|
 |**2025-05-06**|**Image Recognition with Online Lightweight Vision Transformer: A Survey**|Zherui Zhang et.al.|[2505.03113](http://arxiv.org/abs/2505.03113)|null|
 |**2025-05-05**|**FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization**|Hongze Li et.al.|[2505.02515](http://arxiv.org/abs/2505.02515)|null|
-|**2025-05-05**|**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**|Sanjay Surendranath Girija et.al.|[2505.02309](http://arxiv.org/abs/2505.02309)|null|
+|**2025-05-08**|**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**|Sanjay Surendranath Girija et.al.|[2505.02309](http://arxiv.org/abs/2505.02309)|null|
 |**2025-05-06**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138](http://arxiv.org/abs/2505.02138)|null|
 |**2025-05-04**|**Segment Any RGB-Thermal Model with Language-aided Distillation**|Dong Xing et.al.|[2505.01950](http://arxiv.org/abs/2505.01950)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
