@@ -426,6 +426,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
+|**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
+|**2025-05-09**|**Constraints to Lorentz violation and ultrahigh-energy electrons in D-foamy space-times**|Chengyi Li et.al.|[2505.06121](http://arxiv.org/abs/2505.06121)|null|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117](http://arxiv.org/abs/2505.06117)|null|
+|**2025-05-09**|**FIC-TSC: Learning Time Series Classification with Fisher Information Constraint**|Xiwen Chen et.al.|[2505.06114](http://arxiv.org/abs/2505.06114)|null|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
+|**2025-05-09**|**Droplet Outbursts from Onion Cutting**|Zixuan Wu et.al.|[2505.06016](http://arxiv.org/abs/2505.06016)|null|
+|**2025-05-09**|**Offline Multi-agent Reinforcement Learning via Score Decomposition**|Dan Qiao et.al.|[2505.05968](http://arxiv.org/abs/2505.05968)|null|
+|**2025-05-09**|**GEORCE: A Fast New Control Algorithm for Computing Geodesics**|Frederik Möbius Rygaard et.al.|[2505.05961](http://arxiv.org/abs/2505.05961)|null|
+|**2025-05-09**|**Summarisation of German Judgments in conjunction with a Class-based Evaluation**|Bianca Steffes et.al.|[2505.05947](http://arxiv.org/abs/2505.05947)|**[link](https://github.com/bs-000/bgh-ls-llms-ler)**|
+|**2025-05-09**|**Autoencoder-Based Hybrid Replay for Class-Incremental Learning**|Milad Khademi Nori et.al.|[2505.05926](http://arxiv.org/abs/2505.05926)|null|
+|**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
+|**2025-05-09**|**Screening Mechanisms on White Dwarfs: Symmetron & Dilaton**|J. Bachs-Esteban et.al.|[2505.05871](http://arxiv.org/abs/2505.05871)|null|
+|**2025-05-09**|**Generative Discovery of Partial Differential Equations by Learning from Math Handbooks**|Hao Xu et.al.|[2505.05869](http://arxiv.org/abs/2505.05869)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -3428,6 +3443,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110](http://arxiv.org/abs/2505.06110)|null|
+|**2025-05-08**|**The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction**|Tom Sander et.al.|[2505.05644](http://arxiv.org/abs/2505.05644)|null|
+|**2025-05-08**|**Looking Beyond Language Priors: Enhancing Visual Comprehension and Attention in Multimodal Models**|Aarti Ghatkesar et.al.|[2505.05626](http://arxiv.org/abs/2505.05626)|null|
 |**2025-05-08**|**Does CLIP perceive art the same way we do?**|Andrea Asperti et.al.|[2505.05229](http://arxiv.org/abs/2505.05229)|null|
 |**2025-05-08**|**A Benchmark Dataset and a Framework for Urdu Multimodal Named Entity Recognition**|Hussain Ahmad et.al.|[2505.05148](http://arxiv.org/abs/2505.05148)|null|
 |**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
@@ -4360,6 +4378,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**FedAvgen: Metadata for Model Aggregation In Communication Systems**|Anthony Kiggundu et.al.|[2505.05486](http://arxiv.org/abs/2505.05486)|null|
 |**2025-05-04**|**Information geometry and entanglement under phase-space deformation through nonsymplectic congruence transformation**|Shilpa Nandi et.al.|[2505.02269](http://arxiv.org/abs/2505.02269)|null|
 |**2025-05-02**|**Fredholm properties of singular elliptic operators arising in the study of point defects**|Gabriela Jaramillo et.al.|[2505.01534](http://arxiv.org/abs/2505.01534)|null|
 |**2025-04-30**|**Scrambling Dynamics with Imperfections in a Solvable Model**|Nadie Yiluo LiTenn et.al.|[2505.00070](http://arxiv.org/abs/2505.00070)|null|
@@ -4848,6 +4867,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
+|**2025-05-09**|**Universal Approximation Theorem for Deep Q-Learning via FBSDE System**|Qian Qi et.al.|[2505.06023](http://arxiv.org/abs/2505.06023)|null|
+|**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
+|**2025-05-09**|**PICD: Versatile Perceptual Image Compression with Diffusion Rendering**|Tongda Xu et.al.|[2505.05853](http://arxiv.org/abs/2505.05853)|null|
+|**2025-05-09**|**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition**|Zhiyuan Chen et.al.|[2505.05829](http://arxiv.org/abs/2505.05829)|null|
+|**2025-05-09**|**Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives**|Chengyang He et.al.|[2505.05787](http://arxiv.org/abs/2505.05787)|null|
+|**2025-05-09**|**Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions**|Dhruvesh Patel et.al.|[2505.05755](http://arxiv.org/abs/2505.05755)|null|
+|**2025-05-09**|**Automated Learning of Semantic Embedding Representations for Diffusion Models**|Limai Jiang et.al.|[2505.05732](http://arxiv.org/abs/2505.05732)|null|
+|**2025-05-09**|**Towards Secure Semantic Transmission In the Era of GenAI: A Diffusion-based Framework**|Boxiang He et.al.|[2505.05724](http://arxiv.org/abs/2505.05724)|null|
+|**2025-05-09**|**Semantic-Space-Intervened Diffusive Alignment for Visual Classification**|Zixuan Li et.al.|[2505.05721](http://arxiv.org/abs/2505.05721)|null|
+|**2025-05-08**|**An Efficient Transport-Based Dissimilarity Measure for Time Series Classification under Warping Distortions**|Akram Aldroubi et.al.|[2505.05676](http://arxiv.org/abs/2505.05676)|null|
+|**2025-05-08**|**Unsupervised Blind Speech Separation with a Diffusion Prior**|Zhongweiyang Xu et.al.|[2505.05657](http://arxiv.org/abs/2505.05657)|**[link](https://github.com/arraydps/arraydps)**|
+|**2025-05-08**|**ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation**|Jingzhong Lin et.al.|[2505.05589](http://arxiv.org/abs/2505.05589)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -7805,6 +7839,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
+|**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055](http://arxiv.org/abs/2505.06055)|null|
+|**2025-05-09**|**Leveraging Vision-Language Models for Visual Grounding and Analysis of Automotive UI**|Benjamin Raphael Ernhofer et.al.|[2505.05895](http://arxiv.org/abs/2505.05895)|null|
+|**2025-05-08**|**Synthetic Training and Representation Bridging in Reconstruction Domains**|Wonyong Chung et.al.|[2505.05664](http://arxiv.org/abs/2505.05664)|null|
+|**2025-05-08**|**Guidance for Intra-cardiac Echocardiography Manipulation to Maintain Continuous Therapy Device Tip Visibility**|Jaeyoung Huh et.al.|[2505.05518](http://arxiv.org/abs/2505.05518)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It**|Marvin F. da Silva et.al.|[2505.05409](http://arxiv.org/abs/2505.05409)|null|
 |**2025-05-08**|**DispBench: Benchmarking Disparity Estimation to Synthetic Corruptions**|Shashank Agnihotri et.al.|[2505.05091](http://arxiv.org/abs/2505.05091)|**[link](https://github.com/shashankskagnihotri/benchmarking_robustness)**|
