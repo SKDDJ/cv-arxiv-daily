@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -7802,7 +7802,7 @@ layout: default
 |**2025-05-08**|**Boosting Statistic Learning with Synthetic Data from Pretrained Large Models**|Jialong Jiang et.al.|[2505.04992](http://arxiv.org/abs/2505.04992)|null|
 |**2025-05-08**|**Canny2Palm: Realistic and Controllable Palmprint Generation for Large-scale Pre-training**|Xingzeng Lan et.al.|[2505.04922](http://arxiv.org/abs/2505.04922)|null|
 |**2025-05-07**|**Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?**|Shashank Agnihotri et.al.|[2505.04835](http://arxiv.org/abs/2505.04835)|**[link](https://github.com/shashankskagnihotri/benchmarking_robustness)**|
-|**2025-05-07**|**Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay**|Sriram Mandalika et.al.|[2505.04787](http://arxiv.org/abs/2505.04787)|null|
+|**2025-05-09**|**Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay**|Sriram Mandalika et.al.|[2505.04787](http://arxiv.org/abs/2505.04787)|null|
 |**2025-05-07**|**REVEAL: Multi-turn Evaluation of Image-Input Harms for Vision LLM**|Madhur Jindal et.al.|[2505.04673](http://arxiv.org/abs/2505.04673)|null|
 |**2025-05-07**|**AI-Generated Fall Data: Assessing LLMs and Diffusion Model for Wearable Fall Detection**|Sana Alamgeer et.al.|[2505.04660](http://arxiv.org/abs/2505.04660)|null|
 |**2025-05-07**|**RAFT: Robust Augmentation of FeaTures for Image Segmentation**|Edward Humes et.al.|[2505.04529](http://arxiv.org/abs/2505.04529)|null|
