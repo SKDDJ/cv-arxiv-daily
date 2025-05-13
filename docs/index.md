@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,7 +26,7 @@ layout: default
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
 |**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
 |**2025-04-30**|**Enhancing Health Mention Classification Performance: A Study on Advancements in Parameter Efficient Tuning**|Reem Abdel-Salam et.al.|[2504.21685](http://arxiv.org/abs/2504.21685)|null|
-|**2025-04-29**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|**[link](https://github.com/alvi75/slr-peft)**|
+|**2025-05-09**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|**[link](https://github.com/alvi75/slr-peft)**|
 |**2025-04-29**|**TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts**|Pradip Kunwar et.al.|[2504.21190](http://arxiv.org/abs/2504.21190)|null|
 |**2025-04-29**|**A Survey on Parameter-Efficient Fine-Tuning for Foundation Models in Federated Learning**|Jieming Bian et.al.|[2504.21099](http://arxiv.org/abs/2504.21099)|null|
 |**2025-04-29**|**ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models**|Jin Xie et.al.|[2504.20570](http://arxiv.org/abs/2504.20570)|null|
@@ -441,7 +441,7 @@ layout: default
 |**2025-05-09**|**Summarisation of German Judgments in conjunction with a Class-based Evaluation**|Bianca Steffes et.al.|[2505.05947](http://arxiv.org/abs/2505.05947)|**[link](https://github.com/bs-000/bgh-ls-llms-ler)**|
 |**2025-05-09**|**Autoencoder-Based Hybrid Replay for Class-Incremental Learning**|Milad Khademi Nori et.al.|[2505.05926](http://arxiv.org/abs/2505.05926)|null|
 |**2025-05-09**|**A 3D pocket-aware and evolutionary conserved interaction guided diffusion model for molecular optimization**|Anjie Qiao et.al.|[2505.05874](http://arxiv.org/abs/2505.05874)|null|
-|**2025-05-09**|**Screening Mechanisms on White Dwarfs: Symmetron & Dilaton**|J. Bachs-Esteban et.al.|[2505.05871](http://arxiv.org/abs/2505.05871)|null|
+|**2025-05-09**|**Screening Mechanisms on White Dwarfs: Symmetron & Dilaton**|Joan Bachs-Esteban et.al.|[2505.05871](http://arxiv.org/abs/2505.05871)|null|
 |**2025-05-09**|**Generative Discovery of Partial Differential Equations by Learning from Math Handbooks**|Hao Xu et.al.|[2505.05869](http://arxiv.org/abs/2505.05869)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
@@ -7237,7 +7237,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-08**|**Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models**|Wei Peng et.al.|[2505.05189](http://arxiv.org/abs/2505.05189)|null|
-|**2025-05-08**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979](http://arxiv.org/abs/2505.04979)|null|
+|**2025-05-11**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979](http://arxiv.org/abs/2505.04979)|null|
 |**2025-05-07**|**ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$ -Divergence**|Guanghui Wang et.al.|[2505.04560](http://arxiv.org/abs/2505.04560)|**[link](https://github.com/ghwang-s/abkd)**|
 |**2025-05-07**|**Theoretical Guarantees for LT-TTD: A Unified Transformer-based Architecture for Two-Level Ranking Systems**|Ayoub Abraich et.al.|[2505.04434](http://arxiv.org/abs/2505.04434)|null|
 |**2025-05-06**|**Knowledge Distillation Inspired Variational Quantum Eigensolver with Virtual Annealing**|Junxu Li et.al.|[2505.03998](http://arxiv.org/abs/2505.03998)|null|
@@ -7245,7 +7245,7 @@ layout: default
 |**2025-05-06**|**Knowledge Distillation for Speech Denoising by Latent Representation Alignment with Cosine Distance**|Diep Luong et.al.|[2505.03442](http://arxiv.org/abs/2505.03442)|null|
 |**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315](http://arxiv.org/abs/2505.03315)|null|
 |**2025-05-06**|**SepALM: Audio Language Models Are Error Correctors for Robust Speech Separation**|Zhaoxi Mu et.al.|[2505.03273](http://arxiv.org/abs/2505.03273)|null|
-|**2025-05-06**|**Image Recognition with Online Lightweight Vision Transformer: A Survey**|Zherui Zhang et.al.|[2505.03113](http://arxiv.org/abs/2505.03113)|null|
+|**2025-05-11**|**Image Recognition with Online Lightweight Vision Transformer: A Survey**|Zherui Zhang et.al.|[2505.03113](http://arxiv.org/abs/2505.03113)|null|
 |**2025-05-05**|**FedSDAF: Leveraging Source Domain Awareness for Enhanced Federated Domain Generalization**|Hongze Li et.al.|[2505.02515](http://arxiv.org/abs/2505.02515)|**[link](https://github.com/pizzareapers/fedsdaf)**|
 |**2025-05-08**|**Optimizing LLMs for Resource-Constrained Environments: A Survey of Model Compression Techniques**|Sanjay Surendranath Girija et.al.|[2505.02309](http://arxiv.org/abs/2505.02309)|null|
 |**2025-05-06**|**Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation**|Chenxi Liu et.al.|[2505.02138](http://arxiv.org/abs/2505.02138)|**[link](https://github.com/chenxiliu-hnu/timekd)**|
