@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -444,7 +444,7 @@ layout: default
 |**2025-05-12**|**SecReEvalBench: A Multi-turned Security Resilience Evaluation Benchmark for Large Language Models**|Huining Cui et.al.|[2505.07584](http://arxiv.org/abs/2505.07584)|null|
 |**2025-05-12**|**Noise Optimized Conditional Diffusion for Domain Adaptation**|Lingkun Luo et.al.|[2505.07548](http://arxiv.org/abs/2505.07548)|null|
 |**2025-05-12**|**RAI: Flexible Agent Framework for Embodied AI**|Kajetan Rachwał et.al.|[2505.07532](http://arxiv.org/abs/2505.07532)|null|
-|**2025-05-12**|**FLUXSynID: A Framework for Identity-Controlled Synthetic Face Generation with Document and Live Images**|Raul Ismayilov et.al.|[2505.07530](http://arxiv.org/abs/2505.07530)|null|
+|**2025-05-13**|**FLUXSynID: A Framework for Identity-Controlled Synthetic Face Generation with Document and Live Images**|Raul Ismayilov et.al.|[2505.07530](http://arxiv.org/abs/2505.07530)|null|
 |**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|
 |**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
 |**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
@@ -3472,7 +3472,7 @@ layout: default
 |**2025-05-08**|**Looking Beyond Language Priors: Enhancing Visual Comprehension and Attention in Multimodal Models**|Aarti Ghatkesar et.al.|[2505.05626](http://arxiv.org/abs/2505.05626)|null|
 |**2025-05-08**|**Does CLIP perceive art the same way we do?**|Andrea Asperti et.al.|[2505.05229](http://arxiv.org/abs/2505.05229)|null|
 |**2025-05-08**|**A Benchmark Dataset and a Framework for Urdu Multimodal Named Entity Recognition**|Hussain Ahmad et.al.|[2505.05148](http://arxiv.org/abs/2505.05148)|null|
-|**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|null|
+|**2025-05-13**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071](http://arxiv.org/abs/2505.05071)|**[link](https://github.com/360cvgroup/fg-clip)**|
 |**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601](http://arxiv.org/abs/2505.04601)|null|
 |**2025-05-07**|**VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning**|Trinh T. L. Vuong et.al.|[2505.04192](http://arxiv.org/abs/2505.04192)|**[link](https://github.com/trinhvg/videopath-llava)**|
 |**2025-05-07**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631](http://arxiv.org/abs/2505.03631)|null|
@@ -7888,10 +7888,10 @@ layout: default
 |**2025-05-12**|**GAN-based synthetic FDG PET images from T1 brain MRI can serve to improve performance of deep unsupervised anomaly detection models**|Daria Zotova et.al.|[2505.07364](http://arxiv.org/abs/2505.07364)|null|
 |**2025-05-12**|**Synthetic Similarity Search in Automotive Production**|Christoph Huber et.al.|[2505.07256](http://arxiv.org/abs/2505.07256)|null|
 |**2025-05-12**|**Spatial Confounding in Multivariate Areal Data Analysis**|Kyle Lin Wu et.al.|[2505.07232](http://arxiv.org/abs/2505.07232)|null|
-|**2025-05-12**|**Measuring General Intelligence with Generated Games**|Vivek Verma et.al.|[2505.07215](http://arxiv.org/abs/2505.07215)|null|
-|**2025-05-12**|**Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs**|Yifan Wei et.al.|[2505.07184](http://arxiv.org/abs/2505.07184)|**[link](https://github.com/weiyifan1023/senator)**|
+|**2025-05-12**|**Measuring General Intelligence with Generated Games**|Vivek Verma et.al.|[2505.07215](http://arxiv.org/abs/2505.07215)|**[link](https://github.com/vivek3141/gg-bench)**|
+|**2025-05-12**|**Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs**|Yifan Wei et.al.|[2505.07184](http://arxiv.org/abs/2505.07184)|null|
 |**2025-05-12**|**Causal View of Time Series Imputation: Some Identification Results on Missing Mechanism**|Ruichu Cai et.al.|[2505.07180](http://arxiv.org/abs/2505.07180)|null|
-|**2025-05-12**|**Skull stripping with purely synthetic data**|Jong Sung Park et.al.|[2505.07159](http://arxiv.org/abs/2505.07159)|null|
+|**2025-05-12**|**Skull stripping with purely synthetic data**|Jong Sung Park et.al.|[2505.07159](http://arxiv.org/abs/2505.07159)|**[link](https://github.com/pjsjongsung/PUMBA)**|
 |**2025-05-11**|**Bi-directional Self-Registration for Misaligned Infrared-Visible Image Fusion**|Timing Li et.al.|[2505.06920](http://arxiv.org/abs/2505.06920)|null|
 |**2025-05-11**|**Uni-AIMS: AI-Powered Microscopy Image Analysis**|Yanhui Hong et.al.|[2505.06918](http://arxiv.org/abs/2505.06918)|null|
 |**2025-05-11**|**Building a Human-Verified Clinical Reasoning Dataset via a Human LLM Hybrid Pipeline for Trustworthy Medical AI**|Chao Ding et.al.|[2505.06912](http://arxiv.org/abs/2505.06912)|null|
