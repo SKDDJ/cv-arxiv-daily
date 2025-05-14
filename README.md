@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-10**|**Efficient Telecom Specific LLM: TSLAM-Mini with QLoRA and Digital Twin Data**|Vignesh Ethiraj et.al.|[2505.07877](http://arxiv.org/abs/2505.07877)|null|
 |**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
 |**2025-05-10**|**Enfoque Odychess: Un método dialéctico, constructivista y adaptativo para la enseñanza del ajedrez con inteligencias artificiales generativas**|Ernesto Giralt Hernandez et.al.|[2505.06652](http://arxiv.org/abs/2505.06652)|null|
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
@@ -428,6 +429,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
+|**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774](http://arxiv.org/abs/2505.08774)|null|
+|**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
+|**2025-05-13**|**A Survey of Deep Learning for Complex Speech Spectrograms**|Yuying Xie et.al.|[2505.08694](http://arxiv.org/abs/2505.08694)|null|
+|**2025-05-13**|**A Machine Learning Pipeline for Molecular Property Prediction using ChemXploreML**|Aravindh Nivas Marimuthu et.al.|[2505.08688](http://arxiv.org/abs/2505.08688)|null|
+|**2025-05-13**|**Comparison of laser system designs for quantum technologies: BECCAL flight system vs. BECCAL ground test bed**|Victoria A. Henderson et.al.|[2505.08680](http://arxiv.org/abs/2505.08680)|null|
+|**2025-05-13**|**A Study of Data-driven Methods for Inventory Optimization**|Lee Yeung Ping et.al.|[2505.08673](http://arxiv.org/abs/2505.08673)|null|
+|**2025-05-13**|**WixQA: A Multi-Dataset Benchmark for Enterprise Retrieval-Augmented Generation**|Dvir Cohen et.al.|[2505.08643](http://arxiv.org/abs/2505.08643)|null|
+|**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622](http://arxiv.org/abs/2505.08622)|null|
+|**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
+|**2025-05-13**|**Extract the Best, Discard the Rest: CSI Feedback with Offline Large AI Models**|Jialin Zhuang et.al.|[2505.08566](http://arxiv.org/abs/2505.08566)|null|
+|**2025-05-13**|**DFA-CON: A Contrastive Learning Approach for Detecting Copyright Infringement in DeepFake Art**|Haroon Wahab et.al.|[2505.08552](http://arxiv.org/abs/2505.08552)|null|
+|**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
+|**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531](http://arxiv.org/abs/2505.08531)|null|
+|**2025-05-13**|**Improving Data Fidelity via Diffusion Model-based Correction and Super resolution**|Wuzhe Xu et.al.|[2505.08526](http://arxiv.org/abs/2505.08526)|null|
 |**2025-05-12**|**H $^{\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819](http://arxiv.org/abs/2505.07819)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
@@ -3460,6 +3476,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751](http://arxiv.org/abs/2505.08751)|null|
+|**2025-05-13**|**Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion**|Huiyan Qi et.al.|[2505.08747](http://arxiv.org/abs/2505.08747)|null|
+|**2025-05-13**|**ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models**|Avihai Giuili et.al.|[2505.08417](http://arxiv.org/abs/2505.08417)|null|
+|**2025-05-13**|**Decoupled Multimodal Prototypes for Visual Recognition with Missing Modalities**|Jueqing Lu et.al.|[2505.08283](http://arxiv.org/abs/2505.08283)|null|
+|**2025-05-12**|**MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing**|Aybora Koksal et.al.|[2505.07984](http://arxiv.org/abs/2505.07984)|null|
 |**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
 |**2025-05-11**|**A systematic review of challenges and proposed solutions in modeling multimodal data**|Maryam Farhadizadeh et.al.|[2505.06945](http://arxiv.org/abs/2505.06945)|null|
 |**2025-05-11**|**MMiC: Mitigating Modality Incompleteness in Clustered Federated Learning**|Lishan Yang et.al.|[2505.06911](http://arxiv.org/abs/2505.06911)|null|
@@ -4402,6 +4423,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Weights and characters over Borcherds-Kac-Moody algebras**|Souvik Pal et.al.|[2505.08102](http://arxiv.org/abs/2505.08102)|null|
 |**2025-05-12**|**Generalized upper and lower Legendre conjugates for weight functions**|Gerhard Schindl et.al.|[2505.07497](http://arxiv.org/abs/2505.07497)|null|
 |**2025-05-12**|**GMM with Many Weak Moment Conditions and Nuisance Parameters: General Theory and Applications to Causal Inference**|Rui Wang et.al.|[2505.07295](http://arxiv.org/abs/2505.07295)|null|
 |**2025-05-10**|**Transverse linear stability of line solitons for 2D Toda**|Tetsu Mizumachi et.al.|[2505.06768](http://arxiv.org/abs/2505.06768)|null|
@@ -4894,6 +4916,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
+|**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
+|**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
+|**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531](http://arxiv.org/abs/2505.08531)|null|
+|**2025-05-13**|**Improving Data Fidelity via Diffusion Model-based Correction and Super resolution**|Wuzhe Xu et.al.|[2505.08526](http://arxiv.org/abs/2505.08526)|null|
+|**2025-05-13**|**ConDiSim: Conditional Diffusion Models for Simulation Based Inference**|Mayank Nautiyal et.al.|[2505.08403](http://arxiv.org/abs/2505.08403)|null|
+|**2025-05-13**|**Adaptive Diffusion Policy Optimization for Robotic Manipulation**|Huiyun Jiang et.al.|[2505.08376](http://arxiv.org/abs/2505.08376)|null|
+|**2025-05-13**|**Stationary Mean-Field Games of Singular Control under Knightian Uncertainty**|Giorgio Ferrari et.al.|[2505.08317](http://arxiv.org/abs/2505.08317)|null|
+|**2025-05-13**|**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion**|Anle Ke et.al.|[2505.08281](http://arxiv.org/abs/2505.08281)|null|
+|**2025-05-13**|**Skeleton-Guided Diffusion Model for Accurate Foot X-ray Synthesis in Hallux Valgus Diagnosis**|Midi Wan et.al.|[2505.08247](http://arxiv.org/abs/2505.08247)|**[link](https://github.com/midisec/sccdm)**|
+|**2025-05-13**|**Identifying Memorization of Diffusion Models through p-Laplace Analysis**|Jonathan Brokman et.al.|[2505.08246](http://arxiv.org/abs/2505.08246)|null|
+|**2025-05-13**|**ACT-R: Adaptive Camera Trajectories for 3D Reconstruction from Single Image**|Yizhi Wang et.al.|[2505.08239](http://arxiv.org/abs/2505.08239)|null|
+|**2025-05-13**|**EventDiff: A Unified and Efficient Diffusion Model Framework for Event-based Video Frame Interpolation**|Hanle Zheng et.al.|[2505.08235](http://arxiv.org/abs/2505.08235)|null|
+|**2025-05-13**|**Removing Watermarks with Partial Regeneration using Semantic Information**|Krti Tallam et.al.|[2505.08234](http://arxiv.org/abs/2505.08234)|**[link](https://github.com/krtit/semanticregen)**|
+|**2025-05-13**|**Object detection in adverse weather conditions for autonomous vehicles using Instruct Pix2Pix**|Unai Gurbindo et.al.|[2505.08228](http://arxiv.org/abs/2505.08228)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
 |**2025-05-12**|**Singular Control in Inventory Management with Smooth Ambiguity**|Arnon Archankul et.al.|[2505.07761](http://arxiv.org/abs/2505.07761)|null|
@@ -7286,6 +7323,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Leveraging Multi-Modal Information to Enhance Dataset Distillation**|Zhe Li et.al.|[2505.08605](http://arxiv.org/abs/2505.08605)|null|
+|**2025-05-13**|**Scalable UAV Multi-Hop Networking via Multi-Agent Reinforcement Learning with Large Language Models**|Yanggang Xu et.al.|[2505.08448](http://arxiv.org/abs/2505.08448)|null|
+|**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
+|**2025-05-13**|**MoKD: Multi-Task Optimization for Knowledge Distillation**|Zeeshan Hayder et.al.|[2505.08170](http://arxiv.org/abs/2505.08170)|null|
+|**2025-05-13**|**Fusing Bidirectional Chains of Thought and Reward Mechanisms A Method for Enhancing Question-Answering Capabilities of Large Language Models for Chinese Intangible Cultural Heritage**|Ruilin Liu et.al.|[2505.08167](http://arxiv.org/abs/2505.08167)|null|
+|**2025-05-13**|**Foundation Models Knowledge Distillation For Battery Capacity Degradation Forecast**|Joey Chan et.al.|[2505.08151](http://arxiv.org/abs/2505.08151)|**[link](https://github.com/sjtu-chan-joey/battery-timer)**|
+|**2025-05-12**|**Topology-Guided Knowledge Distillation for Efficient Point Cloud Processing**|Luu Tung Hai et.al.|[2505.08101](http://arxiv.org/abs/2505.08101)|**[link](https://github.com/hysonlab/pointdistill)**|
+|**2025-05-12**|**Channel Fingerprint Construction for Massive MIMO: A Deep Conditional Generative Approach**|Zhenzhou Jin et.al.|[2505.07893](http://arxiv.org/abs/2505.07893)|null|
 |**2025-05-12**|**Simple Semi-supervised Knowledge Distillation from Vision-Language Models via $\mathbf{\texttt{D}}$ual-$\mathbf{\texttt{H}}$ead $\mathbf{\texttt{O}}$ ptimization**|Seongjae Kang et.al.|[2505.07675](http://arxiv.org/abs/2505.07675)|null|
 |**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
 |**2025-05-12**|**EmoVLM-KD: Fusing Distilled Expertise with Vision-Language Models for Visual Emotion Analysis**|SangEun Lee et.al.|[2505.07164](http://arxiv.org/abs/2505.07164)|null|
@@ -7890,6 +7935,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Modelling the impact of quasar redshift errors on the full-shape analysis of correlations in the Lyman- $α$ forest**|Calum Gordon et.al.|[2505.08789](http://arxiv.org/abs/2505.08789)|null|
+|**2025-05-13**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et.al.|[2505.08762](http://arxiv.org/abs/2505.08762)|null|
+|**2025-05-13**|**Big Data and the Computational Social Science of Entrepreneurship and Innovation**|Ningzi Li et.al.|[2505.08706](http://arxiv.org/abs/2505.08706)|null|
+|**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
+|**2025-05-13**|**Leveraging Multi-Modal Information to Enhance Dataset Distillation**|Zhe Li et.al.|[2505.08605](http://arxiv.org/abs/2505.08605)|null|
+|**2025-05-13**|**Achieving Scalable Robot Autonomy via neurosymbolic planning using lightweight local LLM**|Nicholas Attolino et.al.|[2505.08492](http://arxiv.org/abs/2505.08492)|null|
+|**2025-05-13**|**An adaptive sampling algorithm for data-generation to build a data-manifold for physical problem surrogate modeling**|Chetra Mang et.al.|[2505.08487](http://arxiv.org/abs/2505.08487)|null|
+|**2025-05-13**|**Localization of Impacts on Thin-Walled Structures by Recurrent Neural Networks: End-to-end Learning from Real-World Data**|Alexander Humer et.al.|[2505.08362](http://arxiv.org/abs/2505.08362)|null|
+|**2025-05-13**|**Community Detection on Noisy Stochastic Block Models**|Washieu Anan et.al.|[2505.08251](http://arxiv.org/abs/2505.08251)|null|
+|**2025-05-13**|**Privacy-Preserving Analytics for Smart Meter (AMI) Data: A Hybrid Approach to Comply with CPUC Privacy Regulations**|Benjamin Westrich et.al.|[2505.08237](http://arxiv.org/abs/2505.08237)|null|
+|**2025-05-12**|**Fréchet Power-Scenario Distance: A Metric for Evaluating Generative AI Models across Multiple Time-Scales in Smart Grids**|Yuting Cai et.al.|[2505.08082](http://arxiv.org/abs/2505.08082)|null|
 |**2025-05-12**|**Robust Kidney Abnormality Segmentation: A Validation Study of an AI-Based Framework**|Sarah de Boer et.al.|[2505.07573](http://arxiv.org/abs/2505.07573)|null|
 |**2025-05-12**|**SynID: Passport Synthetic Dataset for Presentation Attack Detection**|Juan E. Tapia et.al.|[2505.07540](http://arxiv.org/abs/2505.07540)|null|
 |**2025-05-12**|**ToolACE-DEV: Self-Improving Tool Learning via Decomposition and EVolution**|Xu Huang et.al.|[2505.07512](http://arxiv.org/abs/2505.07512)|null|
