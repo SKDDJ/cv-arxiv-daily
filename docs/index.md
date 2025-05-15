@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|null|
+|**2025-05-13**|**Parameter-Efficient Fine-Tuning of Vision Foundation Model for Forest Floor Segmentation from UAV Imagery**|Mohammad Wasil et.al.|[2505.08932](http://arxiv.org/abs/2505.08932)|null|
 |**2025-05-10**|**Efficient Telecom Specific LLM: TSLAM-Mini with QLoRA and Digital Twin Data**|Vignesh Ethiraj et.al.|[2505.07877](http://arxiv.org/abs/2505.07877)|null|
 |**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
 |**2025-05-10**|**Enfoque Odychess: Un método dialéctico, constructivista y adaptativo para la enseñanza del ajedrez con inteligencias artificiales generativas**|Ernesto Giralt Hernandez et.al.|[2505.06652](http://arxiv.org/abs/2505.06652)|null|
@@ -431,6 +433,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
+|**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**CXMArena: Unified Dataset to benchmark performance in realistic CXM Scenarios**|Raghav Garg et.al.|[2505.09436](http://arxiv.org/abs/2505.09436)|null|
+|**2025-05-14**|**Efficient Modelling of Lyman-α opacity fluctuations during late EoR**|Barun Maity et.al.|[2505.09369](http://arxiv.org/abs/2505.09369)|null|
+|**2025-05-14**|**Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**|Michael Benigni et.al.|[2505.09364](http://arxiv.org/abs/2505.09364)|null|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
+|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356](http://arxiv.org/abs/2505.09356)|**[link](https://github.com/gt-arc/apr-transformer)**|
+|**2025-05-14**|**Access Controls Will Solve the Dual-Use Dilemma**|Evžen Wybitul et.al.|[2505.09341](http://arxiv.org/abs/2505.09341)|null|
+|**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334](http://arxiv.org/abs/2505.09334)|null|
+|**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[2505.09315](http://arxiv.org/abs/2505.09315)|null|
+|**2025-05-14**|**Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations**|Panqi Chen et.al.|[2505.09284](http://arxiv.org/abs/2505.09284)|null|
+|**2025-05-14**|**A Note on Semantic Diffusion**|Alexander P. Ryjov et.al.|[2505.09283](http://arxiv.org/abs/2505.09283)|null|
+|**2025-05-14**|**Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation**|Guan Gui et.al.|[2505.09263](http://arxiv.org/abs/2505.09263)|**[link](https://github.com/gaobb/anogen)**|
 |**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
 |**2025-05-13**|**Generative Molecular Design with Steerable and Granular Synthesizability Control**|Jeff Guo et.al.|[2505.08774](http://arxiv.org/abs/2505.08774)|null|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
@@ -3476,6 +3493,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539](http://arxiv.org/abs/2505.09539)|null|
+|**2025-05-13**|**Multimodal Modeling of Ultradian Rhythms Using the Hankel Alternative View of Koopman (HAVOK) Analysis**|Emmanuel Molefi et.al.|[2505.08953](http://arxiv.org/abs/2505.08953)|null|
+|**2025-05-12**|**Towards SFW sampling for diffusion models via external conditioning**|Camilo Carvajal Reyes et.al.|[2505.08817](http://arxiv.org/abs/2505.08817)|null|
 |**2025-05-13**|**Aya Vision: Advancing the Frontier of Multilingual Multimodality**|Saurabh Dash et.al.|[2505.08751](http://arxiv.org/abs/2505.08751)|null|
 |**2025-05-13**|**Advancing Food Nutrition Estimation via Visual-Ingredient Feature Fusion**|Huiyan Qi et.al.|[2505.08747](http://arxiv.org/abs/2505.08747)|null|
 |**2025-05-13**|**ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models**|Avihai Giuili et.al.|[2505.08417](http://arxiv.org/abs/2505.08417)|null|
@@ -4910,6 +4932,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|null|
+|**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**Primal-dual splitting methods for phase-field surfactant model with moving contact lines**|Wei Wu et.al.|[2505.09469](http://arxiv.org/abs/2505.09469)|null|
+|**2025-05-14**|**Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch**|Michael Benigni et.al.|[2505.09364](http://arxiv.org/abs/2505.09364)|null|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
+|**2025-05-14**|**TransDiffuser: End-to-end Trajectory Generation with Decorrelated Multi-modal Representation for Autonomous Driving**|Xuefeng Jiang et.al.|[2505.09315](http://arxiv.org/abs/2505.09315)|null|
+|**2025-05-14**|**Stochastic Optimal Control for Systems with Drifts of Bounded Variation: A Maximum Principle Approach**|Antoine Marie Bogso et.al.|[2505.09309](http://arxiv.org/abs/2505.09309)|null|
+|**2025-05-14**|**Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations**|Panqi Chen et.al.|[2505.09284](http://arxiv.org/abs/2505.09284)|null|
+|**2025-05-14**|**A Note on Semantic Diffusion**|Alexander P. Ryjov et.al.|[2505.09283](http://arxiv.org/abs/2505.09283)|null|
+|**2025-05-14**|**Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation**|Guan Gui et.al.|[2505.09263](http://arxiv.org/abs/2505.09263)|**[link](https://github.com/gaobb/anogen)**|
+|**2025-05-14**|**Optimal Transport-Based Domain Adaptation for Rotated Linear Regression**|Brian Britos et.al.|[2505.09229](http://arxiv.org/abs/2505.09229)|null|
+|**2025-05-14**|**Generating time-consistent dynamics with discriminator-guided image diffusion models**|Philipp Hess et.al.|[2505.09089](http://arxiv.org/abs/2505.09089)|null|
+|**2025-05-14**|**Reflected stochastic recursive control problems with jumps: dynamic programming and stochastic verification theorems**|Lu Liu et.al.|[2505.09070](http://arxiv.org/abs/2505.09070)|null|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
 |**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
 |**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
@@ -7315,6 +7352,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**DCSNet: A Lightweight Knowledge Distillation-Based Model with Explainable AI for Lung Cancer Diagnosis from Histopathological Images**|Sadman Sakib Alif et.al.|[2505.09334](http://arxiv.org/abs/2505.09334)|null|
+|**2025-05-12**|**An Extra RMSNorm is All You Need for Fine Tuning to 1.58 Bits**|Cody Steinmetz et.al.|[2505.08823](http://arxiv.org/abs/2505.08823)|null|
 |**2025-05-13**|**Leveraging Multi-Modal Information to Enhance Dataset Distillation**|Zhe Li et.al.|[2505.08605](http://arxiv.org/abs/2505.08605)|null|
 |**2025-05-13**|**Scalable UAV Multi-Hop Networking via Multi-Agent Reinforcement Learning with Large Language Models**|Yanggang Xu et.al.|[2505.08448](http://arxiv.org/abs/2505.08448)|null|
 |**2025-05-13**|**Low-Complexity Inference in Continual Learning via Compressed Knowledge Transfer**|Zhenrong Liu et.al.|[2505.08327](http://arxiv.org/abs/2505.08327)|null|
@@ -7925,6 +7964,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
+|**2025-05-14**|**Online Isolation Forest**|Filippo Leveni et.al.|[2505.09593](http://arxiv.org/abs/2505.09593)|**[link](https://github.com/ineveloppilif/online-isolation-forest)**|
+|**2025-05-14**|**DESI DR1 Lyα 1D power spectrum: The Fast Fourier Transform estimator measurement**|Corentin Ravoux et.al.|[2505.09493](http://arxiv.org/abs/2505.09493)|null|
+|**2025-05-14**|**Test-Time Augmentation for Pose-invariant Face Recognition**|Jaemin Jung et.al.|[2505.09256](http://arxiv.org/abs/2505.09256)|null|
+|**2025-05-14**|**Zero-shot Quantization: A Comprehensive Survey**|Minjun Kim et.al.|[2505.09188](http://arxiv.org/abs/2505.09188)|null|
+|**2025-05-13**|**Fully Dynamic Euclidean Bi-Chromatic Matching in Sublinear Update Time**|Gramoz Goranci et.al.|[2505.09010](http://arxiv.org/abs/2505.09010)|null|
+|**2025-05-13**|**Predictive Digital Twins with Quantified Uncertainty for Patient-Specific Decision Making in Oncology**|Graham Pash et.al.|[2505.08927](http://arxiv.org/abs/2505.08927)|null|
+|**2025-05-13**|**Grounding Synthetic Data Evaluations of Language Models in Unsupervised Document Corpora**|Michael Majurski et.al.|[2505.08905](http://arxiv.org/abs/2505.08905)|null|
+|**2025-05-13**|**Optimized Couplings for Watermarking Large Language Models**|Dor Tsur et.al.|[2505.08878](http://arxiv.org/abs/2505.08878)|**[link](https://github.com/carol-long/cc_watermark)**|
+|**2025-05-13**|**Generative AI for Autonomous Driving: Frontiers and Opportunities**|Yuping Wang et.al.|[2505.08854](http://arxiv.org/abs/2505.08854)|**[link](https://github.com/taco-group/genai4ad)**|
 |**2025-05-13**|**Modelling the impact of quasar redshift errors on the full-shape analysis of correlations in the Lyman- $α$ forest**|Calum Gordon et.al.|[2505.08789](http://arxiv.org/abs/2505.08789)|null|
 |**2025-05-13**|**The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models**|Daniel S. Levine et.al.|[2505.08762](http://arxiv.org/abs/2505.08762)|null|
 |**2025-05-13**|**Big Data and the Computational Social Science of Entrepreneurship and Innovation**|Ningzi Li et.al.|[2505.08706](http://arxiv.org/abs/2505.08706)|null|
