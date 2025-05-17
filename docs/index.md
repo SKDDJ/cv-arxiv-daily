@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -30,7 +30,7 @@ layout: default
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
-|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|**[link](https://github.com/asad14053/AdCare-VLM)**|
 |**2025-04-30**|**Enhancing Health Mention Classification Performance: A Study on Advancements in Parameter Efficient Tuning**|Reem Abdel-Salam et.al.|[2504.21685](http://arxiv.org/abs/2504.21685)|null|
 |**2025-05-09**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|**[link](https://github.com/alvi75/slr-peft)**|
 |**2025-04-29**|**TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts**|Pradip Kunwar et.al.|[2504.21190](http://arxiv.org/abs/2504.21190)|null|
@@ -442,7 +442,7 @@ layout: default
 |**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545](http://arxiv.org/abs/2505.10545)|null|
 |**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537](http://arxiv.org/abs/2505.10537)|null|
 |**2025-05-15**|**Optimal Pricing With Impatient Customers**|Jieqi Di et.al.|[2505.10514](http://arxiv.org/abs/2505.10514)|null|
-|**2025-05-15**|**CheXGenBench: A Unified Benchmark For Fidelity, Privacy and Utility of Synthetic Chest Radiographs**|Raman Dutt et.al.|[2505.10496](http://arxiv.org/abs/2505.10496)|null|
+|**2025-05-15**|**CheXGenBench: A Unified Benchmark For Fidelity, Privacy and Utility of Synthetic Chest Radiographs**|Raman Dutt et.al.|[2505.10496](http://arxiv.org/abs/2505.10496)|**[link](https://github.com/Raman1121/CheXGenBench)**|
 |**2025-05-15**|**Campus AI vs Commercial AI: A Late-Breaking Study on How LLM As-A-Service Customizations Shape Trust and Usage Patterns**|Leon Hannig et.al.|[2505.10490](http://arxiv.org/abs/2505.10490)|null|
 |**2025-05-15**|**UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation**|Yi Li et.al.|[2505.10483](http://arxiv.org/abs/2505.10483)|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|

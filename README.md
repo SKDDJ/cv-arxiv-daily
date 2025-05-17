@@ -1,4 +1,4 @@
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,7 +26,7 @@
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
-|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
+|**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|**[link](https://github.com/asad14053/AdCare-VLM)**|
 |**2025-04-30**|**Enhancing Health Mention Classification Performance: A Study on Advancements in Parameter Efficient Tuning**|Reem Abdel-Salam et.al.|[2504.21685](http://arxiv.org/abs/2504.21685)|null|
 |**2025-05-09**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|**[link](https://github.com/alvi75/slr-peft)**|
 |**2025-04-29**|**TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts**|Pradip Kunwar et.al.|[2504.21190](http://arxiv.org/abs/2504.21190)|null|
@@ -426,7 +426,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -440,7 +440,7 @@
 |**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545](http://arxiv.org/abs/2505.10545)|null|
 |**2025-05-15**|**LibIQ: Toward Real-Time Spectrum Classification in O-RAN dApps**|Filippo Olimpieri et.al.|[2505.10537](http://arxiv.org/abs/2505.10537)|null|
 |**2025-05-15**|**Optimal Pricing With Impatient Customers**|Jieqi Di et.al.|[2505.10514](http://arxiv.org/abs/2505.10514)|null|
-|**2025-05-15**|**CheXGenBench: A Unified Benchmark For Fidelity, Privacy and Utility of Synthetic Chest Radiographs**|Raman Dutt et.al.|[2505.10496](http://arxiv.org/abs/2505.10496)|null|
+|**2025-05-15**|**CheXGenBench: A Unified Benchmark For Fidelity, Privacy and Utility of Synthetic Chest Radiographs**|Raman Dutt et.al.|[2505.10496](http://arxiv.org/abs/2505.10496)|**[link](https://github.com/Raman1121/CheXGenBench)**|
 |**2025-05-15**|**Campus AI vs Commercial AI: A Late-Breaking Study on How LLM As-A-Service Customizations Shape Trust and Usage Patterns**|Leon Hannig et.al.|[2505.10490](http://arxiv.org/abs/2505.10490)|null|
 |**2025-05-15**|**UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation**|Yi Li et.al.|[2505.10483](http://arxiv.org/abs/2505.10483)|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
@@ -3503,7 +3503,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -4462,7 +4462,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -4757,7 +4757,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -4956,7 +4956,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -7393,7 +7393,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -8007,7 +8007,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -9525,5 +9525,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
