@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,8 +22,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-15**|**Multi-Token Prediction Needs Registers**|Anastasios Gerontopoulos et.al.|[2505.10518](http://arxiv.org/abs/2505.10518)|**[link](https://github.com/nasosger/mutor)**|
-|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|null|
-|**2025-05-13**|**Parameter-Efficient Fine-Tuning of Vision Foundation Model for Forest Floor Segmentation from UAV Imagery**|Mohammad Wasil et.al.|[2505.08932](http://arxiv.org/abs/2505.08932)|null|
+|**2025-05-14**|**PT-MoE: An Efficient Finetuning Framework for Integrating Mixture-of-Experts into Prompt Tuning**|Zongqian Li et.al.|[2505.09519](http://arxiv.org/abs/2505.09519)|**[link](https://github.com/zongqianli/pt-moe)**|
+|**2025-05-13**|**Parameter-Efficient Fine-Tuning of Vision Foundation Model for Forest Floor Segmentation from UAV Imagery**|Mohammad Wasil et.al.|[2505.08932](http://arxiv.org/abs/2505.08932)|**[link](https://github.com/garrulus-project/sam_peft)**|
 |**2025-05-10**|**Efficient Telecom Specific LLM: TSLAM-Mini with QLoRA and Digital Twin Data**|Vignesh Ethiraj et.al.|[2505.07877](http://arxiv.org/abs/2505.07877)|null|
 |**2025-05-11**|**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models**|Junhao Xia et.al.|[2505.07057](http://arxiv.org/abs/2505.07057)|null|
 |**2025-05-10**|**Enfoque Odychess: Un método dialéctico, constructivista y adaptativo para la enseñanza del ajedrez con inteligencias artificiales generativas**|Ernesto Giralt Hernandez et.al.|[2505.06652](http://arxiv.org/abs/2505.06652)|null|
