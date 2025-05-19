@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.18
+## Updated on 2025.05.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -4963,7 +4963,7 @@ layout: default
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
 |**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|
 |**2025-05-15**|**Score-based diffusion nowcasting of GOES imagery**|Randy J. Chase et.al.|[2505.10432](http://arxiv.org/abs/2505.10432)|null|
-|**2025-05-15**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311](http://arxiv.org/abs/2505.10311)|null|
+|**2025-05-16**|**Whitened Score Diffusion: A Structured Prior for Imaging Inverse Problems**|Jeffrey Alido et.al.|[2505.10311](http://arxiv.org/abs/2505.10311)|null|
 |**2025-05-15**|**Strong and weak convergence rates for fully coupled multiscale stochastic differential equations driven by $α$ -stable processes**|Kun Yin et.al.|[2505.10229](http://arxiv.org/abs/2505.10229)|null|
 |**2025-05-15**|**From Combinatorics to Partial Differential Equations**|Francesco Mattesini et.al.|[2505.10175](http://arxiv.org/abs/2505.10175)|null|
 |**2025-05-15**|**FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation**|Jun Guo et.al.|[2505.10075](http://arxiv.org/abs/2505.10075)|null|
