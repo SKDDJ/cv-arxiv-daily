@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
+|**2025-05-20**|**OSoRA: Output-Dimension and Singular-Value Initialized Low-Rank Adaptation**|Jialong Han et.al.|[2505.14350](http://arxiv.org/abs/2505.14350)|null|
+|**2025-05-20**|**ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models**|Raghav Singhal et.al.|[2505.14238](http://arxiv.org/abs/2505.14238)|**[link](https://github.com/cert-lab/abba)**|
 |**2025-05-18**|**Adaptive parameter-efficient fine-tuning via Hessian-informed subset selection**|Shiyun Xu et.al.|[2505.12579](http://arxiv.org/abs/2505.12579)|null|
 |**2025-05-18**|**Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets**|Ahmet Bilican et.al.|[2505.12532](http://arxiv.org/abs/2505.12532)|null|
 |**2025-05-18**|**SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization**|Haodong Yang et.al.|[2505.12433](http://arxiv.org/abs/2505.12433)|null|
@@ -436,6 +439,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search**|Sunhao Dai et.al.|[2505.14680](http://arxiv.org/abs/2505.14680)|null|
+|**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
+|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
+|**2025-05-20**|**Enhancing Learned Knowledge in LoRA Adapters Through Efficient Contrastive Decoding on Ascend NPUs**|Morgan Lindsay Heisler et.al.|[2505.14620](http://arxiv.org/abs/2505.14620)|null|
+|**2025-05-20**|**Towards a Foundation Model for Communication Systems**|Davide Buffelli et.al.|[2505.14603](http://arxiv.org/abs/2505.14603)|null|
+|**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560](http://arxiv.org/abs/2505.14560)|null|
+|**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
+|**2025-05-20**|**GUARD: Constructing Realistic Two-Player Matrix and Security Games for Benchmarking Game-Theoretic Algorithms**|Noah Krever et.al.|[2505.14547](http://arxiv.org/abs/2505.14547)|null|
+|**2025-05-20**|**NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation**|Matteo El-Hariry et.al.|[2505.14526](http://arxiv.org/abs/2505.14526)|null|
+|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
+|**2025-05-20**|**A Direct Comparison of Simultaneously Recorded Scalp, Around-Ear, and In-Ear EEG for Neural Selective Auditory Attention Decoding to Speech**|Simon Geirnaert et.al.|[2505.14478](http://arxiv.org/abs/2505.14478)|null|
+|**2025-05-20**|**Enhancing Interpretability of Sparse Latent Representations with Class Information**|Farshad Sangari Abiz et.al.|[2505.14476](http://arxiv.org/abs/2505.14476)|null|
+|**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455](http://arxiv.org/abs/2505.14455)|null|
+|**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
 |**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447](http://arxiv.org/abs/2505.13447)|null|
 |**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432](http://arxiv.org/abs/2505.13432)|null|
 |**2025-05-20**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
@@ -3543,6 +3561,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning**|Jiaer Xia et.al.|[2505.14677](http://arxiv.org/abs/2505.14677)|null|
+|**2025-05-20**|**VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation**|Wentao Ma et.al.|[2505.14640](http://arxiv.org/abs/2505.14640)|null|
+|**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
+|**2025-05-20**|**Investigating and Enhancing the Robustness of Large Multimodal Models Against Temporal Inconsistency**|Jiafeng Liang et.al.|[2505.14405](http://arxiv.org/abs/2505.14405)|null|
+|**2025-05-20**|**"Haet Bhasha aur Diskrimineshun": Phonetic Perturbations in Code-Mixed Hinglish to Red-Team LLMs**|Darpan Aswal et.al.|[2505.14226](http://arxiv.org/abs/2505.14226)|null|
+|**2025-05-20**|**Mixed Signals: Understanding Model Disagreement in Multimodal Empathy Detection**|Maya Srikanth et.al.|[2505.13979](http://arxiv.org/abs/2505.13979)|null|
+|**2025-05-20**|**LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts**|Qifeng Cai et.al.|[2505.13928](http://arxiv.org/abs/2505.13928)|**[link](https://github.com/technomad-ds/lovr-benchmark)**|
 |**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
 |**2025-05-19**|**I'll believe it when I see it: Images increase misinformation sharing in Vision-Language Models**|Alice Plebe et.al.|[2505.13302](http://arxiv.org/abs/2505.13302)|**[link](https://github.com/3lis/misinfo_vlm)**|
 |**2025-05-19**|**ORQA: A Benchmark and Foundation Model for Holistic Operating Room Modeling**|Ege Özsoy et.al.|[2505.12890](http://arxiv.org/abs/2505.12890)|null|
@@ -4521,6 +4546,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Safety Subspaces are Not Distinct: A Fine-Tuning Case Study**|Kaustubh Ponkshe et.al.|[2505.14185](http://arxiv.org/abs/2505.14185)|**[link](https://github.com/cert-lab/safety-subspaces)**|
+|**2025-05-20**|**Predicting Dynamical Systems across Environments via Diffusive Model Weight Generation**|Ruikun Li et.al.|[2505.13919](http://arxiv.org/abs/2505.13919)|null|
 |**2025-05-19**|**Persistence of integrable wave dynamics in the Discrete Gross--Pitaevskii equation: the focusing case**|G. Fotopoulos et.al.|[2505.13139](http://arxiv.org/abs/2505.13139)|null|
 |**2025-05-19**|**CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models**|Shristi Das Biswas et.al.|[2505.12677](http://arxiv.org/abs/2505.12677)|null|
 |**2025-05-18**|**NeuroGen: Neural Network Parameter Generation via Large Language Models**|Jiaqi Wang et.al.|[2505.12470](http://arxiv.org/abs/2505.12470)|null|
@@ -5018,6 +5045,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
+|**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
+|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
+|**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455](http://arxiv.org/abs/2505.14455)|null|
+|**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
+|**2025-05-20**|**The Koopmanization of controlled nonlinear Itô stochastic differential systems and its comparison with the Carleman embedding: new results**|Amruta Lambe et.al.|[2505.14369](http://arxiv.org/abs/2505.14369)|null|
+|**2025-05-20**|**Vid2World: Crafting Video Diffusion Models to Interactive World Models**|Siqiao Huang et.al.|[2505.14357](http://arxiv.org/abs/2505.14357)|null|
+|**2025-05-20**|**Malliavin derivative and sensitivity for optimal liquidation**|Alexandre Popier et.al.|[2505.14287](http://arxiv.org/abs/2505.14287)|null|
+|**2025-05-20**|**Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization**|Yuanyuan Chang et.al.|[2505.14254](http://arxiv.org/abs/2505.14254)|**[link](https://github.com/chang-yuanyuan/caso)**|
+|**2025-05-20**|**Challenges and Limitations in the Synthetic Generation of mHealth Sensor Data**|Flavio Di Martino et.al.|[2505.14206](http://arxiv.org/abs/2505.14206)|null|
+|**2025-05-20**|**FlowQ: Energy-Guided Flow Policies for Offline Reinforcement Learning**|Marvin Alles et.al.|[2505.14139](http://arxiv.org/abs/2505.14139)|null|
+|**2025-05-20**|**Adaptive Cyclic Diffusion for Inference Scaling**|Gyubin Lee et.al.|[2505.14036](http://arxiv.org/abs/2505.14036)|null|
+|**2025-05-20**|**Combining Deterministic Enhanced Conditions with Dual-Streaming Encoding for Diffusion-Based Speech Enhancement**|Hao Shi et.al.|[2505.13983](http://arxiv.org/abs/2505.13983)|null|
+|**2025-05-20**|**Predicting Dynamical Systems across Environments via Diffusive Model Weight Generation**|Ruikun Li et.al.|[2505.13919](http://arxiv.org/abs/2505.13919)|null|
 |**2025-05-19**|**Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling**|Dongyi Wang et.al.|[2505.13413](http://arxiv.org/abs/2505.13413)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
@@ -7485,6 +7527,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking**|Songhao Wu et.al.|[2505.14180](http://arxiv.org/abs/2505.14180)|null|
+|**2025-05-20**|**Intra-class Patch Swap for Self-Distillation**|Hongjun Choi et.al.|[2505.14124](http://arxiv.org/abs/2505.14124)|**[link](https://github.com/hchoi71/intra-class-patch-swap)**|
+|**2025-05-20**|**Improved Methods for Model Pruning and Knowledge Distillation**|Wei Jiang et.al.|[2505.14052](http://arxiv.org/abs/2505.14052)|null|
+|**2025-05-20**|**Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation**|Siddhant Bhambri et.al.|[2505.13792](http://arxiv.org/abs/2505.13792)|null|
+|**2025-05-20**|**Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels**|Yongshuo Zong et.al.|[2505.13788](http://arxiv.org/abs/2505.13788)|null|
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
 |**2025-05-19**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300](http://arxiv.org/abs/2505.13300)|**[link](https://github.com/nus-hpc-ai-lab/dd-ranking)**|
 |**2025-05-19**|**Distilling a speech and music encoder with task arithmetic**|Fabian Ritter-Gutierrez et.al.|[2505.13270](http://arxiv.org/abs/2505.13270)|null|
@@ -8117,6 +8164,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**CSTS: A Benchmark for the Discovery of Correlation Structures in Time Series Clustering**|Isabella Degen et.al.|[2505.14596](http://arxiv.org/abs/2505.14596)|**[link](https://github.com/isabelladegen/corrclust-validation)**|
+|**2025-05-20**|**PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models**|He Zhu et.al.|[2505.14481](http://arxiv.org/abs/2505.14481)|null|
+|**2025-05-20**|**Scaling Low-Resource MT via Synthetic Data Generation with LLMs**|Ona de Gibert et.al.|[2505.14423](http://arxiv.org/abs/2505.14423)|null|
+|**2025-05-20**|**Improving the Γ-functions Method for Vortex Identification**|Quan Xie et.al.|[2505.14384](http://arxiv.org/abs/2505.14384)|null|
+|**2025-05-20**|**Challenges and Limitations in the Synthetic Generation of mHealth Sensor Data**|Flavio Di Martino et.al.|[2505.14206](http://arxiv.org/abs/2505.14206)|null|
+|**2025-05-20**|**From stability of Langevin diffusion to convergence of proximal MCMC for non-log-concave sampling**|Marien Renaud et.al.|[2505.14177](http://arxiv.org/abs/2505.14177)|null|
+|**2025-05-20**|**AUTOLAW: Enhancing Legal Compliance in Large Language Models via Case Law Generation and Jury-Inspired Deliberation**|Tai D. Nguyen et.al.|[2505.14015](http://arxiv.org/abs/2505.14015)|null|
+|**2025-05-20**|**A Probabilistic Perspective on Model Collapse**|Shirong Xu et.al.|[2505.13947](http://arxiv.org/abs/2505.13947)|null|
+|**2025-05-20**|**Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning**|Jingqi Tong et.al.|[2505.13886](http://arxiv.org/abs/2505.13886)|null|
+|**2025-05-20**|**Graphon Mixtures**|Sevvandi Kandanaarachchi et.al.|[2505.13864](http://arxiv.org/abs/2505.13864)|null|
+|**2025-05-20**|**Context-Free Synthetic Data Mitigates Forgetting**|Parikshit Bansal et.al.|[2505.13811](http://arxiv.org/abs/2505.13811)|null|
+|**2025-05-20**|**LLMs Capture Urban Science but Oversimplify Complexity**|Yecheng Zhang et.al.|[2505.13803](http://arxiv.org/abs/2505.13803)|null|
+|**2025-05-19**|**Finding Distributions that Differ, with False Discovery Rate Control**|Yonghoon Lee et.al.|[2505.13769](http://arxiv.org/abs/2505.13769)|null|
+|**2025-05-19**|**Synthetic Non-stationary Data Streams for Recognition of the Unknown**|Joanna Komorniczak et.al.|[2505.13745](http://arxiv.org/abs/2505.13745)|null|
+|**2025-05-19**|**Improving Compositional Generation with Diffusion Models Using Lift Scores**|Chenning Yu et.al.|[2505.13740](http://arxiv.org/abs/2505.13740)|**[link](https://github.com/rainorangelemon/complift)**|
 |**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
 |**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432](http://arxiv.org/abs/2505.13432)|null|
 |**2025-05-19**|**MR. Judge: Multimodal Reasoner as a Judge**|Renjie Pi et.al.|[2505.13403](http://arxiv.org/abs/2505.13403)|null|
