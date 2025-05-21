@@ -1,4 +1,4 @@
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -430,7 +430,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -438,11 +438,11 @@
 |---|---|---|---|---|
 |**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447](http://arxiv.org/abs/2505.13447)|null|
 |**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432](http://arxiv.org/abs/2505.13432)|null|
-|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
+|**2025-05-20**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
-|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
+|**2025-05-20**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-20**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
 |**2025-05-19**|**Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures**|Mohammad Shahmoradi et.al.|[2505.13310](http://arxiv.org/abs/2505.13310)|null|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
@@ -3537,7 +3537,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -4515,7 +4515,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -4813,7 +4813,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -5012,7 +5012,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -5021,12 +5021,12 @@
 |**2025-05-19**|**Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling**|Dongyi Wang et.al.|[2505.13413](http://arxiv.org/abs/2505.13413)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
-|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
+|**2025-05-20**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-20**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
 |**2025-05-19**|**Diffusion Models with Double Guidance: Generate with aggregated datasets**|Yanfeng Yang et.al.|[2505.13213](http://arxiv.org/abs/2505.13213)|null|
-|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185](http://arxiv.org/abs/2505.13185)|null|
+|**2025-05-20**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185](http://arxiv.org/abs/2505.13185)|null|
 |**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
 |**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
 |**2025-05-19**|**Constraint-Aware Diffusion Guidance for Robotics: Real-Time Obstacle Avoidance for Autonomous Racing**|Hao Ma et.al.|[2505.13131](http://arxiv.org/abs/2505.13131)|null|
@@ -7479,7 +7479,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -8111,7 +8111,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -8126,7 +8126,7 @@
 |**2025-05-19**|**MA-COIR: Leveraging Semantic Search Index and Generative Models for Ontology-Driven Biomedical Concept Recognition**|Shanshan Liu et.al.|[2505.12964](http://arxiv.org/abs/2505.12964)|**[link](https://github.com/sl-633/macoir-master)**|
 |**2025-05-19**|**RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions**|Junzhi Ning et.al.|[2505.12887](http://arxiv.org/abs/2505.12887)|null|
 |**2025-05-19**|**Causality-Inspired Robustness for Nonlinear Models via Representation Learning**|Marin Šola et.al.|[2505.12868](http://arxiv.org/abs/2505.12868)|null|
-|**2025-05-19**|**Practical Equivalence Testing and Its Application in Synthetic Pre-Crash Scenario Validation**|Jian Wu et.al.|[2505.12827](http://arxiv.org/abs/2505.12827)|null|
+|**2025-05-20**|**Practical Equivalence Testing and Its Application in Synthetic Pre-Crash Scenario Validation**|Jian Wu et.al.|[2505.12827](http://arxiv.org/abs/2505.12827)|null|
 |**2025-05-19**|**EAVIT: Efficient and Accurate Human Value Identification from Text data via LLMs**|Wenhao Zhu et.al.|[2505.12792](http://arxiv.org/abs/2505.12792)|null|
 |**2025-05-19**|**What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma**|Han Meng et.al.|[2505.12727](http://arxiv.org/abs/2505.12727)|null|
 |**2025-05-19**|**DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories**|Joel Jang et.al.|[2505.12705](http://arxiv.org/abs/2505.12705)|null|
@@ -9656,5 +9656,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 

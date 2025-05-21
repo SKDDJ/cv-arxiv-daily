@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -440,11 +440,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**Mean Flows for One-step Generative Modeling**|Zhengyang Geng et.al.|[2505.13447](http://arxiv.org/abs/2505.13447)|null|
 |**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432](http://arxiv.org/abs/2505.13432)|null|
-|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
+|**2025-05-20**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
-|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
+|**2025-05-20**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-20**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
 |**2025-05-19**|**Frequency-Dependent Power Consumption Modeling of CMOS Transmitters for WNoC Architectures**|Mohammad Shahmoradi et.al.|[2505.13310](http://arxiv.org/abs/2505.13310)|null|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
@@ -5015,12 +5015,12 @@ layout: default
 |**2025-05-19**|**Joint Velocity-Growth Flow Matching for Single-Cell Dynamics Modeling**|Dongyi Wang et.al.|[2505.13413](http://arxiv.org/abs/2505.13413)|null|
 |**2025-05-19**|**Faster Video Diffusion with Trainable Sparse Attention**|Peiyuan Zhang et.al.|[2505.13389](http://arxiv.org/abs/2505.13389)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
-|**2025-05-19**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
-|**2025-05-19**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
+|**2025-05-20**|**Minimum-Excess-Work Guidance**|Christopher Kolloff et.al.|[2505.13375](http://arxiv.org/abs/2505.13375)|null|
+|**2025-05-20**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
 |**2025-05-19**|**FlowPure: Continuous Normalizing Flows for Adversarial Purification**|Elias Collaert et.al.|[2505.13280](http://arxiv.org/abs/2505.13280)|**[link](https://github.com/distrinet/flowpure)**|
 |**2025-05-19**|**Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models**|Lucas Berry et.al.|[2505.13273](http://arxiv.org/abs/2505.13273)|null|
 |**2025-05-19**|**Diffusion Models with Double Guidance: Generate with aggregated datasets**|Yanfeng Yang et.al.|[2505.13213](http://arxiv.org/abs/2505.13213)|null|
-|**2025-05-19**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185](http://arxiv.org/abs/2505.13185)|null|
+|**2025-05-20**|**Filtering in a hazard rate change-point model with financial and life-insurance applications**|Matteo Buttarazzi et.al.|[2505.13185](http://arxiv.org/abs/2505.13185)|null|
 |**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
 |**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
 |**2025-05-19**|**Constraint-Aware Diffusion Guidance for Robotics: Real-Time Obstacle Avoidance for Autonomous Racing**|Hao Ma et.al.|[2505.13131](http://arxiv.org/abs/2505.13131)|null|
@@ -8116,7 +8116,7 @@ layout: default
 |**2025-05-19**|**MA-COIR: Leveraging Semantic Search Index and Generative Models for Ontology-Driven Biomedical Concept Recognition**|Shanshan Liu et.al.|[2505.12964](http://arxiv.org/abs/2505.12964)|**[link](https://github.com/sl-633/macoir-master)**|
 |**2025-05-19**|**RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions**|Junzhi Ning et.al.|[2505.12887](http://arxiv.org/abs/2505.12887)|null|
 |**2025-05-19**|**Causality-Inspired Robustness for Nonlinear Models via Representation Learning**|Marin Šola et.al.|[2505.12868](http://arxiv.org/abs/2505.12868)|null|
-|**2025-05-19**|**Practical Equivalence Testing and Its Application in Synthetic Pre-Crash Scenario Validation**|Jian Wu et.al.|[2505.12827](http://arxiv.org/abs/2505.12827)|null|
+|**2025-05-20**|**Practical Equivalence Testing and Its Application in Synthetic Pre-Crash Scenario Validation**|Jian Wu et.al.|[2505.12827](http://arxiv.org/abs/2505.12827)|null|
 |**2025-05-19**|**EAVIT: Efficient and Accurate Human Value Identification from Text data via LLMs**|Wenhao Zhu et.al.|[2505.12792](http://arxiv.org/abs/2505.12792)|null|
 |**2025-05-19**|**What is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Demystifying Mental-Health Stigma**|Han Meng et.al.|[2505.12727](http://arxiv.org/abs/2505.12727)|null|
 |**2025-05-19**|**DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories**|Joel Jang et.al.|[2505.12705](http://arxiv.org/abs/2505.12705)|null|
