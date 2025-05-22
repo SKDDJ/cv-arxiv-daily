@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,11 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-20**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
-|**2025-05-20**|**OSoRA: Output-Dimension and Singular-Value Initialized Low-Rank Adaptation**|Jialong Han et.al.|[2505.14350](http://arxiv.org/abs/2505.14350)|null|
+|**2025-05-21**|**Dual Decomposition of Weights and Singular Value Low Rank Adaptation**|Jialong Han et.al.|[2505.14367](http://arxiv.org/abs/2505.14367)|null|
+|**2025-05-21**|**OSoRA: Output-Dimension and Singular-Value Initialized Low-Rank Adaptation**|Jialong Han et.al.|[2505.14350](http://arxiv.org/abs/2505.14350)|null|
 |**2025-05-20**|**ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models**|Raghav Singhal et.al.|[2505.14238](http://arxiv.org/abs/2505.14238)|**[link](https://github.com/cert-lab/abba)**|
 |**2025-05-18**|**Adaptive parameter-efficient fine-tuning via Hessian-informed subset selection**|Shiyun Xu et.al.|[2505.12579](http://arxiv.org/abs/2505.12579)|null|
-|**2025-05-18**|**Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets**|Ahmet Bilican et.al.|[2505.12532](http://arxiv.org/abs/2505.12532)|null|
+|**2025-05-18**|**Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets**|Ahmet Bilican et.al.|[2505.12532](http://arxiv.org/abs/2505.12532)|**[link](https://github.com/bilican/sparse_peft)**|
 |**2025-05-18**|**SRLoRA: Subspace Recomposition in Low-Rank Adaptation via Importance-Based Fusion and Reinitialization**|Haodong Yang et.al.|[2505.12433](http://arxiv.org/abs/2505.12433)|null|
 |**2025-05-16**|**Memory-Efficient Orthogonal Fine-Tuning with Principal Subspace Adaptation**|Fei Wu et.al.|[2505.11235](http://arxiv.org/abs/2505.11235)|null|
 |**2025-05-15**|**Multi-Token Prediction Needs Registers**|Anastasios Gerontopoulos et.al.|[2505.10518](http://arxiv.org/abs/2505.10518)|**[link](https://github.com/nasosger/mutor)**|
@@ -433,7 +433,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -441,14 +441,14 @@
 |---|---|---|---|---|
 |**2025-05-20**|**NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search**|Sunhao Dai et.al.|[2505.14680](http://arxiv.org/abs/2505.14680)|null|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
-|**2025-05-20**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
+|**2025-05-21**|**General-Reasoner: Advancing LLM Reasoning Across All Domains**|Xueguang Ma et.al.|[2505.14652](http://arxiv.org/abs/2505.14652)|null|
 |**2025-05-20**|**Enhancing Learned Knowledge in LoRA Adapters Through Efficient Contrastive Decoding on Ascend NPUs**|Morgan Lindsay Heisler et.al.|[2505.14620](http://arxiv.org/abs/2505.14620)|null|
 |**2025-05-20**|**Towards a Foundation Model for Communication Systems**|Davide Buffelli et.al.|[2505.14603](http://arxiv.org/abs/2505.14603)|null|
 |**2025-05-20**|**Neural Inverse Scattering with Score-based Regularization**|Yuan Gao et.al.|[2505.14560](http://arxiv.org/abs/2505.14560)|null|
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
 |**2025-05-20**|**GUARD: Constructing Realistic Two-Player Matrix and Security Games for Benchmarking Game-Theoretic Algorithms**|Noah Krever et.al.|[2505.14547](http://arxiv.org/abs/2505.14547)|null|
 |**2025-05-20**|**NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation**|Matteo El-Hariry et.al.|[2505.14526](http://arxiv.org/abs/2505.14526)|null|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
 |**2025-05-20**|**A Direct Comparison of Simultaneously Recorded Scalp, Around-Ear, and In-Ear EEG for Neural Selective Auditory Attention Decoding to Speech**|Simon Geirnaert et.al.|[2505.14478](http://arxiv.org/abs/2505.14478)|null|
 |**2025-05-20**|**Enhancing Interpretability of Sparse Latent Representations with Class Information**|Farshad Sangari Abiz et.al.|[2505.14476](http://arxiv.org/abs/2505.14476)|null|
@@ -3555,7 +3555,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -4540,7 +4540,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -4840,7 +4840,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -5039,7 +5039,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -5047,7 +5047,7 @@
 |---|---|---|---|---|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
 |**2025-05-20**|**Dynadiff: Single-stage Decoding of Images from Continuously Evolving fMRI**|Marlène Careil et.al.|[2505.14556](http://arxiv.org/abs/2505.14556)|**[link](https://github.com/facebookresearch/dynadiff)**|
-|**2025-05-20**|**SparC: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
+|**2025-05-21**|**Sparc3D: Sparse Representation and Construction for High-Resolution 3D Shapes Modeling**|Zhihao Li et.al.|[2505.14521](http://arxiv.org/abs/2505.14521)|null|
 |**2025-05-20**|**Learning to Integrate Diffusion ODEs by Averaging the Derivatives**|Wenze Liu et.al.|[2505.14502](http://arxiv.org/abs/2505.14502)|null|
 |**2025-05-20**|**CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation**|Chihan Huang et.al.|[2505.14455](http://arxiv.org/abs/2505.14455)|null|
 |**2025-05-20**|**Compositional amortized inference for large-scale hierarchical Bayesian models**|Jonas Arruda et.al.|[2505.14429](http://arxiv.org/abs/2505.14429)|null|
@@ -7521,7 +7521,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -7533,7 +7533,7 @@
 |**2025-05-20**|**Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation**|Siddhant Bhambri et.al.|[2505.13792](http://arxiv.org/abs/2505.13792)|null|
 |**2025-05-20**|**Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels**|Yongshuo Zong et.al.|[2505.13788](http://arxiv.org/abs/2505.13788)|null|
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
-|**2025-05-19**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300](http://arxiv.org/abs/2505.13300)|**[link](https://github.com/nus-hpc-ai-lab/dd-ranking)**|
+|**2025-05-21**|**DD-Ranking: Rethinking the Evaluation of Dataset Distillation**|Zekai Li et.al.|[2505.13300](http://arxiv.org/abs/2505.13300)|**[link](https://github.com/nus-hpc-ai-lab/dd-ranking)**|
 |**2025-05-19**|**Distilling a speech and music encoder with task arithmetic**|Fabian Ritter-Gutierrez et.al.|[2505.13270](http://arxiv.org/abs/2505.13270)|null|
 |**2025-05-19**|**Quantum Knowledge Distillation for Large Language Models**|Lingxiao Li et.al.|[2505.13205](http://arxiv.org/abs/2505.13205)|null|
 |**2025-05-19**|**Why Knowledge Distillation Works in Generative Models: A Minimal Working Explanation**|Sungmin Cha et.al.|[2505.13111](http://arxiv.org/abs/2505.13111)|null|
@@ -8158,21 +8158,21 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-20**|**CSTS: A Benchmark for the Discovery of Correlation Structures in Time Series Clustering**|Isabella Degen et.al.|[2505.14596](http://arxiv.org/abs/2505.14596)|**[link](https://github.com/isabelladegen/corrclust-validation)**|
-|**2025-05-20**|**PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models**|He Zhu et.al.|[2505.14481](http://arxiv.org/abs/2505.14481)|null|
+|**2025-05-21**|**PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models**|He Zhu et.al.|[2505.14481](http://arxiv.org/abs/2505.14481)|null|
 |**2025-05-20**|**Scaling Low-Resource MT via Synthetic Data Generation with LLMs**|Ona de Gibert et.al.|[2505.14423](http://arxiv.org/abs/2505.14423)|null|
-|**2025-05-20**|**Improving the Γ-functions Method for Vortex Identification**|Quan Xie et.al.|[2505.14384](http://arxiv.org/abs/2505.14384)|null|
+|**2025-05-21**|**Improving the Γ-functions Method for Vortex Identification**|Quan Xie et.al.|[2505.14384](http://arxiv.org/abs/2505.14384)|null|
 |**2025-05-20**|**Challenges and Limitations in the Synthetic Generation of mHealth Sensor Data**|Flavio Di Martino et.al.|[2505.14206](http://arxiv.org/abs/2505.14206)|null|
 |**2025-05-20**|**From stability of Langevin diffusion to convergence of proximal MCMC for non-log-concave sampling**|Marien Renaud et.al.|[2505.14177](http://arxiv.org/abs/2505.14177)|null|
 |**2025-05-20**|**AUTOLAW: Enhancing Legal Compliance in Large Language Models via Case Law Generation and Jury-Inspired Deliberation**|Tai D. Nguyen et.al.|[2505.14015](http://arxiv.org/abs/2505.14015)|null|
 |**2025-05-20**|**A Probabilistic Perspective on Model Collapse**|Shirong Xu et.al.|[2505.13947](http://arxiv.org/abs/2505.13947)|null|
-|**2025-05-20**|**Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning**|Jingqi Tong et.al.|[2505.13886](http://arxiv.org/abs/2505.13886)|null|
+|**2025-05-20**|**Code2Logic: Game-Code-Driven Data Synthesis for Enhancing VLMs General Reasoning**|Jingqi Tong et.al.|[2505.13886](http://arxiv.org/abs/2505.13886)|**[link](https://github.com/tongjingqi/code2logic)**|
 |**2025-05-20**|**Graphon Mixtures**|Sevvandi Kandanaarachchi et.al.|[2505.13864](http://arxiv.org/abs/2505.13864)|null|
 |**2025-05-20**|**Context-Free Synthetic Data Mitigates Forgetting**|Parikshit Bansal et.al.|[2505.13811](http://arxiv.org/abs/2505.13811)|null|
 |**2025-05-20**|**LLMs Capture Urban Science but Oversimplify Complexity**|Yecheng Zhang et.al.|[2505.13803](http://arxiv.org/abs/2505.13803)|null|
@@ -9718,5 +9718,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
