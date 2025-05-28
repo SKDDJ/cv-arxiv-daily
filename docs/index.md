@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,8 +21,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
+|**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
 |**2025-05-25**|**Optimization-Inspired Few-Shot Adaptation for Large Language Models**|Boyan Gao et.al.|[2505.19107](http://arxiv.org/abs/2505.19107)|null|
-|**2025-05-25**|**Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs**|Jaemin Kim et.al.|[2505.19075](http://arxiv.org/abs/2505.19075)|null|
+|**2025-05-27**|**Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs**|Jaemin Kim et.al.|[2505.19075](http://arxiv.org/abs/2505.19075)|null|
 |**2025-05-24**|**HD-PiSSA: High-Rank Distributed Orthogonal Adaptation**|Yiding Wang et.al.|[2505.18777](http://arxiv.org/abs/2505.18777)|null|
 |**2025-05-24**|**AuroRA: Breaking Low-Rank Bottleneck of LoRA with Nonlinear Mapping**|Haonan Dong et.al.|[2505.18738](http://arxiv.org/abs/2505.18738)|null|
 |**2025-05-24**|**LLM-QFL: Distilling Large Language Model for Quantum Federated Learning**|Dev Gurung et.al.|[2505.18656](http://arxiv.org/abs/2505.18656)|null|
@@ -454,6 +456,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Multimodal Federated Learning With Missing Modalities through Feature Imputation Network**|Pranav Poudel et.al.|[2505.20232](http://arxiv.org/abs/2505.20232)|null|
+|**2025-05-26**|**Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence**|Edem Ahadzi et.al.|[2505.20216](http://arxiv.org/abs/2505.20216)|null|
+|**2025-05-26**|**Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking**|Pengxiang Li et.al.|[2505.20199](http://arxiv.org/abs/2505.20199)|null|
+|**2025-05-26**|**Private Geometric Median in Nearly-Linear Time**|Syamantak Kumar et.al.|[2505.20189](http://arxiv.org/abs/2505.20189)|null|
+|**2025-05-26**|**Exposing Go's Hidden Bugs: A Novel Concolic Framework**|Karolina Gorna et.al.|[2505.20183](http://arxiv.org/abs/2505.20183)|null|
+|**2025-05-26**|**Long-Context State-Space Video World Models**|Ryan Po et.al.|[2505.20171](http://arxiv.org/abs/2505.20171)|null|
 |**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131](http://arxiv.org/abs/2505.20131)|null|
 |**2025-05-26**|**Understanding Generalization in Diffusion Models via Probability Flow Distance**|Huijie Zhang et.al.|[2505.20123](http://arxiv.org/abs/2505.20123)|null|
 |**2025-05-26**|**Proxy-Free GFlowNet**|Ruishuo Chen et.al.|[2505.20110](http://arxiv.org/abs/2505.20110)|null|
@@ -5151,6 +5159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Long-Context State-Space Video World Models**|Ryan Po et.al.|[2505.20171](http://arxiv.org/abs/2505.20171)|null|
 |**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131](http://arxiv.org/abs/2505.20131)|null|
 |**2025-05-26**|**Understanding Generalization in Diffusion Models via Probability Flow Distance**|Huijie Zhang et.al.|[2505.20123](http://arxiv.org/abs/2505.20123)|null|
 |**2025-05-26**|**Refining Few-Step Text-to-Multiview Diffusion via Reinforcement Learning**|Ziyi Zhang et.al.|[2505.20107](http://arxiv.org/abs/2505.20107)|null|
@@ -5162,7 +5171,7 @@ layout: default
 |**2025-05-26**|**On a retarded stochastic system with discrete diffusion modeling life tables**|Tomás Caraballo et.al.|[2505.19835](http://arxiv.org/abs/2505.19835)|null|
 |**2025-05-26**|**TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning**|Yuhui Chen et.al.|[2505.19769](http://arxiv.org/abs/2505.19769)|null|
 |**2025-05-26**|**On some coupled local and nonlocal diffusion models**|Juan Pablo Borthagaray et.al.|[2505.19765](http://arxiv.org/abs/2505.19765)|null|
-|**2025-05-26**|**SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model**|Hala Djeghim et.al.|[2505.19751](http://arxiv.org/abs/2505.19751)|null|
+|**2025-05-27**|**SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model**|Hala Djeghim et.al.|[2505.19751](http://arxiv.org/abs/2505.19751)|null|
 |**2025-05-26**|**Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning**|Quentin Rouxel et.al.|[2505.19717](http://arxiv.org/abs/2505.19717)|null|
 |**2025-05-26**|**On the Relation between Rectified Flows and Optimal Transport**|Johannes Hertrich et.al.|[2505.19712](http://arxiv.org/abs/2505.19712)|null|
 |**2025-05-26**|**Knowledge-Aligned Counterfactual-Enhancement Diffusion Perception for Unsupervised Cross-Domain Visual Emotion Recognition**|Wen Yin et.al.|[2505.19694](http://arxiv.org/abs/2505.19694)|null|
@@ -7691,6 +7700,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|null|
 |**2025-05-26**|**Model Stitching by Functional Latent Alignment**|Ioannis Athanasiadis et.al.|[2505.20142](http://arxiv.org/abs/2505.20142)|null|
 |**2025-05-26**|**Data-Distill-Net: A Data Distillation Approach Tailored for Reply-based Continual Learning**|Wenyang Liao et.al.|[2505.20135](http://arxiv.org/abs/2505.20135)|null|
 |**2025-05-26**|**From Data to Modeling: Fully Open-vocabulary Scene Graph Generation**|Zuyao Chen et.al.|[2505.20106](http://arxiv.org/abs/2505.20106)|null|
@@ -8356,17 +8366,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Multimodal Federated Learning With Missing Modalities through Feature Imputation Network**|Pranav Poudel et.al.|[2505.20232](http://arxiv.org/abs/2505.20232)|null|
+|**2025-05-26**|**Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations**|Mohit Chandra et.al.|[2505.20201](http://arxiv.org/abs/2505.20201)|null|
+|**2025-05-26**|**From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data**|Chun-Yi Kuan et.al.|[2505.20166](http://arxiv.org/abs/2505.20166)|null|
+|**2025-05-26**|**Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning**|Jaehun Jung et.al.|[2505.20161](http://arxiv.org/abs/2505.20161)|null|
 |**2025-05-26**|**MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models**|Anh Thai et.al.|[2505.20122](http://arxiv.org/abs/2505.20122)|null|
 |**2025-05-26**|**TabPFN: One Model to Rule Them All?**|Qiong Zhang et.al.|[2505.20003](http://arxiv.org/abs/2505.20003)|null|
 |**2025-05-26**|**Learning Optimal Multimodal Information Bottleneck Representations**|Qilong Wu et.al.|[2505.19996](http://arxiv.org/abs/2505.19996)|null|
 |**2025-05-26**|**REA-RL: Reflection-Aware Online Reinforcement Learning for Efficient Large Reasoning Models**|Hexuan Deng et.al.|[2505.19862](http://arxiv.org/abs/2505.19862)|null|
 |**2025-05-26**|**A Unified Solution to Video Fusion: From Multi-Frame Learning to Benchmarking**|Zixiang Zhao et.al.|[2505.19858](http://arxiv.org/abs/2505.19858)|null|
 |**2025-05-26**|**SGM: A Framework for Building Specification-Guided Moderation Filters**|Masoomali Fatehkia et.al.|[2505.19766](http://arxiv.org/abs/2505.19766)|null|
-|**2025-05-26**|**SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model**|Hala Djeghim et.al.|[2505.19751](http://arxiv.org/abs/2505.19751)|null|
+|**2025-05-27**|**SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model**|Hala Djeghim et.al.|[2505.19751](http://arxiv.org/abs/2505.19751)|null|
 |**2025-05-26**|**Improving Heart Rejection Detection in XPCI Images Using Synthetic Data Augmentation**|Jakov Samardžija et.al.|[2505.19746](http://arxiv.org/abs/2505.19746)|null|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
-|**2025-05-26**|**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**|Junteng Liu et.al.|[2505.19641](http://arxiv.org/abs/2505.19641)|null|
+|**2025-05-27**|**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**|Junteng Liu et.al.|[2505.19641](http://arxiv.org/abs/2505.19641)|null|
 |**2025-05-26**|**Model Agnostic Differentially Private Causal Inference**|Christiant Lebeda et.al.|[2505.19589](http://arxiv.org/abs/2505.19589)|null|
 |**2025-05-26**|**Situationally-Aware Dynamics Learning**|Alejandro Murillo-Gonzalez et.al.|[2505.19574](http://arxiv.org/abs/2505.19574)|null|
 |**2025-05-26**|**SIPDO: Closed-Loop Prompt Optimization via Synthetic Data Feedback**|Yaoning Yu et.al.|[2505.19514](http://arxiv.org/abs/2505.19514)|null|
