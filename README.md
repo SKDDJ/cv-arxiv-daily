@@ -1,4 +1,4 @@
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -453,7 +453,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -473,7 +473,7 @@
 |**2025-05-28**|**Cascaded 3D Diffusion Models for Whole-body 3D 18-F FDG PET/CT synthesis from Demographics**|Siyeop Yoon et.al.|[2505.22489](http://arxiv.org/abs/2505.22489)|null|
 |**2025-05-28**|**Understanding Adversarial Training with Energy-based Models**|Mujtaba Hussain Mirza et.al.|[2505.22486](http://arxiv.org/abs/2505.22486)|null|
 |**2025-05-28**|**CPINN-ABPI: Physics-Informed Neural Networks for Accurate Power Estimation in MPSoCs**|Mohamed R. Elshamy et.al.|[2505.22469](http://arxiv.org/abs/2505.22469)|null|
-|**2025-05-28**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
+|**2025-05-29**|**Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems**|Jiaxi Yang et.al.|[2505.22467](http://arxiv.org/abs/2505.22467)|null|
 |**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
 |**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
 |**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
@@ -3671,7 +3671,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -3680,14 +3680,14 @@
 |**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596](http://arxiv.org/abs/2505.22596)|null|
 |**2025-05-28**|**Thinking with Generated Images**|Ethan Chern et.al.|[2505.22525](http://arxiv.org/abs/2505.22525)|null|
 |**2025-05-28**|**From Large AI Models to Agentic AI: A Tutorial on Future Intelligent Communications**|Feibo Jiang et.al.|[2505.22311](http://arxiv.org/abs/2505.22311)|null|
-|**2025-05-28**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
+|**2025-05-29**|**YH-MINER: Multimodal Intelligent System for Natural Ecological Reef Metric Extraction**|Mingzhuang Wang et.al.|[2505.22250](http://arxiv.org/abs/2505.22250)|null|
 |**2025-05-28**|**Flexible Tool Selection through Low-dimensional Attribute Alignment of Vision and Language**|Guangfu Hao et.al.|[2505.22146](http://arxiv.org/abs/2505.22146)|null|
 |**2025-05-28**|**SridBench: Benchmark of Scientific Research Illustration Drawing of Image Generation Model**|Yifan Chang et.al.|[2505.22126](http://arxiv.org/abs/2505.22126)|null|
 |**2025-05-28**|**Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset**|Fakhraddin Alwajih et.al.|[2505.21979](http://arxiv.org/abs/2505.21979)|null|
 |**2025-05-27**|**A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features**|Ihab Bendidi et.al.|[2505.21317](http://arxiv.org/abs/2505.21317)|null|
 |**2025-05-27**|**Predicting Implicit Arguments in Procedural Video Instructions**|Anil Batra et.al.|[2505.21068](http://arxiv.org/abs/2505.21068)|null|
 |**2025-05-27**|**PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding**|Ansel Blume et.al.|[2505.20759](http://arxiv.org/abs/2505.20759)|null|
-|**2025-05-27**|**Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models**|Yufei Zhan et.al.|[2505.20753](http://arxiv.org/abs/2505.20753)|null|
+|**2025-05-27**|**Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models**|Yufei Zhan et.al.|[2505.20753](http://arxiv.org/abs/2505.20753)|**[link](https://github.com/jefferyzhan/griffon)**|
 |**2025-05-26**|**CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic**|Yuxuan Sun et.al.|[2505.20510](http://arxiv.org/abs/2505.20510)|null|
 |**2025-05-26**|**MangaVQA and MangaLMM: A Benchmark and Specialized Model for Multimodal Manga Understanding**|Jeonghun Baek et.al.|[2505.20298](http://arxiv.org/abs/2505.20298)|**[link](https://github.com/manga109/mangalmm)**|
 |**2025-05-26**|**VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction**|Zhiwen Fan et.al.|[2505.20279](http://arxiv.org/abs/2505.20279)|null|
@@ -4705,7 +4705,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -5012,7 +5012,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -5211,7 +5211,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -7784,7 +7784,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -7797,7 +7797,7 @@
 |**2025-05-28**|**RAD: Redundancy-Aware Distillation for Hybrid Models via Self-Speculative Decoding**|Yuichiro Hoshino et.al.|[2505.22135](http://arxiv.org/abs/2505.22135)|null|
 |**2025-05-28**|**Delayed-KD: Delayed Knowledge Distillation based CTC for Low-Latency Streaming ASR**|Longhao Li et.al.|[2505.22069](http://arxiv.org/abs/2505.22069)|null|
 |**2025-05-28**|**Improving Respiratory Sound Classification with Architecture-Agnostic Knowledge Distillation from Ensembles**|Miika Toikkanen et.al.|[2505.22027](http://arxiv.org/abs/2505.22027)|null|
-|**2025-05-28**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
+|**2025-05-29**|**CAST: Contrastive Adaptation and Distillation for Semi-Supervised Instance Segmentation**|Pardis Taghavi et.al.|[2505.21904](http://arxiv.org/abs/2505.21904)|null|
 |**2025-05-27**|**TuneComp: Joint Fine-tuning and Compression for Large Foundation Models**|Xiangyu Chen et.al.|[2505.21835](http://arxiv.org/abs/2505.21835)|null|
 |**2025-05-27**|**Knowledge Distillation Approach for SOS Fusion Staging: Towards Fully Automated Skeletal Maturity Assessment**|Omid Halimi Milani et.al.|[2505.21561](http://arxiv.org/abs/2505.21561)|null|
 |**2025-05-27**|**A Cross Modal Knowledge Distillation & Data Augmentation Recipe for Improving Transcriptomics Representations through Morphological Features**|Ihab Bendidi et.al.|[2505.21317](http://arxiv.org/abs/2505.21317)|null|
@@ -8466,7 +8466,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -10110,5 +10110,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
 
