@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,10 +22,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
-|**2025-05-27**|**DLP: Dynamic Layerwise Pruning in Large Language Models**|Yuli Chen et.al.|[2505.23807](http://arxiv.org/abs/2505.23807)|null|
+|**2025-06-02**|**DLP: Dynamic Layerwise Pruning in Large Language Models**|Yuli Chen et.al.|[2505.23807](http://arxiv.org/abs/2505.23807)|null|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
 |**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
-|**2025-05-29**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
+|**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
 |**2025-05-29**|**Weight Spectra Induced Efficient Model Adaptation**|Chongjie Si et.al.|[2505.23099](http://arxiv.org/abs/2505.23099)|null|
 |**2025-05-29**|**MAP: Revisiting Weight Decomposition for Low-Rank Adaptation**|Chongjie Si et.al.|[2505.23094](http://arxiv.org/abs/2505.23094)|null|
 |**2025-05-28**|**MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning**|Dacao Zhang et.al.|[2505.22694](http://arxiv.org/abs/2505.22694)|null|
@@ -3719,7 +3719,7 @@ layout: default
 |**2025-05-30**|**When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways**|Kailin Jiang et.al.|[2505.24449](http://arxiv.org/abs/2505.24449)|null|
 |**2025-05-29**|**Towards disentangling the contributions of articulation and acoustics in multimodal phoneme recognition**|Sean Foley et.al.|[2505.24059](http://arxiv.org/abs/2505.24059)|null|
 |**2025-05-29**|**Semantics-Guided Generative Image Compression**|Cheng-Lin Wu et.al.|[2505.24015](http://arxiv.org/abs/2505.24015)|null|
-|**2025-05-29**|**Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles**|Zifu Wang et.al.|[2505.23590](http://arxiv.org/abs/2505.23590)|**[link](https://github.com/zifuwanggg/jigsaw-r1)**|
+|**2025-06-02**|**Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles**|Zifu Wang et.al.|[2505.23590](http://arxiv.org/abs/2505.23590)|**[link](https://github.com/zifuwanggg/jigsaw-r1)**|
 |**2025-05-29**|**Evaluating AI capabilities in detecting conspiracy theories on YouTube**|Leonardo La Rocca et.al.|[2505.23570](http://arxiv.org/abs/2505.23570)|**[link](https://github.com/leoli51/youtube-conspiracy-detection)**|
 |**2025-05-29**|**OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data**|Fengxiang Wang et.al.|[2505.23522](http://arxiv.org/abs/2505.23522)|null|
 |**2025-05-29**|**Bidirectional predictive coding**|Gaspard Oliviers et.al.|[2505.23415](http://arxiv.org/abs/2505.23415)|null|
@@ -8555,7 +8555,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868](http://arxiv.org/abs/2505.24868)|null|
-|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832](http://arxiv.org/abs/2505.24832)|null|
+|**2025-06-02**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832](http://arxiv.org/abs/2505.24832)|null|
 |**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|null|
 |**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
 |**2025-05-30**|**Multi-Domain ABSA Conversation Dataset Generation via LLMs for Real-World Evaluation and Model Comparison**|Tejul Pandit et.al.|[2505.24701](http://arxiv.org/abs/2505.24701)|null|
