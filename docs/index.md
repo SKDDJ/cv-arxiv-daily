@@ -21,6 +21,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-01**|**Taming LLMs by Scaling Learning Rates with Gradient Grouping**|Siyuan Li et.al.|[2506.01049](http://arxiv.org/abs/2506.01049)|null|
+|**2025-06-01**|**FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning**|Rukuo Li et.al.|[2506.01001](http://arxiv.org/abs/2506.01001)|null|
+|**2025-06-01**|**Uni-LoRA: One Vector is All You Need**|Kaiyang Li et.al.|[2506.00799](http://arxiv.org/abs/2506.00799)|null|
+|**2025-05-31**|**Assortment of Attention Heads: Accelerating Federated PEFT with Head Pruning and Strategic Client Selection**|Yeshwanth Venkatesha et.al.|[2506.00743](http://arxiv.org/abs/2506.00743)|null|
+|**2025-05-31**|**FLoE: Fisher-Based Layer Selection for Efficient Sparse Adaptation of Low-Rank Experts**|Xinyi Wang et.al.|[2506.00495](http://arxiv.org/abs/2506.00495)|null|
+|**2025-05-30**|**Localized LoRA: A Structured Low-Rank Approximation for Efficient Fine-Tuning**|Babak Barazandeh et.al.|[2506.00236](http://arxiv.org/abs/2506.00236)|null|
 |**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
 |**2025-06-03**|**DLP: Dynamic Layerwise Pruning in Large Language Models**|Yuli Chen et.al.|[2505.23807](http://arxiv.org/abs/2505.23807)|null|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
@@ -469,6 +475,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**SG2VID: Scene Graphs Enable Fine-Grained Control for Video Synthesis**|Ssharvien Kumar Sivakumar et.al.|[2506.03082](http://arxiv.org/abs/2506.03082)|null|
+|**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Xiuyu Yang et.al.|[2506.03079](http://arxiv.org/abs/2506.03079)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**Sample complexity of Schrödinger potential estimation**|Nikita Puchkin et.al.|[2506.03043](http://arxiv.org/abs/2506.03043)|null|
+|**2025-06-03**|**TestAgent: An Adaptive and Intelligent Expert for Human Assessment**|Junhao Yu et.al.|[2506.03032](http://arxiv.org/abs/2506.03032)|null|
+|**2025-06-03**|**DFBench: Benchmarking Deepfake Image Detection Capability of Large Multimodal Models**|Jiarui Wang et.al.|[2506.03007](http://arxiv.org/abs/2506.03007)|null|
+|**2025-06-03**|**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**|Junyu Liu et.al.|[2506.03004](http://arxiv.org/abs/2506.03004)|null|
+|**2025-06-03**|**Astrophotography turbulence mitigation via generative models**|Joonyeoup Kim et.al.|[2506.02981](http://arxiv.org/abs/2506.02981)|null|
+|**2025-06-03**|**UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models**|Zewen Yang et.al.|[2506.02955](http://arxiv.org/abs/2506.02955)|null|
+|**2025-06-03**|**Elasticity of substitution and general model of economic growth**|Constantin Chilarescu et.al.|[2506.02936](http://arxiv.org/abs/2506.02936)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
@@ -3715,6 +3736,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**DFBench: Benchmarking Deepfake Image Detection Capability of Large Multimodal Models**|Jiarui Wang et.al.|[2506.03007](http://arxiv.org/abs/2506.03007)|null|
+|**2025-06-03**|**Enriching Location Representation with Detailed Semantic Information**|Junyuan Liu et.al.|[2506.02744](http://arxiv.org/abs/2506.02744)|null|
+|**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
+|**2025-06-02**|**RoboEgo System Card: An Omnimodal Model with Native Full Duplexity**|Yiqun Yao et.al.|[2506.01934](http://arxiv.org/abs/2506.01934)|null|
+|**2025-06-02**|**Is Extending Modality The Right Path Towards Omni-Modality?**|Tinghui Zhu et.al.|[2506.01872](http://arxiv.org/abs/2506.01872)|null|
+|**2025-06-02**|**ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding**|Junliang Ye et.al.|[2506.01853](http://arxiv.org/abs/2506.01853)|null|
+|**2025-06-02**|**Generate, Not Recommend: Personalized Multimodal Content Generation**|Jiongnan Liu et.al.|[2506.01704](http://arxiv.org/abs/2506.01704)|null|
+|**2025-06-02**|**EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models**|Yan Shu et.al.|[2506.01667](http://arxiv.org/abs/2506.01667)|null|
+|**2025-06-02**|**Confidence-Aware Self-Distillation for Multimodal Sentiment Analysis with Incomplete Modalities**|Yanxi Luo et.al.|[2506.01490](http://arxiv.org/abs/2506.01490)|null|
+|**2025-06-02**|**Contra4: Evaluating Contrastive Cross-Modal Reasoning in Audio, Video, Image, and 3D**|Artemis Panagopoulou et.al.|[2506.01275](http://arxiv.org/abs/2506.01275)|null|
+|**2025-06-01**|**TIME: TabPFN-Integrated Multimodal Engine for Robust Tabular-Image Learning**|Jiaqi Luo et.al.|[2506.00813](http://arxiv.org/abs/2506.00813)|null|
+|**2025-05-30**|**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**|Can Polat et.al.|[2506.00302](http://arxiv.org/abs/2506.00302)|null|
 |**2025-05-30**|**Mixpert: Mitigating Multimodal Learning Conflicts with Efficient Mixture-of-Vision-Experts**|Xin He et.al.|[2505.24541](http://arxiv.org/abs/2505.24541)|null|
 |**2025-05-30**|**When Large Multimodal Models Confront Evolving Knowledge:Challenges and Pathways**|Kailin Jiang et.al.|[2505.24449](http://arxiv.org/abs/2505.24449)|null|
 |**2025-05-29**|**Towards disentangling the contributions of articulation and acoustics in multimodal phoneme recognition**|Sean Foley et.al.|[2505.24059](http://arxiv.org/abs/2505.24059)|null|
@@ -4760,6 +4793,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-01**|**Weight-Space Linear Recurrent Neural Networks**|Roussel Desmond Nzoyem et.al.|[2506.01153](http://arxiv.org/abs/2506.01153)|null|
+|**2025-05-30**|**$\mathrm{SL}(2,\mathbb{R})$ families of Kerr black holes**|Robert Penna et.al.|[2506.00184](http://arxiv.org/abs/2506.00184)|null|
 |**2025-05-29**|**Walking the Weight Manifold: a Topological Approach to Conditioning Inspired by Neuromodulation**|Ari S. Benjamin et.al.|[2505.22994](http://arxiv.org/abs/2505.22994)|null|
 |**2025-05-28**|**From Dormant to Deleted: Tamper-Resistant Unlearning Through Weight-Space Regularization**|Shoaib Ahmed Siddiqui et.al.|[2505.22310](http://arxiv.org/abs/2505.22310)|null|
 |**2025-05-27**|**Can Large Language Models Predict Audio Effects Parameters from Natural Language?**|Seungheon Doh et.al.|[2505.20770](http://arxiv.org/abs/2505.20770)|null|
@@ -5263,6 +5298,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
+|**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**EDITOR: Effective and Interpretable Prompt Inversion for Text-to-Image Diffusion Models**|Mingzhe Li et.al.|[2506.03067](http://arxiv.org/abs/2506.03067)|null|
+|**2025-06-03**|**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**|Junyu Liu et.al.|[2506.03004](http://arxiv.org/abs/2506.03004)|null|
+|**2025-06-03**|**Astrophotography turbulence mitigation via generative models**|Joonyeoup Kim et.al.|[2506.02981](http://arxiv.org/abs/2506.02981)|null|
+|**2025-06-03**|**Diffusion Buffer: Online Diffusion-based Speech Enhancement with Sub-Second Latency**|Bunlong Lay et.al.|[2506.02908](http://arxiv.org/abs/2506.02908)|null|
+|**2025-06-03**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization**|Geonyoung Lee et.al.|[2506.02858](http://arxiv.org/abs/2506.02858)|null|
+|**2025-06-03**|**Optimal control of the Poisson equation with transport regularization: Properties of optimal transport plans and transport map**|Christian Meyer et.al.|[2506.02808](http://arxiv.org/abs/2506.02808)|null|
+|**2025-06-03**|**Geometric Visual Servo Via Optimal Transport**|Ethan Canzini et.al.|[2506.02768](http://arxiv.org/abs/2506.02768)|null|
+|**2025-06-03**|**Investigating Mask-aware Prototype Learning for Tabular Anomaly Detection**|Ruiying Lu et.al.|[2506.02757](http://arxiv.org/abs/2506.02757)|null|
+|**2025-06-03**|**Theoretical Performance Guarantees for Partial Domain Adaptation via Partial Optimal Transport**|Jayadev Naram et.al.|[2506.02712](http://arxiv.org/abs/2506.02712)|null|
+|**2025-06-03**|**Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion Models with Varied Human Preferences**|Yunhong Lu et.al.|[2506.02698](http://arxiv.org/abs/2506.02698)|null|
+|**2025-06-03**|**MotionRAG-Diff: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation**|Mingyang Huang et.al.|[2506.02661](http://arxiv.org/abs/2506.02661)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
@@ -7864,6 +7914,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Targeted Forgetting of Image Subgroups in CLIP Models**|Zeliang Zhang et.al.|[2506.03117](http://arxiv.org/abs/2506.03117)|null|
+|**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
+|**2025-06-03**|**MTL-KD: Multi-Task Learning Via Knowledge Distillation for Generalizable Neural Vehicle Routing Solver**|Yuepeng Zheng et.al.|[2506.02935](http://arxiv.org/abs/2506.02935)|null|
+|**2025-06-03**|**Large-scale Self-supervised Video Foundation Model for Intelligent Surgery**|Shu Yang et.al.|[2506.02692](http://arxiv.org/abs/2506.02692)|null|
+|**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
+|**2025-06-03**|**Towards Better De-raining Generalization via Rainy Characteristics Memorization and Replay**|Kunyu Wang et.al.|[2506.02477](http://arxiv.org/abs/2506.02477)|null|
+|**2025-06-02**|**Improving Knowledge Distillation Under Unknown Covariate Shift Through Confidence-Guided Data Augmentation**|Niclas Popp et.al.|[2506.02294](http://arxiv.org/abs/2506.02294)|null|
+|**2025-06-02**|**VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis**|Manas Mehta et.al.|[2506.02229](http://arxiv.org/abs/2506.02229)|null|
+|**2025-06-02**|**KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning**|Hongling Xu et.al.|[2506.02208](http://arxiv.org/abs/2506.02208)|null|
+|**2025-06-02**|**MLLMs Need 3D-Aware Representation Supervision for Scene Understanding**|Xiaohu Huang et.al.|[2506.01946](http://arxiv.org/abs/2506.01946)|null|
+|**2025-06-02**|**OD3: Optimization-free Dataset Distillation for Object Detection**|Salwa K. Al Khatib et.al.|[2506.01942](http://arxiv.org/abs/2506.01942)|null|
+|**2025-06-02**|**Frugal Machine Learning for Energy-efficient, and Resource-aware Artificial Intelligence**|John Violos et.al.|[2506.01869](http://arxiv.org/abs/2506.01869)|null|
+|**2025-06-02**|**Multi-Modal Dataset Distillation in the Wild**|Zhuohang Dang et.al.|[2506.01586](http://arxiv.org/abs/2506.01586)|null|
+|**2025-06-02**|**Analyzing the Importance of Blank for CTC-Based Knowledge Distillation**|Benedikt Hilmes et.al.|[2506.01503](http://arxiv.org/abs/2506.01503)|null|
+|**2025-06-03**|**Unlearning's Blind Spots: Over-Unlearning and Prototypical Relearning Attack**|SeungBum Ha et.al.|[2506.01318](http://arxiv.org/abs/2506.01318)|null|
 |**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
 |**2025-05-30**|**A Simple Linear Patch Revives Layer-Pruned Large Language Models**|Xinrui Chen et.al.|[2505.24680](http://arxiv.org/abs/2505.24680)|null|
 |**2025-05-30**|**Hyperbolic Dataset Distillation**|Wenyuan Li et.al.|[2505.24623](http://arxiv.org/abs/2505.24623)|null|
@@ -8554,6 +8619,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107](http://arxiv.org/abs/2506.03107)|null|
+|**2025-06-03**|**Corrigibility as a Singular Target: A Vision for Inherently Reliable Foundation Models**|Ram Potham et.al.|[2506.03056](http://arxiv.org/abs/2506.03056)|null|
+|**2025-06-03**|**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**|Junyu Liu et.al.|[2506.03004](http://arxiv.org/abs/2506.03004)|null|
+|**2025-06-03**|**Towards a Japanese Full-duplex Spoken Dialogue System**|Atsumoto Ohashi et.al.|[2506.02979](http://arxiv.org/abs/2506.02979)|null|
+|**2025-06-03**|**Interaction Field Matching: Overcoming Limitations of Electrostatic Models**|Stepan I. Manukhov et.al.|[2506.02950](http://arxiv.org/abs/2506.02950)|null|
+|**2025-06-03**|**INESC-ID @ eRisk 2025: Exploring Fine-Tuned, Similarity-Based, and Prompt-Based Approaches to Depression Symptom Identification**|Diogo A. P. Nunes et.al.|[2506.02924](http://arxiv.org/abs/2506.02924)|null|
+|**2025-06-03**|**Enhancing Abnormality Identification: Robust Out-of-Distribution Strategies for Deepfake Detection**|Luca Maiano et.al.|[2506.02857](http://arxiv.org/abs/2506.02857)|null|
+|**2025-06-03**|**CART-based Synthetic Tabular Data Generation for Imbalanced Regression**|António Pedro Pinheiro et.al.|[2506.02811](http://arxiv.org/abs/2506.02811)|null|
+|**2025-06-03**|**Decentralized COVID-19 Health System Leveraging Blockchain**|Lingsheng Chen et.al.|[2506.02674](http://arxiv.org/abs/2506.02674)|null|
+|**2025-06-03**|**Hyperspectral Image Generation with Unmixing Guided Diffusion Model**|Shiyu Shen et.al.|[2506.02601](http://arxiv.org/abs/2506.02601)|null|
+|**2025-06-03**|**KARE-RAG: Knowledge-Aware Refinement and Enhancement for RAG**|Yongjian Li et.al.|[2506.02503](http://arxiv.org/abs/2506.02503)|null|
+|**2025-06-03**|**Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning**|Haowen Xu et.al.|[2506.02485](http://arxiv.org/abs/2506.02485)|null|
+|**2025-06-03**|**IP-Dialog: Evaluating Implicit Personalization in Dialogue Systems with Synthetic Data**|Bo Peng et.al.|[2506.02449](http://arxiv.org/abs/2506.02449)|null|
+|**2025-06-03**|**The Devil is in the Darkness: Diffusion-Based Nighttime Dehazing Anchored in Brightness Perception**|Xiaofeng Cong et.al.|[2506.02395](http://arxiv.org/abs/2506.02395)|null|
+|**2025-06-03**|**NextQuill: Causal Preference Modeling for Enhancing LLM Personalization**|Xiaoyan Zhao et.al.|[2506.02368](http://arxiv.org/abs/2506.02368)|null|
 |**2025-05-30**|**Consistent line clustering using geometric hypergraphs**|Kalle Alaluusua et.al.|[2505.24868](http://arxiv.org/abs/2505.24868)|null|
 |**2025-06-02**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832](http://arxiv.org/abs/2505.24832)|null|
 |**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|null|
