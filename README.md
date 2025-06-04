@@ -1,4 +1,4 @@
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
-|**2025-06-02**|**DLP: Dynamic Layerwise Pruning in Large Language Models**|Yuli Chen et.al.|[2505.23807](http://arxiv.org/abs/2505.23807)|null|
+|**2025-06-03**|**DLP: Dynamic Layerwise Pruning in Large Language Models**|Yuli Chen et.al.|[2505.23807](http://arxiv.org/abs/2505.23807)|null|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
 |**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
 |**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
@@ -28,7 +28,7 @@
 |**2025-05-28**|**On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation**|Liyao Tang et.al.|[2505.22444](http://arxiv.org/abs/2505.22444)|null|
 |**2025-05-28**|**Look Within or Look Beyond? A Theoretical Comparison Between Parameter-Efficient and Full Fine-Tuning**|Yongkang Liu et.al.|[2505.22355](http://arxiv.org/abs/2505.22355)|null|
 |**2025-05-28**|**LoKI: Low-damage Knowledge Implanting of Large Language Models**|Runyu Wang et.al.|[2505.22120](http://arxiv.org/abs/2505.22120)|**[link](https://github.com/Nexround/LoKI)**|
-|**2025-05-28**|**InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective**|Yuanhong Zhang et.al.|[2505.21920](http://arxiv.org/abs/2505.21920)|null|
+|**2025-06-03**|**InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective**|Yuanhong Zhang et.al.|[2505.21920](http://arxiv.org/abs/2505.21920)|null|
 |**2025-05-26**|**GraLoRA: Granular Low-Rank Adaptation for Parameter-Efficient Fine-Tuning**|Yeonjoon Jung et.al.|[2505.20355](http://arxiv.org/abs/2505.20355)|null|
 |**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
 |**2025-05-26**|**UORA: Uniform Orthogonal Reinitialization Adaptation in Parameter-Efficient Fine-Tuning of Large Models**|Xueyan Zhang et.al.|[2505.20154](http://arxiv.org/abs/2505.20154)|null|
@@ -461,7 +461,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -478,7 +478,7 @@
 |**2025-05-30**|**Inference Acceleration of Autoregressive Normalizing Flows by Selective Jacobi Decoding**|Jiaru Zhang et.al.|[2505.24791](http://arxiv.org/abs/2505.24791)|null|
 |**2025-05-30**|**AXIOM: Learning to Play Games in Minutes with Expanding Object-Centric Models**|Conor Heins et.al.|[2505.24784](http://arxiv.org/abs/2505.24784)|null|
 |**2025-05-30**|**QGAN-based data augmentation for hybrid quantum-classical neural networks**|Run-Ze He et.al.|[2505.24780](http://arxiv.org/abs/2505.24780)|null|
-|**2025-05-30**|**EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**|Yidong Luo et.al.|[2505.24779](http://arxiv.org/abs/2505.24779)|null|
+|**2025-06-03**|**EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**|Yidong Luo et.al.|[2505.24779](http://arxiv.org/abs/2505.24779)|null|
 |**2025-05-30**|**Diffusion-Based Symbolic Regression**|Zachary Bastiani et.al.|[2505.24776](http://arxiv.org/abs/2505.24776)|null|
 |**2025-05-30**|**Supporting product launching decisions with adversarial risk analysis**|Pablo G. Arce et.al.|[2505.24771](http://arxiv.org/abs/2505.24771)|null|
 |**2025-05-30**|**Generalization Dynamics of Linear Diffusion Models**|Claudia Merger et.al.|[2505.24769](http://arxiv.org/abs/2505.24769)|null|
@@ -3709,7 +3709,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -4756,7 +4756,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -5064,7 +5064,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -5263,7 +5263,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -5283,7 +5283,7 @@
 |**2025-05-30**|**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models**|Hanting Wang et.al.|[2505.24406](http://arxiv.org/abs/2505.24406)|null|
 |**2025-05-30**|**Provably convergent stochastic fixed-point algorithm for free-support Wasserstein barycenter of continuous non-parametric measures**|Zeyi Chen et.al.|[2505.24384](http://arxiv.org/abs/2505.24384)|null|
 |**2025-05-30**|**Neural Drift Estimation for Ergodic Diffusions: Non-parametric Analysis and Numerical Exploration**|Simone Di Gregorio et.al.|[2505.24383](http://arxiv.org/abs/2505.24383)|null|
-|**2025-05-30**|**Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning**|Stepan Shabalin et.al.|[2505.24360](http://arxiv.org/abs/2505.24360)|null|
+|**2025-06-03**|**Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning**|Stepan Shabalin et.al.|[2505.24360](http://arxiv.org/abs/2505.24360)|null|
 |**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
 |**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
 |**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
@@ -7866,7 +7866,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -8558,7 +8558,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -10232,5 +10232,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
 
