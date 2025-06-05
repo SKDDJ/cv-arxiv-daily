@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -7920,7 +7920,7 @@ layout: default
 |**2025-06-03**|**Large-scale Self-supervised Video Foundation Model for Intelligent Surgery**|Shu Yang et.al.|[2506.02692](http://arxiv.org/abs/2506.02692)|null|
 |**2025-06-03**|**One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation**|Xue Wu et.al.|[2506.02605](http://arxiv.org/abs/2506.02605)|null|
 |**2025-06-03**|**Towards Better De-raining Generalization via Rainy Characteristics Memorization and Replay**|Kunyu Wang et.al.|[2506.02477](http://arxiv.org/abs/2506.02477)|null|
-|**2025-06-02**|**Improving Knowledge Distillation Under Unknown Covariate Shift Through Confidence-Guided Data Augmentation**|Niclas Popp et.al.|[2506.02294](http://arxiv.org/abs/2506.02294)|null|
+|**2025-06-04**|**Improving Knowledge Distillation Under Unknown Covariate Shift Through Confidence-Guided Data Augmentation**|Niclas Popp et.al.|[2506.02294](http://arxiv.org/abs/2506.02294)|null|
 |**2025-06-02**|**VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis**|Manas Mehta et.al.|[2506.02229](http://arxiv.org/abs/2506.02229)|null|
 |**2025-06-02**|**KDRL: Post-Training Reasoning LLMs via Unified Knowledge Distillation and Reinforcement Learning**|Hongling Xu et.al.|[2506.02208](http://arxiv.org/abs/2506.02208)|null|
 |**2025-06-02**|**MLLMs Need 3D-Aware Representation Supervision for Scene Understanding**|Xiaohu Huang et.al.|[2506.01946](http://arxiv.org/abs/2506.01946)|null|
