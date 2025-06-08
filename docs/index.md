@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -29,11 +29,11 @@ layout: default
 |**2025-05-31**|**Assortment of Attention Heads: Accelerating Federated PEFT with Head Pruning and Strategic Client Selection**|Yeshwanth Venkatesha et.al.|[2506.00743](http://arxiv.org/abs/2506.00743)|null|
 |**2025-05-31**|**FLoE: Fisher-Based Layer Selection for Efficient Sparse Adaptation of Low-Rank Experts**|Xinyi Wang et.al.|[2506.00495](http://arxiv.org/abs/2506.00495)|null|
 |**2025-05-30**|**Localized LoRA: A Structured Low-Rank Approximation for Efficient Fine-Tuning**|Babak Barazandeh et.al.|[2506.00236](http://arxiv.org/abs/2506.00236)|null|
-|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|null|
+|**2025-05-30**|**CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning**|Jiangpeng He et.al.|[2505.24816](http://arxiv.org/abs/2505.24816)|**[link](https://github.com/jiangpenghe/cl-lora)**|
 |**2025-06-03**|**DLP: Dynamic Layerwise Pruning in Large Language Models**|Yuli Chen et.al.|[2505.23807](http://arxiv.org/abs/2505.23807)|null|
 |**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
 |**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
-|**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|null|
+|**2025-06-01**|**DA-VPT: Semantic-Guided Visual Prompt Tuning for Vision Transformers**|Li Ren et.al.|[2505.23694](http://arxiv.org/abs/2505.23694)|**[link](https://github.com/noahsark/da-vpt)**|
 |**2025-05-29**|**Weight Spectra Induced Efficient Model Adaptation**|Chongjie Si et.al.|[2505.23099](http://arxiv.org/abs/2505.23099)|null|
 |**2025-05-29**|**MAP: Revisiting Weight Decomposition for Low-Rank Adaptation**|Chongjie Si et.al.|[2505.23094](http://arxiv.org/abs/2505.23094)|null|
 |**2025-05-28**|**MoRE: A Mixture of Low-Rank Experts for Adaptive Multi-Task Learning**|Dacao Zhang et.al.|[2505.22694](http://arxiv.org/abs/2505.22694)|null|
