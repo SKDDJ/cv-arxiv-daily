@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,7 +21,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-04**|**Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning**|Hasin Us Sami et.al.|[2506.04453](http://arxiv.org/abs/2506.04453)|null|
+|**2025-06-06**|**Mitigating Catastrophic Forgetting with Adaptive Transformer Block Expansion in Federated Fine-Tuning**|Yujia Huo et.al.|[2506.05977](http://arxiv.org/abs/2506.05977)|null|
+|**2025-06-06**|**MoA: Heterogeneous Mixture of Adapters for Parameter-Efficient Fine-Tuning of Large Language Models**|Jie Cao et.al.|[2506.05928](http://arxiv.org/abs/2506.05928)|null|
+|**2025-06-04**|**Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning**|Hasin Us Sami et.al.|[2506.04453](http://arxiv.org/abs/2506.04453)|**[link](https://github.com/info-ucr/peftleak)**|
 |**2025-06-03**|**DiaBlo: Diagonal Blocks Are Sufficient For Finetuning**|Selcuk Gurses et.al.|[2506.03230](http://arxiv.org/abs/2506.03230)|null|
 |**2025-06-01**|**Taming LLMs by Scaling Learning Rates with Gradient Grouping**|Siyuan Li et.al.|[2506.01049](http://arxiv.org/abs/2506.01049)|null|
 |**2025-06-01**|**FedQuad: Adaptive Layer-wise LoRA Deployment and Activation Quantization for Federated Fine-Tuning**|Rukuo Li et.al.|[2506.01001](http://arxiv.org/abs/2506.01001)|null|
@@ -477,6 +479,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276](http://arxiv.org/abs/2506.06276)|null|
+|**2025-06-06**|**Model-Driven Graph Contrastive Learning**|Ali Azizpour et.al.|[2506.06212](http://arxiv.org/abs/2506.06212)|null|
+|**2025-06-06**|**Antithetic Noise in Diffusion Models**|Jing Jia et.al.|[2506.06185](http://arxiv.org/abs/2506.06185)|null|
+|**2025-06-06**|**ENMA: Tokenwise Autoregression for Generative Neural PDE Operators**|Armand Kassaï Koupaï et.al.|[2506.06158](http://arxiv.org/abs/2506.06158)|null|
+|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157](http://arxiv.org/abs/2506.06157)|null|
+|**2025-06-06**|**Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems**|Haowei Wang et.al.|[2506.06151](http://arxiv.org/abs/2506.06151)|null|
+|**2025-06-06**|**Feedback Guidance of Diffusion Models**|Koulischer Felix et.al.|[2506.06085](http://arxiv.org/abs/2506.06085)|null|
+|**2025-06-06**|**HAVIR: HierArchical Vision to Image Reconstruction using CLIP-Guided Versatile Diffusion**|Shiyi Zhang et.al.|[2506.06035](http://arxiv.org/abs/2506.06035)|null|
+|**2025-06-06**|**End-to-End Framework for Robot Lawnmower Coverage Path Planning using Cellular Decomposition**|Nikunj Shah et.al.|[2506.06028](http://arxiv.org/abs/2506.06028)|null|
+|**2025-06-06**|**On Inverse Problems, Parameter Estimation, and Domain Generalization**|Deborah Pereg et.al.|[2506.06024](http://arxiv.org/abs/2506.06024)|null|
+|**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
+|**2025-06-06**|**Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models**|Chaoyi Zhu et.al.|[2506.06018](http://arxiv.org/abs/2506.06018)|null|
+|**2025-06-06**|**Gradual Transition from Bellman Optimality Operator to Bellman Operator in Online Reinforcement Learning**|Motoki Omura et.al.|[2506.05968](http://arxiv.org/abs/2506.05968)|null|
+|**2025-06-09**|**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**|Adil Hasan et.al.|[2506.05960](http://arxiv.org/abs/2506.05960)|null|
+|**2025-06-06**|**Exponential Family Variational Flow Matching for Tabular Data Generation**|Andrés Guzmán-Cordero et.al.|[2506.05940](http://arxiv.org/abs/2506.05940)|null|
 |**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
 |**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
 |**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
@@ -3768,11 +3785,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Building Models of Neurological Language**|Henry Watkins et.al.|[2506.06208](http://arxiv.org/abs/2506.06208)|null|
+|**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
+|**2025-06-06**|**MoralCLIP: Contrastive Alignment of Vision-and-Language Representations with Moral Foundations Theory**|Ana Carolina Condez et.al.|[2506.05696](http://arxiv.org/abs/2506.05696)|null|
+|**2025-06-05**|**When Semantics Mislead Vision: Mitigating Large Multimodal Models Hallucinations in Scene Text Spotting and Understanding**|Yan Shu et.al.|[2506.05551](http://arxiv.org/abs/2506.05551)|null|
 |**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
 |**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
 |**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332](http://arxiv.org/abs/2506.05332)|null|
 |**2025-06-05**|**Quantifying Cross-Modality Memorization in Vision-Language Models**|Yuxin Wen et.al.|[2506.05198](http://arxiv.org/abs/2506.05198)|null|
-|**2025-06-05**|**Do Large Language Models Judge Error Severity Like Humans?**|Diege Sun et.al.|[2506.05142](http://arxiv.org/abs/2506.05142)|null|
+|**2025-06-09**|**Do Large Language Models Judge Error Severity Like Humans?**|Diege Sun et.al.|[2506.05142](http://arxiv.org/abs/2506.05142)|null|
 |**2025-06-05**|**A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions**|Anh Le et.al.|[2506.05061](http://arxiv.org/abs/2506.05061)|null|
 |**2025-06-05**|**Line of Sight: On Linear Representations in VLLMs**|Achyuta Rajaram et.al.|[2506.04706](http://arxiv.org/abs/2506.04706)|null|
 |**2025-06-05**|**Unfolding Spatial Cognition: Evaluating Multimodal Models on Visual Simulations**|Linjie Li et.al.|[2506.04633](http://arxiv.org/abs/2506.04633)|null|
@@ -5344,6 +5365,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276](http://arxiv.org/abs/2506.06276)|null|
+|**2025-06-06**|**Antithetic Noise in Diffusion Models**|Jing Jia et.al.|[2506.06185](http://arxiv.org/abs/2506.06185)|null|
+|**2025-06-06**|**Feedback Guidance of Diffusion Models**|Koulischer Felix et.al.|[2506.06085](http://arxiv.org/abs/2506.06085)|null|
+|**2025-06-06**|**Restereo: Diffusion stereo video generation and restoration**|Xingchang Huang et.al.|[2506.06023](http://arxiv.org/abs/2506.06023)|null|
+|**2025-06-06**|**Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models**|Chaoyi Zhu et.al.|[2506.06018](http://arxiv.org/abs/2506.06018)|null|
+|**2025-06-09**|**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**|Adil Hasan et.al.|[2506.05960](http://arxiv.org/abs/2506.05960)|null|
+|**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|null|
+|**2025-06-06**|**Convection Anisotropies of Cosmic Rays in Highly Magnetized Plasma**|Yiran Zhang et.al.|[2506.05923](http://arxiv.org/abs/2506.05923)|null|
+|**2025-06-06**|**WhisQ: Cross-Modal Representation Learning for Text-to-Music MOS Prediction**|Jakaria Islam Emon et.al.|[2506.05899](http://arxiv.org/abs/2506.05899)|null|
+|**2025-06-06**|**Stealix: Model Stealing via Prompt Evolution**|Zhixiong Zhuang et.al.|[2506.05867](http://arxiv.org/abs/2506.05867)|null|
+|**2025-06-06**|**FontAdapter: Instant Font Adaptation in Visual Text Generation**|Myungkyu Koo et.al.|[2506.05843](http://arxiv.org/abs/2506.05843)|null|
+|**2025-06-06**|**LLIA -- Enabling Low-Latency Interactive Avatars: Real-Time Audio-Driven Portrait Video Generation with Diffusion Models**|Haojie Yu et.al.|[2506.05806](http://arxiv.org/abs/2506.05806)|null|
+|**2025-06-06**|**BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning**|Yunpeng Qing et.al.|[2506.05762](http://arxiv.org/abs/2506.05762)|null|
+|**2025-06-06**|**Latent Diffusion Model Based Denoising Receiver for 6G Semantic Communication: From Stochastic Differential Theory to Application**|Xiucheng Wang et.al.|[2506.05710](http://arxiv.org/abs/2506.05710)|null|
+|**2025-06-06**|**Learning Design-Score Manifold to Guide Diffusion Models for Offline Optimization**|Tailin Zhou et.al.|[2506.05680](http://arxiv.org/abs/2506.05680)|null|
 |**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
 |**2025-06-05**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340](http://arxiv.org/abs/2506.05340)|null|
 |**2025-06-05**|**Progressive Tempering Sampler with Diffusion**|Severi Rissanen et.al.|[2506.05231](http://arxiv.org/abs/2506.05231)|**[link](https://github.com/cambridge-mlg/Progressive-Tempering-Sampler-with-Diffusion)**|
@@ -7990,6 +8026,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Label-Context-Dependent Internal Language Model Estimation for CTC**|Zijian Yang et.al.|[2506.06096](http://arxiv.org/abs/2506.06096)|null|
+|**2025-06-06**|**Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework**|Lingyuan Liu et.al.|[2506.05695](http://arxiv.org/abs/2506.05695)|null|
+|**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411](http://arxiv.org/abs/2506.05411)|null|
 |**2025-06-05**|**Static Word Embeddings for Sentence Semantic Representation**|Takashi Wada et.al.|[2506.04624](http://arxiv.org/abs/2506.04624)|null|
 |**2025-06-05**|**StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation**|Ranjith Merugu et.al.|[2506.04567](http://arxiv.org/abs/2506.04567)|null|
 |**2025-06-05**|**hdl2v: A Code Translation Dataset for Enhanced LLM Verilog Generation**|Charles Hong et.al.|[2506.04544](http://arxiv.org/abs/2506.04544)|null|
@@ -8702,6 +8741,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199](http://arxiv.org/abs/2506.06199)|null|
+|**2025-06-06**|**A comprehensive Darcy-type law for viscoplastic fluids: I. Framework**|Emad Chaparian et.al.|[2506.06184](http://arxiv.org/abs/2506.06184)|null|
+|**2025-06-06**|**Synthetic Tabular Data: Methods, Attacks and Defenses**|Graham Cormode et.al.|[2506.06108](http://arxiv.org/abs/2506.06108)|null|
+|**2025-06-06**|**Do-PFN: In-Context Learning for Causal Effect Estimation**|Jake Robertson et.al.|[2506.06039](http://arxiv.org/abs/2506.06039)|null|
+|**2025-06-06**|**Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models**|Chaoyi Zhu et.al.|[2506.06018](http://arxiv.org/abs/2506.06018)|null|
+|**2025-06-06**|**Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models**|Yifu Qiu et.al.|[2506.06006](http://arxiv.org/abs/2506.06006)|null|
+|**2025-06-06**|**Additive decomposition of one-dimensional signals using Transformers**|Samuele Salti et.al.|[2506.05942](http://arxiv.org/abs/2506.05942)|null|
+|**2025-06-06**|**Exponential Family Variational Flow Matching for Tabular Data Generation**|Andrés Guzmán-Cordero et.al.|[2506.05940](http://arxiv.org/abs/2506.05940)|null|
+|**2025-06-06**|**Stealix: Model Stealing via Prompt Evolution**|Zhixiong Zhuang et.al.|[2506.05867](http://arxiv.org/abs/2506.05867)|null|
+|**2025-06-06**|**dots.llm1 Technical Report**|Bi Huo et.al.|[2506.05767](http://arxiv.org/abs/2506.05767)|null|
+|**2025-06-06**|**A cautious user's guide in applying HMMs to physical systems**|Max Schweiger et.al.|[2506.05707](http://arxiv.org/abs/2506.05707)|null|
+|**2025-06-05**|**A Fictional Q&A Dataset for Studying Memorization and Knowledge Acquisition**|John Kirchenbauer et.al.|[2506.05639](http://arxiv.org/abs/2506.05639)|null|
+|**2025-06-05**|**Online Conformal Model Selection for Nonstationary Time Series**|Shibo Li et.al.|[2506.05544](http://arxiv.org/abs/2506.05544)|null|
+|**2025-06-05**|**Winner-takes-all for Multivariate Probabilistic Time Series Forecasting**|Adrien Cortés et.al.|[2506.05515](http://arxiv.org/abs/2506.05515)|null|
 |**2025-06-05**|**MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**|Xinyan Chen et.al.|[2506.05331](http://arxiv.org/abs/2506.05331)|null|
 |**2025-06-05**|**Reduction of Outflow Boundary Influence on Aerodynamic Performance using Neural Networks**|Mario Christopher Bedrunka et.al.|[2506.05293](http://arxiv.org/abs/2506.05293)|null|
 |**2025-06-05**|**Privacy Amplification Through Synthetic Data: Insights from Linear Regression**|Clément Pierquin et.al.|[2506.05101](http://arxiv.org/abs/2506.05101)|null|
