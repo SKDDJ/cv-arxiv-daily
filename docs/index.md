@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed**|Sizhe Dang et.al.|[2506.09034](http://arxiv.org/abs/2506.09034)|null|
 |**2025-06-09**|**PrunePEFT: Iterative Hybrid Pruning for Parameter-Efficient Fine-tuning of LLMs**|Tongzhou Yu et.al.|[2506.07587](http://arxiv.org/abs/2506.07587)|null|
 |**2025-06-07**|**Adapt Once, Thrive with Updates: Transferable Parameter-Efficient Fine-Tuning on Evolving Base Models**|Naibin Gu et.al.|[2506.06844](http://arxiv.org/abs/2506.06844)|null|
 |**2025-06-06**|**InstantFT: An FPGA-Based Runtime Subsecond Fine-tuning of CNN Models**|Keisuke Sugiura et.al.|[2506.06505](http://arxiv.org/abs/2506.06505)|null|
@@ -482,6 +483,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
+|**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
+|**2025-06-10**|**Edit Flows: Flow Matching with Edit Operations**|Marton Havasi et.al.|[2506.09018](http://arxiv.org/abs/2506.09018)|null|
+|**2025-06-10**|**Branched Schrödinger Bridge Matching**|Sophia Tang et.al.|[2506.09007](http://arxiv.org/abs/2506.09007)|null|
+|**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
+|**2025-06-10**|**Yau-YauAL: A computer tool for solving nonlinear filtering problems**|Yu Wang et.al.|[2506.08976](http://arxiv.org/abs/2506.08976)|null|
+|**2025-06-10**|**ORIDa: Object-centric Real-world Image Composition Dataset**|Jinwoo Kim et.al.|[2506.08964](http://arxiv.org/abs/2506.08964)|null|
+|**2025-06-10**|**Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics**|Yash Ranjan et.al.|[2506.08963](http://arxiv.org/abs/2506.08963)|null|
+|**2025-06-10**|**IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections**|Yash Ranjan et.al.|[2506.08957](http://arxiv.org/abs/2506.08957)|null|
+|**2025-06-10**|**Striking Back At Cobalt: Using Network Traffic Metadata To Detect Cobalt Strike Masquerading Command and Control Channels**|Clément Parssegny et.al.|[2506.08922](http://arxiv.org/abs/2506.08922)|null|
+|**2025-06-10**|**Quantifying Mix Network Privacy Erosion with Generative Models**|Vasilios Mavroudis et.al.|[2506.08918](http://arxiv.org/abs/2506.08918)|null|
+|**2025-06-10**|**Product of Experts for Visual Generation**|Yunzhi Zhang et.al.|[2506.08894](http://arxiv.org/abs/2506.08894)|null|
+|**2025-06-10**|**InfoDPCCA: Information-Theoretic Dynamic Probabilistic Canonical Correlation Analysis**|Shiqin Tang et.al.|[2506.08884](http://arxiv.org/abs/2506.08884)|null|
+|**2025-06-10**|**FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency**|Yifei Su et.al.|[2506.08822](http://arxiv.org/abs/2506.08822)|null|
+|**2025-06-10**|**Direct interferometric measurement of non-reciprocity induced by a plasmonic metasurface with false chirality**|Ahmed Lafeef Ettapuram Naduvilepurayil et.al.|[2506.08815](http://arxiv.org/abs/2506.08815)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
@@ -3803,6 +3819,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion: A Study on the Impact of CBCT Quality and Alignment**|Maximilian Tschuchnig et.al.|[2506.08716](http://arxiv.org/abs/2506.08716)|null|
+|**2025-06-10**|**LLaVA-c: Continual Improved Visual Instruction Tuning**|Wenzhuo Liu et.al.|[2506.08666](http://arxiv.org/abs/2506.08666)|null|
+|**2025-06-10**|**MOSAIC-F: A Framework for Enhancing Students' Oral Presentation Skills through Personalized Feedback**|Alvaro Becerra et.al.|[2506.08634](http://arxiv.org/abs/2506.08634)|null|
+|**2025-06-10**|**Detecting Harmful Memes with Decoupled Understanding and Guided CoT Reasoning**|Fengjun Pan et.al.|[2506.08477](http://arxiv.org/abs/2506.08477)|null|
+|**2025-06-09**|**Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain**|Subba Reddy Oota et.al.|[2506.08277](http://arxiv.org/abs/2506.08277)|null|
 |**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984](http://arxiv.org/abs/2506.07984)|null|
 |**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
 |**2025-06-09**|**Uncertainty-o: One Model-agnostic Framework for Unveiling Uncertainty in Large Multimodal Models**|Ruiyang Zhang et.al.|[2506.07575](http://arxiv.org/abs/2506.07575)|null|
@@ -5398,6 +5419,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
+|**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
+|**2025-06-10**|**Branched Schrödinger Bridge Matching**|Sophia Tang et.al.|[2506.09007](http://arxiv.org/abs/2506.09007)|null|
+|**2025-06-10**|**An Efficient Augmented Lagrangian Method for Dynamic Optimal Transport on Surfaces Based on Second-Order Cone Programming**|Liang Chen et.al.|[2506.08988](http://arxiv.org/abs/2506.08988)|null|
+|**2025-06-10**|**Asymptotic error distribution for stochastic Runge--Kutta methods of strong order one**|Diancong Jin et.al.|[2506.08937](http://arxiv.org/abs/2506.08937)|null|
+|**2025-06-10**|**HiSin: Efficient High-Resolution Sinogram Inpainting via Resolution-Guided Progressive Inference**|Jiaze E et.al.|[2506.08809](http://arxiv.org/abs/2506.08809)|null|
+|**2025-06-10**|**Flow Diverse and Efficient: Learning Momentum Flow Matching via Stochastic Velocity Field Sampling**|Zhiyuan Ma et.al.|[2506.08796](http://arxiv.org/abs/2506.08796)|null|
+|**2025-06-10**|**Normalized Radon Cumulative Distribution Transforms for Invariance and Robustness in Optimal Transport Based Image Classification**|Matthias Beckmann et.al.|[2506.08761](http://arxiv.org/abs/2506.08761)|null|
+|**2025-06-10**|**MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning**|Mohammadreza Salehi et.al.|[2506.08694](http://arxiv.org/abs/2506.08694)|null|
+|**2025-06-10**|**Efficient Uncertainty Propagation with Guarantees in Wasserstein Distance**|Eduardo Figueiredo et.al.|[2506.08689](http://arxiv.org/abs/2506.08689)|null|
+|**2025-06-10**|**MAMBO: High-Resolution Generative Approach for Mammography Images**|Milica Škipina et.al.|[2506.08677](http://arxiv.org/abs/2506.08677)|null|
+|**2025-06-10**|**RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping**|Yang Bai et.al.|[2506.08632](http://arxiv.org/abs/2506.08632)|null|
+|**2025-06-10**|**Diffusion model for analyzing quantum fingerprints in conductance fluctuation**|Naoto Yokoi et.al.|[2506.08617](http://arxiv.org/abs/2506.08617)|null|
+|**2025-06-10**|**Flow Matching Meets PDEs: A Unified Framework for Physics-Constrained Generation**|Giacomo Baldan et.al.|[2506.08604](http://arxiv.org/abs/2506.08604)|null|
+|**2025-06-10**|**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4 $\times$ RTX 4090s**|Xijun Wang et.al.|[2506.08529](http://arxiv.org/abs/2506.08529)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004](http://arxiv.org/abs/2506.08004)|null|
@@ -8074,6 +8110,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning**|Xiao Liang et.al.|[2506.08989](http://arxiv.org/abs/2506.08989)|null|
+|**2025-06-10**|**Multi-Teacher Language-Aware Knowledge Distillation for Multilingual Speech Emotion Recognition**|Mehedi Hasan Bijoy et.al.|[2506.08717](http://arxiv.org/abs/2506.08717)|null|
+|**2025-06-10**|**Towards Class-wise Fair Adversarial Training via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2506.08611](http://arxiv.org/abs/2506.08611)|null|
 |**2025-06-09**|**Flowing Datasets with Wasserstein over Wasserstein Gradient Flows**|Clément Bonet et.al.|[2506.07534](http://arxiv.org/abs/2506.07534)|**[link](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows)**|
 |**2025-06-09**|**DPFormer: Dynamic Prompt Transformer for Continual Learning**|Sheng-Kai Huang et.al.|[2506.07414](http://arxiv.org/abs/2506.07414)|null|
 |**2025-06-08**|**A Layered Self-Supervised Knowledge Distillation Framework for Efficient Multimodal Learning on the Edge**|Tarique Dahri et.al.|[2506.07055](http://arxiv.org/abs/2506.07055)|null|
@@ -8794,6 +8833,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-10**|**SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner**|Lei Zhang et.al.|[2506.09003](http://arxiv.org/abs/2506.09003)|null|
+|**2025-06-10**|**IMAGIC-500: IMputation benchmark on A Generative Imaginary Country (500k samples)**|Siyi Sun et.al.|[2506.08844](http://arxiv.org/abs/2506.08844)|null|
+|**2025-06-10**|**Unlocking the Potential of Large Language Models in the Nuclear Industry with Synthetic Data**|Muhammad Anwar et.al.|[2506.08750](http://arxiv.org/abs/2506.08750)|null|
+|**2025-06-10**|**Urban Incident Prediction with Graph Neural Networks: Integrating Government Ratings and Crowdsourced Reports**|Sidhika Balachandar et.al.|[2506.08740](http://arxiv.org/abs/2506.08740)|null|
+|**2025-06-10**|**ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds**|Frederik Hagelskjaer et.al.|[2506.08699](http://arxiv.org/abs/2506.08699)|null|
+|**2025-06-10**|**TableDreamer: Progressive and Weakness-guided Data Synthesis from Scratch for Table Instruction Tuning**|Mingyu Zheng et.al.|[2506.08646](http://arxiv.org/abs/2506.08646)|null|
+|**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592](http://arxiv.org/abs/2506.08592)|null|
+|**2025-06-10**|**Mic-hackathon 2024: Hackathon on Machine Learning for Electron and Scanning Probe Microscopy**|Utkarsh Pratiush et.al.|[2506.08423](http://arxiv.org/abs/2506.08423)|null|
+|**2025-06-10**|**Spatiotemporal deep learning models for detection of rapid intensification in cyclones**|Vamshika Sutar et.al.|[2506.08397](http://arxiv.org/abs/2506.08397)|null|
+|**2025-06-10**|**Private Evolution Converges**|Tomás González et.al.|[2506.08312](http://arxiv.org/abs/2506.08312)|null|
+|**2025-06-09**|**Massive parallelization of projection-based depths**|Leonardo Leone et.al.|[2506.08262](http://arxiv.org/abs/2506.08262)|null|
+|**2025-06-09**|**An In-situ Solid Fuel Ramjet Thrust Monitoring and Regulation Framework Using Neural Networks and Adaptive Control**|Ryan DeBoskey et.al.|[2506.08157](http://arxiv.org/abs/2506.08157)|null|
+|**2025-06-09**|**SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents**|Subhrangshu Nandi et.al.|[2506.08119](http://arxiv.org/abs/2506.08119)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**Squeeze3D: Your 3D Generation Model is Secretly an Extreme Neural Compressor**|Rishit Dagli et.al.|[2506.07932](http://arxiv.org/abs/2506.07932)|null|
 |**2025-06-09**|**CausalPFN: Amortized Causal Effect Estimation via In-Context Learning**|Vahid Balazadeh et.al.|[2506.07918](http://arxiv.org/abs/2506.07918)|**[link](https://github.com/vdblm/CausalPFN)**|
