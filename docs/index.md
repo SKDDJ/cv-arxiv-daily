@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3811,11 +3811,11 @@ layout: default
 |**2025-06-08**|**Hallucination at a Glance: Controlled Visual Edits and Fine-Grained Multimodal Learning**|Tianyi Bai et.al.|[2506.07227](http://arxiv.org/abs/2506.07227)|null|
 |**2025-06-08**|**Learning Compact Vision Tokens for Efficient Large Multimodal Models**|Hao Tang et.al.|[2506.07138](http://arxiv.org/abs/2506.07138)|**[link](https://github.com/visresearch/LLaVA-STF)**|
 |**2025-06-08**|**A Layered Self-Supervised Knowledge Distillation Framework for Efficient Multimodal Learning on the Edge**|Tarique Dahri et.al.|[2506.07055](http://arxiv.org/abs/2506.07055)|null|
-|**2025-06-08**|**Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning**|LASA Team et.al.|[2506.07044](http://arxiv.org/abs/2506.07044)|null|
+|**2025-06-10**|**Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning**|LASA Team et.al.|[2506.07044](http://arxiv.org/abs/2506.07044)|null|
 |**2025-06-08**|**A Culturally-diverse Multilingual Multimodal Video Benchmark & Model**|Bhuiyan Sanjid Shafique et.al.|[2506.07032](http://arxiv.org/abs/2506.07032)|null|
 |**2025-06-08**|**MAGNET: A Multi-agent Framework for Finding Audio-Visual Needles by Reasoning over Multi-Video Haystacks**|Sanjoy Chowdhury et.al.|[2506.07016](http://arxiv.org/abs/2506.07016)|null|
 |**2025-06-08**|**LaTtE-Flow: Layerwise Timestep-Expert Flow-based Transformer**|Ying Shen et.al.|[2506.06952](http://arxiv.org/abs/2506.06952)|null|
-|**2025-06-07**|**Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering**|Akash Gupta et.al.|[2506.06905](http://arxiv.org/abs/2506.06905)|null|
+|**2025-06-10**|**Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering**|Akash Gupta et.al.|[2506.06905](http://arxiv.org/abs/2506.06905)|null|
 |**2025-06-07**|**VisioMath: Benchmarking Figure-based Mathematical Reasoning in LMMs**|Can Li et.al.|[2506.06727](http://arxiv.org/abs/2506.06727)|null|
 |**2025-06-06**|**Bridging Audio and Vision: Zero-Shot Audiovisual Segmentation by Connecting Pretrained Models**|Seung-jae Lee et.al.|[2506.06537](http://arxiv.org/abs/2506.06537)|null|
 |**2025-06-06**|**Building Models of Neurological Language**|Henry Watkins et.al.|[2506.06208](http://arxiv.org/abs/2506.06208)|null|
