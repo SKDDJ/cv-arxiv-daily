@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -492,7 +492,7 @@ layout: default
 |**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934](http://arxiv.org/abs/2506.09934)|null|
 |**2025-06-11**|**HadaNorm: Diffusion Transformer Quantization through Mean-Centered Transformations**|Marco Federici et.al.|[2506.09932](http://arxiv.org/abs/2506.09932)|null|
 |**2025-06-11**|**On the Linear Programming Model for Dynamic Stochastic Matching and Its Application on Pricing**|Junlin Chen et.al.|[2506.09924](http://arxiv.org/abs/2506.09924)|null|
-|**2025-06-11**|**Aspect-Based Opinion Summarization with Argumentation Schemes**|Wendi Zhou et.al.|[2506.09917](http://arxiv.org/abs/2506.09917)|null|
+|**2025-06-12**|**Aspect-Based Opinion Summarization with Argumentation Schemes**|Wendi Zhou et.al.|[2506.09917](http://arxiv.org/abs/2506.09917)|null|
 |**2025-06-11**|**Stakeholder Participation for Responsible AI Development: Disconnects Between Guidance and Current Practice**|Emma Kallina et.al.|[2506.09873](http://arxiv.org/abs/2506.09873)|null|
 |**2025-06-11**|**A Deep Generative Model for the Simulation of Discrete Karst Networks**|Dany Lauzon et.al.|[2506.09832](http://arxiv.org/abs/2506.09832)|null|
 |**2025-06-11**|**EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection**|Christoph Schuhmann et.al.|[2506.09827](http://arxiv.org/abs/2506.09827)|null|
@@ -3847,7 +3847,7 @@ layout: default
 |**2025-06-10**|**Detecting Harmful Memes with Decoupled Understanding and Guided CoT Reasoning**|Fengjun Pan et.al.|[2506.08477](http://arxiv.org/abs/2506.08477)|null|
 |**2025-06-09**|**Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain**|Subba Reddy Oota et.al.|[2506.08277](http://arxiv.org/abs/2506.08277)|null|
 |**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984](http://arxiv.org/abs/2506.07984)|null|
-|**2025-06-09**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
+|**2025-06-12**|**Reinforcing Multimodal Understanding and Generation with Dual Self-rewards**|Jixiang Hong et.al.|[2506.07963](http://arxiv.org/abs/2506.07963)|null|
 |**2025-06-09**|**Uncertainty-o: One Model-agnostic Framework for Unveiling Uncertainty in Large Multimodal Models**|Ruiyang Zhang et.al.|[2506.07575](http://arxiv.org/abs/2506.07575)|null|
 |**2025-06-08**|**Speech Recognition on TV Series with Video-guided Post-Correction**|Haoyuan Yang et.al.|[2506.07323](http://arxiv.org/abs/2506.07323)|null|
 |**2025-06-08**|**A Narrative Review on Large AI Models in Lung Cancer Screening, Diagnosis, and Treatment Planning**|Jiachen Zhong et.al.|[2506.07236](http://arxiv.org/abs/2506.07236)|null|
@@ -8883,7 +8883,7 @@ layout: default
 |**2025-06-11**|**Reasoning as a Resource: Optimizing Fast and Slow Thinking in Code Generation Models**|Zongjie Li et.al.|[2506.09396](http://arxiv.org/abs/2506.09396)|null|
 |**2025-06-11**|**CheckManual: A New Challenge and Benchmark for Manual-based Appliance Manipulation**|Yuxing Long et.al.|[2506.09343](http://arxiv.org/abs/2506.09343)|null|
 |**2025-06-11**|**Towards Efficient and Effective Alignment of Large Language Models**|Yuxin Jiang et.al.|[2506.09329](http://arxiv.org/abs/2506.09329)|null|
-|**2025-06-10**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
+|**2025-06-11**|**Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models**|Xuanchi Ren et.al.|[2506.09042](http://arxiv.org/abs/2506.09042)|null|
 |**2025-06-11**|**SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner**|Lei Zhang et.al.|[2506.09003](http://arxiv.org/abs/2506.09003)|null|
 |**2025-06-10**|**IMAGIC-500: IMputation benchmark on A Generative Imaginary Country (500k samples)**|Siyi Sun et.al.|[2506.08844](http://arxiv.org/abs/2506.08844)|null|
 |**2025-06-10**|**Unlocking the Potential of Large Language Models in the Nuclear Industry with Synthetic Data**|Muhammad Anwar et.al.|[2506.08750](http://arxiv.org/abs/2506.08750)|null|
