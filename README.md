@@ -490,7 +490,7 @@
 |**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/abs/2506.10963)|null|
 |**2025-06-12**|**SpectralAR: Spectral Autoregressive Visual Generation**|Yuanhui Huang et.al.|[2506.10962](http://arxiv.org/abs/2506.10962)|null|
 |**2025-06-12**|**ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems**|Aayush Karan et.al.|[2506.10955](http://arxiv.org/abs/2506.10955)|null|
-|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|null|
+|**2025-06-12**|**SWE-Factory: Your Automated Factory for Issue Resolution Training Data and Evaluation Benchmarks**|Lianghong Guo et.al.|[2506.10954](http://arxiv.org/abs/2506.10954)|**[link](https://github.com/deepsoftwareanalytics/swe-factory)**|
 |**2025-06-12**|**Building a Media Ecosystem Observatory from Scratch: Infrastructure, Methodology, and Insights**|Zeynep Pehlivan et.al.|[2506.10942](http://arxiv.org/abs/2506.10942)|null|
 |**2025-06-12**|**Sequential-Parallel Duality in Prefix Scannable Models**|Morris Yau et.al.|[2506.10918](http://arxiv.org/abs/2506.10918)|null|
 |**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895](http://arxiv.org/abs/2506.10895)|null|
@@ -3856,11 +3856,11 @@
 |**2025-06-12**|**Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation**|Zhiyang Xu et.al.|[2506.10395](http://arxiv.org/abs/2506.10395)|null|
 |**2025-06-11**|**One Patient, Many Contexts: Scaling Medical AI Through Contextual Intelligence**|Michelle M. Li et.al.|[2506.10157](http://arxiv.org/abs/2506.10157)|null|
 |**2025-06-11**|**ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering**|Caijun Jia et.al.|[2506.10116](http://arxiv.org/abs/2506.10116)|null|
-|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|null|
+|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|**[link](https://github.com/facebookresearch/causalvqa)**|
 |**2025-06-11**|**Dynamic Sub-region Search in Homogeneous Collections Using CLIP**|Bastian Jäckl et.al.|[2506.09506](http://arxiv.org/abs/2506.09506)|null|
 |**2025-06-11**|**A High-Quality Dataset and Reliable Evaluation for Interleaved Image-Text Generation**|Yukang Feng et.al.|[2506.09427](http://arxiv.org/abs/2506.09427)|null|
 |**2025-06-11**|**Hidden in Plain Sight: Evaluation of the Deception Detection Capabilities of LLMs in Multimodal Settings**|Md Messal Monem Miah et.al.|[2506.09424](http://arxiv.org/abs/2506.09424)|null|
-|**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|null|
+|**2025-06-11**|**Ming-Omni: A Unified Multimodal Model for Perception and Generation**|Inclusion AI et.al.|[2506.09344](http://arxiv.org/abs/2506.09344)|**[link](https://github.com/inclusionai/ming)**|
 |**2025-06-10**|**FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation**|Zheqi He et.al.|[2506.09081](http://arxiv.org/abs/2506.09081)|null|
 |**2025-06-09**|**Segment Any Architectural Facades (SAAF):An automatic segmentation model for building facades, walls and windows based on multimodal semantics guidance**|Peilin Li et.al.|[2506.09071](http://arxiv.org/abs/2506.09071)|null|
 |**2025-06-10**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion: A Study on the Impact of CBCT Quality and Alignment**|Maximilian Tschuchnig et.al.|[2506.08716](http://arxiv.org/abs/2506.08716)|null|
@@ -8198,7 +8198,7 @@
 |**2025-06-08**|**ReStNet: A Reusable & Stitchable Network for Dynamic Adaptation on IoT Devices**|Maoyu Wang et.al.|[2506.09066](http://arxiv.org/abs/2506.09066)|null|
 |**2025-06-10**|**SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning**|Xiao Liang et.al.|[2506.08989](http://arxiv.org/abs/2506.08989)|null|
 |**2025-06-10**|**Multi-Teacher Language-Aware Knowledge Distillation for Multilingual Speech Emotion Recognition**|Mehedi Hasan Bijoy et.al.|[2506.08717](http://arxiv.org/abs/2506.08717)|null|
-|**2025-06-10**|**Towards Class-wise Fair Adversarial Training via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2506.08611](http://arxiv.org/abs/2506.08611)|null|
+|**2025-06-10**|**Towards Class-wise Fair Adversarial Training via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2506.08611](http://arxiv.org/abs/2506.08611)|**[link](https://github.com/zhaoshiji123/absld)**|
 |**2025-06-09**|**Flowing Datasets with Wasserstein over Wasserstein Gradient Flows**|Clément Bonet et.al.|[2506.07534](http://arxiv.org/abs/2506.07534)|**[link](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows)**|
 |**2025-06-09**|**DPFormer: Dynamic Prompt Transformer for Continual Learning**|Sheng-Kai Huang et.al.|[2506.07414](http://arxiv.org/abs/2506.07414)|null|
 |**2025-06-08**|**A Layered Self-Supervised Knowledge Distillation Framework for Efficient Multimodal Learning on the Edge**|Tarique Dahri et.al.|[2506.07055](http://arxiv.org/abs/2506.07055)|null|
@@ -8935,7 +8935,7 @@
 |**2025-06-12**|**Learning-Based Stable Optimal Control for Infinite-Time Nonlinear Regulation Problems**|Han Wang et.al.|[2506.10291](http://arxiv.org/abs/2506.10291)|null|
 |**2025-06-11**|**ToxSyn-PT: A Large-Scale Synthetic Dataset for Hate Speech Detection in Portuguese**|Iago Alves Brito et.al.|[2506.10245](http://arxiv.org/abs/2506.10245)|null|
 |**2025-06-11**|**ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering**|Caijun Jia et.al.|[2506.10116](http://arxiv.org/abs/2506.10116)|null|
-|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|**[link](https://github.com/antresearchnlp/vilasr)**|
 |**2025-06-11**|**Error-Guided Pose Augmentation: Enhancing Rehabilitation Exercise Assessment through Targeted Data Generation**|Omar Sherif et.al.|[2506.09833](http://arxiv.org/abs/2506.09833)|null|
 |**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784](http://arxiv.org/abs/2506.09784)|null|
 |**2025-06-11**|**CINeMA: Conditional Implicit Neural Multi-Modal Atlas for a Spatio-Temporal Representation of the Perinatal Brain**|Maik Dannecker et.al.|[2506.09668](http://arxiv.org/abs/2506.09668)|null|
