@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**LoRA Users Beware: A Few Spurious Tokens Can Manipulate Your Finetuned Model**|Pradyut Sekhsaria et.al.|[2506.11402](http://arxiv.org/abs/2506.11402)|null|
 |**2025-06-12**|**Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning**|Chun-Mei Feng et.al.|[2506.10575](http://arxiv.org/abs/2506.10575)|null|
 |**2025-06-10**|**FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed**|Sizhe Dang et.al.|[2506.09034](http://arxiv.org/abs/2506.09034)|null|
 |**2025-06-09**|**PrunePEFT: Iterative Hybrid Pruning for Parameter-Efficient Fine-tuning of LLMs**|Tongzhou Yu et.al.|[2506.07587](http://arxiv.org/abs/2506.07587)|null|
@@ -482,6 +483,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969](http://arxiv.org/abs/2506.11969)|null|
+|**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957](http://arxiv.org/abs/2506.11957)|null|
+|**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924](http://arxiv.org/abs/2506.11924)|null|
+|**2025-06-13**|**Measurement-aligned Flow for Inverse Problem**|Shaorong Zhang et.al.|[2506.11893](http://arxiv.org/abs/2506.11893)|null|
+|**2025-06-13**|**Beyond Homogeneous Attention: Memory-Efficient LLMs via Fourier-Approximated KV Cache**|Xiaoran Liu et.al.|[2506.11886](http://arxiv.org/abs/2506.11886)|null|
+|**2025-06-13**|**Radar Ranging Using Rydberg Atomic Homodyne Receiver**|Minze Chen et.al.|[2506.11833](http://arxiv.org/abs/2506.11833)|null|
+|**2025-06-13**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al.|[2506.11772](http://arxiv.org/abs/2506.11772)|null|
+|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
+|**2025-06-13**|**Exploring the Effectiveness of Deep Features from Domain-Specific Foundation Models in Retinal Image Synthesis**|Zuzanna Skorniewska et.al.|[2506.11753](http://arxiv.org/abs/2506.11753)|null|
+|**2025-06-13**|**Simulating realistic radio continuum survey maps with diffusion models**|Tobias Vičánek Martínez et.al.|[2506.11715](http://arxiv.org/abs/2506.11715)|null|
+|**2025-06-13**|**Fusion of multi-source precipitation records via coordinate-based generative model**|Sencan Sun et.al.|[2506.11698](http://arxiv.org/abs/2506.11698)|null|
+|**2025-06-13**|**FAA Framework: A Large Language Model-Based Approach for Credit Card Fraud Investigations**|Shaun Shuster et.al.|[2506.11635](http://arxiv.org/abs/2506.11635)|null|
+|**2025-06-13**|**Amplifying Artifacts with Speech Enhancement in Voice Anti-spoofing**|Thanapat Trachu et.al.|[2506.11542](http://arxiv.org/abs/2506.11542)|null|
+|**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai et.al.|[2506.11530](http://arxiv.org/abs/2506.11530)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
 |**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981](http://arxiv.org/abs/2506.10981)|null|
 |**2025-06-12**|**InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model**|Junqi You et.al.|[2506.10980](http://arxiv.org/abs/2506.10980)|null|
 |**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978](http://arxiv.org/abs/2506.10978)|null|
@@ -3850,6 +3866,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**VFaith: Do Large Multimodal Models Really Reason on Seen Images Rather than Previous Memories?**|Jiachen Yu et.al.|[2506.11571](http://arxiv.org/abs/2506.11571)|null|
+|**2025-06-13**|**Improving Multimodal Learning Balance and Sufficiency through Data Remixing**|Xiaoyu Ma et.al.|[2506.11550](http://arxiv.org/abs/2506.11550)|null|
+|**2025-06-13**|**Investigating Vulnerabilities and Defenses Against Audio-Visual Attacks: A Comprehensive Survey Emphasizing Multimodal Models**|Jinming Wen et.al.|[2506.11521](http://arxiv.org/abs/2506.11521)|null|
+|**2025-06-13**|**RollingQ: Reviving the Cooperation Dynamics in Multimodal Transformer**|Haotian Ni et.al.|[2506.11465](http://arxiv.org/abs/2506.11465)|null|
+|**2025-06-13**|**Dynamic Double Space Tower**|Weikai Sun et.al.|[2506.11394](http://arxiv.org/abs/2506.11394)|null|
+|**2025-06-13**|**Benchmarking Multimodal LLMs on Recognition and Understanding over Chemical Tables**|Yitong Zhou et.al.|[2506.11375](http://arxiv.org/abs/2506.11375)|null|
+|**2025-06-12**|**Combining Log Data and Collaborative Dialogue Features to Predict Project Quality in Middle School AI Education**|Conrad Borchers et.al.|[2506.11326](http://arxiv.org/abs/2506.11326)|null|
+|**2025-06-12**|**Multimodal Modeling of CRISPR-Cas12 Activity Using Foundation Models and Chromatin Accessibility Data**|Azim Dehghani Amirabad et.al.|[2506.11182](http://arxiv.org/abs/2506.11182)|null|
 |**2025-06-12**|**Developing a High-performance Framework for Speech Emotion Recognition in Naturalistic Conditions Challenge for Emotional Attribute Prediction**|Thanathai Lertpetchpun et.al.|[2506.10930](http://arxiv.org/abs/2506.10930)|null|
 |**2025-06-12**|**CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation**|Zhao Zhang et.al.|[2506.10890](http://arxiv.org/abs/2506.10890)|null|
 |**2025-06-12**|**Prompts to Summaries: Zero-Shot Language-Guided Video Summarization**|Mario Barbara et.al.|[2506.10807](http://arxiv.org/abs/2506.10807)|null|
@@ -4958,6 +4982,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Optimal trace norms for Helmholtz problems**|Benedikt Gräßle et.al.|[2506.11944](http://arxiv.org/abs/2506.11944)|null|
+|**2025-06-13**|**Integral Operators on Generalized Weighted Central Morrey Spaces over Local Fields**|Salman Ashraf et.al.|[2506.11494](http://arxiv.org/abs/2506.11494)|null|
+|**2025-06-13**|**A correlation-permutation approach for speech-music encoders model merging**|Fabian Ritter-Gutierrez et.al.|[2506.11403](http://arxiv.org/abs/2506.11403)|null|
 |**2025-06-04**|**A phase transition in the Bakry-Émery gradient estimate for Dyson Brownian motion**|Kohei Suzuki et.al.|[2506.04424](http://arxiv.org/abs/2506.04424)|null|
 |**2025-05-29**|**Zero-Shot Adaptation of Parameter-Efficient Fine-Tuning in Diffusion Models**|Farzad Farhadzadeh et.al.|[2506.04244](http://arxiv.org/abs/2506.04244)|null|
 |**2025-06-01**|**Weight-Space Linear Recurrent Neural Networks**|Roussel Desmond Nzoyem et.al.|[2506.01153](http://arxiv.org/abs/2506.01153)|null|
@@ -5469,6 +5496,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969](http://arxiv.org/abs/2506.11969)|null|
+|**2025-06-13**|**Random rotational invariance of integration by parts formulas within a Bismut-type approach**|Susanna Dehò et.al.|[2506.11937](http://arxiv.org/abs/2506.11937)|null|
+|**2025-06-13**|**Measurement-aligned Flow for Inverse Problem**|Shaorong Zhang et.al.|[2506.11893](http://arxiv.org/abs/2506.11893)|null|
+|**2025-06-13**|**Learning to Integrate**|Oliver G. Ernst et.al.|[2506.11801](http://arxiv.org/abs/2506.11801)|null|
+|**2025-06-13**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al.|[2506.11772](http://arxiv.org/abs/2506.11772)|null|
+|**2025-06-13**|**State constrained stochastic optimal control of a PV system with battery storage via Fokker-Planck and Hamilton-Jacobi-Bellman equations**|Alfredo Bermúdez et.al.|[2506.11765](http://arxiv.org/abs/2506.11765)|null|
+|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
+|**2025-06-13**|**Simulating realistic radio continuum survey maps with diffusion models**|Tobias Vičánek Martínez et.al.|[2506.11715](http://arxiv.org/abs/2506.11715)|null|
+|**2025-06-13**|**Fusion of multi-source precipitation records via coordinate-based generative model**|Sencan Sun et.al.|[2506.11698](http://arxiv.org/abs/2506.11698)|null|
+|**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai et.al.|[2506.11530](http://arxiv.org/abs/2506.11530)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
+|**2025-06-13**|**An infinite horizon sufficient stochastic maximum principle for regime switching diffusions and applications**|Kai Ding et.al.|[2506.11523](http://arxiv.org/abs/2506.11523)|null|
+|**2025-06-13**|**Taming Stable Diffusion for Computed Tomography Blind Super-Resolution**|Chunlei Li et.al.|[2506.11496](http://arxiv.org/abs/2506.11496)|null|
+|**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493](http://arxiv.org/abs/2506.11493)|null|
+|**2025-06-13**|**LiLAC: A Lightweight Latent ControlNet for Musical Audio Generation**|Tom Baker et.al.|[2506.11476](http://arxiv.org/abs/2506.11476)|null|
 |**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981](http://arxiv.org/abs/2506.10981)|null|
 |**2025-06-12**|**Fine-Grained Perturbation Guidance via Attention Head Selection**|Donghoon Ahn et.al.|[2506.10978](http://arxiv.org/abs/2506.10978)|null|
 |**2025-06-12**|**What Exactly Does Guidance Do in Masked Discrete Diffusion Models**|He Ye et.al.|[2506.10971](http://arxiv.org/abs/2506.10971)|null|
@@ -8192,6 +8234,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
 |**2025-06-12**|**Ground Reaction Force Estimation via Time-aware Knowledge Distillation**|Eun Som Jeon et.al.|[2506.10265](http://arxiv.org/abs/2506.10265)|null|
 |**2025-06-11**|**FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**|Jun Bai et.al.|[2506.10207](http://arxiv.org/abs/2506.10207)|null|
 |**2025-06-11**|**A Novel Lightweight Transformer with Edge-Aware Fusion for Remote Sensing Image Captioning**|Swadhin Das et.al.|[2506.09429](http://arxiv.org/abs/2506.09429)|null|
@@ -8205,7 +8248,7 @@
 |**2025-06-07**|**DivScore: Zero-Shot Detection of LLM-Generated Text in Specialized Domains**|Zhihui Chen et.al.|[2506.06705](http://arxiv.org/abs/2506.06705)|null|
 |**2025-06-07**|**Training-Free Tokenizer Transplantation via Orthogonal Matching Pursuit**|Charles Goddard et.al.|[2506.06607](http://arxiv.org/abs/2506.06607)|null|
 |**2025-06-06**|**Label-Context-Dependent Internal Language Model Estimation for CTC**|Zijian Yang et.al.|[2506.06096](http://arxiv.org/abs/2506.06096)|null|
-|**2025-06-06**|**Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework**|Lingyuan Liu et.al.|[2506.05695](http://arxiv.org/abs/2506.05695)|null|
+|**2025-06-06**|**Being Strong Progressively! Enhancing Knowledge Distillation of Large Language Models through a Curriculum Learning Framework**|Lingyuan Liu et.al.|[2506.05695](http://arxiv.org/abs/2506.05695)|**[link](https://github.com/liuliuyuan6/POCL)**|
 |**2025-06-04**|**QA-HFL: Quality-Aware Hierarchical Federated Learning for Resource-Constrained Mobile Devices with Heterogeneous Image Quality**|Sajid Hussain et.al.|[2506.05411](http://arxiv.org/abs/2506.05411)|null|
 |**2025-06-05**|**Static Word Embeddings for Sentence Semantic Representation**|Takashi Wada et.al.|[2506.04624](http://arxiv.org/abs/2506.04624)|null|
 |**2025-06-05**|**StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation**|Ranjith Merugu et.al.|[2506.04567](http://arxiv.org/abs/2506.04567)|null|
@@ -8921,6 +8964,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
+|**2025-06-13**|**Confidence-Based Self-Training for EMG-to-Speech: Leveraging Synthetic EMG for Robust Modeling**|Xiaodan Chen et.al.|[2506.11862](http://arxiv.org/abs/2506.11862)|null|
+|**2025-06-13**|**MindGrab for BrainChop: Fast and Accurate Skull Stripping for Command Line and Browser**|Armina Fani et.al.|[2506.11860](http://arxiv.org/abs/2506.11860)|null|
+|**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
+|**2025-06-13**|**Why Do Class-Dependent Evaluation Effects Occur with Time Series Feature Attributions? A Synthetic Data Investigation**|Gregor Baer et.al.|[2506.11790](http://arxiv.org/abs/2506.11790)|null|
+|**2025-06-13**|**AgentSense: Virtual Sensor Data Generation Using LLM Agent in Simulated Home Environments**|Zikang Leng et.al.|[2506.11773](http://arxiv.org/abs/2506.11773)|null|
+|**2025-06-13**|**Causal Effect Identification in Heterogeneous Environments from Higher-Order Moments**|Yaroslav Kivva et.al.|[2506.11756](http://arxiv.org/abs/2506.11756)|null|
+|**2025-06-13**|**Exploring the Effectiveness of Deep Features from Domain-Specific Foundation Models in Retinal Image Synthesis**|Zuzanna Skorniewska et.al.|[2506.11753](http://arxiv.org/abs/2506.11753)|null|
+|**2025-06-13**|**Generalised Rate Control Approach For Stream Processing Applications**|Ziren Xiao et.al.|[2506.11710](http://arxiv.org/abs/2506.11710)|null|
+|**2025-06-13**|**Configurable Preference Tuning with Rubric-Guided Synthetic Data**|Víctor Gallego et.al.|[2506.11702](http://arxiv.org/abs/2506.11702)|null|
+|**2025-06-13**|**Let the Tree Decide: FABART A Non-Parametric Factor Model**|Sofia Velasco et.al.|[2506.11551](http://arxiv.org/abs/2506.11551)|null|
+|**2025-06-12**|**Variance estimation after matching or re-weighting**|Xiang Meng et.al.|[2506.11317](http://arxiv.org/abs/2506.11317)|null|
+|**2025-06-12**|**Joint Denoising of Cryo-EM Projection Images using Polar Transformers**|Joakim Andén et.al.|[2506.11283](http://arxiv.org/abs/2506.11283)|null|
+|**2025-06-12**|**Domain-Constrained Diffusion Models to Synthesize Tabular Data: A Case Study in Power Systems**|Milad Hoseinpour et.al.|[2506.11281](http://arxiv.org/abs/2506.11281)|null|
+|**2025-06-12**|**Invocable APIs derived from NL2SQL datasets for LLM Tool-Calling Evaluation**|Benjamin Elder et.al.|[2506.11266](http://arxiv.org/abs/2506.11266)|null|
 |**2025-06-12**|**Distillation of atomistic foundation models across architectures and chemical domains**|John L. A. Gardner et.al.|[2506.10956](http://arxiv.org/abs/2506.10956)|null|
 |**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
 |**2025-06-12**|**A Study on Individual Spatiotemporal Activity Generation Method Using MCP-Enhanced Chain-of-Thought Large Language Models**|Yu Zhang et.al.|[2506.10853](http://arxiv.org/abs/2506.10853)|null|
