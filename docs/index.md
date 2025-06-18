@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,7 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
+|**2025-06-17**|**Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
 |**2025-06-16**|**Dynamic Context-oriented Decomposition for Task-aware Low-rank Adaptation with Less Forgetting and Faster Convergence**|Yibo Yang et.al.|[2506.13187](http://arxiv.org/abs/2506.13187)|null|
 |**2025-06-14**|**LARGO: Low-Rank Regulated Gradient Projection for Robust Parameter Efficient Fine-Tuning**|Haotian Zhang et.al.|[2506.12394](http://arxiv.org/abs/2506.12394)|null|
 |**2025-06-14**|**EKPC: Elastic Knowledge Preservation and Compensation for Class-Incremental Learning**|Huaijie Wang et.al.|[2506.12351](http://arxiv.org/abs/2506.12351)|null|
@@ -493,7 +493,7 @@ layout: default
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756](http://arxiv.org/abs/2506.13756)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
+|**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
 |**2025-06-16**|**Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry**|Junyoung Seo et.al.|[2506.13697](http://arxiv.org/abs/2506.13697)|null|
 |**2025-06-16**|**UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions**|Zhucun Xue et.al.|[2506.13691](http://arxiv.org/abs/2506.13691)|null|
 |**2025-06-16**|**Enforcing tail calibration when training probabilistic forecast models**|Jakob Benjamin Wessel et.al.|[2506.13687](http://arxiv.org/abs/2506.13687)|null|
@@ -3897,7 +3897,7 @@ layout: default
 |**2025-06-16**|**FinLMM-R1: Enhancing Financial Reasoning in LMM through Scalable Data and Reward Design**|Kai Lan et.al.|[2506.13066](http://arxiv.org/abs/2506.13066)|null|
 |**2025-06-16**|**Rethinking Explainability in the Era of Multimodal AI**|Chirag Agarwal et.al.|[2506.13060](http://arxiv.org/abs/2506.13060)|null|
 |**2025-06-16**|**Stress-Testing Multimodal Foundation Models for Crystallographic Reasoning**|Can Polat et.al.|[2506.13051](http://arxiv.org/abs/2506.13051)|null|
-|**2025-06-16**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
+|**2025-06-17**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
 |**2025-06-15**|**Learning to Fuse: Modality-Aware Adaptive Scheduling for Robust Multimodal Foundation Models**|Liam Bennett et.al.|[2506.12733](http://arxiv.org/abs/2506.12733)|null|
 |**2025-06-15**|**Dynamic Modality Scheduling for Multimodal Large Models via Confidence, Uncertainty, and Semantic Consistency**|Hiroshi Tanaka et.al.|[2506.12724](http://arxiv.org/abs/2506.12724)|null|
 |**2025-06-14**|**InverTune: Removing Backdoors from Multimodal Contrastive Learning Models via Trigger Inversion and Activation Tuning**|Mengyuan Sun et.al.|[2506.12411](http://arxiv.org/abs/2506.12411)|null|
@@ -5526,7 +5526,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
-|**2025-06-16**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
+|**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
 |**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
 |**2025-06-16**|**MultiViT2: A Data-augmented Multimodal Neuroimaging Prediction Framework via Latent Diffusion Model**|Bi Yuda et.al.|[2506.13667](http://arxiv.org/abs/2506.13667)|null|
 |**2025-06-16**|**Absolutely Continuous Curves of Stochastic Processes**|Beatrice Acciaio et.al.|[2506.13634](http://arxiv.org/abs/2506.13634)|null|
@@ -8277,10 +8277,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**A Technical Study into Small Reasoning Language Models**|Xialie Zhuang et.al.|[2506.13404](http://arxiv.org/abs/2506.13404)|null|
-|**2025-06-16**|**SeqPE: Transformer with Sequential Position Encoding**|Huyang Li et.al.|[2506.13277](http://arxiv.org/abs/2506.13277)|null|
+|**2025-06-17**|**SeqPE: Transformer with Sequential Position Encoding**|Huayang Li et.al.|[2506.13277](http://arxiv.org/abs/2506.13277)|null|
 |**2025-06-16**|**Lightweight Task-Oriented Semantic Communication Empowered by Large-Scale AI Models**|Chuanhong Liu et.al.|[2506.13243](http://arxiv.org/abs/2506.13243)|null|
 |**2025-06-16**|**I $^2$ S-TFCKD: Intra-Inter Set Knowledge Distillation with Time-Frequency Calibration for Speech Enhancement**|Jiaming Cheng et.al.|[2506.13127](http://arxiv.org/abs/2506.13127)|null|
-|**2025-06-16**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
+|**2025-06-17**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
 |**2025-06-14**|**PLD: A Choice-Theoretic List-Wise Knowledge Distillation**|Ejafa Bassam et.al.|[2506.12542](http://arxiv.org/abs/2506.12542)|null|
 |**2025-06-14**|**Merlin: Multi-View Representation Learning for Robust Multivariate Time Series Forecasting with Unfixed Missing Rates**|Chengqing Yu et.al.|[2506.12459](http://arxiv.org/abs/2506.12459)|null|
 |**2025-06-13**|**Brewing Knowledge in Context: Distillation Perspectives on In-Context Learning**|Chengye Li et.al.|[2506.11516](http://arxiv.org/abs/2506.11516)|null|
@@ -9012,7 +9012,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
-|**2025-06-16**|**Graph-Convolution-Beta-VAE for Synthetic Abdominal Aorta Aneurysm Generation**|Francesco Fabbri et.al.|[2506.13628](http://arxiv.org/abs/2506.13628)|null|
+|**2025-06-17**|**Graph-Convolutional-Beta-VAE for Synthetic Abdominal Aorta Aneurysm Generation**|Francesco Fabbri et.al.|[2506.13628](http://arxiv.org/abs/2506.13628)|null|
 |**2025-06-16**|**From Data-Driven to Purpose-Driven Artificial Intelligence: Systems Thinking for Data-Analytic Automation of Patient Care**|Daniel Anadria et.al.|[2506.13584](http://arxiv.org/abs/2506.13584)|null|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
 |**2025-06-16**|**What Matters in Learning from Large-Scale Datasets for Robot Manipulation**|Vaibhav Saxena et.al.|[2506.13536](http://arxiv.org/abs/2506.13536)|null|
