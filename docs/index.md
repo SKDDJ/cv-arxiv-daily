@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|null|
+|**2025-06-17**|**Sharp Generalization Bounds for Foundation Models with Asymmetric Randomized Low-Rank Adapters**|Anastasis Kratsios et.al.|[2506.14530](http://arxiv.org/abs/2506.14530)|null|
 |**2025-06-17**|**Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
 |**2025-06-16**|**Dynamic Context-oriented Decomposition for Task-aware Low-rank Adaptation with Less Forgetting and Faster Convergence**|Yibo Yang et.al.|[2506.13187](http://arxiv.org/abs/2506.13187)|null|
 |**2025-06-14**|**LARGO: Low-Rank Regulated Gradient Projection for Robust Parameter Efficient Fine-Tuning**|Haotian Zhang et.al.|[2506.12394](http://arxiv.org/abs/2506.12394)|null|
@@ -490,6 +492,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
+|**2025-06-17**|**Gravitational-wave background detection using machine learning**|Hugo Einsle et.al.|[2506.14764](http://arxiv.org/abs/2506.14764)|null|
+|**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
+|**2025-06-17**|**Adaptive Accompaniment with ReaLchords**|Yusong Wu et.al.|[2506.14723](http://arxiv.org/abs/2506.14723)|null|
+|**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706](http://arxiv.org/abs/2506.14706)|null|
+|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670](http://arxiv.org/abs/2506.14670)|null|
+|**2025-06-17**|**Align Your Flow: Scaling Continuous-Time Flow Map Distillation**|Amirmojtaba Sabour et.al.|[2506.14603](http://arxiv.org/abs/2506.14603)|null|
+|**2025-06-17**|**NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving**|Ren Xin et.al.|[2506.14589](http://arxiv.org/abs/2506.14589)|null|
+|**2025-06-17**|**Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images**|David Butler et.al.|[2506.14560](http://arxiv.org/abs/2506.14560)|null|
+|**2025-06-17**|**Accurate Depth-Resolved Temperature Profiling via Thermal-Radiation Spectroscopy: Numerical Methods vs Machine Learning**|Dmitrii Shymkiv et.al.|[2506.14554](http://arxiv.org/abs/2506.14554)|null|
+|**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549](http://arxiv.org/abs/2506.14549)|null|
+|**2025-06-17**|**Using BDF schemes in the temporal integration of POD-ROM methods**|Bosco García-Archilla et.al.|[2506.14543](http://arxiv.org/abs/2506.14543)|null|
+|**2025-06-17**|**Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion**|Dong Xu et.al.|[2506.14488](http://arxiv.org/abs/2506.14488)|null|
+|**2025-06-17**|**SimSpark: Interactive Simulation of Social Media Behaviors**|Ziyue Lin et.al.|[2506.14476](http://arxiv.org/abs/2506.14476)|null|
+|**2025-06-17**|**Active Digital Twins via Active Inference**|Matteo Torzoni et.al.|[2506.14453](http://arxiv.org/abs/2506.14453)|null|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
 |**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756](http://arxiv.org/abs/2506.13756)|null|
@@ -3886,6 +3903,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**MoTE: Mixture of Ternary Experts for Memory-efficient Large Multimodal Models**|Hongyu Wang et.al.|[2506.14435](http://arxiv.org/abs/2506.14435)|null|
+|**2025-06-16**|**Comparison of ConvNeXt and Vision-Language Models for Breast Density Assessment in Screening Mammography**|Yusdivia Molina-Román et.al.|[2506.13964](http://arxiv.org/abs/2506.13964)|null|
+|**2025-06-16**|**ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection**|Shang-Chi Tsai et.al.|[2506.13956](http://arxiv.org/abs/2506.13956)|null|
+|**2025-06-16**|**A Survey on World Models Grounded in Acoustic Physical Information**|Xiaoliang Chen et.al.|[2506.13833](http://arxiv.org/abs/2506.13833)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|null|
 |**2025-06-16**|**Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model**|Shaolei Zhang et.al.|[2506.13642](http://arxiv.org/abs/2506.13642)|null|
 |**2025-06-16**|**MambaMia: A State-Space-Model-Based Compression for Efficient Video Understanding in Large Multimodal Models**|Geewook Kim et.al.|[2506.13564](http://arxiv.org/abs/2506.13564)|null|
@@ -5525,6 +5546,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
+|**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
+|**2025-06-17**|**A Minkowski problem for $α$ -concave functions via optimal transport**|Xiao Li et.al.|[2506.14735](http://arxiv.org/abs/2506.14735)|null|
+|**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706](http://arxiv.org/abs/2506.14706)|null|
+|**2025-06-17**|**On Quantum BSDE Solver for High-Dimensional Parabolic PDEs**|Howard Su et.al.|[2506.14612](http://arxiv.org/abs/2506.14612)|null|
+|**2025-06-17**|**Risk Estimation of Knee Osteoarthritis Progression via Predictive Multi-task Modelling from Efficient Diffusion Model using X-ray Images**|David Butler et.al.|[2506.14560](http://arxiv.org/abs/2506.14560)|null|
+|**2025-06-17**|**DreamLight: Towards Harmonious and Consistent Image Relighting**|Yong Liu et.al.|[2506.14549](http://arxiv.org/abs/2506.14549)|null|
+|**2025-06-17**|**Using BDF schemes in the temporal integration of POD-ROM methods**|Bosco García-Archilla et.al.|[2506.14543](http://arxiv.org/abs/2506.14543)|null|
+|**2025-06-17**|**Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion**|Dong Xu et.al.|[2506.14488](http://arxiv.org/abs/2506.14488)|null|
+|**2025-06-17**|**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**|Xiaoran Liu et.al.|[2506.14429](http://arxiv.org/abs/2506.14429)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models**|Tian Xia et.al.|[2506.14399](http://arxiv.org/abs/2506.14399)|null|
+|**2025-06-17**|**FRIDU: Functional Map Refinement with Guided Image Diffusion**|Avigail Cohen Rimon et.al.|[2506.14322](http://arxiv.org/abs/2506.14322)|null|
+|**2025-06-17**|**Optimal Incentive for Regulated Production**|Benhao Du et.al.|[2506.14286](http://arxiv.org/abs/2506.14286)|null|
+|**2025-06-17**|**CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**|Jia-Chen Zhang et.al.|[2506.14206](http://arxiv.org/abs/2506.14206)|null|
 |**2025-06-16**|**Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value**|Yixian Xu et.al.|[2506.13763](http://arxiv.org/abs/2506.13763)|null|
 |**2025-06-17**|**VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models**|Edward Li et.al.|[2506.13754](http://arxiv.org/abs/2506.13754)|null|
 |**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
@@ -8276,6 +8312,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
+|**2025-06-17**|**Dataset distillation for memorized data: Soft labels can leak held-out teacher knowledge**|Freya Behrens et.al.|[2506.14457](http://arxiv.org/abs/2506.14457)|null|
+|**2025-06-17**|**Model compression using knowledge distillation with integrated gradients**|David E. Hernandez et.al.|[2506.14440](http://arxiv.org/abs/2506.14440)|null|
+|**2025-06-17**|**KDMOS:Knowledge Distillation for Motion Segmentation**|Chunyu Cao et.al.|[2506.14130](http://arxiv.org/abs/2506.14130)|null|
 |**2025-06-16**|**A Technical Study into Small Reasoning Language Models**|Xialie Zhuang et.al.|[2506.13404](http://arxiv.org/abs/2506.13404)|null|
 |**2025-06-17**|**SeqPE: Transformer with Sequential Position Encoding**|Huayang Li et.al.|[2506.13277](http://arxiv.org/abs/2506.13277)|null|
 |**2025-06-16**|**Lightweight Task-Oriented Semantic Communication Empowered by Large-Scale AI Models**|Chuanhong Liu et.al.|[2506.13243](http://arxiv.org/abs/2506.13243)|null|
@@ -9011,6 +9051,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Accurate and scalable exchange-correlation with deep learning**|Giulia Luise et.al.|[2506.14665](http://arxiv.org/abs/2506.14665)|null|
+|**2025-06-17**|**Synthetic Data Augmentation for Table Detection: Re-evaluating TableNet's Performance with Automatically Generated Document Images**|Krishna Sahukara et.al.|[2506.14583](http://arxiv.org/abs/2506.14583)|null|
+|**2025-06-17**|**Object-Centric Neuro-Argumentative Learning**|Abdul Rahman Jacob et.al.|[2506.14577](http://arxiv.org/abs/2506.14577)|null|
+|**2025-06-17**|**A Logic For Fresh Labelled Transition Systems**|Mohamed H Bandukara et.al.|[2506.14538](http://arxiv.org/abs/2506.14538)|null|
+|**2025-06-17**|**SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks**|Zijian Song et.al.|[2506.14512](http://arxiv.org/abs/2506.14512)|null|
+|**2025-06-17**|**An ELIXIR scoping review on domain-specific evaluation metrics for synthetic data in life sciences**|Styliani-Christina Fragkouli et.al.|[2506.14508](http://arxiv.org/abs/2506.14508)|null|
+|**2025-06-17**|**orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels**|Niran Nataraj et.al.|[2506.14303](http://arxiv.org/abs/2506.14303)|null|
+|**2025-06-17**|**CausalDiffTab: Mixed-Type Causal-Aware Diffusion for Tabular Data Generation**|Jia-Chen Zhang et.al.|[2506.14206](http://arxiv.org/abs/2506.14206)|null|
+|**2025-06-16**|**Estimation of Treatment Effects in Extreme and Unobserved Data**|Jiyuan Tan et.al.|[2506.14051](http://arxiv.org/abs/2506.14051)|null|
+|**2025-06-16**|**Meta Optimality for Demographic Parity Constrained Regression via Post-Processing**|Kazuto Fukuchi et.al.|[2506.13947](http://arxiv.org/abs/2506.13947)|null|
+|**2025-06-16**|**Rademacher learning rates for iterated random functions**|Nikola Sandrić et.al.|[2506.13946](http://arxiv.org/abs/2506.13946)|null|
+|**2025-06-16**|**Deep learning inference with the Event Horizon Telescope III. Zingularity results from the 2017 observations and predictions for future array expansions**|M. Janssen et.al.|[2506.13877](http://arxiv.org/abs/2506.13877)|null|
+|**2025-06-16**|**Deep learning inference with the Event Horizon Telescope II. The Zingularity framework for Bayesian artificial neural networks**|M. Janssen et.al.|[2506.13875](http://arxiv.org/abs/2506.13875)|null|
+|**2025-06-16**|**Deep learning inference with the Event Horizon Telescope I. Calibration improvements and a comprehensive synthetic data library**|M. Janssen et.al.|[2506.13873](http://arxiv.org/abs/2506.13873)|null|
+|**2025-06-16**|**A Determination of $α_s(m_Z)$ at aN$^3$LO$_{\bf QCD}\otimes {\bf NLO}_{\bf QED}$ Accuracy from a Global PDF Analysis**|The NNPDF Collaboration et.al.|[2506.13871](http://arxiv.org/abs/2506.13871)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
 |**2025-06-17**|**Graph-Convolutional-Beta-VAE for Synthetic Abdominal Aorta Aneurysm Generation**|Francesco Fabbri et.al.|[2506.13628](http://arxiv.org/abs/2506.13628)|null|
 |**2025-06-16**|**From Data-Driven to Purpose-Driven Artificial Intelligence: Systems Thinking for Data-Analytic Automation of Patient Care**|Daniel Anadria et.al.|[2506.13584](http://arxiv.org/abs/2506.13584)|null|
