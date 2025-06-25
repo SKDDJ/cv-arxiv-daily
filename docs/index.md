@@ -21,6 +21,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**LKA: Large Kernel Adapter for Enhanced Medical Image Classification**|Ziquan Zhu et.al.|[2506.19118](http://arxiv.org/abs/2506.19118)|null|
 |**2025-06-22**|**Memba: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**|Donghyun Lee et.al.|[2506.18184](http://arxiv.org/abs/2506.18184)|null|
 |**2025-06-19**|**Drag-and-Drop LLMs: Zero-Shot Prompt-to-Weights**|Zhiyuan Liang et.al.|[2506.16406](http://arxiv.org/abs/2506.16406)|null|
 |**2025-06-18**|**Targeted Lexical Injection: Unlocking Latent Cross-Lingual Alignment in Lugha-Llama via Early-Layer LoRA Fine-Tuning**|Stanley Ngugi et.al.|[2506.15415](http://arxiv.org/abs/2506.15415)|null|
@@ -496,6 +497,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**Improving Progressive Generation with Decomposable Flow Matching**|Moayed Haji-Ali et.al.|[2506.19839](http://arxiv.org/abs/2506.19839)|null|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
+|**2025-06-24**|**Machine Learning with Privacy for Protected Attributes**|Saeed Mahloujifar et.al.|[2506.19836](http://arxiv.org/abs/2506.19836)|null|
+|**2025-06-24**|**A standard transformer and attention with linear biases for molecular conformer generation**|Viatcheslav Gurev et.al.|[2506.19834](http://arxiv.org/abs/2506.19834)|null|
+|**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
+|**2025-06-24**|**CoCo4D: Comprehensive and Complex 4D Scene Generation**|Junwei Zhou et.al.|[2506.19798](http://arxiv.org/abs/2506.19798)|null|
+|**2025-06-24**|**Line ratio identification of external photoevaporation**|Tyger Peake et.al.|[2506.19788](http://arxiv.org/abs/2506.19788)|null|
+|**2025-06-24**|**Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**|Yang Liu et.al.|[2506.19777](http://arxiv.org/abs/2506.19777)|null|
+|**2025-06-24**|**Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation**|Jun Wang et.al.|[2506.19774](http://arxiv.org/abs/2506.19774)|null|
+|**2025-06-24**|**Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls**|Yihong Luo et.al.|[2506.19741](http://arxiv.org/abs/2506.19741)|null|
+|**2025-06-24**|**Integrated Balanced and Staggered Routing in Autonomous Mobility-on-Demand Systems**|Antonio Coppola et.al.|[2506.19722](http://arxiv.org/abs/2506.19722)|null|
+|**2025-06-24**|**Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales**|Seyedmorteza Sadat et.al.|[2506.19713](http://arxiv.org/abs/2506.19713)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**|Kaiyi Huang et.al.|[2506.18899](http://arxiv.org/abs/2506.18899)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
@@ -3952,6 +3968,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Emergence of Text Readability in Vision Language Models**|Jaeyoo Park et.al.|[2506.19389](http://arxiv.org/abs/2506.19389)|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
 |**2025-06-23**|**OpenEvents V1: Large-Scale Benchmark Dataset for Multimodal Event Grounding**|Hieu Nguyen et.al.|[2506.18372](http://arxiv.org/abs/2506.18372)|null|
 |**2025-06-23**|**BrainSymphony: A Transformer-Driven Fusion of fMRI Time Series and Structural Connectivity**|Moein Khajehnejad et.al.|[2506.18314](http://arxiv.org/abs/2506.18314)|null|
@@ -5100,6 +5117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Geometric-Aware Variational Inference: Robust and Adaptive Regularization with Directional Weight Uncertainty**|Carlos Stein Brito et.al.|[2506.19726](http://arxiv.org/abs/2506.19726)|null|
 |**2025-06-21**|**CultureMERT: Continual Pre-Training for Cross-Cultural Music Representation Learning**|Angelos-Nikolaos Kanatas et.al.|[2506.17818](http://arxiv.org/abs/2506.17818)|null|
 |**2025-06-21**|**Scalable Machine Learning Algorithms using Path Signatures**|Csaba Tóth et.al.|[2506.17634](http://arxiv.org/abs/2506.17634)|null|
 |**2025-06-21**|**LFR-PINO: A Layered Fourier Reduced Physics-Informed Neural Operator for Parametric PDEs**|Jing Wang et.al.|[2506.17582](http://arxiv.org/abs/2506.17582)|null|
@@ -5616,6 +5634,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
+|**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
+|**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
+|**2025-06-24**|**Improving Progressive Generation with Decomposable Flow Matching**|Moayed Haji-Ali et.al.|[2506.19839](http://arxiv.org/abs/2506.19839)|null|
+|**2025-06-24**|**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution**|Liangbin Xie et.al.|[2506.19838](http://arxiv.org/abs/2506.19838)|null|
+|**2025-06-24**|**Machine Learning with Privacy for Protected Attributes**|Saeed Mahloujifar et.al.|[2506.19836](http://arxiv.org/abs/2506.19836)|null|
+|**2025-06-24**|**ProxelGen: Generating Proteins as 3D Densities**|Felix Faltings et.al.|[2506.19820](http://arxiv.org/abs/2506.19820)|null|
+|**2025-06-24**|**CoCo4D: Comprehensive and Complex 4D Scene Generation**|Junwei Zhou et.al.|[2506.19798](http://arxiv.org/abs/2506.19798)|null|
+|**2025-06-24**|**Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**|Yang Liu et.al.|[2506.19777](http://arxiv.org/abs/2506.19777)|null|
+|**2025-06-24**|**Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls**|Yihong Luo et.al.|[2506.19741](http://arxiv.org/abs/2506.19741)|null|
+|**2025-06-24**|**Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales**|Seyedmorteza Sadat et.al.|[2506.19713](http://arxiv.org/abs/2506.19713)|null|
+|**2025-06-24**|**SceneCrafter: Controllable Multi-View Driving Scene Editing**|Zehao Zhu et.al.|[2506.19488](http://arxiv.org/abs/2506.19488)|null|
+|**2025-06-24**|**Stylized Structural Patterns for Improved Neural Network Pre-training**|Farnood Salehi et.al.|[2506.19465](http://arxiv.org/abs/2506.19465)|null|
+|**2025-06-24**|**Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic Geometry Generation**|Zhifeng Wang et.al.|[2506.19455](http://arxiv.org/abs/2506.19455)|null|
+|**2025-06-24**|**Generate the Forest before the Trees -- A Hierarchical Diffusion model for Climate Downscaling**|Declan J. Curran et.al.|[2506.19391](http://arxiv.org/abs/2506.19391)|null|
 |**2025-06-23**|**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models**|Kiymet Akdemir et.al.|[2506.18900](http://arxiv.org/abs/2506.18900)|null|
 |**2025-06-23**|**MinD: Unified Visual Imagination and Control via Hierarchical World Models**|Xiaowei Chi et.al.|[2506.18897](http://arxiv.org/abs/2506.18897)|null|
 |**2025-06-23**|**A comparison principle for variational problems : with an application to optimal transport**|Flavien Léger et.al.|[2506.18884](http://arxiv.org/abs/2506.18884)|null|
@@ -8427,6 +8460,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy**|Zhihao Sui et.al.|[2506.19486](http://arxiv.org/abs/2506.19486)|null|
+|**2025-06-23**|**HAWAII: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models**|Yimu Wang et.al.|[2506.19072](http://arxiv.org/abs/2506.19072)|null|
+|**2025-06-23**|**Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation**|Yuan Yao et.al.|[2506.18999](http://arxiv.org/abs/2506.18999)|null|
 |**2025-06-24**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
 |**2025-06-23**|**Multi-modal Anchor Gated Transformer with Knowledge Distillation for Emotion Recognition in Conversation**|Jie Li et.al.|[2506.18716](http://arxiv.org/abs/2506.18716)|**[link](https://github.com/JieLi-dd/MAGTKD)**|
 |**2025-06-23**|**Efficient and Generalizable Speaker Diarization via Structured Pruning of Self-Supervised Models**|Jiangyu Han et.al.|[2506.18623](http://arxiv.org/abs/2506.18623)|null|
@@ -9181,6 +9217,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study**|Yuqi Zhu et.al.|[2506.19794](http://arxiv.org/abs/2506.19794)|null|
+|**2025-06-24**|**Uncovering Conceptual Blindspots in Generative Image Models Using Sparse Autoencoders**|Matyas Bohacek et.al.|[2506.19708](http://arxiv.org/abs/2506.19708)|null|
+|**2025-06-24**|**Extreme Learning Machines for Exoplanet Simulations: A Faster, Lightweight Alternative to Deep Learning**|Tara P. A. Tahseen et.al.|[2506.19679](http://arxiv.org/abs/2506.19679)|null|
+|**2025-06-24**|**Unsupervised Data Generation for Offline Reinforcement Learning: A Perspective from Model**|Shuncheng He et.al.|[2506.19643](http://arxiv.org/abs/2506.19643)|null|
+|**2025-06-24**|**Stylized Structural Patterns for Improved Neural Network Pre-training**|Farnood Salehi et.al.|[2506.19465](http://arxiv.org/abs/2506.19465)|null|
+|**2025-06-24**|**SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation**|Yunsung Chung et.al.|[2506.19360](http://arxiv.org/abs/2506.19360)|null|
+|**2025-06-24**|**In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly**|Puneesh Deora et.al.|[2506.19351](http://arxiv.org/abs/2506.19351)|null|
+|**2025-06-24**|**Progressive Modality Cooperation for Multi-Modality Domain Adaptation**|Weichen Zhang et.al.|[2506.19316](http://arxiv.org/abs/2506.19316)|null|
+|**2025-06-24**|**What Matters in LLM-generated Data: Diversity and Its Effect on Model Fine-Tuning**|Yuchang Zhu et.al.|[2506.19262](http://arxiv.org/abs/2506.19262)|null|
+|**2025-06-24**|**Automated Image Recognition Framework**|Quang-Binh Nguyen et.al.|[2506.19261](http://arxiv.org/abs/2506.19261)|null|
+|**2025-06-24**|**MSR-Align: Policy-Grounded Multimodal Alignment for Safety-Aware Reasoning in Vision-Language Models**|Yinan Xia et.al.|[2506.19257](http://arxiv.org/abs/2506.19257)|null|
+|**2025-06-23**|**FairCauseSyn: Towards Causally Fair LLM-Augmented Synthetic Data Generation**|Nitish Nagesh et.al.|[2506.19082](http://arxiv.org/abs/2506.19082)|null|
 |**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
 |**2025-06-23**|**A Structural Causal Model for Electronic Device Reliability: From Effects to Counterfactuals**|Federico Mattia Stefanini et.al.|[2506.18663](http://arxiv.org/abs/2506.18663)|null|
 |**2025-06-23**|**One-sample survival tests for non-proportional hazards in oncology clinical trial**|Chloé Szurewsky et.al.|[2506.18608](http://arxiv.org/abs/2506.18608)|null|
