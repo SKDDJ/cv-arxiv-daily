@@ -497,6 +497,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
+|**2025-06-25**|**Experimental demonstration of high compression of space by optical spaceplates**|Ryan Hogan et.al.|[2506.20647](http://arxiv.org/abs/2506.20647)|null|
+|**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
+|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
+|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
+|**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608](http://arxiv.org/abs/2506.20608)|null|
+|**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
+|**2025-06-25**|**SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection**|Ji Qi et.al.|[2506.20599](http://arxiv.org/abs/2506.20599)|null|
+|**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
+|**2025-06-25**|**Demonstration of effective UCB-based routing in skill-based queues on real-world data**|Sanne van Kempen et.al.|[2506.20543](http://arxiv.org/abs/2506.20543)|null|
+|**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513](http://arxiv.org/abs/2506.20513)|null|
+|**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452](http://arxiv.org/abs/2506.20452)|null|
+|**2025-06-25**|**Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation**|Changlu Guo et.al.|[2506.20449](http://arxiv.org/abs/2506.20449)|null|
+|**2025-06-25**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
@@ -3968,6 +3983,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
+|**2025-06-25**|**Personalized Mental State Evaluation in Human-Robot Interaction using Federated Learning**|Andrea Bussolan et.al.|[2506.20212](http://arxiv.org/abs/2506.20212)|null|
 |**2025-06-24**|**Emergence of Text Readability in Vision Language Models**|Jaeyoo Park et.al.|[2506.19389](http://arxiv.org/abs/2506.19389)|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
 |**2025-06-23**|**OpenEvents V1: Large-Scale Benchmark Dataset for Multimodal Event Grounding**|Hieu Nguyen et.al.|[2506.18372](http://arxiv.org/abs/2506.18372)|null|
@@ -5634,6 +5651,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
+|**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
+|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
+|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
+|**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
+|**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452](http://arxiv.org/abs/2506.20452)|null|
+|**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
+|**2025-06-25**|**Ctrl-Z Sampling: Diffusion Sampling with Controlled Random Zigzag Explorations**|Shunqi Mao et.al.|[2506.20294](http://arxiv.org/abs/2506.20294)|null|
+|**2025-06-25**|**Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement**|Kun Yuan et.al.|[2506.20254](http://arxiv.org/abs/2506.20254)|null|
+|**2025-06-25**|**Towards Efficient Exemplar Based Image Editing with Multimodal VLMs**|Avadhoot Jadhav et.al.|[2506.20155](http://arxiv.org/abs/2506.20155)|null|
+|**2025-06-24**|**Robust Robotic Exploration and Mapping Using Generative Occupancy Map Synthesis**|Lorin Achey et.al.|[2506.20049](http://arxiv.org/abs/2506.20049)|null|
+|**2025-06-24**|**Elucidated Rolling Diffusion Models for Probabilistic Weather Forecasting**|Salva Rühling Cachay et.al.|[2506.20024](http://arxiv.org/abs/2506.20024)|null|
+|**2025-06-24**|**Approximating the order 2 quantum Wasserstein distance using the moment-SOS hierarchy**|Saroj Prasad Chhatoi et.al.|[2506.20006](http://arxiv.org/abs/2506.20006)|null|
+|**2025-06-24**|**Any-Order GPT as Masked Diffusion Model: Decoupling Formulation and Architecture**|Shuchen Xue et.al.|[2506.19935](http://arxiv.org/abs/2506.19935)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
@@ -8460,6 +8492,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Tackling Data Heterogeneity in Federated Learning through Knowledge Distillation with Inequitable Aggregation**|Xing Ma et.al.|[2506.20431](http://arxiv.org/abs/2506.20431)|null|
+|**2025-06-25**|**Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning**|Mohammad Mahdi Maheri et.al.|[2506.20413](http://arxiv.org/abs/2506.20413)|null|
+|**2025-06-25**|**FedBKD: Distilled Federated Learning to Embrace Gerneralization and Personalization on Non-IID Data**|Yushan Zhao et.al.|[2506.20245](http://arxiv.org/abs/2506.20245)|null|
+|**2025-06-25**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
+|**2025-06-24**|**GNN's Uncertainty Quantification using Self-Distillation**|Hirad Daneshvar et.al.|[2506.20046](http://arxiv.org/abs/2506.20046)|null|
+|**2025-06-24**|**Distillation-Enabled Knowledge Alignment for Generative Semantic Communications in AIGC Provisioning Tasks**|Jingzhi Hu et.al.|[2506.19893](http://arxiv.org/abs/2506.19893)|null|
 |**2025-06-24**|**Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy**|Zhihao Sui et.al.|[2506.19486](http://arxiv.org/abs/2506.19486)|null|
 |**2025-06-23**|**HAWAII: Hierarchical Visual Knowledge Transfer for Efficient Vision-Language Models**|Yimu Wang et.al.|[2506.19072](http://arxiv.org/abs/2506.19072)|null|
 |**2025-06-23**|**Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation**|Yuan Yao et.al.|[2506.18999](http://arxiv.org/abs/2506.18999)|null|
@@ -9217,6 +9255,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Disentangled representations of microscopy images**|Jacopo Dapueto et.al.|[2506.20649](http://arxiv.org/abs/2506.20649)|null|
+|**2025-06-25**|**Lost in Retraining: Roaming the Parameter Space of Exponential Families Under Closed-Loop Learning**|Fariba Jangjoo et.al.|[2506.20623](http://arxiv.org/abs/2506.20623)|null|
+|**2025-06-25**|**Causal Representation Learning with Observational Grouping for CXR Classification**|Rajat Rasal et.al.|[2506.20582](http://arxiv.org/abs/2506.20582)|null|
+|**2025-06-25**|**Causal Inference for Latent Outcomes Learned with Factor Models**|Jenna M. Landy et.al.|[2506.20549](http://arxiv.org/abs/2506.20549)|null|
+|**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513](http://arxiv.org/abs/2506.20513)|null|
+|**2025-06-25**|**Generative AI for Vulnerability Detection in 6G Wireless Networks: Advances, Case Study, and Future Directions**|Shuo Yang et.al.|[2506.20488](http://arxiv.org/abs/2506.20488)|null|
+|**2025-06-25**|**POLAR: A Pessimistic Model-based Policy Learning Algorithm for Dynamic Treatment Regimes**|Ruijia Zhang et.al.|[2506.20406](http://arxiv.org/abs/2506.20406)|null|
+|**2025-06-25**|**Time-series surrogates from energy consumers generated by machine learning approaches for long-term forecasting scenarios**|Ben Gerhards et.al.|[2506.20253](http://arxiv.org/abs/2506.20253)|null|
+|**2025-06-25**|**FedBKD: Distilled Federated Learning to Embrace Gerneralization and Personalization on Non-IID Data**|Yushan Zhao et.al.|[2506.20245](http://arxiv.org/abs/2506.20245)|null|
+|**2025-06-25**|**Time and covariance smoothing for restoration of bivariate signals**|Yusuf Yigit Pilavci et.al.|[2506.20237](http://arxiv.org/abs/2506.20237)|null|
+|**2025-06-25**|**Progressive Alignment Degradation Learning for Pansharpening**|Enzhe Zhao et.al.|[2506.20179](http://arxiv.org/abs/2506.20179)|null|
 |**2025-06-24**|**Why Do Open-Source LLMs Struggle with Data Analysis? A Systematic Empirical Study**|Yuqi Zhu et.al.|[2506.19794](http://arxiv.org/abs/2506.19794)|null|
 |**2025-06-24**|**Uncovering Conceptual Blindspots in Generative Image Models Using Sparse Autoencoders**|Matyas Bohacek et.al.|[2506.19708](http://arxiv.org/abs/2506.19708)|null|
 |**2025-06-24**|**Extreme Learning Machines for Exoplanet Simulations: A Faster, Lightweight Alternative to Deep Learning**|Tara P. A. Tahseen et.al.|[2506.19679](http://arxiv.org/abs/2506.19679)|null|
