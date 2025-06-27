@@ -1,4 +1,4 @@
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -489,7 +489,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -498,7 +498,7 @@
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Experimental demonstration of high compression of space by optical spaceplates**|Ryan Hogan et.al.|[2506.20647](http://arxiv.org/abs/2506.20647)|null|
 |**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
-|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-26**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
 |**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
 |**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
 |**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608](http://arxiv.org/abs/2506.20608)|null|
@@ -509,7 +509,7 @@
 |**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513](http://arxiv.org/abs/2506.20513)|null|
 |**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452](http://arxiv.org/abs/2506.20452)|null|
 |**2025-06-25**|**Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation**|Changlu Guo et.al.|[2506.20449](http://arxiv.org/abs/2506.20449)|null|
-|**2025-06-25**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
+|**2025-06-26**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
@@ -3977,7 +3977,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -5130,7 +5130,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -5452,7 +5452,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -5651,7 +5651,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -5659,7 +5659,7 @@
 |---|---|---|---|---|
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
-|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-26**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
 |**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
 |**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
 |**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
@@ -8494,7 +8494,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -8503,7 +8503,7 @@
 |**2025-06-25**|**Tackling Data Heterogeneity in Federated Learning through Knowledge Distillation with Inequitable Aggregation**|Xing Ma et.al.|[2506.20431](http://arxiv.org/abs/2506.20431)|null|
 |**2025-06-25**|**Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning**|Mohammad Mahdi Maheri et.al.|[2506.20413](http://arxiv.org/abs/2506.20413)|null|
 |**2025-06-25**|**FedBKD: Distilled Federated Learning to Embrace Gerneralization and Personalization on Non-IID Data**|Yushan Zhao et.al.|[2506.20245](http://arxiv.org/abs/2506.20245)|null|
-|**2025-06-25**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
+|**2025-06-26**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
 |**2025-06-24**|**GNN's Uncertainty Quantification using Self-Distillation**|Hirad Daneshvar et.al.|[2506.20046](http://arxiv.org/abs/2506.20046)|null|
 |**2025-06-24**|**Distillation-Enabled Knowledge Alignment for Generative Semantic Communications in AIGC Provisioning Tasks**|Jingzhi Hu et.al.|[2506.19893](http://arxiv.org/abs/2506.19893)|null|
 |**2025-06-24**|**Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy**|Zhihao Sui et.al.|[2506.19486](http://arxiv.org/abs/2506.19486)|null|
@@ -9259,7 +9259,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -11149,5 +11149,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
 

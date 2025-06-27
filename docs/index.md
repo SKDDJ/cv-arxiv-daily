@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -500,7 +500,7 @@ layout: default
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Experimental demonstration of high compression of space by optical spaceplates**|Ryan Hogan et.al.|[2506.20647](http://arxiv.org/abs/2506.20647)|null|
 |**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
-|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-26**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
 |**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
 |**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
 |**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608](http://arxiv.org/abs/2506.20608)|null|
@@ -511,7 +511,7 @@ layout: default
 |**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513](http://arxiv.org/abs/2506.20513)|null|
 |**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452](http://arxiv.org/abs/2506.20452)|null|
 |**2025-06-25**|**Med-Art: Diffusion Transformer for 2D Medical Text-to-Image Generation**|Changlu Guo et.al.|[2506.20449](http://arxiv.org/abs/2506.20449)|null|
-|**2025-06-25**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
+|**2025-06-26**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
@@ -5653,7 +5653,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
-|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-26**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
 |**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
 |**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
 |**2025-06-25**|**Pay Less Attention to Deceptive Artifacts: Robust Detection of Compressed Deepfakes on Online Social Networks**|Manyi Li et.al.|[2506.20548](http://arxiv.org/abs/2506.20548)|null|
@@ -8495,7 +8495,7 @@ layout: default
 |**2025-06-25**|**Tackling Data Heterogeneity in Federated Learning through Knowledge Distillation with Inequitable Aggregation**|Xing Ma et.al.|[2506.20431](http://arxiv.org/abs/2506.20431)|null|
 |**2025-06-25**|**Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning**|Mohammad Mahdi Maheri et.al.|[2506.20413](http://arxiv.org/abs/2506.20413)|null|
 |**2025-06-25**|**FedBKD: Distilled Federated Learning to Embrace Gerneralization and Personalization on Non-IID Data**|Yushan Zhao et.al.|[2506.20245](http://arxiv.org/abs/2506.20245)|null|
-|**2025-06-25**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
+|**2025-06-26**|**Towards Scalable and Generalizable Earth Observation Data Mining via Foundation Model Composition**|Man Duc Chuc et.al.|[2506.20174](http://arxiv.org/abs/2506.20174)|null|
 |**2025-06-24**|**GNN's Uncertainty Quantification using Self-Distillation**|Hirad Daneshvar et.al.|[2506.20046](http://arxiv.org/abs/2506.20046)|null|
 |**2025-06-24**|**Distillation-Enabled Knowledge Alignment for Generative Semantic Communications in AIGC Provisioning Tasks**|Jingzhi Hu et.al.|[2506.19893](http://arxiv.org/abs/2506.19893)|null|
 |**2025-06-24**|**Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy**|Zhihao Sui et.al.|[2506.19486](http://arxiv.org/abs/2506.19486)|null|
