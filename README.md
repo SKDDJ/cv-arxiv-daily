@@ -497,6 +497,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
+|**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
+|**2025-06-27**|**Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**|Erkan Turan et.al.|[2506.22304](http://arxiv.org/abs/2506.22304)|null|
+|**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
+|**2025-06-27**|**Design and Evaluation of IEEE 802.11ax Uplink Orthogonal Frequency Division Multiple Random Access in ns-3**|Douglas Dziedzorm Agbeve et.al.|[2506.22260](http://arxiv.org/abs/2506.22260)|null|
+|**2025-06-27**|**Hybrid Generative Modeling for Incomplete Physics: Deep Grey-Box Meets Optimal Transport**|Gurjeet Sangra Singh et.al.|[2506.22204](http://arxiv.org/abs/2506.22204)|null|
+|**2025-06-27**|**Autonomic Microservice Management via Agentic AI and MAPE-K Integration**|Matteo Esposito et.al.|[2506.22185](http://arxiv.org/abs/2506.22185)|null|
+|**2025-06-27**|**Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**|Hong Nie et.al.|[2506.22044](http://arxiv.org/abs/2506.22044)|null|
+|**2025-06-27**|**Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**|Qi Gao et.al.|[2506.22012](http://arxiv.org/abs/2506.22012)|null|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**Optimal Return-to-Go Guided Decision Transformer for Auto-Bidding in Advertisement**|Hao Jiang et.al.|[2506.21956](http://arxiv.org/abs/2506.21956)|null|
+|**2025-06-27**|**CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design**|Najmeh Forouzandehmehr et.al.|[2506.21934](http://arxiv.org/abs/2506.21934)|null|
+|**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
 |**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
 |**2025-06-26**|**WAFT: Warping-Alone Field Transforms for Optical Flow**|Yihan Wang et.al.|[2506.21526](http://arxiv.org/abs/2506.21526)|null|
 |**2025-06-26**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
@@ -4000,6 +4015,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395](http://arxiv.org/abs/2506.22395)|null|
+|**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
+|**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374](http://arxiv.org/abs/2506.22374)|null|
+|**2025-06-26**|**ImplicitQA: Going beyond frames towards Implicit Video Reasoning**|Sirnam Swetha et.al.|[2506.21742](http://arxiv.org/abs/2506.21742)|null|
 |**2025-06-26**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
 |**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317](http://arxiv.org/abs/2506.21317)|null|
 |**2025-06-26**|**Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents**|Tianyi Men et.al.|[2506.21252](http://arxiv.org/abs/2506.21252)|null|
@@ -5160,6 +5179,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Weak solutions to incompressible heat-conducting motions with large flux**|Joanna Rencławowicz et.al.|[2506.22155](http://arxiv.org/abs/2506.22155)|null|
 |**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
 |**2025-06-25**|**Structural System Identification via Validation and Adaptation**|Cristian López et.al.|[2506.20799](http://arxiv.org/abs/2506.20799)|null|
 |**2025-06-24**|**Geometric-Aware Variational Inference: Robust and Adaptive Regularization with Directional Weight Uncertainty**|Carlos Stein Brito et.al.|[2506.19726](http://arxiv.org/abs/2506.19726)|null|
@@ -5683,6 +5703,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
+|**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
+|**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
+|**2025-06-27**|**Hybrid Generative Modeling for Incomplete Physics: Deep Grey-Box Meets Optimal Transport**|Gurjeet Sangra Singh et.al.|[2506.22204](http://arxiv.org/abs/2506.22204)|null|
+|**2025-06-27**|**A Reinforcement Learning Framework for Some Singular Stochastic Control Problems**|Zongxia Liang et.al.|[2506.22203](http://arxiv.org/abs/2506.22203)|null|
+|**2025-06-27**|**Pinsker's inequality for adapted total variation**|Mathias Beiglböck et.al.|[2506.22106](http://arxiv.org/abs/2506.22106)|null|
+|**2025-06-27**|**Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**|Qi Gao et.al.|[2506.22012](http://arxiv.org/abs/2506.22012)|null|
+|**2025-06-27**|**RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation**|Liudi Yang et.al.|[2506.22007](http://arxiv.org/abs/2506.22007)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
+|**2025-06-27**|**TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments**|Sheng Yun et.al.|[2506.21900](http://arxiv.org/abs/2506.21900)|null|
+|**2025-06-26**|**TADA: Improved Diffusion Sampling with Training-free Augmented Dynamics**|Tianrong Chen et.al.|[2506.21757](http://arxiv.org/abs/2506.21757)|null|
+|**2025-06-26**|**Inverse Design of Diffractive Metasurfaces Using Diffusion Models**|Liav Hen et.al.|[2506.21748](http://arxiv.org/abs/2506.21748)|null|
+|**2025-06-26**|**Multi-to one-dimensional screening and semi-discrete optimal transport**|Omar Abdul Halim et.al.|[2506.21740](http://arxiv.org/abs/2506.21740)|null|
+|**2025-06-26**|**Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration**|Xin Lu et.al.|[2506.21722](http://arxiv.org/abs/2506.21722)|null|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
 |**2025-06-26**|**Rethinking Oversaturation in Classifier-Free Guidance via Low Frequency**|Kaiyu Song et.al.|[2506.21452](http://arxiv.org/abs/2506.21452)|null|
 |**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
@@ -8541,6 +8576,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Seismic resolution enhancement via deep Learning with Knowledge Distillation and Domain Adaptation**|Hanpeng Cai et.al.|[2506.22018](http://arxiv.org/abs/2506.22018)|null|
 |**2025-06-26**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
 |**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
 |**2025-06-26**|**Distilling Normalizing Flows**|Steven Walton et.al.|[2506.21003](http://arxiv.org/abs/2506.21003)|null|
@@ -9311,6 +9347,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Optimal Estimation of Watermark Proportions in Hybrid AI-Human Texts**|Xiang Li et.al.|[2506.22343](http://arxiv.org/abs/2506.22343)|null|
+|**2025-06-27**|**A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake**|Luigi Russo et.al.|[2506.22338](http://arxiv.org/abs/2506.22338)|null|
+|**2025-06-27**|**Evaluating Scoring Bias in LLM-as-a-Judge**|Qingquan Li et.al.|[2506.22316](http://arxiv.org/abs/2506.22316)|null|
+|**2025-06-27**|**Hybrid Generative Modeling for Incomplete Physics: Deep Grey-Box Meets Optimal Transport**|Gurjeet Sangra Singh et.al.|[2506.22204](http://arxiv.org/abs/2506.22204)|null|
+|**2025-06-27**|**Binned semiparametric Bayesian networks**|Rafael Sojo et.al.|[2506.21997](http://arxiv.org/abs/2506.21997)|null|
+|**2025-06-27**|**Physics-informed network paradigm with data generation and background noise removal for diverse distributed acoustic sensing applications**|Yangyang Wan et.al.|[2506.21952](http://arxiv.org/abs/2506.21952)|null|
+|**2025-06-26**|**Inverse scattering without phase: Carleman convexification and phase retrieval via the Wentzel--Kramers--Brillouin approximation**|Thuy T. Le et.al.|[2506.21699](http://arxiv.org/abs/2506.21699)|null|
 |**2025-06-26**|**Bayesian Modeling for Aggregated Relational Data: A Unified Perspective**|Owen G. Ward et.al.|[2506.21353](http://arxiv.org/abs/2506.21353)|null|
 |**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347](http://arxiv.org/abs/2506.21347)|null|
 |**2025-06-27**|**ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation**|Xiwei Xuan et.al.|[2506.21233](http://arxiv.org/abs/2506.21233)|null|
