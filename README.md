@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**WaRA: Wavelet Low Rank Adaptation**|Moein Heidari et.al.|[2506.24092](http://arxiv.org/abs/2506.24092)|null|
+|**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
 |**2025-06-26**|**Exploring Adapter Design Tradeoffs for Low Resource Music Generation**|Atharva Mehta et.al.|[2506.21298](http://arxiv.org/abs/2506.21298)|null|
 |**2025-06-26**|**WordCon: Word-level Typography Control in Scene Text Rendering**|Wenda Shi et.al.|[2506.21276](http://arxiv.org/abs/2506.21276)|null|
 |**2025-06-25**|**LKA: Large Kernel Adapter for Enhanced Medical Image Classification**|Ziquan Zhu et.al.|[2506.19118](http://arxiv.org/abs/2506.19118)|null|
@@ -497,6 +499,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
+|**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121](http://arxiv.org/abs/2506.24121)|null|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
+|**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
+|**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
+|**2025-06-30**|**Scout-Dose-TCM: Direct and Prospective Scout-Based Estimation of Personalized Organ Doses from Tube Current Modulated CT Exams**|Maria Jose Medrano et.al.|[2506.24062](http://arxiv.org/abs/2506.24062)|null|
+|**2025-06-30**|**Faster Diffusion Models via Higher-Order Approximation**|Gen Li et.al.|[2506.24042](http://arxiv.org/abs/2506.24042)|null|
+|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
+|**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034](http://arxiv.org/abs/2506.24034)|null|
+|**2025-06-30**|**Minimally dissipative multi-bit logical operations**|Jérémie Klinger et.al.|[2506.24021](http://arxiv.org/abs/2506.24021)|null|
+|**2025-06-30**|**High-precision polarization measurements with Lumped Element Kinetic Inductance Detectors**|Sofia Savorgnano et.al.|[2506.23983](http://arxiv.org/abs/2506.23983)|null|
+|**2025-06-30**|**Vortex Detection from Quantum Data**|Chelsea A. Williams et.al.|[2506.23976](http://arxiv.org/abs/2506.23976)|null|
+|**2025-06-30**|**World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation**|Haonan Chen et.al.|[2506.23919](http://arxiv.org/abs/2506.23919)|null|
+|**2025-06-30**|**Scaling Self-Supervised Representation Learning for Symbolic Piano Performance**|Louis Bradshaw et.al.|[2506.23869](http://arxiv.org/abs/2506.23869)|null|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
 |**2025-06-30**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
 |**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
@@ -4015,6 +4032,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
+|**2025-06-30**|**Reinforcement Fine-Tuning Enables MLLMs Learning Novel Tasks Stably**|Zhihao Zhang et.al.|[2506.23508](http://arxiv.org/abs/2506.23508)|null|
+|**2025-06-29**|**Decoding Memes: Benchmarking Narrative Role Classification across Multilingual and Multimodal Models**|Shivam Sharma et.al.|[2506.23122](http://arxiv.org/abs/2506.23122)|null|
+|**2025-06-27**|**Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning**|Zuyao You et.al.|[2506.22624](http://arxiv.org/abs/2506.22624)|null|
 |**2025-06-27**|**Test-Time Consistency in Vision Language Models**|Shih-Han Chou et.al.|[2506.22395](http://arxiv.org/abs/2506.22395)|null|
 |**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
 |**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374](http://arxiv.org/abs/2506.22374)|null|
@@ -5179,6 +5200,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
+|**2025-06-30**|**A linear topological invariant for weighted spaces of holomorphic functions**|Andreas Debrouwere et.al.|[2506.23695](http://arxiv.org/abs/2506.23695)|null|
+|**2025-06-30**|**The multilinear fractional bounded mean oscillation operator theory I: sparse domination, sparse $T1$ theorem, off-diagonal extrapolation, quantitative weighted estimate -- for generalized commutators**|Xi Cen et.al.|[2506.23486](http://arxiv.org/abs/2506.23486)|null|
 |**2025-06-27**|**Weak solutions to incompressible heat-conducting motions with large flux**|Joanna Rencławowicz et.al.|[2506.22155](http://arxiv.org/abs/2506.22155)|null|
 |**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
 |**2025-06-25**|**Structural System Identification via Validation and Adaptation**|Cristian López et.al.|[2506.20799](http://arxiv.org/abs/2506.20799)|null|
@@ -5703,6 +5727,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
+|**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
+|**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
+|**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
+|**2025-06-30**|**Faster Diffusion Models via Higher-Order Approximation**|Gen Li et.al.|[2506.24042](http://arxiv.org/abs/2506.24042)|null|
+|**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034](http://arxiv.org/abs/2506.24034)|null|
+|**2025-06-30**|**Minimally dissipative multi-bit logical operations**|Jérémie Klinger et.al.|[2506.24021](http://arxiv.org/abs/2506.24021)|null|
+|**2025-06-30**|**Full history recursive multilevel Picard approximations suffer from the curse of dimensionality for the Hamilton-Jacobi-Bellman equation of a stochastic control problem**|Martin Hutzenthaler et.al.|[2506.23969](http://arxiv.org/abs/2506.23969)|null|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
+|**2025-06-30**|**Random Distributionally Robust Optimization under Phi-divergence**|Guohui Guan et.al.|[2506.23839](http://arxiv.org/abs/2506.23839)|null|
+|**2025-06-30**|**Interpretable Zero-Shot Learning with Locally-Aligned Vision-Language Model**|Shiming Chen et.al.|[2506.23822](http://arxiv.org/abs/2506.23822)|null|
+|**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
+|**2025-06-30**|**Radioactive Watermarks in Diffusion and Autoregressive Image Generative Models**|Michel Meintz et.al.|[2506.23731](http://arxiv.org/abs/2506.23731)|null|
+|**2025-06-30**|**Proteus-ID: ID-Consistent and Motion-Coherent Video Customization**|Guiyu Zhang et.al.|[2506.23729](http://arxiv.org/abs/2506.23729)|null|
+|**2025-06-30**|**MDPG: Multi-domain Diffusion Prior Guidance for MRI Reconstruction**|Lingtong Zhang et.al.|[2506.23701](http://arxiv.org/abs/2506.23701)|null|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
 |**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
 |**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
@@ -8576,6 +8615,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
+|**2025-06-30**|**The Trilemma of Truth in Large Language Models**|Germans Savcisens et.al.|[2506.23921](http://arxiv.org/abs/2506.23921)|null|
+|**2025-06-30**|**Efficient Interleaved Speech Modeling through Knowledge Distillation**|Mohammadmahdi Nouriborji et.al.|[2506.23670](http://arxiv.org/abs/2506.23670)|null|
+|**2025-06-30**|**Dataset Distillation via Vision-Language Category Prototype**|Yawen Zou et.al.|[2506.23580](http://arxiv.org/abs/2506.23580)|null|
+|**2025-06-30**|**When Test-Time Adaptation Meets Self-Supervised Models**|Jisu Han et.al.|[2506.23529](http://arxiv.org/abs/2506.23529)|null|
+|**2025-06-29**|**Competitive Distillation: A Simple Learning Strategy for Improving Visual Classification**|Daqian Shi et.al.|[2506.23285](http://arxiv.org/abs/2506.23285)|null|
+|**2025-06-29**|**ReMem: Mutual Information-Aware Fine-tuning of Pretrained Vision Transformers for Effective Knowledge Distillation**|Chengyu Dong et.al.|[2506.23041](http://arxiv.org/abs/2506.23041)|null|
+|**2025-06-28**|**ReasonBridge: Efficient Reasoning Transfer from Closed to Open-Source Language Models**|Ziqi Zhong et.al.|[2506.22865](http://arxiv.org/abs/2506.22865)|null|
+|**2025-06-28**|**LightBSR: Towards Lightweight Blind Super-Resolution via Discriminative Implicit Degradation Representation Learning**|Jiang Yuan et.al.|[2506.22710](http://arxiv.org/abs/2506.22710)|null|
+|**2025-06-27**|**Layer Importance for Mathematical Reasoning is Forged in Pre-Training and Invariant after Post-Training**|Aadim Nepal et.al.|[2506.22638](http://arxiv.org/abs/2506.22638)|null|
+|**2025-06-27**|**CaO $_2$ : Rectifying Inconsistencies in Diffusion-Based Dataset Distillation**|Haoxuan Wang et.al.|[2506.22637](http://arxiv.org/abs/2506.22637)|null|
+|**2025-06-27**|**Unifying Biomedical Vision-Language Expertise: Towards a Generalist Foundation Model via Multi-CLIP Knowledge Distillation**|Shansong Wang et.al.|[2506.22567](http://arxiv.org/abs/2506.22567)|null|
+|**2025-06-26**|**A Survey on Model Extraction Attacks and Defenses for Large Language Models**|Kaixiang Zhao et.al.|[2506.22521](http://arxiv.org/abs/2506.22521)|null|
 |**2025-06-27**|**Seismic resolution enhancement via deep Learning with Knowledge Distillation and Domain Adaptation**|Hanpeng Cai et.al.|[2506.22018](http://arxiv.org/abs/2506.22018)|null|
 |**2025-06-28**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
 |**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
@@ -9347,6 +9399,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
+|**2025-06-30**|**Development of Hybrid Artificial Intelligence Training on Real and Synthetic Data: Benchmark on Two Mixed Training Strategies**|Paul Wachter et.al.|[2506.24093](http://arxiv.org/abs/2506.24093)|null|
+|**2025-06-30**|**TaP: A Taxonomy-Guided Framework for Automated and Scalable Preference Data Generation**|Renren Jin et.al.|[2506.23979](http://arxiv.org/abs/2506.23979)|null|
+|**2025-06-30**|**Learning Constraints Directly from Network Data**|Hongyu Hè et.al.|[2506.23964](http://arxiv.org/abs/2506.23964)|null|
+|**2025-06-30**|**Predicting Instabilities in Transient Landforms and Interconnected Ecosystems**|Taylor Smith et.al.|[2506.23946](http://arxiv.org/abs/2506.23946)|null|
+|**2025-06-30**|**Large Language Models for Statistical Inference: Context Augmentation with Applications to the Two-Sample Problem and Regression**|Marc Ratkovic et.al.|[2506.23862](http://arxiv.org/abs/2506.23862)|null|
+|**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855](http://arxiv.org/abs/2506.23855)|null|
+|**2025-06-30**|**MadCLIP: Few-shot Medical Anomaly Detection with CLIP**|Mahshid Shiri et.al.|[2506.23810](http://arxiv.org/abs/2506.23810)|null|
+|**2025-06-30**|**Adaptive Out-of-Control Point Pattern Detection in Sequential Random Finite Set Observations**|Konstantinos Bourazas et.al.|[2506.23802](http://arxiv.org/abs/2506.23802)|null|
+|**2025-06-30**|**Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning**|Anton Andreychuk et.al.|[2506.23793](http://arxiv.org/abs/2506.23793)|null|
+|**2025-06-30**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759](http://arxiv.org/abs/2506.23759)|null|
+|**2025-06-30**|**Can We Challenge Open-Vocabulary Object Detectors with Generated Content in Street Scenes?**|Annika Mütze et.al.|[2506.23751](http://arxiv.org/abs/2506.23751)|null|
+|**2025-06-30**|**A New Perspective On AI Safety Through Control Theory Methodologies**|Lars Ullrich et.al.|[2506.23703](http://arxiv.org/abs/2506.23703)|null|
+|**2025-06-30**|**Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation**|Fangyijie Wang et.al.|[2506.23664](http://arxiv.org/abs/2506.23664)|null|
+|**2025-06-30**|**Modelling effective electrical resistance in particle reinforced composites using Generative Adversarial Network**|Vinit Vijay Deshpande et.al.|[2506.23655](http://arxiv.org/abs/2506.23655)|null|
 |**2025-06-27**|**Optimal Estimation of Watermark Proportions in Hybrid AI-Human Texts**|Xiang Li et.al.|[2506.22343](http://arxiv.org/abs/2506.22343)|null|
 |**2025-06-27**|**A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake**|Luigi Russo et.al.|[2506.22338](http://arxiv.org/abs/2506.22338)|null|
 |**2025-06-27**|**Evaluating Scoring Bias in LLM-as-a-Judge**|Qingquan Li et.al.|[2506.22316](http://arxiv.org/abs/2506.22316)|null|
