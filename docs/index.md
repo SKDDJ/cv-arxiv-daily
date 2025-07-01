@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -500,7 +500,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-27**|**Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy**|Yuhao Liu et.al.|[2506.22432](http://arxiv.org/abs/2506.22432)|null|
-|**2025-06-27**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
+|**2025-06-30**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
 |**2025-06-27**|**DiffSoundStream: Efficient Speech Tokenization via Diffusion Decoding**|Yang Yang et.al.|[2506.22362](http://arxiv.org/abs/2506.22362)|null|
 |**2025-06-27**|**Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**|Erkan Turan et.al.|[2506.22304](http://arxiv.org/abs/2506.22304)|null|
 |**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
@@ -4019,7 +4019,7 @@ layout: default
 |**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
 |**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374](http://arxiv.org/abs/2506.22374)|null|
 |**2025-06-26**|**ImplicitQA: Going beyond frames towards Implicit Video Reasoning**|Sirnam Swetha et.al.|[2506.21742](http://arxiv.org/abs/2506.21742)|null|
-|**2025-06-26**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
+|**2025-06-28**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
 |**2025-06-26**|**LLaVA-Pose: Enhancing Human Pose and Action Understanding via Keypoint-Integrated Instruction Tuning**|Dewen Zhang et.al.|[2506.21317](http://arxiv.org/abs/2506.21317)|null|
 |**2025-06-26**|**Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents**|Tianyi Men et.al.|[2506.21252](http://arxiv.org/abs/2506.21252)|null|
 |**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041](http://arxiv.org/abs/2506.21041)|null|
@@ -8569,7 +8569,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-27**|**Seismic resolution enhancement via deep Learning with Knowledge Distillation and Domain Adaptation**|Hanpeng Cai et.al.|[2506.22018](http://arxiv.org/abs/2506.22018)|null|
-|**2025-06-26**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
+|**2025-06-28**|**G $^{2}$ D: Boosting Multimodal Learning with Gradient-Guided Distillation**|Mohammed Rakib et.al.|[2506.21514](http://arxiv.org/abs/2506.21514)|null|
 |**2025-06-26**|**Continual Self-Supervised Learning with Masked Autoencoders in Remote Sensing**|Lars Möllenbrok et.al.|[2506.21312](http://arxiv.org/abs/2506.21312)|null|
 |**2025-06-26**|**Distilling Normalizing Flows**|Steven Walton et.al.|[2506.21003](http://arxiv.org/abs/2506.21003)|null|
 |**2025-06-26**|**A Multi-Stage Framework for Multimodal Controllable Speech Synthesis**|Rui Niu et.al.|[2506.20945](http://arxiv.org/abs/2506.20945)|null|
