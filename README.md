@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**DoMIX: An Efficient Framework for Exploiting Domain Knowledge in Fine-Tuning**|Dohoon Kim et.al.|[2507.02302](http://arxiv.org/abs/2507.02302)|null|
 |**2025-06-25**|**WaRA: Wavelet Low Rank Adaptation**|Moein Heidari et.al.|[2506.24092](http://arxiv.org/abs/2506.24092)|null|
 |**2025-06-29**|**MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition**|Yuhuan Yang et.al.|[2506.23283](http://arxiv.org/abs/2506.23283)|null|
 |**2025-06-26**|**Exploring Adapter Design Tradeoffs for Low Resource Music Generation**|Atharva Mehta et.al.|[2506.21298](http://arxiv.org/abs/2506.21298)|null|
@@ -499,6 +500,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864](http://arxiv.org/abs/2507.02864)|null|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding**|Yuchen Ma et.al.|[2507.02843](http://arxiv.org/abs/2507.02843)|null|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
+|**2025-07-03**|**Towards Perception-Informed Latent HRTF Representations**|You Zhang et.al.|[2507.02815](http://arxiv.org/abs/2507.02815)|null|
+|**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
+|**2025-07-03**|**Grounding Intelligence in Movement**|Melanie Segado et.al.|[2507.02771](http://arxiv.org/abs/2507.02771)|null|
+|**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
+|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-03**|**XPPLORE: Import, visualize, and analyze XPPAUT data in MATLAB**|Matteo Martin et.al.|[2507.02709](http://arxiv.org/abs/2507.02709)|null|
+|**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687](http://arxiv.org/abs/2507.02687)|null|
+|**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686](http://arxiv.org/abs/2507.02686)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
 |**2025-07-02**|**Test-Time Scaling with Reflective Generative Model**|Zixiao Wang et.al.|[2507.01951](http://arxiv.org/abs/2507.01951)|null|
 |**2025-07-02**|**LongAnimation: Long Animation Generation with Dynamic Global-Local Memory**|Nan Chen et.al.|[2507.01945](http://arxiv.org/abs/2507.01945)|null|
@@ -5748,6 +5764,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
+|**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
+|**2025-07-03**|**FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models**|Yuxuan Wang et.al.|[2507.02714](http://arxiv.org/abs/2507.02714)|null|
+|**2025-07-03**|**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation**|Qin Guo et.al.|[2507.02713](http://arxiv.org/abs/2507.02713)|null|
+|**2025-07-03**|**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**|JungWoo Chae et.al.|[2507.02687](http://arxiv.org/abs/2507.02687)|null|
+|**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686](http://arxiv.org/abs/2507.02686)|null|
+|**2025-07-03**|**Guided Generation for Developable Antibodies**|Siqi Zhao et.al.|[2507.02670](http://arxiv.org/abs/2507.02670)|null|
+|**2025-07-03**|**Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation**|François Rozet et.al.|[2507.02608](http://arxiv.org/abs/2507.02608)|null|
+|**2025-07-03**|**AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models**|Chenhao Xue et.al.|[2507.02598](http://arxiv.org/abs/2507.02598)|null|
+|**2025-07-03**|**Structure-aware Semantic Discrepancy and Consistency for 3D Medical Image Self-supervised Learning**|Tan Pan et.al.|[2507.02581](http://arxiv.org/abs/2507.02581)|null|
+|**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565](http://arxiv.org/abs/2507.02565)|null|
+|**2025-07-03**|**Random dynamical systems for McKean--Vlasov SDEs via rough path theory**|Benjamin Gess et.al.|[2507.02449](http://arxiv.org/abs/2507.02449)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**Frontiers of Generative AI for Network Optimization: Theories, Limits, and Visions**|Bo Yang et.al.|[2507.01773](http://arxiv.org/abs/2507.01773)|null|
@@ -9438,6 +9469,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Optimizing Start Locations in Ergodic Search for Disaster Response**|Ananya Rao et.al.|[2507.02708](http://arxiv.org/abs/2507.02708)|null|
+|**2025-07-03**|**AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models**|Ziyin Zhou et.al.|[2507.02664](http://arxiv.org/abs/2507.02664)|null|
+|**2025-07-03**|**Alleviating Attack Data Scarcity: SCANIA's Experience Towards Enhancing In-Vehicle Cyber Security Measures**|Frida Sundfeldt et.al.|[2507.02607](http://arxiv.org/abs/2507.02607)|null|
+|**2025-07-03**|**Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation**|Jungkoo Kang et.al.|[2507.02253](http://arxiv.org/abs/2507.02253)|null|
+|**2025-07-03**|**Understanding Trade offs When Conditioning Synthetic Data**|Brandon Trabucco et.al.|[2507.02217](http://arxiv.org/abs/2507.02217)|null|
+|**2025-07-03**|**Hybrid least squares for learning functions from highly noisy data**|Ben Adcock et.al.|[2507.02215](http://arxiv.org/abs/2507.02215)|null|
+|**2025-07-02**|**Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust**|Amogh Mannekote et.al.|[2507.02197](http://arxiv.org/abs/2507.02197)|null|
+|**2025-07-02**|**Data Diversification Methods In Alignment Enhance Math Performance In LLMs**|Berkan Dokmeci et.al.|[2507.02173](http://arxiv.org/abs/2507.02173)|null|
+|**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
+|**2025-07-02**|**AI-Empowered Channel Generation for IoV Semantic Communications in Dynamic Conditions**|Hao Liu et.al.|[2507.02013](http://arxiv.org/abs/2507.02013)|null|
 |**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
 |**2025-07-02**|**Measurement-based Evaluation of CNN-based Detection and Estimation for ISAC Systems**|Steffen Schieler et.al.|[2507.01799](http://arxiv.org/abs/2507.01799)|null|
 |**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
