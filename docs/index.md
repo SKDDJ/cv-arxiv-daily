@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,7 +23,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**|Fathinah Izzati et.al.|[2507.04955](http://arxiv.org/abs/2507.04955)|null|
 |**2025-07-06**|**AdS: Adapter-state Sharing Framework for Multimodal Sarcasm Detection**|Soumyadeep Jana et.al.|[2507.04508](http://arxiv.org/abs/2507.04508)|null|
-|**2025-07-06**|**LoSiA: Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization**|Xujia Wang. Yunjia Qi et.al.|[2507.04487](http://arxiv.org/abs/2507.04487)|null|
+|**2025-07-08**|**LoSiA: Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization**|Xujia Wang et.al.|[2507.04487](http://arxiv.org/abs/2507.04487)|null|
 |**2025-07-05**|**Large Language Models for Zero-Shot Multicultural Name Recognition**|Thanakorn Phonchai et.al.|[2507.04149](http://arxiv.org/abs/2507.04149)|null|
 |**2025-07-03**|**Symbiosis: Multi-Adapter Inference and Fine-Tuning**|Saransh Gupta et.al.|[2507.03220](http://arxiv.org/abs/2507.03220)|null|
 |**2025-07-03**|**Preserving Privacy, Increasing Accessibility, and Reducing Cost: An On-Device Artificial Intelligence Model for Medical Transcription and Note Generation**|Johnson Thomas et.al.|[2507.03033](http://arxiv.org/abs/2507.03033)|null|
@@ -509,8 +509,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244](http://arxiv.org/abs/2507.05244)|null|
-|**2025-07-07**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241](http://arxiv.org/abs/2507.05241)|null|
-|**2025-07-07**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
+|**2025-07-08**|**SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?**|Jingyi Chai et.al.|[2507.05241](http://arxiv.org/abs/2507.05241)|null|
+|**2025-07-08**|**MedGemma Technical Report**|Andrew Sellergren et.al.|[2507.05201](http://arxiv.org/abs/2507.05201)|null|
 |**2025-07-07**|**EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling**|Boyuan Wang et.al.|[2507.05198](http://arxiv.org/abs/2507.05198)|null|
 |**2025-07-07**|**Viscoelastic Characterization of Melanoma Cells Using Brillouin Spectroscopy**|Mykyta Kizilov et.al.|[2507.05186](http://arxiv.org/abs/2507.05186)|null|
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164](http://arxiv.org/abs/2507.05164)|null|
@@ -4089,13 +4089,13 @@ layout: default
 |**2025-07-07**|**Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message**|Wei Duan et.al.|[2507.04673](http://arxiv.org/abs/2507.04673)|null|
 |**2025-07-07**|**MODA: MOdular Duplex Attention for Multimodal Perception, Cognition, and Emotion Understanding**|Zhicheng Zhang et.al.|[2507.04635](http://arxiv.org/abs/2507.04635)|null|
 |**2025-07-05**|**Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning**|Nigitha Selvaraj et.al.|[2507.04086](http://arxiv.org/abs/2507.04086)|null|
-|**2025-07-04**|**BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset**|Zhiheng Xi et.al.|[2507.03483](http://arxiv.org/abs/2507.03483)|null|
+|**2025-07-08**|**BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset**|Zhiheng Xi et.al.|[2507.03483](http://arxiv.org/abs/2507.03483)|null|
 |**2025-07-04**|**MGAA: Multi-Granular Adaptive Allocation fof Low-Rank Compression of LLMs**|Guangyan Li et.al.|[2507.03294](http://arxiv.org/abs/2507.03294)|null|
 |**2025-07-03**|**Intelligent Histology for Tumor Neurosurgery**|Xinhai Hou et.al.|[2507.03037](http://arxiv.org/abs/2507.03037)|null|
 |**2025-07-01**|**Gated Recursive Fusion: A Stateful Approach to Scalable Multimodal Transformers**|Yusuf Shihata et.al.|[2507.02985](http://arxiv.org/abs/2507.02985)|null|
 |**2025-07-02**|**Activation Reward Models for Few-Shot Model Alignment**|Tianning Chai et.al.|[2507.01368](http://arxiv.org/abs/2507.01368)|null|
 |**2025-07-02**|**PULSE: Practical Evaluation Scenarios for Large Multimodal Model Unlearning**|Tatsuki Kawakami et.al.|[2507.01271](http://arxiv.org/abs/2507.01271)|null|
-|**2025-07-03**|**Escaping Platos Cave: JAM for Aligning Independently Trained Vision and Language Models**|Hyoseo et.al.|[2507.01201](http://arxiv.org/abs/2507.01201)|null|
+|**2025-07-07**|**Escaping Plato's Cave: JAM for Aligning Independently Trained Vision and Language Models**|Hyoseo et.al.|[2507.01201](http://arxiv.org/abs/2507.01201)|null|
 |**2025-06-27**|**XxaCT-NN: Structure Agnostic Multimodal Learning for Materials Science**|Jithendaraa Subramanian et.al.|[2507.01054](http://arxiv.org/abs/2507.01054)|null|
 |**2025-07-02**|**Just Noticeable Difference for Large Multimodal Models**|Zijian Chen et.al.|[2507.00490](http://arxiv.org/abs/2507.00490)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
@@ -5794,7 +5794,7 @@ layout: default
 |**2025-07-07**|**Optimal Consumption-Investment for General Utility with a Drawdown Constraint over a Finite-Time Horizon**|Chonghu Guan et.al.|[2507.05115](http://arxiv.org/abs/2507.05115)|null|
 |**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
 |**2025-07-07**|**AI-Driven Cytomorphology Image Synthesis for Medical Diagnostics**|Jan Carreras Boada et.al.|[2507.05063](http://arxiv.org/abs/2507.05063)|null|
-|**2025-07-07**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060](http://arxiv.org/abs/2507.05060)|null|
+|**2025-07-08**|**A COMPASS to Model Comparison and Simulation-Based Inference in Galactic Chemical Evolution**|Berkay Gunes et.al.|[2507.05060](http://arxiv.org/abs/2507.05060)|null|
 |**2025-07-07**|**On a parabolic curvature lower bound generalizing Ricci flows**|Marco Flaim et.al.|[2507.05032](http://arxiv.org/abs/2507.05032)|null|
 |**2025-07-07**|**A Generative Diffusion Model for Amorphous Materials**|Kai Yang et.al.|[2507.05024](http://arxiv.org/abs/2507.05024)|null|
 |**2025-07-07**|**Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport**|Qinkai Yu et.al.|[2507.04999](http://arxiv.org/abs/2507.04999)|null|
