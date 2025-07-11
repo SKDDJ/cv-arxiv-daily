@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -508,6 +508,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Lifetime study of the ColdADC for the Deep Underground Neutrino Experiment**|Wenjie Wu et.al.|[2507.07086](http://arxiv.org/abs/2507.07086)|null|
+|**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
+|**2025-07-09**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031](http://arxiv.org/abs/2507.07031)|null|
+|**2025-07-09**|**Design and Implementation of an OCR-Powered Pipeline for Table Extraction from Invoices**|Parshva Dhilankumar Patel et.al.|[2507.07029](http://arxiv.org/abs/2507.07029)|null|
+|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
+|**2025-07-09**|**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation**|Tao Feng et.al.|[2507.06830](http://arxiv.org/abs/2507.06830)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-09**|**Electric-field-assisted phase switching for crystal phase quantum dot fabrication in GaAs nanowires**|Qiang Yu et.al.|[2507.06699](http://arxiv.org/abs/2507.06699)|null|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
+|**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
 |**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
@@ -4099,6 +4114,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Bruce Coburn et.al.|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
+|**2025-07-07**|**SPARC: Concept-Aligned Sparse Autoencoders for Cross-Model and Cross-Modal Interpretability**|Ali Nasiri-Sarvi et.al.|[2507.06265](http://arxiv.org/abs/2507.06265)|null|
 |**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067](http://arxiv.org/abs/2507.06067)|null|
 |**2025-07-08**|**Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge**|Xin Wu et.al.|[2507.05992](http://arxiv.org/abs/2507.05992)|null|
 |**2025-07-08**|**Graph Learning**|Feng Xia et.al.|[2507.05636](http://arxiv.org/abs/2507.05636)|null|
@@ -5808,6 +5825,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
+|**2025-07-09**|**General large deviations and functional iterated logarithm law for multivalued McKean-Vlasov stochastic differential equations**|Lingyan Cheng et.al.|[2507.07001](http://arxiv.org/abs/2507.07001)|null|
+|**2025-07-09**|**DiffSpectra: Molecular Structure Elucidation from Spectra using Diffusion Models**|Liang Wang et.al.|[2507.06853](http://arxiv.org/abs/2507.06853)|null|
+|**2025-07-10**|**HeLo: Heterogeneous Multi-Modal Fusion with Label Correlation for Emotion Distribution Learning**|Chuhang Zheng et.al.|[2507.06821](http://arxiv.org/abs/2507.06821)|null|
+|**2025-07-09**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
+|**2025-07-09**|**MADPOT: Medical Anomaly Detection with CLIP Adaptation and Partial Optimal Transport**|Mahshid Shiri et.al.|[2507.06733](http://arxiv.org/abs/2507.06733)|null|
+|**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
+|**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651](http://arxiv.org/abs/2507.06651)|null|
+|**2025-07-09**|**Denoising Multi-Beta VAE: Representation Learning for Disentanglement and Generation**|Anshuk Uppal et.al.|[2507.06613](http://arxiv.org/abs/2507.06613)|null|
+|**2025-07-09**|**MOST: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction**|Yin Wang et.al.|[2507.06590](http://arxiv.org/abs/2507.06590)|null|
+|**2025-07-09**|**Concept-TRAK: Understanding how diffusion models learn concepts through concept-level attribution**|Yonghyun Park et.al.|[2507.06547](http://arxiv.org/abs/2507.06547)|null|
+|**2025-07-10**|**Concept Unlearning by Modeling Key Steps of Diffusion Process**|Chaoshuo Zhang et.al.|[2507.06526](http://arxiv.org/abs/2507.06526)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
 |**2025-07-08**|**Modern Methods in Associative Memory**|Dmitry Krotov et.al.|[2507.06211](http://arxiv.org/abs/2507.06211)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
@@ -8754,6 +8786,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**MST-Distill: Mixture of Specialized Teachers for Cross-Modal Knowledge Distillation**|Hui Li et.al.|[2507.07015](http://arxiv.org/abs/2507.07015)|null|
 |**2025-07-08**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
 |**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
 |**2025-07-07**|**Information-Guided Diffusion Sampling for Dataset Distillation**|Linfeng Ye et.al.|[2507.04619](http://arxiv.org/abs/2507.04619)|null|
@@ -8763,7 +8797,7 @@ layout: default
 |**2025-07-04**|**Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling**|Mingzhuo Li et.al.|[2507.03331](http://arxiv.org/abs/2507.03331)|null|
 |**2025-07-04**|**Dual-frequency Selected Knowledge Distillation with Statistical-based Sample Rectification for PolSAR Image Classification**|Xinyue Xin et.al.|[2507.03268](http://arxiv.org/abs/2507.03268)|null|
 |**2025-07-01**|**We Need Knowledge Distillation for Solving Math Word Problems**|Zhenquan Shen et.al.|[2507.02982](http://arxiv.org/abs/2507.02982)|null|
-|**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
+|**2025-07-10**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
 |**2025-07-02**|**Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess**|Dongyoon Hwang et.al.|[2507.00726](http://arxiv.org/abs/2507.00726)|null|
 |**2025-07-01**|**Simulation-Efficient Cosmological Inference with Multi-Fidelity SBI**|Leander Thiele et.al.|[2507.00514](http://arxiv.org/abs/2507.00514)|null|
 |**2025-06-30**|**FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation**|Jiacheng Cui et.al.|[2506.24125](http://arxiv.org/abs/2506.24125)|null|
@@ -9548,6 +9582,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
+|**2025-07-09**|**Scaling Towards the Information Boundary of Instruction Set: InfinityInstruct-Subject Technical Report**|Li Du et.al.|[2507.06968](http://arxiv.org/abs/2507.06968)|null|
+|**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
+|**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
+|**2025-07-09**|**Horizontal and Vertical Federated Causal Structure Learning via Higher-order Cumulants**|Wei Chen et.al.|[2507.06888](http://arxiv.org/abs/2507.06888)|null|
+|**2025-07-09**|**Finetuning Vision-Language Models as OCR Systems for Low-Resource Languages: A Case Study of Manchu**|Yan Hon Michael Chung et.al.|[2507.06761](http://arxiv.org/abs/2507.06761)|null|
+|**2025-07-09**|**Mathematical artificial data for operator learning**|Heng Wu et.al.|[2507.06752](http://arxiv.org/abs/2507.06752)|null|
+|**2025-07-09**|**MADPOT: Medical Anomaly Detection with CLIP Adaptation and Partial Optimal Transport**|Mahshid Shiri et.al.|[2507.06733](http://arxiv.org/abs/2507.06733)|null|
+|**2025-07-09**|**Generalization in Reinforcement Learning for Radio Access Networks**|Burak Demirel et.al.|[2507.06602](http://arxiv.org/abs/2507.06602)|null|
+|**2025-07-09**|**3D-Generalist: Self-Improving Vision-Language-Action Models for Crafting 3D Worlds**|Fan-Yun Sun et.al.|[2507.06484](http://arxiv.org/abs/2507.06484)|null|
+|**2025-07-09**|**Generative Lagrangian data assimilation for ocean dynamics under extreme sparsity**|Niloofar Asefi et.al.|[2507.06479](http://arxiv.org/abs/2507.06479)|null|
+|**2025-07-08**|**SImpHAR: Advancing impedance-based human activity recognition using 3D simulation and text-to-motion models**|Lala Shakti Swarup Ray et.al.|[2507.06405](http://arxiv.org/abs/2507.06405)|null|
+|**2025-07-08**|**Mitigating Multi-Sequence 3D Prostate MRI Data Scarcity through Domain Adaptation using Locally-Trained Latent Diffusion Models for Prostate Cancer Detection**|Emerson P. Grabke et.al.|[2507.06384](http://arxiv.org/abs/2507.06384)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
 |**2025-07-08**|**The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield Strong Gains**|Scott Geng et.al.|[2507.06187](http://arxiv.org/abs/2507.06187)|null|
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
