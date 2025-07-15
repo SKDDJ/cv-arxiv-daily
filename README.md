@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -501,7 +501,7 @@
 |**2024-03-14**|**PYRA: Parallel Yielding Re-Activation for Training-Inference Efficient Task Adaptation**|Yizhe Xiong et.al.|[2403.09192](http://arxiv.org/abs/2403.09192)|**[link](https://github.com/thu-mig/pyra)**|
 |**2024-03-13**|**Data-oriented Dynamic Fine-tuning Parameter Selection Strategy for FISH Mask based Efficient Fine-tuning**|Ming Dong et.al.|[2403.08484](http://arxiv.org/abs/2403.08484)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Text-to-Image Generation
 
@@ -4139,7 +4139,7 @@
 |**2024-06-18**|**TADM: Temporally-Aware Diffusion Model for Neurodegenerative Progression on Brain MRI**|Mattia Litrico et.al.|[2406.12411](http://arxiv.org/abs/2406.12411)|null|
 |**2024-06-18**|**SDNIA-YOLO: A Robust Object Detection Model for Extreme Weather Conditions**|Yuexiong Ding et.al.|[2406.12395](http://arxiv.org/abs/2406.12395)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Vision-Language Models
 
@@ -5334,7 +5334,7 @@
 |**2024-05-24**|**DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception**|Run Luo et.al.|[2405.15232](http://arxiv.org/abs/2405.15232)|**[link](https://github.com/rainbowluocs/deem)**|
 |**2024-05-24**|**Shopping Queries Image Dataset (SQID): An Image-Enriched ESCI Dataset for Exploring Multimodal Learning in Product Search**|Marie Al Ghossein et.al.|[2405.15190](http://arxiv.org/abs/2405.15190)|**[link](https://github.com/crossing-minds/shopping-queries-image-dataset)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Generative Weight Space Modeling
 
@@ -5664,7 +5664,7 @@
 |**2023-11-27**|**Extraction of the microscopic properties of quasi-particles using deep neural networks**|Olga Soloveva et.al.|[2311.15984](http://arxiv.org/abs/2311.15984)|null|
 |**2024-01-24**|**Deep Latent Force Models: ODE-based Process Convolutions for Bayesian Deep Learning**|Thomas Baldwin-McDonald et.al.|[2311.14828](http://arxiv.org/abs/2311.14828)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Data Distillation
 
@@ -5863,7 +5863,7 @@
 |**2024-08-26**|**Bridging the Gap: Unpacking the Hidden Challenges in Knowledge Distillation for Online Ranking Systems**|Nikhil Khani et.al.|[2408.14678](http://arxiv.org/abs/2408.14678)|null|
 |**2024-08-26**|**TSAK: Two-Stage Semantic-Aware Knowledge Distillation for Efficient Wearable Modality and Model Optimization in Manufacturing Lines**|Hymalai Bello et.al.|[2408.14146](http://arxiv.org/abs/2408.14146)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Schrodinger Bridge
 
@@ -5876,7 +5876,7 @@
 |**2025-07-11**|**Subject-Consistent and Pose-Diverse Text-to-Image Generation**|Zhanxin Gao et.al.|[2507.08396](http://arxiv.org/abs/2507.08396)|null|
 |**2025-07-11**|**Inference-Time Scaling of Diffusion Language Models with Particle Gibbs Sampling**|Meihua Dang et.al.|[2507.08390](http://arxiv.org/abs/2507.08390)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
-|**2025-07-11**|**Audio Inpanting using Discrete Diffusion Model**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
+|**2025-07-14**|**Token-based Audio Inpainting via Discrete Diffusion**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
 |**2025-07-10**|**Optimal transport, determinantal point processes and the Bergman kernel**|William Driot et.al.|[2507.08204](http://arxiv.org/abs/2507.08204)|null|
 |**2025-07-10**|**Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis**|Xiwen Chen et.al.|[2507.08178](http://arxiv.org/abs/2507.08178)|null|
 |**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163](http://arxiv.org/abs/2507.08163)|null|
@@ -8855,7 +8855,7 @@
 |**2024-09-02**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
 |**2024-08-29**|**A Score-based Generative Solver for PDE-constrained Inverse Problems with Complex Priors**|Yankun Hong et.al.|[2408.16626](http://arxiv.org/abs/2408.16626)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Dataset Distillation
 
@@ -8872,7 +8872,7 @@
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
 |**2025-07-11**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**MST-Distill: Mixture of Specialized Teachers for Cross-Modal Knowledge Distillation**|Hui Li et.al.|[2507.07015](http://arxiv.org/abs/2507.07015)|null|
-|**2025-07-08**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
+|**2025-07-12**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
 |**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
 |**2025-07-07**|**Information-Guided Diffusion Sampling for Dataset Distillation**|Linfeng Ye et.al.|[2507.04619](http://arxiv.org/abs/2507.04619)|null|
 |**2025-07-06**|**Tractable Representation Learning with Probabilistic Circuits**|Steven Braun et.al.|[2507.04385](http://arxiv.org/abs/2507.04385)|null|
@@ -9662,7 +9662,7 @@
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation**|Jing-Jing Li et.al.|[2410.16665](http://arxiv.org/abs/2410.16665)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Synthetic Data Generation
 
@@ -9678,7 +9678,7 @@
 |**2025-07-10**|**A Unified Empirical Risk Minimization Framework for Flexible N-Tuples Weak Supervision**|Shuying Huang et.al.|[2507.07771](http://arxiv.org/abs/2507.07771)|null|
 |**2025-07-10**|**Beyond Connectivity: Higher-Order Network Framework for Capturing Memory-Driven Mobility Dynamics**|Chen Zhang et.al.|[2507.07727](http://arxiv.org/abs/2507.07727)|null|
 |**2025-07-11**|**Learning Pole Structures of Hadronic States using Predictive Uncertainty Estimation**|Felix Frohnert et.al.|[2507.07668](http://arxiv.org/abs/2507.07668)|null|
-|**2025-07-10**|**Scalable Signed Exponential Random Graph Models under Local Dependence**|Marc Schalberger et.al.|[2507.07660](http://arxiv.org/abs/2507.07660)|null|
+|**2025-07-13**|**Scalable Signed Exponential Random Graph Models under Local Dependence**|Marc Schalberger et.al.|[2507.07660](http://arxiv.org/abs/2507.07660)|null|
 |**2025-07-10**|**Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model**|Kuiyuan Sun et.al.|[2507.07591](http://arxiv.org/abs/2507.07591)|null|
 |**2025-07-10**|**PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency**|Haotian Wang et.al.|[2507.07374](http://arxiv.org/abs/2507.07374)|null|
 |**2025-07-10**|**Learning from positive and unlabeled examples -Finite size sample bounds**|Farnam Mansouri et.al.|[2507.07354](http://arxiv.org/abs/2507.07354)|null|
@@ -11660,5 +11660,5 @@
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588](http://arxiv.org/abs/2410.18588)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|Shuhao Gu et.al.|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -5870,7 +5870,7 @@ layout: default
 |**2025-07-11**|**Subject-Consistent and Pose-Diverse Text-to-Image Generation**|Zhanxin Gao et.al.|[2507.08396](http://arxiv.org/abs/2507.08396)|null|
 |**2025-07-11**|**Inference-Time Scaling of Diffusion Language Models with Particle Gibbs Sampling**|Meihua Dang et.al.|[2507.08390](http://arxiv.org/abs/2507.08390)|null|
 |**2025-07-11**|**From Enhancement to Understanding: Build a Generalized Bridge for Low-light Vision via Semantically Consistent Unsupervised Fine-tuning**|Sen Wang et.al.|[2507.08380](http://arxiv.org/abs/2507.08380)|null|
-|**2025-07-11**|**Audio Inpanting using Discrete Diffusion Model**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
+|**2025-07-14**|**Token-based Audio Inpainting via Discrete Diffusion**|Tali Dror et.al.|[2507.08333](http://arxiv.org/abs/2507.08333)|null|
 |**2025-07-10**|**Optimal transport, determinantal point processes and the Bergman kernel**|William Driot et.al.|[2507.08204](http://arxiv.org/abs/2507.08204)|null|
 |**2025-07-10**|**Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis**|Xiwen Chen et.al.|[2507.08178](http://arxiv.org/abs/2507.08178)|null|
 |**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163](http://arxiv.org/abs/2507.08163)|null|
@@ -8864,7 +8864,7 @@ layout: default
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
 |**2025-07-11**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**MST-Distill: Mixture of Specialized Teachers for Cross-Modal Knowledge Distillation**|Hui Li et.al.|[2507.07015](http://arxiv.org/abs/2507.07015)|null|
-|**2025-07-08**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
+|**2025-07-12**|**Diffusion Dataset Condensation: Training Your Diffusion Model Faster with Less Data**|Rui Huang et.al.|[2507.05914](http://arxiv.org/abs/2507.05914)|null|
 |**2025-07-08**|**Flipping Knowledge Distillation: Leveraging Small Models' Expertise to Enhance LLMs in Text Matching**|Mingzhe Li et.al.|[2507.05617](http://arxiv.org/abs/2507.05617)|null|
 |**2025-07-07**|**Information-Guided Diffusion Sampling for Dataset Distillation**|Linfeng Ye et.al.|[2507.04619](http://arxiv.org/abs/2507.04619)|null|
 |**2025-07-06**|**Tractable Representation Learning with Probabilistic Circuits**|Steven Braun et.al.|[2507.04385](http://arxiv.org/abs/2507.04385)|null|
@@ -9668,7 +9668,7 @@ layout: default
 |**2025-07-10**|**A Unified Empirical Risk Minimization Framework for Flexible N-Tuples Weak Supervision**|Shuying Huang et.al.|[2507.07771](http://arxiv.org/abs/2507.07771)|null|
 |**2025-07-10**|**Beyond Connectivity: Higher-Order Network Framework for Capturing Memory-Driven Mobility Dynamics**|Chen Zhang et.al.|[2507.07727](http://arxiv.org/abs/2507.07727)|null|
 |**2025-07-11**|**Learning Pole Structures of Hadronic States using Predictive Uncertainty Estimation**|Felix Frohnert et.al.|[2507.07668](http://arxiv.org/abs/2507.07668)|null|
-|**2025-07-10**|**Scalable Signed Exponential Random Graph Models under Local Dependence**|Marc Schalberger et.al.|[2507.07660](http://arxiv.org/abs/2507.07660)|null|
+|**2025-07-13**|**Scalable Signed Exponential Random Graph Models under Local Dependence**|Marc Schalberger et.al.|[2507.07660](http://arxiv.org/abs/2507.07660)|null|
 |**2025-07-10**|**Stable-Hair v2: Real-World Hair Transfer via Multiple-View Diffusion Model**|Kuiyuan Sun et.al.|[2507.07591](http://arxiv.org/abs/2507.07591)|null|
 |**2025-07-10**|**PacGDC: Label-Efficient Generalizable Depth Completion with Projection Ambiguity and Consistency**|Haotian Wang et.al.|[2507.07374](http://arxiv.org/abs/2507.07374)|null|
 |**2025-07-10**|**Learning from positive and unlabeled examples -Finite size sample bounds**|Farnam Mansouri et.al.|[2507.07354](http://arxiv.org/abs/2507.07354)|null|
