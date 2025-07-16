@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,6 +21,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Enhancing Chain-of-Thought Reasoning with Critical Representation Fine-tuning**|Chenxi Huang et.al.|[2507.10085](http://arxiv.org/abs/2507.10085)|null|
+|**2025-07-13**|**CKAA: Cross-subspace Knowledge Alignment and Aggregation for Robust Continual Learning**|Lingfeng He et.al.|[2507.09471](http://arxiv.org/abs/2507.09471)|null|
 |**2025-07-09**|**ConsNoTrainLoRA: Data-driven Weight Initialization of Low-rank Adapters using Constraints**|Debasmit Das et.al.|[2507.08044](http://arxiv.org/abs/2507.08044)|null|
 |**2025-07-07**|**EXPOTION: Facial Expression and Motion Control for Multimodal Music Generation**|Fathinah Izzati et.al.|[2507.04955](http://arxiv.org/abs/2507.04955)|null|
 |**2025-07-06**|**AdS: Adapter-state Sharing Framework for Multimodal Sarcasm Detection**|Soumyadeep Jana et.al.|[2507.04508](http://arxiv.org/abs/2507.04508)|null|
@@ -509,6 +511,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
+|**2025-07-14**|**TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting**|Zhiyuan Zhao et.al.|[2507.10349](http://arxiv.org/abs/2507.10349)|null|
+|**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
+|**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318](http://arxiv.org/abs/2507.10318)|null|
+|**2025-07-14**|**Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection**|Jinglun Li et.al.|[2507.10225](http://arxiv.org/abs/2507.10225)|null|
+|**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
+|**2025-07-14**|**History Matching under Uncertainty of Geological Scenarios with Implicit Geological Realism Control with Generative Deep Learning and Graph Convolutions**|Gleb Shishaev et.al.|[2507.10201](http://arxiv.org/abs/2507.10201)|null|
+|**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
+|**2025-07-14**|**FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text**|Bingchao Wang et.al.|[2507.10095](http://arxiv.org/abs/2507.10095)|null|
+|**2025-07-14**|**Towards High Supervised Learning Utility Training Data Generation: Data Pruning and Column Reordering**|Tung Sum Thomas Kwok et.al.|[2507.10088](http://arxiv.org/abs/2507.10088)|null|
+|**2025-07-14**|**Frequency Regulation for Exposure Bias Mitigation in Diffusion Models**|Meng Yu et.al.|[2507.10072](http://arxiv.org/abs/2507.10072)|null|
+|**2025-07-14**|**MEDebiaser: A Human-AI Feedback System for Mitigating Bias in Multi-label Medical Image Classification**|Shaohan Shi et.al.|[2507.10044](http://arxiv.org/abs/2507.10044)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
 |**2025-07-11**|**On Fair Epsilon Net and Geometric Hitting Set**|Mohsen Dehghankar et.al.|[2507.08758](http://arxiv.org/abs/2507.08758)|null|
@@ -4145,6 +4162,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Boosting Multimodal Learning via Disentangled Gradient Learning**|Shicai Wei et.al.|[2507.10213](http://arxiv.org/abs/2507.10213)|null|
+|**2025-07-14**|**Improving Multimodal Learning via Imbalanced Learning**|Shicai Wei et.al.|[2507.10203](http://arxiv.org/abs/2507.10203)|null|
+|**2025-07-14**|**Cross-modal Associations in Vision and Language Models: Revisiting the bouba-kiki effect**|Tom Kouwenhoven et.al.|[2507.10013](http://arxiv.org/abs/2507.10013)|null|
+|**2025-07-13**|**ExpStar: Towards Automatic Commentary Generation for Multi-discipline Scientific Experiments**|Jiali Chen et.al.|[2507.09693](http://arxiv.org/abs/2507.09693)|null|
+|**2025-07-13**|**Bridging Bots: from Perception to Action via Multimodal-LMs and Knowledge Graphs**|Margherita Martorana et.al.|[2507.09617](http://arxiv.org/abs/2507.09617)|null|
+|**2025-07-13**|**HMID-Net: An Exploration of Masked Image Modeling and Knowledge Distillation in Hyperbolic Space**|Changli Wang et.al.|[2507.09487](http://arxiv.org/abs/2507.09487)|null|
+|**2025-07-12**|**Scaling Laws for Optimal Data Mixtures**|Mustafa Shukor et.al.|[2507.09404](http://arxiv.org/abs/2507.09404)|null|
+|**2025-07-11**|**VIP: Visual Information Protection through Adversarial Attacks on Vision-Language Models**|Hanene F. Z. Brachemi Meftah et.al.|[2507.08982](http://arxiv.org/abs/2507.08982)|null|
 |**2025-07-08**|**Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis**|Li Li et.al.|[2507.08021](http://arxiv.org/abs/2507.08021)|null|
 |**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000](http://arxiv.org/abs/2507.08000)|null|
 |**2025-07-10**|**Towards Interpretable Time Series Foundation Models**|Matthieu Boileau et.al.|[2507.07439](http://arxiv.org/abs/2507.07439)|null|
@@ -5338,6 +5363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MF-GLaM: A multifidelity stochastic emulator using generalized lambda models**|K. Giannoukou et.al.|[2507.10303](http://arxiv.org/abs/2507.10303)|null|
 |**2025-07-08**|**Traveling waves in a continuum model for schooling swimmers**|Anand U. Oza et.al.|[2507.06095](http://arxiv.org/abs/2507.06095)|null|
 |**2025-07-01**|**Dualities of Gaudin models with irregular singularities for general linear Lie (super)algebras**|Wan Keng Cheong et.al.|[2507.00730](http://arxiv.org/abs/2507.00730)|null|
 |**2025-06-30**|**Continual Adaptation: Environment-Conditional Parameter Generation for Object Detection in Dynamic Scenarios**|Deng Li et.al.|[2506.24063](http://arxiv.org/abs/2506.24063)|null|
@@ -5863,6 +5889,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
+|**2025-07-14**|**Non-exchangeable Conformal Prediction with Optimal Transport: Tackling Distribution Shifts with Unlabeled Data**|Alvaro H. C. Correia et.al.|[2507.10425](http://arxiv.org/abs/2507.10425)|null|
+|**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
+|**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320](http://arxiv.org/abs/2507.10320)|null|
+|**2025-07-14**|**Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching**|Yuhan Liu et.al.|[2507.10318](http://arxiv.org/abs/2507.10318)|null|
+|**2025-07-14**|**Cross-Timeslot Optimization for Distributed GPU Inference Using Reinforcement Learning**|Chengze Du et.al.|[2507.10259](http://arxiv.org/abs/2507.10259)|null|
+|**2025-07-14**|**Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection**|Jinglun Li et.al.|[2507.10225](http://arxiv.org/abs/2507.10225)|null|
+|**2025-07-14**|**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**|Jeongho Kim et.al.|[2507.10217](http://arxiv.org/abs/2507.10217)|null|
+|**2025-07-14**|**FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text**|Bingchao Wang et.al.|[2507.10095](http://arxiv.org/abs/2507.10095)|null|
+|**2025-07-14**|**Frequency Regulation for Exposure Bias Mitigation in Diffusion Models**|Meng Yu et.al.|[2507.10072](http://arxiv.org/abs/2507.10072)|null|
+|**2025-07-14**|**An Accurate Discretized Approach to Parameter Estimation in the CKLS Model via the CIR Framework**|Sourojyoti Barick et.al.|[2507.10041](http://arxiv.org/abs/2507.10041)|null|
+|**2025-07-14**|**Memory-Efficient Personalization of Text-to-Image Diffusion Models via Selective Optimization Strategies**|Seokeon Choi et.al.|[2507.10029](http://arxiv.org/abs/2507.10029)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
 |**2025-07-11**|**To Trade or Not to Trade: An Agentic Approach to Estimating Market Risk Improves Trading Decisions**|Dimitrios Emmanoulopoulos et.al.|[2507.08584](http://arxiv.org/abs/2507.08584)|null|
 |**2025-07-11**|**Anisotropic Diffusion of $e^\pm$ in Pulsar Halos over Multiple Coherence of Magnetic Field**|Kai Yan et.al.|[2507.08526](http://arxiv.org/abs/2507.08526)|null|
@@ -8853,12 +8894,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**The Power of Certainty: How Confident Models Lead to Better Segmentation**|Tugberk Erol et.al.|[2507.10490](http://arxiv.org/abs/2507.10490)|null|
+|**2025-07-15**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
+|**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348](http://arxiv.org/abs/2507.10348)|null|
+|**2025-07-14**|**Task-Based Flexible Feature Distillation for LLMs**|Khouloud Saadi et.al.|[2507.10155](http://arxiv.org/abs/2507.10155)|null|
+|**2025-07-13**|**Leveraging Distribution Matching to Make Approximate Machine Unlearning Faster**|Junaid Iqbal Khan et.al.|[2507.09786](http://arxiv.org/abs/2507.09786)|null|
+|**2025-07-13**|**HMID-Net: An Exploration of Masked Image Modeling and Knowledge Distillation in Hyperbolic Space**|Changli Wang et.al.|[2507.09487](http://arxiv.org/abs/2507.09487)|null|
+|**2025-07-12**|**Cross Knowledge Distillation between Artificial and Spiking Neural Networks**|Shuhan Ye et.al.|[2507.09269](http://arxiv.org/abs/2507.09269)|null|
 |**2025-07-11**|**Forget Me Not: Fighting Local Overfitting with Knowledge Fusion and Distillation**|Uri Stern et.al.|[2507.08686](http://arxiv.org/abs/2507.08686)|null|
 |**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617](http://arxiv.org/abs/2507.08617)|null|
 |**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
 |**2025-07-11**|**SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation**|Haotian Xu et.al.|[2507.08508](http://arxiv.org/abs/2507.08508)|null|
 |**2025-07-11**|**Distillation versus Contrastive Learning: How to Train Your Rerankers**|Zhichao Xu et.al.|[2507.08336](http://arxiv.org/abs/2507.08336)|null|
-|**2025-07-11**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
+|**2025-07-15**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
 |**2025-07-11**|**LISTEN: Lightweight Industrial Sound-representable Transformer for Edge Notification**|Changheon Han et.al.|[2507.07879](http://arxiv.org/abs/2507.07879)|null|
 |**2025-07-10**|**Exploring the Limits of Model Compression in LLMs: A Knowledge Distillation Study on QA Tasks**|Joyeeta Datta et.al.|[2507.07630](http://arxiv.org/abs/2507.07630)|null|
 |**2025-07-10**|**Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-Light Semantic Segmentation**|Chunyan Wang et.al.|[2507.07578](http://arxiv.org/abs/2507.07578)|null|
@@ -9658,6 +9706,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**SynthGuard: Redefining Synthetic Data Generation with a Scalable and Privacy-Preserving Workflow Framework**|Eduardo Brito et.al.|[2507.10489](http://arxiv.org/abs/2507.10489)|null|
+|**2025-07-14**|**Straighten Viscous Rectified Flow via Noise Optimization**|Jimin Dai et.al.|[2507.10218](http://arxiv.org/abs/2507.10218)|null|
+|**2025-07-14**|**Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval**|Shuyu Yang et.al.|[2507.10195](http://arxiv.org/abs/2507.10195)|null|
+|**2025-07-14**|**Cyclic Multichannel Wiener Filter for Acoustic Beamforming**|Giovanni Bologni et.al.|[2507.10159](http://arxiv.org/abs/2507.10159)|null|
+|**2025-07-14**|**Simulating Biases for Interpretable Fairness in Offline and Online Classifiers**|Ricardo Inácio et.al.|[2507.10154](http://arxiv.org/abs/2507.10154)|null|
+|**2025-07-14**|**Observational mapping of the mass discrepancy in eclipsing binaries. A new self-contained framework for concurrent analysis of photometric and spectroscopic time series**|Nadya Serebriakova et.al.|[2507.10096](http://arxiv.org/abs/2507.10096)|null|
+|**2025-07-14**|**Towards High Supervised Learning Utility Training Data Generation: Data Pruning and Column Reordering**|Tung Sum Thomas Kwok et.al.|[2507.10088](http://arxiv.org/abs/2507.10088)|null|
+|**2025-07-14**|**Iceberg: Enhancing HLS Modeling with Synthetic Data**|Zijian Ding et.al.|[2507.09948](http://arxiv.org/abs/2507.09948)|null|
+|**2025-07-14**|**The Rosetta Stone Project. II. The correlation between SFE and L/M indicator for the evolutionary stages of star-forming clumps in post-processed RMHD simulations**|Ngo-Duy Tung et.al.|[2507.09936](http://arxiv.org/abs/2507.09936)|null|
+|**2025-07-12**|**GreenCrossingAI: A Camera Trap/Computer Vision Pipeline for Environmental Science Research Groups**|Bernie Boscoe et.al.|[2507.09410](http://arxiv.org/abs/2507.09410)|null|
+|**2025-07-12**|**Fair CCA for Fair Representation Learning: An ADNI Study**|Bojian Hou et.al.|[2507.09382](http://arxiv.org/abs/2507.09382)|null|
+|**2025-07-12**|**A deep learning approach to multi-marginal optimal transport via Hilbert space embeddings of probability measures**|Yumiharu Nakano et.al.|[2507.09206](http://arxiv.org/abs/2507.09206)|null|
+|**2025-07-12**|**Learning from Synthetic Labs: Language Models as Auction Participants**|Anand Shah et.al.|[2507.09083](http://arxiv.org/abs/2507.09083)|null|
+|**2025-07-11**|**A monotone single index model for spatially-referenced multistate current status data**|Snigdha Das et.al.|[2507.09057](http://arxiv.org/abs/2507.09057)|null|
+|**2025-07-11**|**Learning Diffusion Models with Flexible Representation Guidance**|Chenyu Wang et.al.|[2507.08980](http://arxiv.org/abs/2507.08980)|null|
 |**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
 |**2025-07-11**|**Nonparametric predictive inference for discrete data via Metropolis-adjusted Dirichlet sequences**|Davide Agnoletto et.al.|[2507.08629](http://arxiv.org/abs/2507.08629)|null|
 |**2025-07-11**|**Space filling positionality and the Spiroformer**|M. Maurin et.al.|[2507.08456](http://arxiv.org/abs/2507.08456)|null|
