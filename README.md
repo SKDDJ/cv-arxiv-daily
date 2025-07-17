@@ -509,6 +509,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
+|**2025-07-16**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418](http://arxiv.org/abs/2507.12418)|null|
+|**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
+|**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
+|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
+|**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
+|**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
+|**2025-07-16**|**Sparse Autoencoders for Sequential Recommendation Models: Interpretation and Flexible Control**|Anton Klenitskiy et.al.|[2507.12202](http://arxiv.org/abs/2507.12202)|null|
+|**2025-07-16**|**RODS: Robust Optimization Inspired Diffusion Sampling for Detecting and Reducing Hallucination in Generative Models**|Yiqi Tian et.al.|[2507.12201](http://arxiv.org/abs/2507.12201)|null|
+|**2025-07-16**|**Shape Adaptation for 3D Hairstyle Retargeting**|Lu Yu et.al.|[2507.12168](http://arxiv.org/abs/2507.12168)|null|
+|**2025-07-16**|**RadioDiff-3D: A 3D $\times$ 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication**|Xiucheng Wang et.al.|[2507.12166](http://arxiv.org/abs/2507.12166)|null|
+|**2025-07-16**|**Multi-Component VAE with Gaussian Markov Random Field**|Fouad Oubari et.al.|[2507.12165](http://arxiv.org/abs/2507.12165)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474](http://arxiv.org/abs/2507.11474)|null|
@@ -4177,6 +4192,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Multimodal Coordinated Online Behavior: Trade-offs and Strategies**|Lorenzo Mannocci et.al.|[2507.12108](http://arxiv.org/abs/2507.12108)|null|
+|**2025-07-15**|**Partitioner Guided Modal Learning Framework**|Guimin Hu et.al.|[2507.11661](http://arxiv.org/abs/2507.11661)|null|
 |**2025-07-15**|**MFGDiffusion: Mask-Guided Smoke Synthesis for Enhanced Forest Fire Detection**|Guanghao Wu et.al.|[2507.11252](http://arxiv.org/abs/2507.11252)|null|
 |**2025-07-15**|**A Robust Incomplete Multimodal Low-Rank Adaptation Approach for Emotion Recognition**|Xinkui Zhao et.al.|[2507.11202](http://arxiv.org/abs/2507.11202)|null|
 |**2025-07-15**|**A Survey on Interpretability in Visual Recognition**|Qiyang Wan et.al.|[2507.11099](http://arxiv.org/abs/2507.11099)|null|
@@ -5383,6 +5400,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement**|Junyu Lou et.al.|[2507.12135](http://arxiv.org/abs/2507.12135)|null|
+|**2025-07-15**|**Jailbreak-Tuning: Models Efficiently Learn Jailbreak Susceptibility**|Brendan Murphy et.al.|[2507.11630](http://arxiv.org/abs/2507.11630)|null|
 |**2025-07-14**|**Flows and Diffusions on the Neural Manifold**|Daniel Saragih et.al.|[2507.10623](http://arxiv.org/abs/2507.10623)|null|
 |**2025-07-14**|**MF-GLaM: A multifidelity stochastic emulator using generalized lambda models**|K. Giannoukou et.al.|[2507.10303](http://arxiv.org/abs/2507.10303)|null|
 |**2025-07-08**|**Traveling waves in a continuum model for schooling swimmers**|Anand U. Oza et.al.|[2507.06095](http://arxiv.org/abs/2507.06095)|null|
@@ -5914,6 +5933,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
+|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
+|**2025-07-16**|**Designing Algorithms for Entropic Optimal Transport from an Optimisation Perspective**|Vishwak Srinivasan et.al.|[2507.12246](http://arxiv.org/abs/2507.12246)|null|
+|**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
+|**2025-07-16**|**Classification of entire and ancient solutions of the diffusive Hamilton-Jacobi equation**|Loth Damagui Chabi et.al.|[2507.12214](http://arxiv.org/abs/2507.12214)|null|
+|**2025-07-16**|**RODS: Robust Optimization Inspired Diffusion Sampling for Detecting and Reducing Hallucination in Generative Models**|Yiqi Tian et.al.|[2507.12201](http://arxiv.org/abs/2507.12201)|null|
+|**2025-07-16**|**RadioDiff-3D: A 3D $\times$ 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication**|Xiucheng Wang et.al.|[2507.12166](http://arxiv.org/abs/2507.12166)|null|
+|**2025-07-16**|**SmokeSVD: Smoke Reconstruction from A Single View via Progressive Novel View Synthesis and Refinement with Diffusion Models**|Chen Li et.al.|[2507.12156](http://arxiv.org/abs/2507.12156)|null|
+|**2025-07-16**|**RiemannLoRA: A Unified Riemannian Framework for Ambiguity-Free LoRA Optimization**|Vladimir Bogachev et.al.|[2507.12142](http://arxiv.org/abs/2507.12142)|null|
+|**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114](http://arxiv.org/abs/2507.12114)|null|
+|**2025-07-16**|**Robust Planning for Autonomous Vehicles with Diffusion-Based Failure Samplers**|Juanran Wang et.al.|[2507.11991](http://arxiv.org/abs/2507.11991)|null|
+|**2025-07-16**|**ID-EA: Identity-driven Text Enhancement and Adaptation with Textual Inversion for Personalized Text-to-Image Generation**|Hyun-Jun Jin et.al.|[2507.11990](http://arxiv.org/abs/2507.11990)|null|
+|**2025-07-16**|**EC-Diff: Fast and High-Quality Edge-Cloud Collaborative Inference for Diffusion Models**|Jiajian Xie et.al.|[2507.11980](http://arxiv.org/abs/2507.11980)|null|
+|**2025-07-16**|**A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming**|Waseem Akram et.al.|[2507.11974](http://arxiv.org/abs/2507.11974)|null|
 |**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474](http://arxiv.org/abs/2507.11474)|null|
 |**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
@@ -8932,6 +8966,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
+|**2025-07-16**|**Improving Lightweight Weed Detection via Knowledge Distillation**|Ahmet Oğuz Saltık et.al.|[2507.12344](http://arxiv.org/abs/2507.12344)|null|
+|**2025-07-16**|**Fine-Grained Image Recognition from Scratch with Teacher-Guided Data Augmentation**|Edwin Arkel Rios et.al.|[2507.12157](http://arxiv.org/abs/2507.12157)|null|
 |**2025-07-15**|**HanjaBridge: Resolving Semantic Ambiguity in Korean LLMs via Hanja-Augmented Pre-Training**|Seungho Choi et.al.|[2507.10920](http://arxiv.org/abs/2507.10920)|null|
 |**2025-07-14**|**The Power of Certainty: How Confident Models Lead to Better Segmentation**|Tugberk Erol et.al.|[2507.10490](http://arxiv.org/abs/2507.10490)|null|
 |**2025-07-15**|**Energy Efficiency in AI for 5G and Beyond: A DeepRx Case Study**|Amine Lbath et.al.|[2507.10409](http://arxiv.org/abs/2507.10409)|null|
@@ -9747,6 +9784,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
+|**2025-07-16**|**Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese**|Yikang Liu et.al.|[2507.12260](http://arxiv.org/abs/2507.12260)|null|
+|**2025-07-16**|**CosmoFlow: Scale-Aware Representation Learning for Cosmology with Flow Matching**|Sidharth Kannan et.al.|[2507.11842](http://arxiv.org/abs/2507.11842)|null|
+|**2025-07-15**|**Fragment size density estimator for shrinkage-induced fracture based on a physics-informed neural network**|Shin-ichi Ito et.al.|[2507.11799](http://arxiv.org/abs/2507.11799)|null|
+|**2025-07-15**|**Enforcing Latent Euclidean Geometry in Single-Cell VAEs for Manifold Interpolation**|Alessandro Palma et.al.|[2507.11789](http://arxiv.org/abs/2507.11789)|null|
+|**2025-07-15**|**Fiducial Matching: Differentially Private Inference for Categorical Data**|Ogonnaya Michael Romanus et.al.|[2507.11762](http://arxiv.org/abs/2507.11762)|null|
+|**2025-07-15**|**Auto-Formulating Dynamic Programming Problems with Large Language Models**|Chenyu Zhou et.al.|[2507.11737](http://arxiv.org/abs/2507.11737)|null|
+|**2025-07-15**|**Synthetic Tabular Data Generation: A Comparative Survey for Modern Techniques**|Raju Challagundla et.al.|[2507.11590](http://arxiv.org/abs/2507.11590)|null|
 |**2025-07-15**|**3C-FBI: A Combinatorial method using Convolutions for Circle Fitting in Blurry Images**|Esteban Román Catafau et.al.|[2507.11476](http://arxiv.org/abs/2507.11476)|null|
 |**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
 |**2025-07-15**|**The miniJPAS survey quasar selection V: combined algorithm**|Ignasi Pérez-Ràfols et.al.|[2507.11380](http://arxiv.org/abs/2507.11380)|null|
