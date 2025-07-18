@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -511,13 +511,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-17**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
 |**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
-|**2025-07-16**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418](http://arxiv.org/abs/2507.12418)|null|
+|**2025-07-17**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418](http://arxiv.org/abs/2507.12418)|null|
 |**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
 |**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
 |**2025-07-16**|**Infherno: End-to-end Agent-based FHIR Resource Synthesis from Free-form Clinical Notes**|Johann Frei et.al.|[2507.12261](http://arxiv.org/abs/2507.12261)|null|
 |**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
@@ -5928,7 +5928,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-16**|**Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors**|Subin Jeon et.al.|[2507.12336](http://arxiv.org/abs/2507.12336)|null|
-|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-17**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
 |**2025-07-16**|**FADE: Adversarial Concept Erasure in Flow Models**|Zixuan Fu et.al.|[2507.12283](http://arxiv.org/abs/2507.12283)|null|
 |**2025-07-16**|**Designing Algorithms for Entropic Optimal Transport from an Optimisation Perspective**|Vishwak Srinivasan et.al.|[2507.12246](http://arxiv.org/abs/2507.12246)|null|
 |**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236](http://arxiv.org/abs/2507.12236)|null|
