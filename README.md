@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Swin-TUNA : A Novel PEFT Approach for Accurate Food Image Segmentation**|Haotian Chen et.al.|[2507.17347](http://arxiv.org/abs/2507.17347)|null|
 |**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793](http://arxiv.org/abs/2507.15793)|null|
 |**2025-07-20**|**Parameter-Efficient Fine-Tuning of Foundation Models for CLP Speech Classification**|Susmita Bhattacharjee et.al.|[2507.14898](http://arxiv.org/abs/2507.14898)|null|
 |**2025-07-18**|**Solo Connection: A Parameter Efficient Fine-Tuning Technique for Transformers**|Harsh Nilesh Pathak et.al.|[2507.14353](http://arxiv.org/abs/2507.14353)|null|
@@ -514,6 +515,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-23**|**DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models**|Liwenhan Xie et.al.|[2507.17734](http://arxiv.org/abs/2507.17734)|null|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731](http://arxiv.org/abs/2507.17731)|null|
+|**2025-07-23**|**The Scaling of Triboelectric Charging Powder Drops for Industrial Applications**|Tom F. O'Hara et.al.|[2507.17701](http://arxiv.org/abs/2507.17701)|null|
+|**2025-07-23**|**Mammo-Mamba: A Hybrid State-Space and Transformer Architecture with Sequential Mixture of Experts for Multi-View Mammography**|Farnoush Bayatmakou et.al.|[2507.17662](http://arxiv.org/abs/2507.17662)|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651](http://arxiv.org/abs/2507.17651)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**An h-space Based Adversarial Attack for Protection Against Few-shot Personalization**|Xide Xu et.al.|[2507.17554](http://arxiv.org/abs/2507.17554)|null|
+|**2025-07-23**|**Enabling Cyber Security Education through Digital Twins and Generative AI**|Vita Santa Barletta et.al.|[2507.17518](http://arxiv.org/abs/2507.17518)|null|
+|**2025-07-23**|**HOTA: Hamiltonian framework for Optimal Transport Advection**|Nazar Buzun et.al.|[2507.17513](http://arxiv.org/abs/2507.17513)|null|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
+|**2025-07-23**|**Illicit object detection in X-ray imaging using deep learning techniques: A comparative evaluation**|Jorgen Cani et.al.|[2507.17508](http://arxiv.org/abs/2507.17508)|null|
+|**2025-07-23**|**Exact results for active particle models: from long-range interactions to first-passage properties**|Léo Touzo et.al.|[2507.17504](http://arxiv.org/abs/2507.17504)|null|
+|**2025-07-23**|**Unsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease**|Hugues Roy et.al.|[2507.17486](http://arxiv.org/abs/2507.17486)|null|
+|**2025-07-23**|**IndoorBEV: Joint Detection and Footprint Completion of Objects via Mask-based Prediction in Indoor Scenarios for Bird's-Eye View Perception**|Haichuan Li et.al.|[2507.17445](http://arxiv.org/abs/2507.17445)|null|
 |**2025-07-22**|**Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**|Calvin Leung et.al.|[2507.16816](http://arxiv.org/abs/2507.16816)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
 |**2025-07-22**|**Enhancing Domain Diversity in Synthetic Data Face Recognition with Dataset Fusion**|Anjith George et.al.|[2507.16790](http://arxiv.org/abs/2507.16790)|null|
@@ -4257,6 +4273,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models**|Liwenhan Xie et.al.|[2507.17734](http://arxiv.org/abs/2507.17734)|null|
+|**2025-07-23**|**RoadBench: A Vision-Language Foundation Model and Benchmark for Road Damage Understanding**|Xi Xiao et.al.|[2507.17353](http://arxiv.org/abs/2507.17353)|null|
+|**2025-07-23**|**Met $^2$ Net: A Decoupled Two-Stage Spatio-Temporal Forecasting Model for Complex Meteorological Systems**|Shaohan Li et.al.|[2507.17189](http://arxiv.org/abs/2507.17189)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-22**|**Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review**|Charlotte Jennings et.al.|[2507.16876](http://arxiv.org/abs/2507.16876)|null|
+|**2025-07-20**|**TD-Interpreter: Enhancing the Understanding of Timing Diagrams with Visual-Language Learning**|Jie He et.al.|[2507.16844](http://arxiv.org/abs/2507.16844)|null|
 |**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746](http://arxiv.org/abs/2507.16746)|null|
 |**2025-07-21**|**Applying multimodal learning to Classify transient Detections Early (AppleCiDEr) I: Data set, methods, and infrastructure**|Alexandra Junell et.al.|[2507.16088](http://arxiv.org/abs/2507.16088)|null|
 |**2025-07-21**|**Leveraging Context for Multimodal Fallacy Classification in Political Debates**|Alessio Pittiglio et.al.|[2507.15641](http://arxiv.org/abs/2507.15641)|null|
@@ -5484,6 +5506,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**laplax -- Laplace Approximations with JAX**|Tobias Weber et.al.|[2507.17013](http://arxiv.org/abs/2507.17013)|null|
 |**2025-07-22**|**$p$-th order generalized Fibonacci cubes and maximal cubes in Fibonacci $p$ -cubes**|Michel Mollard et.al.|[2507.16387](http://arxiv.org/abs/2507.16387)|null|
 |**2025-07-21**|**Dark energy era with a resolution of Hubble tension in generalized entropic cosmology**|Priyanka Adhikary et.al.|[2507.15273](http://arxiv.org/abs/2507.15273)|null|
 |**2025-07-18**|**Constraints on Rényi Entropy through Primordial Big-Bang Nucleosynthesis and Baryogenesis**|Ahmad Sheykhi et.al.|[2507.14250](http://arxiv.org/abs/2507.14250)|null|
@@ -6020,6 +6043,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Yume: An Interactive World Generation Model**|Xiaofeng Mao et.al.|[2507.17744](http://arxiv.org/abs/2507.17744)|null|
+|**2025-07-23**|**Flow Matching Meets Biology and Life Science: A Survey**|Zihao Li et.al.|[2507.17731](http://arxiv.org/abs/2507.17731)|null|
+|**2025-07-23**|**Piecewise Control Barrier Functions for Stochastic Systems**|Rayan Mazouz et.al.|[2507.17703](http://arxiv.org/abs/2507.17703)|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651](http://arxiv.org/abs/2507.17651)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**An h-space Based Adversarial Attack for Protection Against Few-shot Personalization**|Xide Xu et.al.|[2507.17554](http://arxiv.org/abs/2507.17554)|null|
+|**2025-07-23**|**Federated Majorize-Minimization: Beyond Parameter Aggregation**|Aymeric Dieuleveut et.al.|[2507.17534](http://arxiv.org/abs/2507.17534)|null|
+|**2025-07-23**|**Generalized Advantage Estimation for Distributional Policy Gradients**|Shahil Shaik et.al.|[2507.17530](http://arxiv.org/abs/2507.17530)|null|
+|**2025-07-23**|**HOTA: Hamiltonian framework for Optimal Transport Advection**|Nazar Buzun et.al.|[2507.17513](http://arxiv.org/abs/2507.17513)|null|
+|**2025-07-23**|**Accelerating Parallel Diffusion Model Serving with Residual Compression**|Jiajun Luo et.al.|[2507.17511](http://arxiv.org/abs/2507.17511)|null|
+|**2025-07-23**|**Exact results for active particle models: from long-range interactions to first-passage properties**|Léo Touzo et.al.|[2507.17504](http://arxiv.org/abs/2507.17504)|null|
+|**2025-07-23**|**Unsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease**|Hugues Roy et.al.|[2507.17486](http://arxiv.org/abs/2507.17486)|null|
+|**2025-07-23**|**Efficient and Robust Semantic Image Communication via Stable Cascade**|Bilal Khalid et.al.|[2507.17416](http://arxiv.org/abs/2507.17416)|null|
+|**2025-07-23**|**An FDM-sFEM scheme on time-space manifolds and its superconvergence analysis**|Chengrun Jiang et.al.|[2507.17378](http://arxiv.org/abs/2507.17378)|null|
+|**2025-07-23**|**PolarAnything: Diffusion-based Polarimetric Image Synthesis**|Kailong Zhang et.al.|[2507.17268](http://arxiv.org/abs/2507.17268)|null|
 |**2025-07-22**|**Generative Diffusion Models for Wireless Networks: Fundamental, Architecture, and State-of-the-Art**|Dayu Fan et.al.|[2507.16733](http://arxiv.org/abs/2507.16733)|null|
 |**2025-07-22**|**HarmonPaint: Harmonized Training-Free Diffusion Inpainting**|Ying Li et.al.|[2507.16732](http://arxiv.org/abs/2507.16732)|null|
 |**2025-07-22**|**Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis**|Xiaojiao Xiao et.al.|[2507.16579](http://arxiv.org/abs/2507.16579)|null|
@@ -9111,6 +9149,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**MaskedCLIP: Bridging the Masked and CLIP Space for Semi-Supervised Medical Vision-Language Pre-training**|Lei Zhu et.al.|[2507.17239](http://arxiv.org/abs/2507.17239)|null|
+|**2025-07-23**|**Dataset Distillation as Data Compression: A Rate-Utility Perspective**|Youneng Bao et.al.|[2507.17221](http://arxiv.org/abs/2507.17221)|null|
+|**2025-07-22**|**Sensor Drift Compensation in Electronic-Nose-Based Gas Recognition Using Knowledge Distillation**|Juntao Lin et.al.|[2507.17071](http://arxiv.org/abs/2507.17071)|null|
 |**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
 |**2025-07-22**|**Cross-Modal Distillation For Widely Differing Modalities**|Cairong Zhao et.al.|[2507.16296](http://arxiv.org/abs/2507.16296)|null|
 |**2025-07-21**|**Local Dense Logit Relations for Enhanced Knowledge Distillation**|Liuchi Xu et.al.|[2507.15911](http://arxiv.org/abs/2507.15911)|null|
@@ -9942,6 +9984,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**On the Interaction of Compressibility and Adversarial Robustness**|Melih Barsbey et.al.|[2507.17725](http://arxiv.org/abs/2507.17725)|null|
+|**2025-07-23**|**Generalized Dual Discriminator GANs**|Penukonda Naga Chandana et.al.|[2507.17684](http://arxiv.org/abs/2507.17684)|null|
+|**2025-07-23**|**Synthetic Voice Data for Automatic Speech Recognition in African Languages**|Brian DeRenzi et.al.|[2507.17578](http://arxiv.org/abs/2507.17578)|null|
+|**2025-07-23**|**RoadBench: A Vision-Language Foundation Model and Benchmark for Road Damage Understanding**|Xi Xiao et.al.|[2507.17353](http://arxiv.org/abs/2507.17353)|null|
+|**2025-07-23**|**Dataset Distillation as Data Compression: A Rate-Utility Perspective**|Youneng Bao et.al.|[2507.17221](http://arxiv.org/abs/2507.17221)|null|
+|**2025-07-22**|**Risk In Context: Benchmarking Privacy Leakage of Foundation Models in Synthetic Tabular Data Generation**|Jessup Byun et.al.|[2507.17066](http://arxiv.org/abs/2507.17066)|null|
+|**2025-07-22**|**Bringing Balance to Hand Shape Classification: Mitigating Data Imbalance Through Generative Models**|Gaston Gustavo Rios et.al.|[2507.17008](http://arxiv.org/abs/2507.17008)|null|
+|**2025-07-22**|**Leveraging Synthetic Data for Question Answering with Multilingual LLMs in the Agricultural Domain**|Rishemjit Kaur et.al.|[2507.16974](http://arxiv.org/abs/2507.16974)|null|
+|**2025-07-22**|**A linear PDF model for Bayesian inference**|Mark N. Costantini et.al.|[2507.16913](http://arxiv.org/abs/2507.16913)|null|
 |**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
 |**2025-07-22**|**Enhancing Domain Diversity in Synthetic Data Face Recognition with Dataset Fusion**|Anjith George et.al.|[2507.16790](http://arxiv.org/abs/2507.16790)|null|
 |**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
